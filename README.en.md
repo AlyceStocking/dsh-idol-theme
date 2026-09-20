@@ -20,34 +20,21 @@ The threshold is defined by matching client/CSS media queries. Preferences are p
 
 ## Install
 
-1. Copy this package (`@local/dsh-yukimi-theme`) under `$DSH_HOME/profiles/node_modules/@local/`:
+Install with dsh's own plugin management command (the package then appears in the Settings → Plugins management UI):
 
-   ```
-   $DSH_HOME/profiles/node_modules/@local/dsh-yukimi-theme/
-   ├── package.json
-   └── lib/
-       ├── index.js
-       └── client.js
-   ```
+```bash
+dsh plugin --profile web add github:AlyceStocking/dsh-yukimi-theme
+```
 
-2. Edit `$DSH_HOME/profiles/web/cordis.patch.yml` and add:
+Then restart:
 
-   ```yaml
-   - insert:
-       - id: yukimi-theme
-         name: '@local/dsh-yukimi-theme'
-   ```
+```bash
+dsh web
+```
 
-   (If the file is currently the empty `[]`, replace it with the above, keeping the comment.)
+or `dsh --profile web`.
 
-3. Restart:
-
-   ```bash
-   dsh web
-   ```
-
-   or `dsh --profile web`.
-
+> Do not install by copying into `node_modules` and editing `cordis.patch.yml` by hand: the plugin runs, but because it is not a pnpm dependency of the profile, the plugin management UI will not list it and it cannot be toggled or removed from the UI.
 > `DSH_HOME` defaults to `C:\Users\<you>\.dsh` on Windows.
 
 ## Development and validation

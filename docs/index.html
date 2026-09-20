@@ -98,12 +98,8 @@
   </div>
 
   <h2>安装</h2>
-  <p>1. 把 <code>@local/dsh-yukimi-theme</code> 包放到 <code>$DSH_HOME/profiles/node_modules/@local/</code> 下。</p>
-  <p>2. 编辑 <code>$DSH_HOME/profiles/web/cordis.patch.yml</code>：</p>
-  <pre>- insert:
-    - id: yukimi-theme
-      name: '@local/dsh-yukimi-theme'</pre>
-  <p>3. 重启：<code>dsh web</code>。</p>
+  <p>1. 用插件管理命令安装：<code>dsh plugin --profile web add github:AlyceStocking/dsh-yukimi-theme</code></p>
+  <p>2. 重启：<code>dsh web</code>。安装后可在「设置 → 插件」管理界面查看、启停。</p>
   <p>详见 <a href="https://github.com/AlyceStocking/dsh-yukimi-theme">GitHub README</a>。</p>
 </main>
 

@@ -18,34 +18,21 @@
 
 ## 安装
 
-1. 把本仓库（`@local/dsh-yukimi-theme` 这个包目录）放到你的 `$DSH_HOME/profiles/node_modules/@local/` 下：
+用 dsh 自带的插件管理命令安装（包装好后会出现在「设置 → 插件」管理界面里）：
 
-   ```
-   $DSH_HOME/profiles/node_modules/@local/dsh-yukimi-theme/
-   ├── package.json
-   └── lib/
-       ├── index.js
-       └── client.js
-   ```
+```bash
+dsh plugin --profile web add github:AlyceStocking/dsh-yukimi-theme
+```
 
-2. 编辑 `$DSH_HOME/profiles/web/cordis.patch.yml`，加入：
+然后重启：
 
-   ```yaml
-   - insert:
-       - id: yukimi-theme
-         name: '@local/dsh-yukimi-theme'
-   ```
+```bash
+dsh web
+```
 
-   （如果这个文件目前是空的 `[]`，把它改成上面这样，保留注释即可。）
+或 `dsh --profile web`。
 
-3. 重启：
-
-   ```bash
-   dsh web
-   ```
-
-   或 `dsh --profile web`。
-
+> 不要用手动复制到 `node_modules` + 编辑 `cordis.patch.yml` 的方式安装：那样插件能运行，但因为不是 profile 的 pnpm 依赖，插件管理 UI 不会列出它，也无法在 UI 里启停或移除。
 > `DSH_HOME` 在 Windows 上默认是 `C:\Users\<你>\.dsh`。
 
 ## 开发与测试
