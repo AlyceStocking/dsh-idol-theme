@@ -1,14 +1,17 @@
 import { IMG, ICONS, PETITS, CARDS, LINES } from '../lib/assets.js';
+import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
 const element = id => document.getElementById(id);
 const pet = element('pet'), desktop = element('desktop'), notices = element('notices'), noticeList = element('notice-list');
 const settings = element('settings'), dialogue = element('dialogue');
 const petWrap = element('pet-wrap');
+const sprites = createSpriteCache();
 let preferences = { cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: false };
 let currentNotices = { persistent: [], transient: null, queuedCount: 0 };
 let flipSequence = 0, flipPending = 0, outfitPending = 0, flipping = false, lastNoticeSignature = '';
 let dialogueTimer, longPressTimer, clickTimer, panelTimer, pointer, regionFrame = 0;
+let spriteRequest = 0, appearanceRequest = 0, requestedSpriteUrl = '', spritesWarmed = false;
 
 function layoutPanels() {
   const rect = petWrap.getBoundingClientRect(), inset = 8, gap = 12;
@@ -67,10 +70,30 @@ function acceptLayout(value) {
   layoutPanels();
 }
 
-function setPreferences(patch) { api.setPreferences({ ...preferences, ...patch }); }
+const spriteUrl = value => IMG + PETITS[value.cardIndex][value.petitIndex];
+function setPreferences(patch) {
+  if (!Object.hasOwn(patch, 'cardIndex') && !Object.hasOwn(patch, 'petitIndex')) {
+    api.setPreferences({ ...preferences, ...patch });
+    return;
+  }
+  const request = ++appearanceRequest;
+  const original = { cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
+  sprites.load(spriteUrl({ ...preferences, ...patch })).then(image => {
+    if (image && request === appearanceRequest && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) api.setPreferences({ ...preferences, ...patch });
+  });
+}
 function refreshPreferences() {
-  const url = IMG + PETITS[preferences.cardIndex][preferences.petitIndex];
-  if (pet.src !== url) { pet.src = url; element('fallback').hidden = true; }
+  const url = spriteUrl(preferences);
+  if (requestedSpriteUrl !== url) {
+    requestedSpriteUrl = url;
+    const request = ++spriteRequest;
+    // Keep the displayed outfit until its replacement has downloaded and decoded.
+    sprites.load(url).then(image => {
+      if (request !== spriteRequest) return;
+      if (image) { pet.src = image.src; element('fallback').hidden = true; }
+      else { requestedSpriteUrl = ''; element('fallback').hidden = Boolean(pet.src); }
+    });
+  }
   element('toggle-sign').textContent = `签名 ${preferences.showSign ? '开' : '关'}`;
   element('toggle-mobamas').textContent = `Mobamas ${preferences.showMobamas ? '开' : '关'}`;
   for (const [index, button] of [...element('outfits').children].entries()) button.classList.toggle('selected', index === preferences.cardIndex);
@@ -117,6 +140,11 @@ function acceptState(packet) {
   if (!packet || !packet.preferences || !packet.notices) return;
   preferences = packet.preferences; currentNotices = packet.notices;
   refreshPreferences(); renderNotices();
+  if (!spritesWarmed) {
+    spritesWarmed = true;
+    const nextOutfit = (preferences.cardIndex + 1) % PETITS.length;
+    sprites.warm([...PETITS[preferences.cardIndex], ...PETITS[nextOutfit], ...PETITS.flat()].map(file => IMG + file));
+  }
   const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = `工作中…… ${packet.runningCount}`;
   if (packet.layout) acceptLayout(packet.layout); else layoutPanels();
   if (Number.isInteger(packet.flipSequence) && packet.flipSequence > flipSequence) {
@@ -124,14 +152,21 @@ function acceptState(packet) {
   }
   if (Array.isArray(packet.newlyShown) && packet.newlyShown.length) requestAnimationFrame(() => api.shown(packet.newlyShown));
 }
-function performFlip(changeOutfit = false) {
+async function performFlip(changeOutfit = false) {
   if (changeOutfit) outfitPending++;
   if (flipping || (outfitPending < 1 && flipPending < 1)) return;
   changeOutfit = outfitPending > 0;
   if (changeOutfit) outfitPending--; else flipPending--;
-  flipping = true; pet.classList.remove('flipping'); void pet.offsetWidth; pet.classList.add('flipping');
+  flipping = true;
+  const original = { cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
+  const patch = changeOutfit ? { cardIndex: (original.cardIndex + 1) % PETITS.length, petitIndex: 0 } : { petitIndex: (original.petitIndex + 1) % PETITS[original.cardIndex].length };
+  const request = appearanceRequest;
+  const image = await sprites.load(spriteUrl({ ...original, ...patch }));
+  pet.classList.remove('flipping'); void pet.offsetWidth; pet.classList.add('flipping');
   if (!regionFrame) regionFrame = requestAnimationFrame(refreshFlipRegions);
-  setTimeout(() => setPreferences(changeOutfit ? { cardIndex: (preferences.cardIndex + 1) % PETITS.length, petitIndex: 0 } : { petitIndex: (preferences.petitIndex + 1) % PETITS[preferences.cardIndex].length }), 250);
+  setTimeout(() => {
+    if (image && request === appearanceRequest && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) setPreferences(patch);
+  }, 250);
   setTimeout(() => { flipping = false; pet.classList.remove('flipping'); performFlip(); }, 540);
 }
 function interact() {

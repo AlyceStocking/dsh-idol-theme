@@ -9,6 +9,7 @@ const localResources = new Map([
   [PAGE_URL, { file: path.join(__dirname, 'index.html'), contentType: 'text/html; charset=utf-8' }],
   ['yukimi://pet/desktop/style.css', { file: path.join(__dirname, 'style.css'), contentType: 'text/css; charset=utf-8' }],
   ['yukimi://pet/desktop/renderer.js', { file: path.join(__dirname, 'renderer.js'), contentType: 'text/javascript; charset=utf-8' }],
+  ['yukimi://pet/desktop/sprite-cache.js', { file: path.join(__dirname, 'sprite-cache.js'), contentType: 'text/javascript; charset=utf-8' }],
   ['yukimi://pet/lib/assets.js', { file: path.resolve(__dirname, '../lib/assets.js'), contentType: 'text/javascript; charset=utf-8' }],
 ]);
 protocol.registerSchemesAsPrivileged([{ scheme: 'yukimi', privileges: { standard: true, secure: true, supportFetchAPI: true, corsEnabled: true } }]);

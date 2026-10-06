@@ -9,7 +9,7 @@ const managedNames = ['lib', 'desktop', 'package.json', 'cordis.patch.yml'];
 export const requiredSourceFiles = [
   'package.json', 'cordis.patch.yml',
   'lib/index.js', 'lib/client.js', 'lib/assets.js', 'lib/desktop-state.js', 'lib/desktop-process.js',
-  'desktop/main.cjs', 'desktop/preload.cjs', 'desktop/index.html', 'desktop/style.css', 'desktop/renderer.js', 'desktop/logic.js',
+  'desktop/main.cjs', 'desktop/preload.cjs', 'desktop/index.html', 'desktop/style.css', 'desktop/renderer.js', 'desktop/logic.js', 'desktop/sprite-cache.js',
   ...[
     'Yukimi Desktop.exe', 'resources/app.asar', 'resources.pak', 'icudtl.dat', 'ffmpeg.dll',
     'chrome_100_percent.pak', 'chrome_200_percent.pak', 'snapshot_blob.bin', 'v8_context_snapshot.bin',

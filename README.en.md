@@ -12,6 +12,8 @@ Position, outfits and notification acknowledgements live under `$DSH_HOME/yukimi
 
 Dragging reaches each display's edges and corners using the pet's own bounds, independently of its transparent carrier window. Bubbles and settings open on the side with available space. Saved positions refer to the pet itself; previous window-based positions migrate automatically.
 
+All outfit sprites preload in the background, starting with the current and next outfits. Switching waits for image decoding and keeps the previous sprite while loading or on failure, avoiding a blank first outfit change.
+
 Restyles the page — colors, background, sidebar, and a few interactive widgets — around Yukimi Sajo from *THE iDOLM@STER Cinderella Girls*.
 
 [中文说明](README.md) · [Live preview](https://alycestocking.github.io/dsh-yukimi-theme/)
