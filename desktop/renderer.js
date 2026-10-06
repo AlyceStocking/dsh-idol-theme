@@ -4,10 +4,68 @@ const api = window.yukimiDesktop;
 const element = id => document.getElementById(id);
 const pet = element('pet'), desktop = element('desktop'), notices = element('notices'), noticeList = element('notice-list');
 const settings = element('settings'), dialogue = element('dialogue');
+const petWrap = element('pet-wrap');
 let preferences = { cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: false };
 let currentNotices = { persistent: [], transient: null, queuedCount: 0 };
 let flipSequence = 0, flipPending = 0, outfitPending = 0, flipping = false, lastNoticeSignature = '';
 let dialogueTimer, longPressTimer, clickTimer, panelTimer, pointer, regionFrame = 0;
+
+function layoutPanels() {
+  const rect = petWrap.getBoundingClientRect(), inset = 8, gap = 12;
+  const width = Math.max(1, Math.min(320, innerWidth - inset * 2));
+  const left = Math.max(inset, Math.min(rect.x + rect.width / 2 - width / 2, innerWidth - width - inset));
+  const above = { start: inset, end: Math.max(inset, rect.y - gap), above: true };
+  const below = { start: Math.min(innerHeight - inset, rect.bottom + gap), end: innerHeight - inset, above: false };
+  above.height = above.end - above.start; below.height = below.end - below.start;
+  const main = above.height >= below.height ? above : below, other = main === above ? below : above;
+  for (const node of [settings, notices, dialogue]) {
+    node.style.left = `${left}px`; node.style.width = `${width}px`; node.style.bottom = 'auto';
+  }
+  const bubble = !notices.hidden ? notices : !dialogue.hidden ? dialogue : null;
+  notices.style.maxHeight = `${settings.hidden ? 270 : 95}px`;
+  noticeList.style.maxHeight = `${settings.hidden ? 220 : 79}px`;
+  dialogue.style.maxHeight = `${main.height}px`;
+  const bubbleHeight = bubble ? Math.ceil(bubble.getBoundingClientRect().height) : 0;
+  function fit(node, area, height) {
+    height = Math.max(0, Math.min(height, area.height));
+    node.style.top = `${area.above ? area.end - height : area.start}px`;
+    node.style.maxHeight = `${height}px`;
+    if (node === settings) node.style.height = `${height}px`;
+    if (node === notices) {
+      const heading = element('notice-heading').getBoundingClientRect().height;
+      noticeList.style.maxHeight = `${Math.max(0, height - heading - 14)}px`;
+    }
+  }
+  if (settings.hidden) {
+    if (bubble) fit(bubble, main, bubbleHeight);
+  } else if (!bubble) {
+    fit(settings, main, 285);
+  } else if (main.height >= 285 + gap + bubbleHeight || other.height < bubbleHeight) {
+    const height = Math.min(bubbleHeight, Math.max(0, main.height - gap - 38));
+    const panelHeight = Math.min(285, Math.max(0, main.height - gap - height));
+    // Put the reminder next to the pet, with the settings panel farther away.
+    const bubbleArea = main.above ? { ...main, start: main.end - height } : { ...main, end: main.start + height };
+    bubbleArea.height = height;
+    const settingsArea = main.above ? { ...main, end: bubbleArea.start - gap } : { ...main, start: bubbleArea.end + gap };
+    settingsArea.height = Math.max(0, settingsArea.end - settingsArea.start);
+    fit(bubble, bubbleArea, height); fit(settings, settingsArea, panelHeight);
+  } else {
+    fit(settings, main, 285); fit(bubble, other, bubbleHeight);
+  }
+  const running = element('running');
+  running.style.right = 'auto';
+  running.style.left = `${Math.max(inset - rect.x, Math.min(rect.width - running.offsetWidth + 18, innerWidth - inset - rect.x - running.offsetWidth))}px`;
+  requestAnimationFrame(reportRegions);
+}
+
+function acceptLayout(value) {
+  if (!value || !['x', 'y', 'width', 'height'].every(key => Number.isFinite(value[key]))) return;
+  petWrap.style.left = `${value.x}px`; petWrap.style.top = `${value.y}px`; petWrap.style.bottom = 'auto';
+  petWrap.style.width = pet.style.width = `${value.width}px`;
+  petWrap.style.height = pet.style.height = `${value.height}px`;
+  pet.style.setProperty('--idle-lift', `${Math.min(6, Math.max(0, value.y))}px`);
+  layoutPanels();
+}
 
 function setPreferences(patch) { api.setPreferences({ ...preferences, ...patch }); }
 function refreshPreferences() {
@@ -60,6 +118,7 @@ function acceptState(packet) {
   preferences = packet.preferences; currentNotices = packet.notices;
   refreshPreferences(); renderNotices();
   const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = `工作中…… ${packet.runningCount}`;
+  if (packet.layout) acceptLayout(packet.layout); else layoutPanels();
   if (Number.isInteger(packet.flipSequence) && packet.flipSequence > flipSequence) {
     flipPending += packet.flipSequence - flipSequence; flipSequence = packet.flipSequence; performFlip();
   }
@@ -79,13 +138,14 @@ function interact() {
   flipPending++; performFlip();
   if (!notices.hidden) return;
   dialogue.textContent = LINES[Math.floor(Math.random() * LINES.length)]; dialogue.hidden = false;
-  clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; }, 3200);
+  layoutPanels();
+  clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; layoutPanels(); }, 3200);
 }
 function setPanel(open) {
   settings.hidden = !open; desktop.classList.toggle('settings-open', open);
   clearTimeout(panelTimer);
   if (open) panelTimer = setTimeout(() => setPanel(false), 15000);
-  requestAnimationFrame(reportRegions);
+  layoutPanels();
 }
 function resetPanelTimer() { clearTimeout(panelTimer); panelTimer = setTimeout(() => setPanel(false), 15000); }
 element('close-settings').addEventListener('click', () => setPanel(false));
@@ -114,7 +174,7 @@ pet.addEventListener('pointerdown', event => {
 pet.addEventListener('pointermove', event => {
   if (!pointer || pointer.long) return;
   if (!pointer.dragging && Math.hypot(event.screenX - pointer.x, event.screenY - pointer.y) > 8) {
-    pointer.dragging = true; clearTimeout(longPressTimer); clearTimeout(clickTimer); clickTimer = null; api.drag('start');
+    pointer.dragging = true; clearTimeout(longPressTimer); clearTimeout(clickTimer); clickTimer = null; api.drag('start', { x: pointer.x, y: pointer.y });
   }
 });
 pet.addEventListener('pointerup', () => {
@@ -135,6 +195,8 @@ document.addEventListener('keydown', event => {
   if (event.target === pet && event.key === 'ContextMenu') { event.preventDefault(); setPanel(settings.hidden); }
 });
 api.onState(acceptState);
+api.onLayout(acceptLayout);
+window.addEventListener('resize', layoutPanels);
 refreshPreferences(); reportRegions();
 const initial = await api.ready(); acceptState(initial);
 // The pet's idle movement is at most six pixels; keep the cursor mask aligned.

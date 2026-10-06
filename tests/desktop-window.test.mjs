@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { CARDS } from '../lib/assets.js';
-import { NoticeQueue, clampWindowBounds, normalizePreferences, pointHitsRegions, validateHostMessage, validateRectangles } from '../desktop/logic.js';
+import { NoticeQueue, clampWindowBounds, layoutDesktop, normalizePreferences, petPositionFromWindowBounds, pointHitsRegions, validateHostMessage, validateRectangles } from '../desktop/logic.js';
 
 const notice = (id, kind = 'completed', sessionId = `session-${id}`) => ({ id, kind, sessionId, title: '测试会话', text: '这一轮……做好了……', persistent: ['question', 'approval'].includes(kind) });
 
@@ -92,4 +92,120 @@ test('flip back faces mirror the alpha mask within the projected image bounds', 
   assert.equal(pointHitsRegions({ x: 11, y: 25 }, regions, mask), false);
   assert.equal(pointHitsRegions({ x: 18, y: 25 }, regions, mask), true);
   assert.equal(validateRectangles([{ x: 0, y: 0, width: 20, height: 20, sprite: true, mirrored: 'yes' }]), null);
+});
+
+function assertContained(rect, area, message = 'rectangle must remain on its monitor') {
+  assert.ok(rect.x >= area.x && rect.y >= area.y && rect.x + rect.width <= area.x + area.width && rect.y + rect.height <= area.y + area.height, message);
+}
+
+function assertDesktopLayout(layout, area) {
+  assertContained(layout.bounds, area, 'the transparent carrier must keep panels on screen');
+  assertContained(layout.pet, { x: 0, y: 0, width: layout.bounds.width, height: layout.bounds.height }, 'the pet must fit in the carrier');
+  assert.equal(layout.bounds.x + layout.pet.x, layout.position.x);
+  assert.equal(layout.bounds.y + layout.pet.y, layout.position.y);
+  assert.equal(layout.pet.width, layout.pet.height, 'tiny monitors must preserve the square sprite aspect ratio');
+  for (const value of Object.values(layout.bounds)) assert.ok(Number.isFinite(value));
+}
+
+const fullHd = { bounds: { x: 0, y: 0, width: 1920, height: 1080 }, workArea: { x: 0, y: 0, width: 1920, height: 1040 }, scaleFactor: 1 };
+
+test('the pet reaches all four screen corners independently of carrier margins', () => {
+  for (const [wanted, expected] of [
+    [{ x: -200, y: -200 }, { x: 0, y: 0 }],
+    [{ x: 2500, y: -200 }, { x: 1750, y: 0 }],
+    [{ x: -200, y: 1600 }, { x: 0, y: 910 }],
+    [{ x: 2500, y: 1600 }, { x: 1750, y: 910 }],
+  ]) {
+    const layout = layoutDesktop(wanted, [fullHd]);
+    assert.deepEqual(layout.position, expected);
+    assertDesktopLayout(layout, fullHd.bounds);
+    assert.deepEqual({ width: layout.pet.width, height: layout.pet.height }, { width: 170, height: 170 });
+  }
+});
+
+test('the pet reaches every screen edge without inheriting the 360 by 600 carrier limit', () => {
+  for (const [wanted, expected] of [
+    [{ x: -100, y: 400 }, { x: 0, y: 400 }],
+    [{ x: 2300, y: 400 }, { x: 1750, y: 400 }],
+    [{ x: 800, y: -100 }, { x: 800, y: 0 }],
+    [{ x: 800, y: 1700 }, { x: 800, y: 910 }],
+  ]) {
+    const layout = layoutDesktop(wanted, [fullHd]);
+    assert.deepEqual(layout.position, expected);
+    assertDesktopLayout(layout, fullHd.bounds);
+  }
+});
+
+test('carrier relocation keeps a requested interior pet position unchanged', () => {
+  for (const position of [{ x: 800, y: 10 }, { x: 800, y: 440 }, { x: 800, y: 850 }]) {
+    const layout = layoutDesktop(position, [fullHd]);
+    assert.deepEqual(layout.position, position);
+    assertDesktopLayout(layout, fullHd.bounds);
+  }
+});
+
+test('negative and vertically arranged monitors use their screen coordinates', () => {
+  const left = { bounds: { x: -1600, y: 0, width: 1600, height: 900 }, workArea: { x: -1600, y: 0, width: 1600, height: 860 }, scaleFactor: 1.25 };
+  const above = { bounds: { x: 0, y: -1200, width: 1080, height: 1200 }, workArea: { x: 0, y: -1200, width: 1080, height: 1160 }, scaleFactor: 1.5 };
+  for (const [position, expectedArea] of [[{ x: -1450, y: 150 }, left.bounds], [{ x: 300, y: -1100 }, above.bounds]]) {
+    const layout = layoutDesktop(position, [fullHd, left, above]);
+    assert.deepEqual(layout.position, position);
+    assertDesktopLayout(layout, expectedArea);
+  }
+});
+
+test('a detached monitor recovers the pet onto the nearest remaining screen', () => {
+  const layout = layoutDesktop({ x: -1400, y: 300 }, [fullHd]);
+  assert.deepEqual(layout.position, { x: 0, y: 300 });
+  assertDesktopLayout(layout, fullHd.bounds);
+});
+
+test('tiny monitors resize the square pet while retaining movement in the longer dimension', () => {
+  const tiny = { bounds: { x: 50, y: 20, width: 80, height: 120 }, workArea: { x: 50, y: 20, width: 80, height: 110 } };
+  const layout = layoutDesktop({ x: 1000, y: 1000 }, [tiny]);
+  assert.deepEqual(layout.position, { x: 50, y: 60 });
+  assert.deepEqual({ width: layout.pet.width, height: layout.pet.height }, { width: 80, height: 80 });
+  assertDesktopLayout(layout, tiny.bounds);
+});
+
+test('old carrier coordinates migrate to the visible pet coordinates including negative origins', () => {
+  assert.deepEqual(petPositionFromWindowBounds({ x: 100, y: 50, width: 360, height: 600 }), { x: 195, y: 456 });
+  assert.deepEqual(petPositionFromWindowBounds({ x: -1300, y: -500, width: 360, height: 600 }), { x: -1205, y: -94 });
+  assert.deepEqual(petPositionFromWindowBounds({ x: -1300, y: -500, width: 300, height: 450 }), { x: -1235, y: -244 });
+});
+
+test('desktop placement prioritizes full display bounds over an inset work area', () => {
+  const display = { bounds: { x: -1920, y: 0, width: 1920, height: 1080 }, workArea: { x: -1880, y: 40, width: 1880, height: 1000 } };
+  const layout = layoutDesktop({ x: -1920, y: 910 }, [display]);
+  assert.deepEqual(layout.position, { x: -1920, y: 910 });
+  assertDesktopLayout(layout, display.bounds);
+});
+
+test('bounds-only, work-area-only, and plain display rectangles remain usable', () => {
+  const area = { x: 20, y: 30, width: 500, height: 700 };
+  for (const display of [{ bounds: area }, { workArea: area }, area]) {
+    const layout = layoutDesktop({ x: 0, y: 0 }, [display]);
+    assert.deepEqual(layout.position, { x: 20, y: 30 });
+    assertDesktopLayout(layout, area);
+  }
+});
+
+test('screen positions remain in DIP across different display scale factors', () => {
+  const position = { x: 1350, y: 720 };
+  const regular = layoutDesktop(position, [{ ...fullHd, scaleFactor: 1 }]);
+  const scaled = layoutDesktop(position, [{ ...fullHd, scaleFactor: 1.75 }]);
+  assert.deepEqual(scaled, regular, 'Electron already reports screen cursor and window bounds in DIP');
+});
+
+test('consecutive drag deltas stay anchored to the original pet even when its carrier is relocated', () => {
+  const anchor = { x: 800, y: 600 };
+  const first = layoutDesktop({ x: anchor.x - 790, y: anchor.y - 590 }, [fullHd]);
+  const second = layoutDesktop({ x: anchor.x - 650, y: anchor.y - 440 }, [fullHd]);
+  assert.deepEqual(first.position, { x: 10, y: 10 });
+  assert.deepEqual(second.position, { x: 150, y: 160 });
+  assert.equal(second.position.x - first.position.x, 140);
+  assert.equal(second.position.y - first.position.y, 150);
+  assertDesktopLayout(first, fullHd.bounds);
+  assertDesktopLayout(second, fullHd.bounds);
+  assert.deepEqual(layoutDesktop(second.position, [fullHd]), second, 'reflow must be idempotent after each drag step');
 });

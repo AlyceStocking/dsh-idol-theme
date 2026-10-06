@@ -10,6 +10,8 @@ Git checkouts do not include the ignored Electron binary; complete distributions
 
 Position, outfits and notification acknowledgements live under `$DSH_HOME/yukimi-desktop`. The Host uses a local Windows named pipe with a random handshake to talk to its owned helper and authenticated DSH Connection RPC to reach the page; no extra network port is opened. Minimizing or hiding Harness keeps the pet visible; disabling the plugin or quitting Harness closes it. A normal turn ending is not proof that an entire project is complete.
 
+Dragging reaches each display's edges and corners using the pet's own bounds, independently of its transparent carrier window. Bubbles and settings open on the side with available space. Saved positions refer to the pet itself; previous window-based positions migrate automatically.
+
 Restyles the page — colors, background, sidebar, and a few interactive widgets — around Yukimi Sajo from *THE iDOLM@STER Cinderella Girls*.
 
 [中文说明](README.md) · [Live preview](https://alycestocking.github.io/dsh-yukimi-theme/)

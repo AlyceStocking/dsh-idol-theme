@@ -14,7 +14,7 @@ const localResources = new Map([
 protocol.registerSchemesAsPrivileged([{ scheme: 'yukimi', privileges: { standard: true, secure: true, supportFetchAPI: true, corsEnabled: true } }]);
 
 // The owning plugin supplies a private Windows pipe; no TCP listener is exposed.
-let window, logic, assets, preferences, queue, state = { notices: [], runningCount: 0 };
+let window, logic, assets, preferences, queue, layout, state = { notices: [], runningCount: 0 };
 let initialized = false, protocolReady = false, quitting = false, flipSequence = 0, rectangles = [], alphaMask = null;
 let drag = null, ignores = true, lastSnapshot = '', pendingLines = [], saveTimer, mouseTimer, stateTimer, parentTimer;
 const acknowledged = new Set();
@@ -58,7 +58,7 @@ function saveNow() {
   try {
     fs.mkdirSync(dataRoot, { recursive: true });
     const temporary = preferencesPath + '.tmp';
-    fs.writeFileSync(temporary, JSON.stringify({ version: 1, preferences, bounds: window.getBounds(), shownIds: [...acknowledged].slice(-5000) }), { encoding: 'utf8', mode: 0o600 });
+    fs.writeFileSync(temporary, JSON.stringify({ version: 2, preferences, bounds: window.getBounds(), petPosition: layout.position, shownIds: [...acknowledged].slice(-5000) }), { encoding: 'utf8', mode: 0o600 });
     fs.renameSync(temporary, preferencesPath);
   } catch (error) { process.stderr.write(`Yukimi preferences: ${error.message}\n`); }
 }
@@ -127,7 +127,7 @@ app.on('window-all-closed', quit);
 
 function publish(force = false, snapshot = queue.advance()) {
   flipSequence += snapshot.newlyShown.length;
-  const packet = { preferences, notices: { persistent: snapshot.persistent, transient: snapshot.transient, queuedCount: snapshot.queuedCount }, runningCount: state.runningCount, flipSequence, newlyShown: snapshot.newlyShown };
+  const packet = { preferences, layout: layout.pet, notices: { persistent: snapshot.persistent, transient: snapshot.transient, queuedCount: snapshot.queuedCount }, runningCount: state.runningCount, flipSequence, newlyShown: snapshot.newlyShown };
   const signature = JSON.stringify({ ...packet, newlyShown: [] });
   if (force || signature !== lastSnapshot || snapshot.newlyShown.length) {
     lastSnapshot = signature;
@@ -141,6 +141,24 @@ function updateMousePassthrough() {
   const cursor = screen.getCursorScreenPoint(), bounds = window.getBounds();
   const next = !logic.pointHitsRegions({ x: cursor.x - bounds.x, y: cursor.y - bounds.y }, rectangles, alphaMask);
   if (next !== ignores) { ignores = next; window.setIgnoreMouseEvents(next, { forward: true }); }
+}
+
+function movePet(position, displays = screen.getAllDisplays()) {
+  const next = logic.layoutDesktop(position, displays);
+  const previous = layout;
+  layout = next;
+  if (JSON.stringify(window.getBounds()) !== JSON.stringify(next.bounds)) window.setBounds(next.bounds);
+  if (initialized && JSON.stringify(previous.pet) !== JSON.stringify(next.pet)) {
+    // Old hit regions belong to the old local pet offset until the renderer replies.
+    rectangles = [];
+    window.webContents.send('yukimi:layout', next.pet);
+  }
+  scheduleSave();
+}
+
+function moveWithCursor() {
+  const cursor = screen.getCursorScreenPoint();
+  movePet({ x: drag.position.x + cursor.x - drag.cursor.x, y: drag.position.y + cursor.y - drag.cursor.y }, [screen.getDisplayNearestPoint(cursor)]);
 }
 
 let maskGeneration = 0;
@@ -194,7 +212,10 @@ app.whenReady().then(async () => {
   preferences = logic.normalizePreferences(saved.preferences);
   for (const id of Array.isArray(saved.shownIds) ? saved.shownIds : []) if (typeof id === 'string' && id.length <= 240) acknowledged.add(id);
   queue = new logic.NoticeQueue({ shownIds: [...acknowledged] });
-  const bounds = logic.clampWindowBounds({ ...(saved.bounds ?? {}), ...logic.WINDOW_SIZE }, screen.getAllDisplays());
+  const displays = screen.getAllDisplays();
+  const previousBounds = logic.clampWindowBounds({ ...(saved.bounds ?? {}), ...logic.WINDOW_SIZE }, displays);
+  layout = logic.layoutDesktop(saved.petPosition ?? logic.petPositionFromWindowBounds(previousBounds), displays);
+  const bounds = layout.bounds;
   const allowedImages = new Set([assets.SIGN_URL, ...assets.ICONS.map(value => assets.IMG + value), ...assets.PETITS.flat().map(value => assets.IMG + value), ...assets.CARDS.map(card => card.url), ...assets.MOBAMAS.map(card => card.url)]);
   protocol.handle('yukimi', async request => {
     const resource = localResources.get(request.url);
@@ -231,7 +252,7 @@ app.whenReady().then(async () => {
   });
   window.on('moved', scheduleSave);
   window.on('close', saveNow);
-  const clamp = () => { if (!window.isDestroyed()) window.setBounds(logic.clampWindowBounds(window.getBounds(), screen.getAllDisplays())); };
+  const clamp = () => { if (!window.isDestroyed()) { drag = null; movePet(layout.position); } };
   screen.on('display-added', clamp); screen.on('display-removed', clamp); screen.on('display-metrics-changed', clamp);
 
   ipcMain.handle('yukimi:ready', event => {
@@ -269,20 +290,24 @@ app.whenReady().then(async () => {
     preferences = logic.normalizePreferences(value, preferences);
     output({ type: 'preferences', preferences }); scheduleSave(); refreshMask(); publish(true);
   });
-  ipcMain.on('yukimi:drag', (event, action) => {
+  ipcMain.on('yukimi:drag', (event, action, origin) => {
     if (!trusted(event) || !['start', 'end'].includes(action)) return;
     if (action === 'start') {
-      const cursor = screen.getCursorScreenPoint();
-      drag = { cursor, bounds: window.getBounds() };
+      const cursor = origin && Number.isFinite(origin.x) && Number.isFinite(origin.y) ? origin : screen.getCursorScreenPoint();
+      drag = { cursor, position: layout.position };
       ignores = false;
       window.setIgnoreMouseEvents(false);
-    } else { drag = null; clamp(); scheduleSave(); }
+      moveWithCursor();
+    } else {
+      // Commit the last cursor sample even when a quick drag ends between ticks.
+      if (drag) moveWithCursor();
+      drag = null; movePet(layout.position); updateMousePassthrough();
+    }
   });
   mouseTimer = setInterval(() => {
     if (!window || window.isDestroyed()) return;
-    const cursor = screen.getCursorScreenPoint();
     if (drag) {
-      window.setBounds(logic.clampWindowBounds({ ...drag.bounds, x: drag.bounds.x + cursor.x - drag.cursor.x, y: drag.bounds.y + cursor.y - drag.cursor.y }, screen.getAllDisplays()));
+      moveWithCursor();
       return;
     }
     updateMousePassthrough();

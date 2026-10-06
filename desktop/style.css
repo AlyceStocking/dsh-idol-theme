@@ -21,7 +21,7 @@ button:focus-visible, #pet:focus-visible { outline: 2px solid #70e4ec; outline-o
 .notice-title { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #aad9ff; font-size: 11px; margin-bottom: 4px; }
 .notice-text { display: block; line-height: 1.7; white-space: pre-wrap; overflow-wrap: anywhere; }
 .notice-tip { display: block; color: #91a4c4; font-size: 10px; margin-top: 5px; }
-#dialogue { padding: 11px 14px; line-height: 1.7; pointer-events: none; }
+#dialogue { padding: 11px 14px; line-height: 1.7; pointer-events: none; overflow-y: auto; }
 #settings { position: absolute; left: 20px; top: 12px; width: 320px; height: 285px; border-radius: 14px; background: rgba(239, 245, 255, .98); color: #293860; border: 1px solid #c5d7ed; box-shadow: 0 7px 20px #07112645; overflow: hidden; }
 #settings header { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; font-weight: 600; color: #eff8ff; background: #233767; }
 #close-settings { border: 0; background: transparent; color: #fff; font-size: 20px; line-height: 22px; }
@@ -41,5 +41,5 @@ button:focus-visible, #pet:focus-visible { outline: 2px solid #70e4ec; outline-o
 .settings-open #notice-heading { display: none; }
 .settings-open #notice-list { max-height: 79px; }
 @keyframes flip { from { transform: rotateY(0); } to { transform: rotateY(360deg); } }
-@keyframes idle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+@keyframes idle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(calc(-1 * var(--idle-lift, 6px))); } }
 @media (prefers-reduced-motion: reduce) { #pet { animation: none !important; } }

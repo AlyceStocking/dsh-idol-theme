@@ -1,6 +1,7 @@
 import { CARDS, PETITS } from '../lib/assets.js';
 
 export const WINDOW_SIZE = Object.freeze({ width: 360, height: 600 });
+export const PET_SIZE = 170;
 export const DEFAULT_PREFERENCES = Object.freeze({ cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: false });
 const kinds = new Set(['question', 'approval', 'completed', 'error', 'aborted']);
 const object = value => value !== null && typeof value === 'object' && !Array.isArray(value);
@@ -55,6 +56,34 @@ export function clampWindowBounds(bounds, displays) {
   const area = [...areas].sort((a, b) => overlap(b) - overlap(a) || distance(a) - distance(b))[0];
   const fittedWidth = Math.min(width, area.width), fittedHeight = Math.min(height, area.height);
   return { x: Math.round(Math.min(Math.max(x, area.x), area.x + area.width - fittedWidth)), y: Math.round(Math.min(Math.max(y, area.y), area.y + area.height - fittedHeight)), width: fittedWidth, height: fittedHeight };
+}
+
+// Migrate old saved carrier-window coordinates without moving the visible pet.
+export function petPositionFromWindowBounds(bounds) {
+  return { x: bounds.x + (bounds.width - PET_SIZE) / 2, y: bounds.y + bounds.height - 24 - PET_SIZE };
+}
+
+// The pet owns its screen position. The transparent carrier may slide around it
+// to keep panels visible, but its margins must never restrict pet movement.
+export function layoutDesktop(position, displays) {
+  const areas = displays.map(display => display.bounds ?? display.workArea ?? display)
+    .filter(area => ['x', 'y', 'width', 'height'].every(key => Number.isFinite(area[key])) && area.width > 0 && area.height > 0);
+  if (!areas.length) throw new TypeError('At least one display bounds rectangle is required');
+  const fallback = petPositionFromWindowBounds(clampWindowBounds(WINDOW_SIZE, displays.map(display => display.workArea ?? display.bounds ?? display)));
+  const wanted = { x: Number.isFinite(position?.x) ? position.x : fallback.x, y: Number.isFinite(position?.y) ? position.y : fallback.y, width: PET_SIZE, height: PET_SIZE };
+  const placed = clampWindowBounds(wanted, areas);
+  const area = areas.find(area => placed.x >= area.x && placed.y >= area.y && placed.x + placed.width <= area.x + area.width && placed.y + placed.height <= area.y + area.height);
+  const size = Math.min(PET_SIZE, placed.width, placed.height);
+  const square = clampWindowBounds({ ...wanted, width: size, height: size }, [area]);
+  const point = { x: square.x, y: square.y };
+  const above = point.y - area.y, below = area.y + area.height - point.y - size;
+  const preferAbove = above >= WINDOW_SIZE.height - size - 24 || above >= below;
+  const bounds = clampWindowBounds({
+    x: point.x - (WINDOW_SIZE.width - size) / 2,
+    y: point.y - (preferAbove ? WINDOW_SIZE.height - size - 24 : 24),
+    ...WINDOW_SIZE,
+  }, [area]);
+  return { bounds, position: point, pet: { x: point.x - bounds.x, y: point.y - bounds.y, width: size, height: size } };
 }
 
 export function pointHitsRegions(point, rectangles, mask) {
