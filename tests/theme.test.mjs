@@ -1,29 +1,6 @@
-import { readFileSync } from 'node:fs';
-import vm from 'node:vm';
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-
-function loadTheme(wide = true) {
-  let plugin, tokens;
-  const mediaListeners = new Set();
-  const media = { matches: wide, addEventListener: (_, fn) => mediaListeners.add(fn), removeEventListener: (_, fn) => mediaListeners.delete(fn) };
-  const disposers = [];
-  const styles = new Set();
-  const registrations = [];
-  const slots = { inject: (_, fn) => fn(), register: (spec, component) => registrations.push({ spec, component }) };
-  vm.runInNewContext(readFileSync(new URL('../lib/client.js', import.meta.url), 'utf8'), {
-    window: { matchMedia: () => media, __ModuleLoader__: { load: entry => { plugin = entry.factory(() => ({ createElement: (type, props, ...children) => ({ type, props, children }), Fragment: "fragment" })); } } },
-    document: {
-      createElement: () => { const tag = { dataset: {}, remove: () => styles.delete(tag) }; return tag; },
-      head: { appendChild: tag => styles.add(tag) },
-    },
-  });
-  plugin.apply({
-    get: key => key === 'theme' ? { overrideTokens: (_, value) => { tokens = value; return () => { tokens = undefined; }; } } : slots,
-    effect: fn => disposers.push(fn()),
-  });
-  return { tokens, styles, registrations, mediaListeners, resize: wide => { media.matches = wide; mediaListeners.forEach(fn => fn()); }, dispose: () => disposers.reverse().forEach(fn => fn()), currentTokens: () => tokens };
-}
+import { loadTheme } from './helpers/theme-harness.mjs';
 
 const rgb = hex => hex.slice(1).match(/../g).map(v => parseInt(v, 16));
 const luminance = c => c.map(v => v / 255).map(v => v <= .04045 ? v / 12.92 : ((v + .055) / 1.055) ** 2.4).reduce((s,v,i) => s + v * [.2126,.7152,.0722][i], 0);

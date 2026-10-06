@@ -2,6 +2,14 @@
 
 A [Sajo Yukimi](https://wiki.biligame.com/imascg/%E4%BD%90%E5%9F%8E%E9%9B%AA%E7%BE%8E) (佐城雪美) theme for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) web UI.
 
+The `desktop` branch adds a Windows companion in a transparent, frameless, always-on-top window. It monitors all live root sessions, flips once for each new notice, and shows original preset dialogue without sound. Questions and approvals remain until settled; turn-ending notices are queued and shown once. Clicking a bubble opens its session in Harness. The in-page pet hides only after the companion is ready; the background, signature and card remain available.
+
+Build with `npm install`, `npm run build:client`, `npm run desktop:package`; run `npm run check` and `npm test`, then disable the plugin and run `npm run desktop:sync` to update an existing managed desktop plugin. Sync backs up the original files, replaces the complete `lib/` and `desktop/` directories, `package.json` and `cordis.patch.yml`, and rolls back a failed update. It does not change the desktop profile manifest or lockfile. Enable the plugin, then fully quit and relaunch the DSH desktop app and its Host process while sessions are idle. The Host caches modules; closing the main window, toggling the plugin or refreshing the page may retain the previous entry.
+
+Git checkouts do not include the ignored Electron binary; complete distributions must include `desktop/runtime/win32-x64/`. `npm run desktop:preview` runs a synthetic preview without model calls and keeps separate settings in `build/preview-data/`. To restore a backup, disable the plugin and run `npm run desktop:sync -- --restore-backup <backup-directory>`, then fully quit and relaunch DSH to load the restored Host modules.
+
+Position, outfits and notification acknowledgements live under `$DSH_HOME/yukimi-desktop`. The Host uses a local Windows named pipe with a random handshake to talk to its owned helper and authenticated DSH Connection RPC to reach the page; no extra network port is opened. Minimizing or hiding Harness keeps the pet visible; disabling the plugin or quitting Harness closes it. A normal turn ending is not proof that an entire project is complete.
+
 Restyles the page — colors, background, sidebar, and a few interactive widgets — around Yukimi Sajo from *THE iDOLM@STER Cinderella Girls*.
 
 [中文说明](README.md) · [Live preview](https://alycestocking.github.io/dsh-yukimi-theme/)
@@ -16,9 +24,9 @@ Restyles the page — colors, background, sidebar, and a few interactive widgets
 - **Full conversation width**: no decoration sidebar, reserved column or decoration gallery dialog.
 - **Viewport bounds**: doll dragging/resizing and the settings panel stay within the viewport.
 
-The threshold is defined by matching client/CSS media queries. Preferences are page-local and reset on reload.
+The threshold is defined by matching client/CSS media queries. In the Web profile, preferences are page-local and reset on reload. The Windows companion saves preferences locally and synchronizes them with the desktop app's page.
 
-## Install
+## Install the Web profile theme
 
 Install with dsh's own plugin management command (the package then appears in the Settings → Plugins management UI):
 
@@ -26,7 +34,7 @@ Install with dsh's own plugin management command (the package then appears in th
 dsh plugin --profile web add github:AlyceStocking/dsh-yukimi-theme
 ```
 
-Then restart:
+Stop any running Web server, then start it again:
 
 ```bash
 dsh web
@@ -39,7 +47,11 @@ or `dsh --profile web`.
 
 ## Development and validation
 
-Edit `lib/client.js` directly; no build or test dependencies are required. Run `npm run check` and `npm test`. Sync the modified client to the installed copy before reloading DSH; restart the server if the old bundle remains cached. See [stage validation](docs/validation.md) for browser checks and official references.
+For Web profile style iteration, edit `lib/client.js` directly. Shared artwork URLs and original lines live in `lib/assets.js`; run `npm run build:client` after editing them to regenerate the client asset block. Run `npm run check` and `npm test`.
+
+The installed Web profile uses a file copy. For browser-only style or artwork changes, sync the generated `lib/client.js` to that profile's plugin directory and refresh the browser page. Stop and restart `dsh web` if the previous client remains cached.
+
+For the Windows companion, follow the complete build, package and sync workflow above, then fully quit and relaunch the desktop app and its Host process. Copying only `lib/client.js` does not update the Host bridge or the companion executable. See the [validation record](docs/validation.md) for Web and Windows companion results, their tested scope, and official references.
 
 ## License & credits
 

@@ -12,3 +12,6 @@ Thumbs.db
 # build output
 dist/
 *.tsbuildinfo
+build/
+desktop/runtime/
+artifacts/

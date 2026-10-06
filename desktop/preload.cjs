@@ -1,0 +1,17 @@
+'use strict';
+const { contextBridge, ipcRenderer } = require('electron');
+
+contextBridge.exposeInMainWorld('yukimiDesktop', Object.freeze({
+  ready: () => ipcRenderer.invoke('yukimi:ready'),
+  onState: listener => {
+    if (typeof listener !== 'function') throw new TypeError('A state listener is required');
+    const handler = (_event, value) => listener(value);
+    ipcRenderer.on('yukimi:state', handler);
+    return () => ipcRenderer.removeListener('yukimi:state', handler);
+  },
+  setRegions: regions => ipcRenderer.send('yukimi:regions', regions),
+  openSession: sessionId => ipcRenderer.send('yukimi:open-session', sessionId),
+  shown: ids => ipcRenderer.send('yukimi:shown', ids),
+  setPreferences: preferences => ipcRenderer.send('yukimi:preferences', preferences),
+  drag: action => ipcRenderer.send('yukimi:drag', action),
+}));

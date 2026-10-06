@@ -1,7 +1,8 @@
 # dsh-yukimi-theme bundle patch: mount the yukimi theme plugin.
 #
 # Applied when this bundle appears in a profile's dsh.profile.bundles list.
-# The host half (package root) is a no-op; the browser half (dsh.client) is
+# The host half owns a Windows desktop companion in the desktop profile;
+# other profiles keep the Web theme only. The browser half (dsh.client) is
 # discovered automatically through the package's dsh.client declaration +
 # exports["./client"].
 

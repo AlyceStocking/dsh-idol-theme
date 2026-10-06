@@ -1,0 +1,45 @@
+:root { color-scheme: dark; font-family: "Microsoft YaHei", "Segoe UI", sans-serif; font-size: 13px; }
+* { box-sizing: border-box; }
+html, body { margin: 0; width: 100%; height: 100%; overflow: hidden; background: transparent; }
+[hidden] { display: none !important; }
+button { font: inherit; cursor: pointer; }
+button:focus-visible, #pet:focus-visible { outline: 2px solid #70e4ec; outline-offset: 3px; }
+#desktop { position: relative; width: 100vw; height: 100vh; user-select: none; }
+#pet-wrap { position: absolute; width: 170px; height: 170px; bottom: 24px; left: calc(50% - 85px); }
+#pet { display: block; width: 170px; height: 170px; object-fit: contain; cursor: grab; touch-action: none; -webkit-user-drag: none; filter: drop-shadow(0 5px 8px rgba(9, 15, 42, .35)); animation: idle 2.4s ease-in-out infinite; }
+#pet:active { cursor: grabbing; }
+#pet.flipping { animation: flip .5s ease; }
+#running { position: absolute; right: -18px; bottom: 6px; pointer-events: none; font-size: 11px; color: #e5fcff; background: rgba(28, 47, 87, .87); padding: 3px 8px; border-radius: 20px; box-shadow: 0 1px 5px #1118; }
+#fallback { position: absolute; bottom: 45px; width: 170px; pointer-events: none; color: #d8edff; text-align: center; text-shadow: 0 1px 5px #000; }
+#notices, #dialogue { position: absolute; bottom: 205px; left: 20px; width: 320px; color: #f2f6ff; border: 1px solid #91b9ec55; border-radius: 15px; background: rgba(20, 28, 60, .96); box-shadow: 0 6px 16px #07112640; }
+#notices { max-height: 270px; padding: 7px; }
+#notice-heading { padding: 3px 5px 7px; color: #a9d9fb; font-size: 11px; }
+#notice-list { max-height: 220px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #647daa transparent; }
+.notice { display: block; text-align: left; width: 100%; padding: 9px 10px; border: 1px solid #8ba9d12b; border-radius: 10px; background: rgba(48, 64, 103, .7); color: inherit; margin-bottom: 6px; }
+.notice:last-child { margin-bottom: 0; }
+.notice:hover { background: #384b7b; border-color: #71d2e2; }
+.notice-title { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #aad9ff; font-size: 11px; margin-bottom: 4px; }
+.notice-text { display: block; line-height: 1.7; white-space: pre-wrap; overflow-wrap: anywhere; }
+.notice-tip { display: block; color: #91a4c4; font-size: 10px; margin-top: 5px; }
+#dialogue { padding: 11px 14px; line-height: 1.7; pointer-events: none; }
+#settings { position: absolute; left: 20px; top: 12px; width: 320px; height: 285px; border-radius: 14px; background: rgba(239, 245, 255, .98); color: #293860; border: 1px solid #c5d7ed; box-shadow: 0 7px 20px #07112645; overflow: hidden; }
+#settings header { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; font-weight: 600; color: #eff8ff; background: #233767; }
+#close-settings { border: 0; background: transparent; color: #fff; font-size: 20px; line-height: 22px; }
+.settings-body { padding: 8px 11px 12px; height: calc(100% - 38px); overflow-y: auto; scrollbar-width: thin; }
+.settings-body p { font-size: 11px; color: #65799e; margin: 0 0 8px; }
+.settings-body h2 { font-size: 12px; margin: 12px 0 5px; }
+.toggles { display: flex; gap: 8px; }
+.toggles button { border: 1px solid #8aafd2; border-radius: 20px; background: #dae7f6; color: #2e4673; font-size: 11px; padding: 4px 10px; }
+.outfits, .backgrounds { display: grid; gap: 5px; }
+.outfits { grid-template-columns: repeat(7, 1fr); }
+.backgrounds { grid-template-columns: repeat(4, 1fr); }
+.outfits button, .backgrounds button { display: block; border: 2px solid transparent; padding: 0; background: #e4eaf4; border-radius: 5px; overflow: hidden; line-height: 0; }
+.outfits button.selected, .backgrounds button.selected { border-color: #29449b; }
+.outfits img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; }
+.backgrounds img { display: block; width: 100%; aspect-ratio: 1280 / 824; object-fit: cover; }
+.settings-open #notices { max-height: 95px; }
+.settings-open #notice-heading { display: none; }
+.settings-open #notice-list { max-height: 79px; }
+@keyframes flip { from { transform: rotateY(0); } to { transform: rotateY(360deg); } }
+@keyframes idle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+@media (prefers-reduced-motion: reduce) { #pet { animation: none !important; } }
