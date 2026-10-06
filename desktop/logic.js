@@ -98,6 +98,29 @@ export function pointHitsRegions(point, rectangles, mask) {
   });
 }
 
+// Notices temporarily use the Windows notification layer. Reassert z-order while
+// a bubble stays visible, without moving keyboard focus away from the active app.
+export function createNoticeLayer(window, { now = Date.now, refreshInterval = 1000 } = {}) {
+  let active = false, lastRaised = -Infinity;
+  return snapshot => {
+    if (window.isDestroyed()) return;
+    const visible = snapshot.persistent.length > 0 || Boolean(snapshot.transient);
+    if (!visible) {
+      if (active) window.setAlwaysOnTop(true, 'floating');
+      active = false;
+      return;
+    }
+    const time = now();
+    if (!active || snapshot.newlyShown.length > 0 || time - lastRaised >= refreshInterval || time < lastRaised || !window.isAlwaysOnTop() || !window.isVisible()) {
+      window.setAlwaysOnTop(true, 'pop-up-menu');
+      if (!window.isVisible()) window.showInactive();
+      window.moveTop();
+      lastRaised = time;
+    }
+    active = true;
+  };
+}
+
 // Persistent requests always have priority. Completion messages wait in FIFO order and
 // survive newer host snapshots until actually shown; an interrupted bubble resumes once.
 export class NoticeQueue {

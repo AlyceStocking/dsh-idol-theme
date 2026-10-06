@@ -14,6 +14,8 @@ Dragging reaches each display's edges and corners using the pet's own bounds, in
 
 All outfit sprites preload in the background, starting with the current and next outfits. Switching waits for image decoding and keeps the previous sprite while loading or on failure, avoiding a blank first outfit change.
 
+Session notices raise the companion and its bubble above other windows without taking keyboard focus. The elevated layer is maintained while a notice remains visible, then returns to the normal floating layer.
+
 Restyles the page — colors, background, sidebar, and a few interactive widgets — around Yukimi Sajo from *THE iDOLM@STER Cinderella Girls*.
 
 [中文说明](README.md) · [Live preview](https://alycestocking.github.io/dsh-yukimi-theme/)

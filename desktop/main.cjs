@@ -15,7 +15,7 @@ const localResources = new Map([
 protocol.registerSchemesAsPrivileged([{ scheme: 'yukimi', privileges: { standard: true, secure: true, supportFetchAPI: true, corsEnabled: true } }]);
 
 // The owning plugin supplies a private Windows pipe; no TCP listener is exposed.
-let window, logic, assets, preferences, queue, layout, state = { notices: [], runningCount: 0 };
+let window, logic, assets, preferences, queue, layout, noticeLayer, state = { notices: [], runningCount: 0 };
 let initialized = false, protocolReady = false, quitting = false, flipSequence = 0, rectangles = [], alphaMask = null;
 let drag = null, ignores = true, lastSnapshot = '', pendingLines = [], saveTimer, mouseTimer, stateTimer, parentTimer;
 const acknowledged = new Set();
@@ -127,6 +127,7 @@ app.on('before-quit', () => { saveNow(); quitting = true; });
 app.on('window-all-closed', quit);
 
 function publish(force = false, snapshot = queue.advance()) {
+  noticeLayer(snapshot);
   flipSequence += snapshot.newlyShown.length;
   const packet = { preferences, layout: layout.pet, notices: { persistent: snapshot.persistent, transient: snapshot.transient, queuedCount: snapshot.queuedCount }, runningCount: state.runningCount, flipSequence, newlyShown: snapshot.newlyShown };
   const signature = JSON.stringify({ ...packet, newlyShown: [] });
@@ -238,6 +239,7 @@ app.whenReady().then(async () => {
   });
   window = new BrowserWindow({ ...bounds, title: '雪美 · 桌宠', transparent: true, frame: false, resizable: false, maximizable: false, minimizable: false, alwaysOnTop: true, skipTaskbar: true, show: false, hasShadow: false, backgroundColor: '#00000000', webPreferences: { preload: path.join(__dirname, 'preload.cjs'), contextIsolation: true, nodeIntegration: false, sandbox: true, webSecurity: true, spellcheck: false, devTools: false } });
   window.setAlwaysOnTop(true, 'floating');
+  noticeLayer = logic.createNoticeLayer(window);
   window.setIgnoreMouseEvents(true, { forward: true });
   window.webContents.setWindowOpenHandler(() => ({ action: 'deny' }));
   window.webContents.on('will-navigate', (event, navigationURL) => {
