@@ -146,3 +146,14 @@
 - 实际 Windows 打包预览：小人设于 DSH 窗口范围内，合成询问气泡和小人均显示在 DSH 内容上方，长时间等待仍可见；未向真实会话发送模型消息。切回 DSH 的额外验证被用户输入保护阻止，没有继续使用旧窗口状态。Windows 安全桌面、独占全屏及其他持续自我置顶程序不在本次实测范围。
 - 正式插件停用后同步完整副本，安装 `app.asar` 与本地包以及 `main.cjs`、`logic.js` 源码一致；本次未改 Host 入口，无需重启 DSH。安装备份：`C:\Users\admin\.dsh\yukimi-desktop\backups\2026-10-06T07-34-06-244Z-02a2a9d3`，同时保留 `preferences.before.json`。
 - 重新启用后正式目录的新桌宠窗口出现，插件保持启用；原服装、背景及小人位置与备份一致。真实会话的新提醒置顶链路未额外触发，窗口遮挡验证使用上述合成预览。
+
+## 重启后主题开关与持久安装修复（2026-10-12）
+
+- 现场宿主仍为 DSH Desktop `0.2.0-rc.2`。包总开关已开启，但详情显示内部 `yukimi-theme` 已关闭；profile 的覆盖补丁为 `disabled: true`。官方总开关调用 `setBundleEnabled()`，只增删 bundle；内部开关调用 `setPluginEnabled()`，两者独立。重复切换总开关不会清除内部停用状态。
+- 使用本机官方 `applyEntryPatches` / `composeEntries` 原实现验证四个配置组合：包开、包关、包再开及内部启用，四项断言通过。该证据依赖本机宿主，不进入便携 `npm test`；没有复制或修改宿主实现。实际 UI 打开内部条目后主题立即恢复，包总开关关闭后主题正常卸载；修复通过官方 UI 写入 `disabled: false`。
+- 同时发现安装副本已退回 `1.1.0`，Host 入口为空且无桌宠目录，profile 依赖仍锁定 GitHub 默认分支的 `94b6edf`。此前 `desktop:sync` 只覆盖安装文件，包管理重装仍会恢复旧依赖；没有证据断言仅重启本身必然触发重装。
+- 新增 `desktop:install`，从白名单 staging 生成完整 `.tgz`，包含 Electron 运行时并验证 npm 清单及流式 tar 文件头；按 SHA256 固定保存归档，再由 Desktop 自带 CLI 更新依赖。禁止覆盖不同内容的已存在归档，不走命令 shell，不改 Harness 程序文件。版本升为 `1.2.0-desktop.2`；README 解释两层开关及临时同步的限制。
+- `npm run check`、`npm test`（89/89）及 `git diff --check` 通过；11 项安装回归覆盖运行时缺失、发行白名单、归档遗漏、损坏压缩、打包失败、固定归档复用/拒绝覆盖、仅打包模式、Windows 参数、非官方启动器、安装失败和符号链接。实际完整归档与 Desktop 官方 CLI 安装已成功，安装后 32 项必需文件和源码、`app.asar` 一致。
+- 正式依赖已改为 `$DSH_HOME/yukimi-desktop/packages/dsh-yukimi-theme-1.2.0-desktop.2-d80b5db3b7a6a30e1095d3ddbdef1d12aaf315dd3104b1aee3010365834ff37d.tgz`。安装前正常退出 DSH，备份原插件及 profile 的包声明、锁文件、覆盖补丁与正式偏好到 `C:\Users\admin\.dsh\yukimi-desktop\backups\2026-10-12T03-58-14-668Z-managed-install`。归档需要保留，供后续包管理恢复完整桌宠版。
+- 安装后启用主题，正常退出应用及 Host，再重新启动；版本仍为 `1.2.0-desktop.2`，完整归档依赖与启用状态保留，独立桌宠窗口自动出现，页面只显示背景和签名。重启后关闭包总开关，所有桌宠进程退出，页面恢复宿主原界面。服装、背景、显示偏好及屏幕位置与安装前备份一致；其余 profile 依赖来源保持原样。
+- 重启后的包总开关再次开启，背景及签名恢复并新建一个正式桌宠窗口，页面小人隐藏。结束时主题保持启用并返回原会话；未发送模型消息或改变其他插件开关。

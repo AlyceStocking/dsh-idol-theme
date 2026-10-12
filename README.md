@@ -31,7 +31,7 @@
 - 拖动可到达各显示器的四边和四角，按小人本身而非透明窗口计算边界；气泡和设置自动向有空间的一侧展开。记住小人的屏幕位置，双击换装，长按打开服装和主题设置；透明空白区域允许鼠标穿透。
 - 启动后预加载全部小人服装，优先准备当前服装和下一套；换装前等待图片解码完成，加载慢或失败时保留原图，避免首次双击出现空白。
 
-从本地源码构建并同步到**已经通过 DSH 插件管理安装的**桌面副本：
+从本地源码构建，并通过 DSH 官方插件管理持久安装桌宠版：
 
 ```powershell
 npm install
@@ -39,11 +39,15 @@ npm run build:client
 npm run check
 npm test
 npm run desktop:package
-# 在「插件」页先关闭 dsh-yukimi-theme，再同步，避免运行中的文件被占用。
-npm run desktop:sync
+# 在「插件」页先关闭 dsh-yukimi-theme，避免运行中的文件被占用。
+npm run desktop:install
 ```
 
-同步脚本会在 `$DSH_HOME/yukimi-desktop/backups/` 保存原插件副本，更新失败时恢复原文件。它同步完整的 `lib/`、`desktop/`、`package.json` 和 `cordis.patch.yml`，不修改 Harness 程序、profile 的依赖声明和锁文件。随后开启插件，在会话空闲时彻底退出并重新启动 DSH 桌面应用及其 Host 进程；Host 会缓存模块，关闭主窗口、切换插件开关或刷新页面可能仍使用旧版入口。
+安装脚本会验证完整 Electron 运行时，生成包含 `lib/`、`desktop/` 及运行时的 `.tgz`，按内容哈希保存到 `$DSH_HOME/yukimi-desktop/packages/`，再调用 **Desktop 自带 CLI** 更新该 profile 的包依赖。请保留这个归档；后续依赖重装会从同一完整包恢复，而不是从 GitHub 默认分支恢复旧版。仅生成归档可运行 `npm run desktop:install -- --bundle-only`。整个过程不修改 Harness 程序文件。
+
+CLI 更新同名包会保留包开关和内部条目状态，安装成功不代表条目已启用。安装后，在「插件」页开启包，并进入详情确认内部 `yukimi-theme` 条目也已启用。包总开关和内部条目开关相互独立；若内部条目被停用，反复切换包总开关不会解除它。随后在会话空闲时彻底退出并重新启动 DSH 桌面应用及其 Host 进程；Host 会缓存模块，关闭主窗口、切换插件开关或刷新页面可能仍使用旧版入口。
+
+`desktop:sync` 保留为临时开发同步：停用插件后执行会备份并覆盖已安装文件，但不更新 profile 的依赖来源，因此后续包管理器重装可能覆盖这些修改。正式安装优先使用上面的 `desktop:install`。
 
 源码安装不包含 Git 忽略的 Electron 二进制；需先打包，或使用包含 `desktop/runtime/win32-x64/` 的完整插件包。`npm run desktop:preview` 是不调用模型的本地合成状态预览。手动回滚可在停用插件后运行 `npm run desktop:sync -- --restore-backup <备份目录>`，随后同样彻底退出并重启 DSH，以加载恢复后的 Host 模块。
 
