@@ -1,0 +1,4311 @@
+{
+  "checkedAt": "2026-10-13T12:10:44.533Z",
+  "endpoint": "https://wiki.biligame.com/imascg/api.php",
+  "scope": "Two character pages only; names selected from page image lists, URLs resolved through imageinfo. Metadata availability is not a CDN fetch or runtime rendering test.",
+  "samples": [
+    {
+      "id": "yukimi",
+      "page": "佐城雪美",
+      "stem": "Yukimi",
+      "pageId": 13054,
+      "revision": 198407,
+      "totalPageImages": 236,
+      "counts": {
+        "signature": 1,
+        "icon": 13,
+        "petit": 52,
+        "background": 26,
+        "mobamas": 38
+      },
+      "outfits": [
+        {
+          "id": 1,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 4,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 5,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 6,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 8,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 9,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 10,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 11,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 12,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 13,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "missing": [],
+      "spriteEncodedBytes": 1208982,
+      "spriteDecodedRgbaBytes": 13631488,
+      "files": [
+        {
+          "title": "CG-Yukimi-R-1.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100536,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b1/knxsjs96mpyjq6iuagx6x4zt66c4ddi.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-1.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13057",
+            "sha1": "b0e8bef93fd5245594d29f4b8a64f14b248120b6",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-1+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101153,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2b/mcqzb1iou761wk7qbk8qq0nfulvtl4o.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-1%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13058",
+            "sha1": "bf5eb8ee214bc77b8008b0976c06bd98ff3fa338",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-2.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101554,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/75/lzfz3yasy9oxl5kei7acvq6n2si08wd.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-2.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13059",
+            "sha1": "bc34b6048242bf601644e6b2ca9cb8a7bb4b4f0d",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-2+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100737,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b1/nd50guac4fiqd9mm69tlqw5oa5e3jfs.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-2%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13060",
+            "sha1": "c80605d7c6e8465575a7fc0d18e6d05f52602728",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-3.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100847,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/85/lprz9d2nae5ghovev7w2avm8aq0j3qo.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-3.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13061",
+            "sha1": "b9e83d934ca45b0f4178778f64efc5a0983ce1b0",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-3+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101453,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/fb/9bb0dvjfit32lcdj4c5upe62nslctkq.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-3%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13062",
+            "sha1": "4fbc68efe843d5eff307817ca021c64d438235ba",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-4.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100807,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8c/d5ptaq0memlxcuj1wfocc0480as539n.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-4.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13063",
+            "sha1": "70a6776f6eb079f42d5c6a10aa18e87d6691a3cb",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-4+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100313,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/32/rsq9x4788bc5x25mxsatk371qjivdxa.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-4%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13064",
+            "sha1": "edf96b548161ca623cc2a4bb96a198f3d956b63e",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-5.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101392,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/60/rq6jr5b7eljxa5xn02inwu7nms1xbu5.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-5.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13065",
+            "sha1": "ed5e4e82765eb4033e9ec94a68a9e7d6ba3d6b2d",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-5+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101730,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a9/nxsit880o7ag7jg815famz9dtofo3pc.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-5%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13066",
+            "sha1": "ccef515f68a894778068f7ea8cb3696dda1407c0",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-6.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100633,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5a/pw8p131ho62ylux8ydtbbu8cjs5y0ni.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-6.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13067",
+            "sha1": "ddb00e31f1380d6b91f813e087a10e44f6cb7cce",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-6+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102007,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/7e/ri3hrmpzhcw33sdborez1p99z3czu5d.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-6%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13068",
+            "sha1": "eb721fd7eb9113ce8a4ad72a881ff704bea96b61",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-7.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101356,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b7/25fvq3y89q8b0wltcovjvo8zj2f74s0.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-7.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13069",
+            "sha1": "126a623425904b126630124cd805a546f663baf0",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-R-7+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100534,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ea/qonnfoovogy7lffn04vlukbennfmg8c.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-R-7%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13070",
+            "sha1": "e471e6cea7aed67ff2077fb7cd8272b0d58216ac",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-1.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99617,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/66/c2vzhnu0fh82c0sepaty0zlk7vce073.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-1.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13071",
+            "sha1": "676ab37ce2b66e06f0324d84657ba800cc4ed07f",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-1+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 98158,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/41/ru4du0df7ko8hdjogiwyp3zofvo6snp.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-1%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13072",
+            "sha1": "ee4e278b29f91b175e9605e49a3d9c61bd8cba95",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-2.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99847,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5e/ne56lw75cm3i5rtsaxyvfhc1z0so7q3.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-2.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13073",
+            "sha1": "c843303098cb5edde5e6961e89fbacd5ecfc491b",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-2+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99662,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a9/6i8sikn64rw9fwivd6m2sli9l9dyzf7.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-2%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13074",
+            "sha1": "37b41522703e292f5cffa16fd80d14dad31868d3",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-3.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 98530,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/1a/nisd5sp8y2ts5ajrs94evffvn9qm6vz.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-3.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13075",
+            "sha1": "c95de5cac742202366107613e92fef3f9a891a5f",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-3+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99528,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/88/pf2ul9wxfgjcgghl7ugknd9a7zzey7y.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-3%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13076",
+            "sha1": "d99b43004eb377a05768a20c1e9a2320ac2503be",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-4.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101716,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/9/9b/0snl5j1q3wlxto1pgksr2wf8b5w3h50.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-4.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13077",
+            "sha1": "06d07161ff23d39a474f562c83a2b0c2a7927d84",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-4+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101295,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/71/4vug8mtsj85kjy88qfc2oltku9labpn.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-4%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13078",
+            "sha1": "29d0f75fe2bdfed58bc5187a5481de0c7ca332cb",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-5.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100628,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2c/doaaxm37dkk2gyczwjyy3t8y2gu8nr7.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-5.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13079",
+            "sha1": "7510e6b8f031fa6c9ec3efb81c36cd33f67fe843",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-5+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102199,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/4f/k3rs9eerv0fuvnhsamjal35h8spw3en.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-5%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13080",
+            "sha1": "ac1d0bea5df1b48c03deec4563aba7757dbd423f",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-6.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101823,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/3b/9vhn7r9iaahui826mg5upr2h2fpto2l.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-6.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13081",
+            "sha1": "54892b0f40f8eba6ed6ebbab18c80e4bb543d41d",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-6+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100878,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/09/a8qf15zz1zfhtpegi3cnu3w4uz71670.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-6%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13082",
+            "sha1": "57af6765599e1d5d749b398658c0471b3de1889c",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-7.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100849,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f1/rnqkd0u28p91wnrh7ywh62l5klhgiml.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-7.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13083",
+            "sha1": "ecc98659f35867f6f47b3447b21f798b35f0674d",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-7+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101016,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/62/bhjylqpma6rcbs0yunhehlpkim0sie2.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-7%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13084",
+            "sha1": "6257f34f3e3b1161353b1cb0e9828897b807841a",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-8.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100091,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6c/r6d7t8e747g0plbvdmk1grl0qw3n4ha.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-8.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13085",
+            "sha1": "e8a80b0e1bc0df0b819e35eb3e7865a4677a796e",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-8+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101676,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c2/eax78yw5wqnlxtcuyesulm5qnhpgvqr.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-8%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13086",
+            "sha1": "7a72ea5f7c038fe7bc94563e8bba0fd48dbb91b3",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-9.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100657,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/45/1l9mmhczu008z66wyooaiz3s0dt9cw3.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-9.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13087",
+            "sha1": "0d9e452d47e357c2400ad937b2b0420ae5663a83",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-9+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102141,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e9/4r01cq7hkcatq9zkvoncxyfuwwkd0hv.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-9%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13088",
+            "sha1": "28aa073db5edeb888feb0ebfff06e1fd83f2d7c3",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-10.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 98190,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f6/4rbc2n8qdq94ek3phwgbb3rmbe7fcyq.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-10.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13089",
+            "sha1": "28bd221513e8653187083ee268ce5bd3c9397e62",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-10+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100247,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/eb/nn3z1c6yc7s6fskpcoo6xtnoy5ro1uj.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-10%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13090",
+            "sha1": "ca6508d273dee4f785b5e8f5999fbb0ed97b6e5b",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-11.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100401,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b3/dfttq1zvsrdtnin2g3a2sjvkvlfowjq.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-11.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13091",
+            "sha1": "730e05412cc73fcea65b0dbe156cf1469f8c8dc6",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-11+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100533,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/cc/585gz94jv3dvjrd18xx31mxt0qhwhjw.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-11%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13092",
+            "sha1": "2cbe204d5b96958d24e15e1cb69048abdff5b9dc",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-12.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101987,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/1a/emh7wbdk7tq7x3in1x0z833hsat9goe.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-12.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13093",
+            "sha1": "7d3269d3763aaae0e9108c2cf96bfbf7710f61ae",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Yukimi-SR-12+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102177,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2b/eak34jr2oy0pd92l5smj3xr9ahwm9ol.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukimi-SR-12%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13094",
+            "sha1": "7a5cbd0e8ccd5624757e7a4276b4b9309d3ebe85",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-1.png",
+          "kind": "background",
+          "info": {
+            "size": 1193921,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a5/nr5fryuedu3w49btxqttb3z8kgavi42.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9025",
+            "sha1": "cb5b050e3ee9d4a0dbeb55cb8046e9e7afdf3772",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-1+.png",
+          "kind": "background",
+          "info": {
+            "size": 1169567,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/ae/lp2u2bb1iljjh32qtic2npkk5brlqu7.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-1%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9024",
+            "sha1": "b9bdb8851cfc7becc3adf6b0974fe0763f08d21f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-2.png",
+          "kind": "background",
+          "info": {
+            "size": 942573,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c6/ktwwmvw60sw180idvl4l8qhxsbgdgk2.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13128",
+            "sha1": "b2548242184c769282f7813c0abaf734398db112",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-2+.png",
+          "kind": "background",
+          "info": {
+            "size": 1449317,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6d/2ehigxz87rmc8gmtxljn6hhpuaomest.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-2%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13129",
+            "sha1": "14910932f3b11d2aa396effbd9b2abeebe6e946d",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-3.png",
+          "kind": "background",
+          "info": {
+            "size": 1485580,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/af/gk3iialzydgjjwpapuwdqoq9vgt1r5c.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13130",
+            "sha1": "8dc0a0602c600848cbb58ab3105edab9055fecb0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-3+.png",
+          "kind": "background",
+          "info": {
+            "size": 1296925,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/04/qe8d4t3df0jfzkp5ww3t6dum0uajgws.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-3%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13131",
+            "sha1": "e1f7484ac3f2e59afdfc9d868a9ee9a6ff58de5c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-4.png",
+          "kind": "background",
+          "info": {
+            "size": 1263692,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d1/q2orsb6ygokz4hbfguwry3jmcskzsb2.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13132",
+            "sha1": "df3880d6def5df4c0d24131685d5159f01313e0e",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-4+.png",
+          "kind": "background",
+          "info": {
+            "size": 1248173,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/68/md8xgmergzrtwy2ktq8ilkxpv0cv8zo.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-4%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13133",
+            "sha1": "bf7d12ff908b423be45fe809fec7d28f2021fb44",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-5.png",
+          "kind": "background",
+          "info": {
+            "size": 1296609,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f6/3whyomkrysdjw7ajcglkui65ncllo94.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-5.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31991",
+            "sha1": "216927a11849aaa581cc49f804019ab759d90308",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SSR-5+.png",
+          "kind": "background",
+          "info": {
+            "size": 1398534,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/40/9qylnl62pskrgo7hqfrrqi1pidi5qan.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SSR-5%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31990",
+            "sha1": "5375751b15039eb20436c10b906fa51dd2f81a5f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "Yukimi-sign.png",
+          "kind": "signature",
+          "info": {
+            "size": 73338,
+            "width": 630,
+            "height": 504,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/62/1w7uaneo9yw5ps9s8ts843pvc99x3zk.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Yukimi-sign.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=629",
+            "sha1": "1038e536a5903b540bf9247fbaaa25916e517f70",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-1.png",
+          "kind": "icon",
+          "info": {
+            "size": 17412,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8b/ing01go9a5qd2kucddkckwbifsjo4d3.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13103",
+            "sha1": "9fab842ef421187813418355cd580a9ac93f7f17",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-2.png",
+          "kind": "icon",
+          "info": {
+            "size": 18741,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8e/7w9z8hwrpnboketav10skclfa1cn50f.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13104",
+            "sha1": "4399f04691d72020ba58cb090e398a60e3a0091f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-3.png",
+          "kind": "icon",
+          "info": {
+            "size": 17863,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/18/66l9m5mrlf7nf75lwshn0tunntp2c2i.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13105",
+            "sha1": "34eea77dbfba07d92708dbabd1bc5484789b269a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-4.png",
+          "kind": "icon",
+          "info": {
+            "size": 16935,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f3/kwccpkj39yt5gp9h0vwn32tjkovli12.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13106",
+            "sha1": "b2e8621e58c10405a6acb4c2999eb0520aaa2d86",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-5.png",
+          "kind": "icon",
+          "info": {
+            "size": 17341,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a1/s8gpxcuy41p9z7oanrnxjda1axrqmvv.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-5.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13107",
+            "sha1": "f1b74aeb2c8ce3a9e855d053b0e9f424b2d8f55b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-6.png",
+          "kind": "icon",
+          "info": {
+            "size": 18033,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/17/tgvn9p30l9zr2ckx1wzkdokc71fjjnd.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-6.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13108",
+            "sha1": "fc471ee32192e6a3d2a9ca21629be0fd46116d39",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-7.png",
+          "kind": "icon",
+          "info": {
+            "size": 16957,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b7/n84ir0nr97kg5wh38bt15hoyqd1psr0.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-7.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13109",
+            "sha1": "c6d4ce3f7bcdd8cfcbf5dbff44390b48e7fe72cc",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-8.png",
+          "kind": "icon",
+          "info": {
+            "size": 16128,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/ba/opx7sej6fnfbmaesdycx7eettxzybqe.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-8.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13110",
+            "sha1": "d39fcf937f003b8a735f7675696e2599db90a6e6",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-9.png",
+          "kind": "icon",
+          "info": {
+            "size": 15910,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d9/au4ncgsa9qkz9zc7eyzpjl3h3gsvq5h.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-9.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13111",
+            "sha1": "5cc5e2b16b728f23f7e24d740ad684a6a3b4e225",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-10.png",
+          "kind": "icon",
+          "info": {
+            "size": 16674,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/00/mkrma80t5z4armnuivcfa2pjso2skv7.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-10.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13112",
+            "sha1": "c146d14d4c527aa17f9a2797d5d4d87f622c7aa3",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-11.png",
+          "kind": "icon",
+          "info": {
+            "size": 16863,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/9/97/nc0r5y72k1olq3182h70yhidvba1ror.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-11.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13113",
+            "sha1": "c7c1f1dbc2b76631b32dd50be85968568928c86b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-12.png",
+          "kind": "icon",
+          "info": {
+            "size": 16230,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5a/nwe33wnxg41b1whba9speyeide4ueyh.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-12.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31984",
+            "sha1": "cc9a07633d66a132b60d845d16d875f8a4bb7339",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-icon-13.png",
+          "kind": "icon",
+          "info": {
+            "size": 16259,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/66/a5ydvlwluiuy7azoneiyai7rjeo8b78.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-icon-13.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120652",
+            "sha1": "57063f3670bd998758f83548be767c7d7fefeab4",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-1.png",
+          "kind": "background",
+          "info": {
+            "size": 719932,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c5/7072a9ghtfsg26d6wgg8jgjac4mz49r.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13114",
+            "sha1": "3bf8f1f51be438d7810adef419e13bb6a49da65f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-1+.png",
+          "kind": "background",
+          "info": {
+            "size": 590917,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b5/8r1baeobac5tr87gybfl6zt1dtwvswb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-1%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13115",
+            "sha1": "4aea78da61ce7f48e89e17dab47e909a4c4a680b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-1-1.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 1,
+          "info": {
+            "size": 21659,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/7f/6currqdaigi46vyxec0tmzkyybgnas8.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-1-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29835",
+            "sha1": "366bfcfbda3df12399094a5de561d6796fd45258",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-1-2.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 2,
+          "info": {
+            "size": 22991,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d5/6hitk3tgbmwln3o6p3zvk4vl77yczv9.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-1-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29836",
+            "sha1": "37882a3171f0435928677d22e1b37f76ec8ece95",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-1-3.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 3,
+          "info": {
+            "size": 22231,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d4/snlj1f98vxoxyaz19ci3eyv1zj33nx5.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-1-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29837",
+            "sha1": "f550943eb5e74483f3e8d21e555c3fa6040e1ad9",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-1-4.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 4,
+          "info": {
+            "size": 23836,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/31/kd1lus7rthpitvlsh3efgltjck7pn9g.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-1-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29838",
+            "sha1": "ae518c7d68235e4f22361dc2643f81d24f5ef904",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-2-1.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 1,
+          "info": {
+            "size": 23404,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/37/p93o5mirwf40u38kybyyn1x6tmf7kta.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-2-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29839",
+            "sha1": "d82f63798df7cd941e9c1dbbf252b76e041f3c1e",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-2-2.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 2,
+          "info": {
+            "size": 22939,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/13/c2taxfxixkgqdnzikflg1jm0l47j15r.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-2-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29840",
+            "sha1": "67662a536c0979ad2b6ad9cd02c485304329d39f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-2-3.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 3,
+          "info": {
+            "size": 23497,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2f/nxbtpk06h71plh0it00dcw9gljr0kru.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-2-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29841",
+            "sha1": "ccd315120f76858467e332603bb65d075d87e02a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-2-4.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 4,
+          "info": {
+            "size": 23725,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e7/qrh1epfq4aricofastvazf2nhxgi591.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-2-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29842",
+            "sha1": "e51d5a093019654e3649752bf07dcaa9168bef15",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-2.png",
+          "kind": "background",
+          "info": {
+            "size": 1090251,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/4e/q82bvl4fury5fim6yya43ke63nvsmnq.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13116",
+            "sha1": "e07fd0b79ec238c09ef9fdd1a20cb5cdf7144cb6",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-2+.png",
+          "kind": "background",
+          "info": {
+            "size": 1266144,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/50/tedj5q9xy4a64ftobrann36bojus3w5.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-2%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13117",
+            "sha1": "fbaebc30bffcdc5c30da1dcd0869603ef6274cb5",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-3-1.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 1,
+          "info": {
+            "size": 25139,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f3/awe2krnvkyki6gdepmqs0eie3kdby1x.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-3-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29843",
+            "sha1": "5d4f92fc9b09cdce08e396e93270ccd0da592e25",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-3-2.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 2,
+          "info": {
+            "size": 24580,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5b/0gfvhet9j89b766xv7mr3kypzvqiph1.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-3-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29844",
+            "sha1": "03e8e0469b81e6a60a24720fd74873182696f775",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-3-3.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 3,
+          "info": {
+            "size": 24100,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/64/ofbt13fraa5fgwpt59ww9n23u4q8cl6.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-3-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29845",
+            "sha1": "d11ad60de3b803ba4398aca09f776fdea4577bba",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-3-4.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 4,
+          "info": {
+            "size": 25871,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/60/g9xa7ymt7t6d46q2otd4ei04o7xez5n.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-3-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29846",
+            "sha1": "8b55523847540b8069a25f0a21ce9577575d667b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-3.png",
+          "kind": "background",
+          "info": {
+            "size": 1237978,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8e/gtxk5xydrcme1e2ug7qestym18n5ey3.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13118",
+            "sha1": "901753f7b48deb2a07db03627cfc7afbdef501eb",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-3+.png",
+          "kind": "background",
+          "info": {
+            "size": 1311437,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/75/f64m4thcc3hfdxuypgl8txe9gcj8m62.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-3%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13119",
+            "sha1": "81dea373128a3f9e0253806e8264a1791bf0053a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-4-1.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 1,
+          "info": {
+            "size": 23112,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/71/3u1x11tfwgiu4zwj8rk2ggdgr7n7ve5.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-4-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29847",
+            "sha1": "20d44443750773d7630ccfda736fd543b6a53dad",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-4-2.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 2,
+          "info": {
+            "size": 22646,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/84/b11dcdaams7kcara8r53dvnxz42cime.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-4-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29848",
+            "sha1": "5e6a7b42b90f832a0814b174fb0739a6c62f2b46",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-4-3.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 3,
+          "info": {
+            "size": 23471,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/bb/tnzm5hn4tqmzhiml4386yrl2yn104kr.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-4-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29849",
+            "sha1": "fdf7f8a105b78dfc06fe3e9eb4ead0032cdc142b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-4-4.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 4,
+          "info": {
+            "size": 23429,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/48/5zynswr8uyuxlgc5mdrzorbmjj9coju.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-4-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29850",
+            "sha1": "335b2a4709cb16c8eb12b9c0ed2acf8bbb888c4a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-5-1.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 1,
+          "info": {
+            "size": 22057,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/cd/8495ui0wviex7f9euh9vhmb65f9exey.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-5-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29851",
+            "sha1": "457f92f0ff0cc01c286d466dae70d475a2a4b5aa",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-5-2.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 2,
+          "info": {
+            "size": 21808,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/30/rdipmqp6a85girfrnlx1bfumeqfj5ev.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-5-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29852",
+            "sha1": "ea5b7969cc9d097fc90f7dee280cb228c4791927",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-5-3.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 3,
+          "info": {
+            "size": 22285,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6d/aiqzghjs2fwx3i71o8nrmu3su844nys.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-5-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29853",
+            "sha1": "5a112219d04fbe844ca52fc2b4bea50d790cd654",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-5-4.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 4,
+          "info": {
+            "size": 22321,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/57/mqoyuq7f3d2t8baq117gakz8ek7axxx.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-5-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29854",
+            "sha1": "c2af98cb6b754430dbf50a662bd16a3f2687e155",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-4.png",
+          "kind": "background",
+          "info": {
+            "size": 1180728,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ef/gxloy99frxca5hkfsfvf6jjqw7e32xo.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13120",
+            "sha1": "90f6c4b94844fbb7af9c7a40b04dd5c7dfb6fb9c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-4+.png",
+          "kind": "background",
+          "info": {
+            "size": 1259362,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c9/f4d3qlwr1kd194854lvcqmagv70u4g6.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-4%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13121",
+            "sha1": "81733d5c7ffbebcf8e59b829170cbb026098de06",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-6-1.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 1,
+          "info": {
+            "size": 22036,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/3e/m48ujwrazrd7zgokhkgvbmewjaccrpw.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-6-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29855",
+            "sha1": "bd590b71af517ac4404ed3e8aebe453cfe533b54",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-6-2.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 2,
+          "info": {
+            "size": 20833,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6b/rv99bh5xrc77yg32ejlztn6xobzn2md.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-6-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29856",
+            "sha1": "ee934646b1e1d1389034d7ed01514f9e84183c05",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-6-3.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 3,
+          "info": {
+            "size": 20651,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/06/tnk758yuo88400nttwczwb1j7lrg0h6.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-6-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29857",
+            "sha1": "fddde6a08407d030b233802649238caa6db4056a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-6-4.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 4,
+          "info": {
+            "size": 20914,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5d/kwt1pmyddib56sugzyart6vbg7lhfow.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-6-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29858",
+            "sha1": "b3049d3764d3e251eeee33d63caafc86fc25dab0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-5.png",
+          "kind": "background",
+          "info": {
+            "size": 1396886,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/da/ql99mtxys1osegpve1c1zgjnqty6efb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-5.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13122",
+            "sha1": "e3a2f2acd3dd75500581437f429d8dd7aed2e487",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-5+.png",
+          "kind": "background",
+          "info": {
+            "size": 1050607,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f3/hlam5dw18vbmzc5qxfv7gghkd1sibog.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-5%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13123",
+            "sha1": "9699154d512a79fd8418af51d6f0a70e4bd71ba0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-7-1.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 1,
+          "info": {
+            "size": 23764,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/66/a0hh16zou02b9nswx9ysadya9fxe4l5.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-7-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29859",
+            "sha1": "55b9434276632c9ce7e445f91e31226af6e37bb9",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-7-2.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 2,
+          "info": {
+            "size": 24214,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/39/gdcz80tg6yk93og2mmdgd479qioaxsj.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-7-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29860",
+            "sha1": "8c267df029221fd48afaad965e9e97d2ccad4993",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-7-3.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 3,
+          "info": {
+            "size": 24089,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5e/mhx1onozcb0xki5g444j3h0v1sbnf1p.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-7-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29861",
+            "sha1": "c0995d7d4a97616a03145eb8669083f8121156ed",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-7-4.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 4,
+          "info": {
+            "size": 24032,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a8/074pmx9z7x7unb7k1ywz1dhka1em6mi.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-7-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29862",
+            "sha1": "01b21b74df5910d5085a08e6630c913959d9dd0a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-8-1.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 1,
+          "info": {
+            "size": 22643,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/15/5z85ueg7jpc01o09nmv4svqwtklgr12.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-8-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29863",
+            "sha1": "332e5ad884f362de4dc133dfd1eeb9e1725dc1d6",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-8-2.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 2,
+          "info": {
+            "size": 21536,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/12/mcnppr62mp9mg1pcbnpku2nt1v3ivf0.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-8-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29864",
+            "sha1": "bf5932e27d4cf247ee225f131e7bae3d83ff7e8c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-8-3.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 3,
+          "info": {
+            "size": 22325,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/36/p7gw8g13162ipbvd5p9sn6vmsxr2cyr.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-8-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29865",
+            "sha1": "d7cbff56e4b6cafb7e40d41188575dda8dcb0d23",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-8-4.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 4,
+          "info": {
+            "size": 23345,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/af/i99ouf8oemw2ohenniv391ptclb38yg.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-8-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29866",
+            "sha1": "9c4c91049b6f296c1ece7f00b74bee7156baaf18",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-9-1.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 1,
+          "info": {
+            "size": 22968,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a2/ibhnwict33qecuuk81nx8vyln9th7to.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-9-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29867",
+            "sha1": "9cd3cdee5e52782806bc2e21b1fd7ea5db86f2dc",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-9-2.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 2,
+          "info": {
+            "size": 21608,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a3/qsmxat8m1q7jhidyo2yvlsu9vgmgqd4.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-9-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29868",
+            "sha1": "e5642e8fb63145cb21a77a0583f205440b7b2f78",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-9-3.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 3,
+          "info": {
+            "size": 22074,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8a/enorxt2qehfxoi06pupwn41gjxs7qet.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-9-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29869",
+            "sha1": "7d7c11a7d71c79297d11ad25d18774fd9e157175",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-9-4.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 4,
+          "info": {
+            "size": 21659,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/60/qda7cw5dm21qgq7oibtu2zz4prodhiu.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-9-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29870",
+            "sha1": "e1bd8423bd87c56156ba67a112460ed8c3508df6",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-6.png",
+          "kind": "background",
+          "info": {
+            "size": 1403019,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2a/f841ll2n4v3j4xgedp0m2z2pjsuv87w.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-6.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13124",
+            "sha1": "82576d8a5554908fda5b51f2fe4f5e399ef1795c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-6+.png",
+          "kind": "background",
+          "info": {
+            "size": 1651001,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/34/el5mgvr7bsxol4ke9257k2wpzsyej30.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-6%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13125",
+            "sha1": "7ce1edb3bf0e45999d0ce946159dc82919971a1c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-10-1.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 1,
+          "info": {
+            "size": 21422,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/47/pgc7yl7cwztetdpznu04z5n2p7t3izz.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-10-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29871",
+            "sha1": "d9e7fc68fee24169bbe45d049c3fdadbc4444bef",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-10-2.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 2,
+          "info": {
+            "size": 21042,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/fb/m4ioswd3z5naq0ih26ese8aq128z5b5.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-10-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29872",
+            "sha1": "bd69af538b877d2a4d224beaf9b11c1ad1f6e5a1",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-10-3.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 3,
+          "info": {
+            "size": 20946,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/23/7giwd610wqb38svsjxkzek7hu3ytf9p.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-10-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29873",
+            "sha1": "3fdafdc01c60d3270ece0a4114f55bf99aa9608d",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-10-4.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 4,
+          "info": {
+            "size": 21321,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/82/56sbmchyhp3maqljimfa3nudhyde7cb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-10-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29874",
+            "sha1": "2c6b039e2e2dbb2531e524cbedbe99494b6461ab",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-7.png",
+          "kind": "background",
+          "info": {
+            "size": 1323752,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/13/qusvh4juet41d8dsoiifeh5vyv1pqtq.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-7.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13126",
+            "sha1": "e5e7ff0e39bde2d76702904fa734dc276a78b10e",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-7+.png",
+          "kind": "background",
+          "info": {
+            "size": 1611591,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e7/hv19pr2cvglfywtza4xgqxqu6kygudx.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-7%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13127",
+            "sha1": "98ea0cbcbe97517636296fadf9430d329aec0fd5",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-11-1.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 1,
+          "info": {
+            "size": 22422,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/0b/ceylopyy5smktvl3sbzxpuuh1z30fg3.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-11-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29875",
+            "sha1": "6a49a64e77df736e684dfd8e0d85fecab098ed33",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-11-2.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 2,
+          "info": {
+            "size": 22557,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f2/hx2crv3nuwhjpnsyc1uh5ikzeu5l2kc.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-11-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29876",
+            "sha1": "9965a3702d29e0e782b97b3c84febeba14affd3c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-11-3.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 3,
+          "info": {
+            "size": 22402,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b0/cnsfcehw76wnz51r36q49jp8hinuc8n.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-11-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29877",
+            "sha1": "6c6319333e9bfdb6adc0f477482cc7aa3b79a877",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-11-4.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 4,
+          "info": {
+            "size": 23361,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ee/r9bvb6e3t2k7llk7h44ipibc0ln0140.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-11-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29878",
+            "sha1": "e95c65587d1eeacda0c17b0ca4f66bdec3caf0a0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-12-1.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 1,
+          "info": {
+            "size": 28651,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2b/pmecf6g1jeq3dx7xrxdd6tp6sf9rm7l.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-12-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31985",
+            "sha1": "db58d6e8d262195725bf8d35fd2acfaae4322e31",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-12-2.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 2,
+          "info": {
+            "size": 29547,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/50/1p50la2vv9lrwtvofrq7mwm5hzs448v.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-12-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31986",
+            "sha1": "0e89faa548d02e4aaf2673d1426214bba632467f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-12-3.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 3,
+          "info": {
+            "size": 29239,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/76/oan5ddell5tot762juw7ucda4fcl7yz.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-12-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31987",
+            "sha1": "cffda1d8b1c4d5019519a66350b8172ec29a039b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-12-4.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 4,
+          "info": {
+            "size": 29447,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a9/skdi6dh1cvn6d8bd9e4yo8r6af1tynq.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-12-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31988",
+            "sha1": "f48c611fa86823b308cf79865c78dad017e5b1b6",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-8.png",
+          "kind": "background",
+          "info": {
+            "size": 1259497,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/dc/sxv035hpv4egj4oh7dn3z8w309zwbra.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-8.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120658",
+            "sha1": "f7c15e762d14c363310b5a012e7b2b218cd28a86",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-SR-8+.png",
+          "kind": "background",
+          "info": {
+            "size": 1313216,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f5/dr6aew74alr71fhdpp4np809a2epujg.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-SR-8%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120660",
+            "sha1": "75c0be621dcf6402d3e7b11a81eeb20673655cdc",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-13-1.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 1,
+          "info": {
+            "size": 23170,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/12/gtt7gn0djn9tzrj2ka24cjjxzlzqfbw.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-13-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120654",
+            "sha1": "900ff79a2b94890874a66f2ced5253cef247b71c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-13-2.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 2,
+          "info": {
+            "size": 23354,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/66/t4xs3hfk68tdx3ba7mpih4g0anon9fb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-13-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120655",
+            "sha1": "f97034a4075980c10bc4977bfd5ce506ab030377",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-13-3.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 3,
+          "info": {
+            "size": 23085,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a5/lzll07ijfzhoqipre9byrdaisldut4e.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-13-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120656",
+            "sha1": "bc3e31d57b70d989dcc17a2308851fcf3d26cfee",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Yukimi-Petit-13-4.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 4,
+          "info": {
+            "size": 23224,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e7/cuu700a8n0yu03nrc2479sczyclbf1a.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukimi-Petit-13-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120657",
+            "sha1": "6e103a39a9e010a1a87cfb375ac96e56a170e5de",
+            "mime": "image/png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "arisu",
+      "page": "橘爱丽丝",
+      "stem": "Arisu",
+      "pageId": 7402,
+      "revision": 220926,
+      "totalPageImages": 343,
+      "counts": {
+        "signature": 1,
+        "icon": 14,
+        "petit": 56,
+        "background": 28,
+        "mobamas": 41
+      },
+      "outfits": [
+        {
+          "id": 1,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 2,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 4,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 5,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 6,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 8,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 9,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 10,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 11,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 12,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 13,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": 14,
+          "poses": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "missing": [],
+      "spriteEncodedBytes": 1266716,
+      "spriteDecodedRgbaBytes": 14680064,
+      "files": [
+        {
+          "title": "CGSS-Arisu-SSR-2.png",
+          "kind": "background",
+          "info": {
+            "size": 1004408,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f6/t1votkhdq28rhn8zkjh8uws5y9g7zqv.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7392",
+            "sha1": "f8b609ebf8e726db5298250d33b07554c642e4b7",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CG-Arisu-N-1.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100153,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f7/nbptmuiup3y59ra3zsjbbhjp3hewqxm.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-N-1.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7325",
+            "sha1": "c7af759eafbc8cf5cfbcc8ac0b47e864445b725a",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-N-1+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100358,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/59/j64feoz19cmv40fns7ype6crg879xq3.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-N-1%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7326",
+            "sha1": "a41c9bce3b70e25d3574d5da5780507329f559fb",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-R-1.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101192,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/24/krlz0dj46btg4a9u5rrrklo6hl22eyd.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-R-1.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7327",
+            "sha1": "b1c843dd35351a1ae1ad726b85e9304531d5fe35",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-R-1+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100674,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/53/gbyks48v0i840qnna9uzfm0nlovqe1e.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-R-1%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7328",
+            "sha1": "8bd1431f9d8ffcaf3b40d93feb9f13a9ca18b892",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-R-2.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102138,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/af/oansy07k12kwsxcqpcmtheqk1faui8j.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-R-2.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7329",
+            "sha1": "cffebd50ca1e9a0fcc13c5d0c7b3b86d5c23add3",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-R-2+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100687,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/bb/l13p666fvcqyk6itzuh5zmqwstev9sl.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-R-2%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7330",
+            "sha1": "b40a22616d77863ca08af6f19fabf2b749d16555",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-R-3+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101676,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/56/17mgq3hfuya4rwq9a266352nnj9dzxf.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-R-3%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7331",
+            "sha1": "0a5fb2da616eb262d570524acfa7049f5a72fc23",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-1.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99200,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8a/36avio4ogv1ico1kfw1ha0kwejxc83r.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-1.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7332",
+            "sha1": "1b2e5e053e3551f598d461793f09b6f902ff8107",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-1+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 98882,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/11/1wyjc0s2z69pa6ip1mgubywg3fyb743.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-1%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7333",
+            "sha1": "106609c6ee45f254ade7f9d1241aeaa4eab826c3",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-2.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 97731,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/24/pct8h3hatxwow7kvbmac5raqyhhrmyr.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-2.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7334",
+            "sha1": "d9113fe8c5db9d6310a9892c1fda7a02caa4e203",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-2+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99540,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d4/7xpaetskbeyiv6miqb4tvq4213jk72n.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-2%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7335",
+            "sha1": "43f0b4b84657c3557ac12884f468e1253d1ccfcf",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-3.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 97687,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/9/96/ogrkzcmba9b7qfbbprhfyvwupdxe3r8.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-3.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7336",
+            "sha1": "d172643a3fe39d48b7b2e0df27f7cc1002422f84",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-3+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 99607,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d2/mp8zx5j2753gskzmbanfepibq8ywtpi.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-3%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7337",
+            "sha1": "c257b6ac516e853e33fe8bf9711f7bab2ffe4066",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-4.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 97649,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2a/5dxfz2rvwrferxqtz8k4eefvbuqogrc.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-4.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7338",
+            "sha1": "2e1dd00ba07a14329d42cbbd0569cf455f916cd8",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-4+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102333,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/58/5rcxjrijtyr9lbyept5kmh97smsll8x.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-4%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7339",
+            "sha1": "314f6789dfaebdab457fc075d6ba8f7ad12d92d1",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-5.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100830,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/11/ngh20ctfaur9x86blh0a33d84qsnias.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-5.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7340",
+            "sha1": "c8d104bf93d2765f21c6f2427193429879ea4064",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-5+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101264,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d1/1e8fdpmx52b3tf42o9tfd82k9hckan2.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-5%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7341",
+            "sha1": "0bf2199bdd3ac6074b934eaf1db4054293cd72de",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-6.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102319,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b3/6rso2k2aqx1dwxetvbkibbyyl274uqo.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-6.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7342",
+            "sha1": "39f996525c1bf4451ffe9078a9da51fbc97af3a0",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-6+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101918,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/1f/t9wf3uwwvavywpiqf2cztieaxpp62h3.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-6%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7343",
+            "sha1": "fa9e4a145d2d5d778912a1c67a68f7f142949f07",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-7.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100256,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/41/puj7wkmmqe4kuvwi3k3g952q5lj60g9.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-7.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7344",
+            "sha1": "dd48192d807f4ece4950b6086c8b709f49ae7ec9",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-7+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101964,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6c/g22u7emdypzlo0suqo2kct2ush9430g.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-7%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7345",
+            "sha1": "8977b2fb7e7dfdde1375cac46f19f14ebc75b540",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-8.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101341,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ed/5e2cebx3pmpwgftgp20o7z5qu5yjflk.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-8.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7346",
+            "sha1": "2e26198e32e92bcd5f692a8d2ba79e96d211cbb8",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-8+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100954,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/9/93/ldrnrd5aglz8fqemps3o3ptamve6930.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-8%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7347",
+            "sha1": "b70d2d2f5196095c60ca899f0352b271934ffd7c",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-9.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100337,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c7/8wbe8g46n4mxdni8zkzz8wx3towvi49.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-9.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7348",
+            "sha1": "4c2be7d8ba3b9e7220320be4e242b38d932a7d79",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-9+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102194,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/42/1akuo5r1d8nzilu0u5ea1qo518dpc87.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-9%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7349",
+            "sha1": "0b139a46dfd9b400a0a08643068c38b9679aa727",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-10.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 100088,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ee/cedhoal4025plhnc1k13420i1lz1c3i.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-10.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7350",
+            "sha1": "6a25f319a099ab7c32c8ca67ab8493217ed8fa7e",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-10+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101336,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/3f/cawx86q6jis3cbfmdcujosjbht6ed75.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-10%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7351",
+            "sha1": "69534d3e83de3c2d4c9c2484e908b73772686451",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-11.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101569,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/71/599hgotj70bzf6rcv3h1ga24dvy1uot.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-11.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7352",
+            "sha1": "2d01ca3f37234c1fd295b8a83479377ccb795f9d",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-11+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101178,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/82/86cdoribpy8ek0x6t1qkz69hddushsm.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-11%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7353",
+            "sha1": "45fec4f3b9a7075dd917236f06ac0724bdb68b16",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-12.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102386,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/4c/it2293pr8sys3fbmsbmdu7cy5ea0t9b.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-12.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7354",
+            "sha1": "a1013531db1ff7bcf5ef382e3c8afdecb3dda61f",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-12+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101358,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f4/kcgz6u5jgmaf3gqbwiuqpte61mg72jf.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-12%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7355",
+            "sha1": "ae2ea9e1046776abe5262e78400d9d0c418fc09b",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-13.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101026,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/57/hzq6uhke129dhkjeyasfe0jvnkrfaa8.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-13.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7356",
+            "sha1": "9a07b2da8b8453e17f26b1398ba64ef3aa5adcd0",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-13+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101019,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c7/98hoo7lg37m2a65vpaiqoy081o7uglu.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-13%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7357",
+            "sha1": "4f1110e23b1a0c1c72e26ef1f469195d84c18692",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-14.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102242,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/63/4yj2siuxx4xfbxeqg1aniqpbn1hwy7j.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-14.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7358",
+            "sha1": "2a745d427aabeddcda29a80c2cf6a2fbecfdfa2f",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-14+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101863,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e7/3y0cm3pr7chs1mbt717lonmrx13myiu.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-14%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7359",
+            "sha1": "21c51fe6752401e9d3e783da839dbccb6c9baf46",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-15.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101283,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ea/csikn0obxkfxo20fl1ltorkbi48iul0.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-15.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7360",
+            "sha1": "6d82d262647b80d18eef35b6f9c22c1c35e0e354",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-15+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102263,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/9/97/aixpnx0xrc065j1vlmkhy2djcgwit60.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-15%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7361",
+            "sha1": "5a1c82a725b42dc50767809bc251be422f544428",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-16.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 102043,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/76/s4wg5lssw5q5tq8xee00kc3517sl3mq.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-16.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7362",
+            "sha1": "f0de61d645b521af1f3e53ba67c1d89828e06da2",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-16+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101112,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/0c/2oijqzgp9g8zdezles4jjqbwk165wpf.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-16%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7363",
+            "sha1": "16f38e911d4c97f5d0d5e0ab2e4c31b40f50ded3",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-17.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101541,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/7d/qrfng15yz76dhapio2g8vfl1qs9s947.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-17.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7364",
+            "sha1": "e51b01397cd8cae7d3d0bc680bac83557a8b9627",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CG-Arisu-SR-17+.jpg",
+          "kind": "mobamas",
+          "info": {
+            "size": 101586,
+            "width": 640,
+            "height": 800,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/15/mqr8fohzhi65ecl0y7o1nnbg6fyk7ht.jpg",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Arisu-SR-17%2B.jpg",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7365",
+            "sha1": "c2b36dd33fc920b5fe4144d505ecebfe029ac0f1",
+            "mime": "image/jpeg"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-8.png",
+          "kind": "background",
+          "info": {
+            "size": 1093650,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d4/iydfvyavpladsfgbndhjpcgop7k85cq.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-8.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119993",
+            "sha1": "a244d5a1198e546e21b10f30978d90825bcf6d1a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-8+.png",
+          "kind": "background",
+          "info": {
+            "size": 1426915,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/df/s17w49xzghghca02278kyx0n0sflqhr.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-8%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119995",
+            "sha1": "effe39b176dfcb3c0d58793608167dcd2b35985f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-1.png",
+          "kind": "background",
+          "info": {
+            "size": 1205281,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/05/esxtg172aega34338qjgsrmzhnlv04k.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7390",
+            "sha1": "7ebbbe70454e84962719b093a19171919249d364",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-1+.png",
+          "kind": "background",
+          "info": {
+            "size": 1322056,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/75/h16zba33b9vbrvxojew7gp66q0svkag.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-1%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7391",
+            "sha1": "91d165d04b7d43fec37e10209cd7d5c67a4b3478",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-2+.png",
+          "kind": "background",
+          "info": {
+            "size": 1269243,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/61/5wno5akizyvp2hjqpqkjsy5b7ao14pb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-2%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7393",
+            "sha1": "3291f2f48550a6fe1aca312ad4b8f81ec9c57e0f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-3.png",
+          "kind": "background",
+          "info": {
+            "size": 1013246,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/fb/ogmyrbu1md22pnh7c2eijx6s1vfvw0u.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7394",
+            "sha1": "d16a956254b5d580f5627241ef06856a0b390ede",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-3+.png",
+          "kind": "background",
+          "info": {
+            "size": 1235938,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/7d/d9ct1n5xn2fk52rsssq2gi111cpsefv.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-3%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7395",
+            "sha1": "7183fab295bc7759600cf04d10a62f70c9baf11b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-4.png",
+          "kind": "background",
+          "info": {
+            "size": 780201,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/29/rxpxz1i4oputv4srz9oqwz9ke4833pm.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7396",
+            "sha1": "ef293e3706d42cc52ae12bdf79a1a53ca6bead8a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-4+.png",
+          "kind": "background",
+          "info": {
+            "size": 1120110,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/01/ltfc36rr1ovlsh3k086g8qmoepxgy3g.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-4%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7397",
+            "sha1": "bac65e22453b20af68b7ae6696a90987727ab59c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-5.png",
+          "kind": "background",
+          "info": {
+            "size": 1162608,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/cc/fpds8nxhkrwc2wewyjv10gx8zlyigsb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-5.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7398",
+            "sha1": "8672ceacaa1cc81df2e46337d243058ca6162b7b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-5+.png",
+          "kind": "background",
+          "info": {
+            "size": 988733,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/34/hr3ku0ozo7tvg4b8uw8o99qkyue2y5z.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-5%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7399",
+            "sha1": "97fa7235df7f324e5ea4259b71f302295cb33f77",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-6.png",
+          "kind": "background",
+          "info": {
+            "size": 1178005,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/43/pxsnvcvq5t68hlls9f4j7xk4lgmidfd.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-6.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7400",
+            "sha1": "de0eb2d374c2000cedb7c5b650748143ccf87a79",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-6+.png",
+          "kind": "background",
+          "info": {
+            "size": 1497212,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/34/3d0b1mru9u3br5qkqe9m6af9b95ck3d.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-6%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7401",
+            "sha1": "1cc6a25b84e8856321cb2789ac35dab99b15c9b9",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-7.png",
+          "kind": "background",
+          "info": {
+            "size": 1124939,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/7b/qyoxgvvtojjhzgbmqb6t73g2pv8srsx.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-7.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30947",
+            "sha1": "e6d4d5728ffa69767e3c53df39999062142c6fc1",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SSR-7+.png",
+          "kind": "background",
+          "info": {
+            "size": 1283705,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/df/m58uyn8g8zjlulf12vizblo135531vi.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SSR-7%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30946",
+            "sha1": "bd95f0dfee4e026602c3592ce2d0545d8d1ef53e",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "Arisu-sign.png",
+          "kind": "signature",
+          "info": {
+            "size": 56130,
+            "width": 630,
+            "height": 504,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/dd/5x74l4kepgdrkjxw3joigbno851l2qx.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Arisu-sign.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=461",
+            "sha1": "32b2d9cd75a62e55dadbebfbf8902e7ec9df5629",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-1.png",
+          "kind": "background",
+          "info": {
+            "size": 1256162,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6f/e4rwf1kiq7ogr3llesitx8g81iwjngy.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7378",
+            "sha1": "78fcb08f431d671dad37dcb9fbb05fcecc52b592",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-1.png",
+          "kind": "icon",
+          "info": {
+            "size": 17761,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/56/6788m9d4xnav3yr5jy7xaoi46s0ws7g.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7366",
+            "sha1": "3515804526506ce85a558beb767d2b2870c6a6cc",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-2.png",
+          "kind": "icon",
+          "info": {
+            "size": 18462,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/41/0rz9ia10bfm5oqsbg93ukx75ch03wmm.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7367",
+            "sha1": "06a74fab09bd521224fa6b9ddaab94beb0beabee",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-3.png",
+          "kind": "icon",
+          "info": {
+            "size": 18679,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/45/czgdc0rldcyk44ah9bqm3nwmy8fak3w.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7368",
+            "sha1": "6f293c4a080e96f6cfb64478ab87c98a49e2b34c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-4.png",
+          "kind": "icon",
+          "info": {
+            "size": 17414,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/ca/s8art7wj5nvwxgcsd97ywnblrc0jzcr.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7369",
+            "sha1": "f1ad3c2b2a7bc63b5dccf2f9f50ade802a36d9bb",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-5.png",
+          "kind": "icon",
+          "info": {
+            "size": 16465,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/49/0s2es34jkjydd7e0dxgxz8vvaimrbkl.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-5.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7370",
+            "sha1": "06aca1c7626301c2c02498a61000e1a64af63155",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-6.png",
+          "kind": "icon",
+          "info": {
+            "size": 16279,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/af/4nhctjzpv93ehh78uafvxeanxcdvmr4.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-6.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7371",
+            "sha1": "27d3ce746f877ed55483fa23cc7479bad08e31f0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-7.png",
+          "kind": "icon",
+          "info": {
+            "size": 16750,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/71/7zd3cuihv94466u0fpl8e9hwhnolte4.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-7.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7372",
+            "sha1": "4455d6105538ef11c023d342159e0c7d42486c0c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-8.png",
+          "kind": "icon",
+          "info": {
+            "size": 19724,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/17/j2ypuie7eaqzfdss2dvxt4xuj42v5mo.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-8.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7373",
+            "sha1": "a35c52656600c7711c231992a00681b659eeb040",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-9.png",
+          "kind": "icon",
+          "info": {
+            "size": 16685,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e4/67xxv548rp7ej1y0ffzaw9ffw6s7iga.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-9.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7374",
+            "sha1": "3540f67080d85d24eadf8c5214085007b9ed8d2a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-10.png",
+          "kind": "icon",
+          "info": {
+            "size": 16442,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/de/1cooad15eg7sr80707sfgz2h94hhi2a.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-10.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7375",
+            "sha1": "0b93d2258c938f5ee8e7594d2f99f747b5d286b2",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-11.png",
+          "kind": "icon",
+          "info": {
+            "size": 18858,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/bc/5rqpeg8u2ixlrqt5ywn6v5d5yf42ly8.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-11.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7376",
+            "sha1": "3166b234950a4fabfb73965b7dbd9cfd99a05ba0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-12.png",
+          "kind": "icon",
+          "info": {
+            "size": 18074,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/9/9b/ca7pr3kvio3sbpkjofhurxcjfdc54i2.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-12.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7377",
+            "sha1": "6928acc916f24304e62b0cd1e5aa874882a2360a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-13.png",
+          "kind": "icon",
+          "info": {
+            "size": 17348,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ea/0eg14fut0k2ioxfkhdvdlqzo5m1vzia.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-13.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30944",
+            "sha1": "036f631393815006b26c9db6f3e612f65326ce82",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-icon-14.png",
+          "kind": "icon",
+          "info": {
+            "size": 17647,
+            "width": 124,
+            "height": 124,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b0/74rcjay94sgf3j4cq65nwt5b43nyb3g.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-icon-14.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119986",
+            "sha1": "3d0ec152af7f9b9ac4c3ff32fe01e12b5fd7cfac",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-1+.png",
+          "kind": "background",
+          "info": {
+            "size": 1178187,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6d/1xd0ffsy3sa7a22soxx0fw2iefpo8mo.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-1%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7379",
+            "sha1": "107e83fcb9bb1f8ed2e263ce6d170c5f8ca6f6b0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-1-1.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 1,
+          "info": {
+            "size": 22243,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/39/pid5z3wqqgdr0jscrse7pjyi4ynv6rh.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-1-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23862",
+            "sha1": "da63567423e5a9efb016533b67ff430bd42832fd",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-1-2.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 2,
+          "info": {
+            "size": 22890,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/89/clni55iyow3m5j7cro43tmzgxmrqi60.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-1-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23863",
+            "sha1": "6be105525ff11599351ac474e92dbaf3f6210178",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-1-3.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 3,
+          "info": {
+            "size": 22174,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/5/5a/8f0g0hsxn6m8tq8yz167iaoxh6f2j55.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-1-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23864",
+            "sha1": "480e7aa9529419d68ebca0bc4bdacc2b79d86469",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-1-4.png",
+          "kind": "petit",
+          "outfit": 1,
+          "pose": 4,
+          "info": {
+            "size": 22468,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/22/8yn5g9c0srf715sjqj7k2b71fg8zh76.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-1-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23865",
+            "sha1": "4cb98a155deacaa891cdb5e2c617ad3e9113b9d2",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-2-1.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 1,
+          "info": {
+            "size": 24337,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b2/khtvma9qg1jiidaghbvaxcydoopbhz7.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-2-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23866",
+            "sha1": "af74dd387ca9f79346f44fe1f58d306bfd1d08c3",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-2-2.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 2,
+          "info": {
+            "size": 24281,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/26/9e1n5fmqci4wztscpqv1begyekj27zw.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-2-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23867",
+            "sha1": "5063333093930e38430fe346a665805b68ecb7fc",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-2-3.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 3,
+          "info": {
+            "size": 24329,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/02/0evxrkj718y5b9ip3ormwnbo0d1mltq.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-2-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23868",
+            "sha1": "038a492685bace33d3d8fc95767b690dc0610cfe",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-2-4.png",
+          "kind": "petit",
+          "outfit": 2,
+          "pose": 4,
+          "info": {
+            "size": 23548,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2c/4741l47aldeexd8fxgixaiz0plqddg3.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-2-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23869",
+            "sha1": "23ef437be2f9ad25ec39a53a72c1427c2f46e353",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-2.png",
+          "kind": "background",
+          "info": {
+            "size": 1197417,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6d/82h01mtah9w75u2nzorgyfxhrkrpp5c.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7380",
+            "sha1": "451313616a23e6eee66ffe785c57b834f6610690",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-2+.png",
+          "kind": "background",
+          "info": {
+            "size": 1081924,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/21/i7x1dw2h1fa5d8ovx4wlvcuzu3tv56x.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-2%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7381",
+            "sha1": "9bfa4b92edf785be4af6a995d9431e4fbe11f509",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-3-1.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 1,
+          "info": {
+            "size": 19738,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/12/n230s771pxs0rcylpo0yzbbd8jw3ysp.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-3-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23870",
+            "sha1": "c565023c9b9a3f1d1329be79b93c7f7210f9dee9",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-3-2.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 2,
+          "info": {
+            "size": 20344,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2d/tekrt5gmw18c0ojpzp3hv7rfju7hjct.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-3-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23871",
+            "sha1": "fbbafa892a93e00bb3e2f05a4187afde3f1a0b3d",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-3-3.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 3,
+          "info": {
+            "size": 19391,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/cc/lcrhcqor6jmuk6w0x8nap37dryv4zw6.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-3-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23872",
+            "sha1": "b6cfffa415e7adddb9fb6fe5ddd0a289c85ac5b6",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-3-4.png",
+          "kind": "petit",
+          "outfit": 3,
+          "pose": 4,
+          "info": {
+            "size": 19931,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b4/avdi0fcm2j7dcgp11kwim5ouotbj3lg.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-3-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23873",
+            "sha1": "5d11bb2e80ca05f4c484b1c2e28732ad114d17f4",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-4-1.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 1,
+          "info": {
+            "size": 22208,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/1b/58x6kgj1nmtnkqsavq4r6ik19wb6v33.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-4-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23874",
+            "sha1": "2cecfc64de1d42acc507a15f7c2f99f98bc51ddf",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-4-2.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 2,
+          "info": {
+            "size": 21627,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d7/04dyn5j7uauim4mcuc5v0gid1blovur.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-4-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23875",
+            "sha1": "010b1e5c3fa800eb7dffec14b4cd7d49086b4843",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-4-3.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 3,
+          "info": {
+            "size": 21004,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/76/3lsd559ff3eqxd8bdlv2zqicyi0iyhx.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-4-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23876",
+            "sha1": "1edd18ef2b3490d4ac628cb817d63e4333a22725",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-4-4.png",
+          "kind": "petit",
+          "outfit": 4,
+          "pose": 4,
+          "info": {
+            "size": 21510,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6d/8rt7ojqkmmqug5pmoomo8uy4r7etnbv.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-4-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23877",
+            "sha1": "4b19a6c2b3c1c025a25be2fcddf75ce88ab0155b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-5-1.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 1,
+          "info": {
+            "size": 20724,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6b/1mjkhpfevne0002f2s3acomv9h9zkw4.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-5-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23878",
+            "sha1": "0debf511f439f46873638db70358e0c2c41c3184",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-5-2.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 2,
+          "info": {
+            "size": 20724,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f9/mr9ofkgrzkent7mvgdlkhsois3atnky.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-5-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23879",
+            "sha1": "c2d29e7181e7ac307cb33b4fd23e8602b68392a2",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-5-3.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 3,
+          "info": {
+            "size": 20442,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c7/87k3waxsybuhlzr58f2qkzhyrtkj9ol.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-5-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23880",
+            "sha1": "4648b6f3d04b1975d9d6bc07b074a76e683b0fc5",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-5-4.png",
+          "kind": "petit",
+          "outfit": 5,
+          "pose": 4,
+          "info": {
+            "size": 20487,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/ae/snt9ruz7bof4q5ac7k5iq6rqrvhk22u.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-5-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23881",
+            "sha1": "f55dac0c84e3b0f51ac2a2ea0b326131b7080486",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-3.png",
+          "kind": "background",
+          "info": {
+            "size": 984484,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/7/74/rzjhg5h7ivqb7znqyxcanwsc5fje5ae.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7382",
+            "sha1": "ef98131a5ab5fc9142936dbbbb63421e11b2f146",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-3+.png",
+          "kind": "background",
+          "info": {
+            "size": 1140794,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/03/nj9kf7p96th9idmpd9v2shaat35y3hz.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-3%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7383",
+            "sha1": "c97afc76e36969bdae6e99329f0873e28fe9a737",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-6-1.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 1,
+          "info": {
+            "size": 17712,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b8/erztf657bb7ux0v3mrbb5t8hd9m4cyt.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-6-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23882",
+            "sha1": "7e823f72aa1f6789d0f09976987072e96e48c4a5",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-6-2.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 2,
+          "info": {
+            "size": 18567,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c2/iu0w2fhgwtpi66klzumznwprqq56j3n.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-6-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23883",
+            "sha1": "a13c1a6bb90ab913748aee7f0b89ecf5501ad333",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-6-3.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 3,
+          "info": {
+            "size": 18160,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/60/pbtc01tf8lwy4ovlwue5im3580inkyy.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-6-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23884",
+            "sha1": "d8d489ce9dd128ecd0530ed033eb10fea968dbea",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-6-4.png",
+          "kind": "petit",
+          "outfit": 6,
+          "pose": 4,
+          "info": {
+            "size": 18722,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c1/rri7pgb56i7icv5zahdvnzkz69um1xn.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-6-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23885",
+            "sha1": "edaee8fcc33bdee9d7dfe2c747bb60701e8d754b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-7-1.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 1,
+          "info": {
+            "size": 21888,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/3a/0emv8gcpcyi7wcy843zyqihkyr390d8.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-7-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23886",
+            "sha1": "037af2967ab9115c670cbf6f4ab7c1bd3d58b91c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-7-2.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 2,
+          "info": {
+            "size": 20091,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/23/5nqtg3vauhqncsvlr90glzutt9mmsvj.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-7-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23887",
+            "sha1": "307360d31fff359cb7698a6f74b5fcbae85fe5af",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-7-3.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 3,
+          "info": {
+            "size": 22062,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e3/sx2e7iuda3dil0chdp6ktm7gwpy8xg9.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-7-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23888",
+            "sha1": "f790fe15d948e3a150b800e7e092d52124fcc159",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-7-4.png",
+          "kind": "petit",
+          "outfit": 7,
+          "pose": 4,
+          "info": {
+            "size": 21261,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/06/9caxjw0adjba8tle8nvz1n6lbzwg2fw.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-7-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23889",
+            "sha1": "4ff92761048f98e8de1979c66de4d5430d66ec5c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-4.png",
+          "kind": "background",
+          "info": {
+            "size": 1247771,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/39/86wky6kklp1oq6fnqtei51oznikaykv.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7384",
+            "sha1": "4620ee557fbeea4c96b1005cf6651b124681198f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-4+.png",
+          "kind": "background",
+          "info": {
+            "size": 1314461,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2f/r8ncb9pw55ew6t2sa1uhcgfltn72eu9.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-4%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7385",
+            "sha1": "e932eb3a41babf6fb9329cabb69c0dcfd688eaa1",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-8-1.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 1,
+          "info": {
+            "size": 24000,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b8/ir6vkmfsp11zl4kl8haug4rxrs5spp6.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-8-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23890",
+            "sha1": "a08f985d7be3c306fcb991d76ee319d2b236761a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-8-2.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 2,
+          "info": {
+            "size": 24298,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d9/lyi6i0zllkdzteph9aah3vse0rbmq0a.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-8-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23891",
+            "sha1": "bbfb90312943bee6c5f7f1db23ffe8195488e42a",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-8-3.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 3,
+          "info": {
+            "size": 23227,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/db/ffm4fhf0r8z71ef7e17mvwyc5vujpvk.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-8-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23892",
+            "sha1": "842023644921cf7ecd39fd86dbcabb20868113c0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-8-4.png",
+          "kind": "petit",
+          "outfit": 8,
+          "pose": 4,
+          "info": {
+            "size": 23812,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ef/q9tzj78o05s84e0f8smigzq18augqjb.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-8-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23893",
+            "sha1": "e0eb7612748f2714fd81a0f910dc1e874bf3f057",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-5.png",
+          "kind": "background",
+          "info": {
+            "size": 1112403,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/18/bok057hqsjz8jbotpkecwgvye2eaell.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-5.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7386",
+            "sha1": "6402296598338387de597e3c3ccdcfe438b9de69",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-5+.png",
+          "kind": "background",
+          "info": {
+            "size": 1340517,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/30/rlr5zs4zof17m0k39fi3ofif92gnl51.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-5%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7387",
+            "sha1": "ec50c976875119245b985cb7858ee5f3a18b72c5",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-9-1.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 1,
+          "info": {
+            "size": 19407,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/64/np59nbug0q30fxn4minaifrgczcee2b.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-9-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23894",
+            "sha1": "cae0fa56a7f16b7eb6771d0a40f16e5fa3d1f6b3",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-9-2.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 2,
+          "info": {
+            "size": 19258,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/ba/qzd81t38bqsocnxxf2jzehk26axpqpj.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-9-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23895",
+            "sha1": "e6fdea5c03811faa6cbaac77c676be573cb95c77",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-9-3.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 3,
+          "info": {
+            "size": 19914,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/65/asfx9z9jhuuepz0ysn6hxbxwputb1y0.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-9-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23896",
+            "sha1": "5c5f33078037c16d36c199fdc2543fa835bbe398",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-9-4.png",
+          "kind": "petit",
+          "outfit": 9,
+          "pose": 4,
+          "info": {
+            "size": 19737,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a2/637sgsm6d0j40wyojyjtggpdfusoa8o.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-9-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23897",
+            "sha1": "34213c024b5fd5707cd549efa30659cf83524dd8",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-10-1.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 1,
+          "info": {
+            "size": 23718,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/42/k1s10b9f4b0xpe5z9lexkg944b8qnhr.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-10-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23898",
+            "sha1": "aba3b416b0ccc41516161ddb0510aea864034d6f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-10-2.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 2,
+          "info": {
+            "size": 23724,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/dd/1itd6xn01n7s5ydxqhdgbr7i4t3iwrh.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-10-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23899",
+            "sha1": "0d09044ad43890d796b5f9b56d8ae18d91bead5d",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-10-3.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 3,
+          "info": {
+            "size": 22406,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/ca/scvf6kz6yq4bw0ji7lv93mpxznhip7l.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-10-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23900",
+            "sha1": "f2c3a94dc6a19c296c9ffc961bddbb33294c2d21",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-10-4.png",
+          "kind": "petit",
+          "outfit": 10,
+          "pose": 4,
+          "info": {
+            "size": 22880,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/d/d1/8yvye2x5r2pngxqqtbh38nejpc5n505.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-10-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23901",
+            "sha1": "4cc86d4eb5767dbe6e4e8b18a207ca8fa6019e15",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-6.png",
+          "kind": "background",
+          "info": {
+            "size": 1194141,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/1/14/5cx71p8oi7peub9ogbsy4gx6hvitqbw.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-6.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7388",
+            "sha1": "2de0843007b8c96cc5cfa6ca05eb0e7afae2e88c",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-SR-6+.png",
+          "kind": "background",
+          "info": {
+            "size": 1453600,
+            "width": 1280,
+            "height": 824,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/40/5d13jh0dcnua3iy5xv1kv4la3k6wjzc.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-SR-6%2B.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7389",
+            "sha1": "2de71da2b13784a02f6461b92a212f24f2867328",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-11-1.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 1,
+          "info": {
+            "size": 20254,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/b/b7/lpt8fkk8zi95o93q5va4qlt07h5po2o.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-11-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23902",
+            "sha1": "b9ea5cc71f94a723c8750494d3b019f33301bf20",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-11-2.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 2,
+          "info": {
+            "size": 19663,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/e1/4ahutis0jdhltby71snt4c9ykvo5rdm.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-11-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23903",
+            "sha1": "24bd4048a31d44f2a373767435deba8e4e0fcdda",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-11-3.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 3,
+          "info": {
+            "size": 19960,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/2/2b/f3nn8rldvqk5mnjxu7vmfdlv86590db.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-11-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23904",
+            "sha1": "8148306cbf749955c22d8eec49fcdd5528a1a71f",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-11-4.png",
+          "kind": "petit",
+          "outfit": 11,
+          "pose": 4,
+          "info": {
+            "size": 21197,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/4/42/p0iluzpd6bvwqeje0n47dts7v81rxgd.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-11-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23905",
+            "sha1": "d624c0d73eeba86cee24d207df9e1fab3cf9531d",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-12-1.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 1,
+          "info": {
+            "size": 29771,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/62/4tb8x4x64liafqo1g27rkjc7pgghhw8.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-12-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23906",
+            "sha1": "2936bd2f1ef1f2d980c882e0af40ff9fa4c514d8",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-12-2.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 2,
+          "info": {
+            "size": 28925,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/8/8b/eu40hrzxi0h0ylkh0btb17bjis4iz7f.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-12-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23907",
+            "sha1": "7f03191f9ec053cd5b9e8243d1a8174519e2d6bb",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-12-3.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 3,
+          "info": {
+            "size": 27635,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/af/0l7r3su5r5m0cich20gjjyddoujcv2u.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-12-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23908",
+            "sha1": "050b86f2a83cc4726acf9b7ea1e5362f89471356",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-12-4.png",
+          "kind": "petit",
+          "outfit": 12,
+          "pose": 4,
+          "info": {
+            "size": 28631,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a0/iq7hlt0j5glduxmg2a1cloai826ac4g.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-12-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23909",
+            "sha1": "a053c0cdb1f3bdd64b71209f19a6b87147a969e0",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-13-1.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 1,
+          "info": {
+            "size": 23577,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/cb/1j9jxpyf0n5ytosncoa6nr12wdfyz2l.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-13-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30957",
+            "sha1": "0d2463d6ad31c200dbf3eb76b2300f9b780f290d",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-13-2.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 2,
+          "info": {
+            "size": 24063,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/a/a5/ez78a5h7imlle7p9ll8tq6gqejbwvs9.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-13-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30958",
+            "sha1": "8038ec07652c04784068e426797204dd6078dfe9",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-13-3.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 3,
+          "info": {
+            "size": 23918,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/3/3f/f1urd6moekjy9c8m6jsvo2xu1bzy2c7.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-13-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30959",
+            "sha1": "80da774e03d39138074311f935ad9cde17f1df57",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-13-4.png",
+          "kind": "petit",
+          "outfit": 13,
+          "pose": 4,
+          "info": {
+            "size": 24219,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/e/ed/k8c5kzgpz2s0l0u9qg7h3i8di72ptkc.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-13-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30960",
+            "sha1": "ad330034b1cf4b8d1991b89aba8b1dc7dd387fec",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-14-1.png",
+          "kind": "petit",
+          "outfit": 14,
+          "pose": 1,
+          "info": {
+            "size": 29284,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/0/09/682shtyleyp3gzv03xya0d6rqitv4eh.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-14-1.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119989",
+            "sha1": "35492a621a479aa4ef86b2edd009623b158f4d09",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-14-2.png",
+          "kind": "petit",
+          "outfit": 14,
+          "pose": 2,
+          "info": {
+            "size": 28006,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/6/6d/f00cfqcb01t4akldrqnw3vyp9j50fbf.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-14-2.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119990",
+            "sha1": "806a282e2fa5fc39bf8eefa6627d678db0946e8b",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-14-3.png",
+          "kind": "petit",
+          "outfit": 14,
+          "pose": 3,
+          "info": {
+            "size": 28133,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/f/f8/hvwzskqv5o90s3s439xkbt8ot0bnc38.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-14-3.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119991",
+            "sha1": "991fb2538f2d7a1f87fa93c5596f31508d7157f4",
+            "mime": "image/png"
+          }
+        },
+        {
+          "title": "CGSS-Arisu-Petit-14-4.png",
+          "kind": "petit",
+          "outfit": 14,
+          "pose": 4,
+          "info": {
+            "size": 30236,
+            "width": 256,
+            "height": 256,
+            "url": "https://patchwiki.biligame.com/images/imascg/c/c3/svu929x8sx23z88iytep3sq3ajq82s3.png",
+            "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Arisu-Petit-14-4.png",
+            "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=119992",
+            "sha1": "f74658796d26231cc07e09d79054a8c7cb25a613",
+            "mime": "image/png"
+          }
+        }
+      ]
+    }
+  ],
+  "cdnHeadChecks": {
+    "checkedAt": "2026-10-13T12:10:44.664Z",
+    "timeoutMs": 8000,
+    "scope": "One sprite per character; no image bytes downloaded or decoded",
+    "checks": [
+      {
+        "character": "yukimi",
+        "title": "CGSS-Yukimi-Petit-1-1.png",
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/6currqdaigi46vyxec0tmzkyybgnas8.png",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "character": "arisu",
+        "title": "CGSS-Arisu-Petit-1-1.png",
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/pid5z3wqqgdr0jscrse7pjyi4ynv6rh.png",
+        "status": 200,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
