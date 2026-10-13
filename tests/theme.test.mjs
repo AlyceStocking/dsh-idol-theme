@@ -9,7 +9,7 @@ const contrast = (a,b) => (Math.max(luminance(a),luminance(b)) + .05) / (Math.mi
 test('reading surfaces keep primary and secondary text above 4.5:1 over any background image', () => {
   const { tokens } = loadTheme();
   for (const mode of ['light', 'dark']) {
-    for (const token of ['--yukimi-reading-surface', '--yukimi-header-surface', '--dsw-specific-sidebar-fill', '--dsw-specific-bubble', '--dsw-alias-markdown-code-block']) {
+    for (const token of ['--yukimi-reading-surface', '--yukimi-history-surface', '--yukimi-history-code-surface', '--yukimi-composer-surface', '--yukimi-header-surface', '--dsw-specific-sidebar-fill', '--dsw-specific-bubble', '--dsw-alias-markdown-code-block']) {
       const value = tokens[token][mode];
       for (const image of [0, 255]) {
         const parts = value.startsWith('#') ? [...rgb(value), 1] : value.match(/[\d.]+/g).map(Number);
