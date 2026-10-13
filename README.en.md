@@ -1,3 +1,9 @@
+# dsh-idol-theme: two-character Windows trial
+
+This public derivative adds Yukimi / Tachibana Arisu selection with name search. Dialogue is temporarily `。。。。。`; the existing palette is unchanged. See [trial and expansion notes](research/two-character-trial.md). The inherited plugin ID is retained for compatibility: this replaces the Yukimi plugin, and is not a co-installable second plugin. Validation used an isolated preview, not the installed DSH profile.
+
+The original documentation and upstream installation links follow.
+
 # dsh-yukimi-theme
 
 A [Sajo Yukimi](https://wiki.biligame.com/imascg/%E4%BD%90%E5%9F%8E%E9%9B%AA%E7%BE%8E) (佐城雪美) theme for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) web UI.

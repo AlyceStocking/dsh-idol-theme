@@ -1,4 +1,4 @@
-import { IMG, ICONS, PETITS, CARDS, LINES } from '../lib/assets.js';
+import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER } from '../lib/characters.js';
 import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
@@ -7,11 +7,13 @@ const pet = element('pet'), desktop = element('desktop'), notices = element('not
 const settings = element('settings'), dialogue = element('dialogue');
 const petWrap = element('pet-wrap');
 const sprites = createSpriteCache();
-let preferences = { cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: false };
+let preferences = { ...DEFAULT_APPEARANCE };
+let { IMG, ICONS, PETITS, CARDS } = getCharacter(preferences.characterId);
+let renderedCharacter = null, warmedOutfit = null;
 let currentNotices = { persistent: [], transient: null, queuedCount: 0 };
 let flipSequence = 0, flipPending = 0, outfitPending = 0, flipping = false, lastNoticeSignature = '';
 let dialogueTimer, longPressTimer, clickTimer, panelTimer, pointer, regionFrame = 0;
-let spriteRequest = 0, appearanceRequest = 0, requestedSpriteUrl = '', spritesWarmed = false;
+let spriteRequest = 0, appearanceRequest = 0, requestedSpriteUrl = '';
 
 function layoutPanels() {
   const rect = petWrap.getBoundingClientRect(), inset = 8, gap = 12;
@@ -70,19 +72,32 @@ function acceptLayout(value) {
   layoutPanels();
 }
 
-const spriteUrl = value => IMG + PETITS[value.cardIndex][value.petitIndex];
 function setPreferences(patch) {
-  if (!Object.hasOwn(patch, 'cardIndex') && !Object.hasOwn(patch, 'petitIndex')) {
-    api.setPreferences({ ...preferences, ...patch });
+  if (!Object.hasOwn(patch, 'characterId') && !Object.hasOwn(patch, 'cardIndex') && !Object.hasOwn(patch, 'petitIndex')) {
+    api.setPreferences(normalizeAppearance(patch, preferences));
     return;
   }
   const request = ++appearanceRequest;
-  const original = { cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
-  sprites.load(spriteUrl({ ...preferences, ...patch })).then(image => {
-    if (image && request === appearanceRequest && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) api.setPreferences({ ...preferences, ...patch });
+  const original = { characterId: preferences.characterId, cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
+  const next = normalizeAppearance(patch, preferences);
+  element('character-status').textContent = '加载中…';
+  sprites.load(spriteUrl(next)).then(image => {
+    if (request !== appearanceRequest) return;
+    if (image && preferences.characterId === original.characterId && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) {
+      element('character-status').textContent = '';
+      api.setPreferences(normalizeAppearance(patch, preferences));
+    } else {
+      element('character-status').textContent = '加载失败，已保留当前角色';
+      element('character-select').value = preferences.characterId;
+    }
   });
 }
 function refreshPreferences() {
+  const character = getCharacter(preferences.characterId);
+  ({ IMG, ICONS, PETITS, CARDS } = character);
+  pet.alt = character.name + " 纸片小人";
+  pet.setAttribute?.("aria-label", "与" + character.name + "互动；双击换装，长按设置");
+  if (renderedCharacter !== character.id) { renderedCharacter = character.id; renderChoices(); renderCharacterOptions(); }
   const url = spriteUrl(preferences);
   if (requestedSpriteUrl !== url) {
     requestedSpriteUrl = url;
@@ -118,7 +133,7 @@ function renderNotices() {
   const visible = currentNotices.persistent.length ? currentNotices.persistent : currentNotices.transient ? [currentNotices.transient] : [];
   notices.hidden = visible.length === 0;
   if (visible.length) { dialogue.hidden = true; clearTimeout(dialogueTimer); }
-  element('notice-heading').textContent = currentNotices.persistent.length ? `有 ${visible.length} 件事……在等你……` : `这一轮……${currentNotices.queuedCount ? `还有 ${currentNotices.queuedCount} 个提醒……` : ''}`;
+  element('notice-heading').textContent = PLACEHOLDER;
   const signature = JSON.stringify(visible);
   if (signature !== lastNoticeSignature) {
     const oldScroll = noticeList.scrollTop;
@@ -126,8 +141,8 @@ function renderNotices() {
     for (const notice of visible) {
       const button = document.createElement('button'); button.className = `notice notice-${notice.kind}`;
       const title = document.createElement('span'); title.className = 'notice-title'; title.textContent = notice.title;
-      const text = document.createElement('span'); text.className = 'notice-text'; text.textContent = notice.text;
-      const tip = document.createElement('span'); tip.className = 'notice-tip'; tip.textContent = '点击……一起去看看……';
+      const text = document.createElement('span'); text.className = 'notice-text'; text.textContent = PLACEHOLDER;
+      const tip = document.createElement('span'); tip.className = 'notice-tip'; tip.textContent = PLACEHOLDER;
       button.append(title, text, tip); button.addEventListener('click', () => api.openSession(notice.sessionId));
       noticeList.append(button);
     }
@@ -138,14 +153,18 @@ function renderNotices() {
 }
 function acceptState(packet) {
   if (!packet || !packet.preferences || !packet.notices) return;
-  preferences = packet.preferences; currentNotices = packet.notices;
+  if (packet.preferences.characterId && packet.preferences.characterId !== preferences.characterId) { appearanceRequest++; flipPending = 0; outfitPending = 0; }
+  preferences = normalizeAppearance(packet.preferences, preferences); currentNotices = packet.notices;
   refreshPreferences(); renderNotices();
-  if (!spritesWarmed) {
-    spritesWarmed = true;
+  const warmKey = preferences.characterId + ':' + preferences.cardIndex;
+  if (warmedOutfit !== warmKey) {
+    warmedOutfit = warmKey;
     const nextOutfit = (preferences.cardIndex + 1) % PETITS.length;
-    sprites.warm([...PETITS[preferences.cardIndex], ...PETITS[nextOutfit], ...PETITS.flat()].map(file => IMG + file));
+    const urls = [...PETITS[preferences.cardIndex], ...PETITS[nextOutfit]].map(file => IMG + file);
+    sprites.retainWarm?.(urls);
+    sprites.warm(urls);
   }
-  const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = `工作中…… ${packet.runningCount}`;
+  const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = PLACEHOLDER;
   if (packet.layout) acceptLayout(packet.layout); else layoutPanels();
   if (Number.isInteger(packet.flipSequence) && packet.flipSequence > flipSequence) {
     flipPending += packet.flipSequence - flipSequence; flipSequence = packet.flipSequence; performFlip();
@@ -158,35 +177,45 @@ async function performFlip(changeOutfit = false) {
   changeOutfit = outfitPending > 0;
   if (changeOutfit) outfitPending--; else flipPending--;
   flipping = true;
-  const original = { cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
+  const original = { characterId: preferences.characterId, cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
   const patch = changeOutfit ? { cardIndex: (original.cardIndex + 1) % PETITS.length, petitIndex: 0 } : { petitIndex: (original.petitIndex + 1) % PETITS[original.cardIndex].length };
   const request = appearanceRequest;
   const image = await sprites.load(spriteUrl({ ...original, ...patch }));
+  if (preferences.characterId !== original.characterId) { flipping = false; performFlip(); return; }
   pet.classList.remove('flipping'); void pet.offsetWidth; pet.classList.add('flipping');
   if (!regionFrame) regionFrame = requestAnimationFrame(refreshFlipRegions);
   setTimeout(() => {
-    if (image && request === appearanceRequest && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) setPreferences(patch);
+    if (image && request === appearanceRequest && preferences.characterId === original.characterId && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) setPreferences(patch);
   }, 250);
   setTimeout(() => { flipping = false; pet.classList.remove('flipping'); performFlip(); }, 540);
 }
 function interact() {
   flipPending++; performFlip();
   if (!notices.hidden) return;
-  dialogue.textContent = LINES[Math.floor(Math.random() * LINES.length)]; dialogue.hidden = false;
+  dialogue.textContent = PLACEHOLDER; dialogue.hidden = false;
   layoutPanels();
   clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; layoutPanels(); }, 3200);
 }
 function setPanel(open) {
   settings.hidden = !open; desktop.classList.toggle('settings-open', open);
   clearTimeout(panelTimer);
-  if (open) panelTimer = setTimeout(() => setPanel(false), 15000);
+  if (open) resetPanelTimer();
   layoutPanels();
 }
-function resetPanelTimer() { clearTimeout(panelTimer); panelTimer = setTimeout(() => setPanel(false), 15000); }
+function resetPanelTimer() {
+  clearTimeout(panelTimer);
+  panelTimer = setTimeout(() => {
+    if (['INPUT', 'SELECT'].includes(document.activeElement?.tagName) && settings.contains(document.activeElement)) resetPanelTimer();
+    else setPanel(false);
+  }, 15000);
+}
 element('close-settings').addEventListener('click', () => setPanel(false));
 settings.addEventListener('pointerdown', resetPanelTimer);
+settings.addEventListener('keydown', resetPanelTimer);
 element('toggle-sign').addEventListener('click', () => setPreferences({ showSign: !preferences.showSign }));
 element('toggle-mobamas').addEventListener('click', () => setPreferences({ showMobamas: !preferences.showMobamas }));
+function renderChoices() {
+element("outfits").replaceChildren(); element("backgrounds").replaceChildren();
 for (const [index, icon] of ICONS.entries()) {
   const button = document.createElement('button'); button.title = `小人 ${index + 1}`;
   const image = document.createElement('img'); image.src = IMG + icon; image.alt = button.title; image.loading = 'lazy';
@@ -197,6 +226,17 @@ for (const card of CARDS) {
   const image = document.createElement('img'); image.src = card.url; image.alt = card.label; image.loading = 'lazy';
   button.append(image); button.addEventListener('click', () => setPreferences({ bg: card.url })); element('backgrounds').append(button);
 }
+}
+function renderCharacterOptions() {
+  const query = (element('character-search').value || '').trim().toLowerCase();
+  const options = CHARACTER_LIST.filter(character => character.id === preferences.characterId || (character.name + ' ' + character.search).toLowerCase().includes(query)).map(character => {
+    const option = document.createElement('option'); option.value = character.id; option.textContent = character.name; return option;
+  });
+  element('character-select').replaceChildren(...options);
+  element('character-select').value = preferences.characterId;
+}
+element('character-search').addEventListener('input', renderCharacterOptions);
+element('character-select').addEventListener('change', () => setPreferences({ characterId: element('character-select').value }));
 pet.addEventListener('error', () => { element('fallback').hidden = false; });
 pet.addEventListener('dragstart', event => event.preventDefault());
 pet.addEventListener('pointerdown', event => {

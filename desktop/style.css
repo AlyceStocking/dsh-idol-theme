@@ -28,6 +28,9 @@ button:focus-visible, #pet:focus-visible { outline: 2px solid #70e4ec; outline-o
 .settings-body { padding: 8px 11px 12px; height: calc(100% - 38px); overflow-y: auto; scrollbar-width: thin; }
 .settings-body p { font-size: 11px; color: #65799e; margin: 0 0 8px; }
 .settings-body h2 { font-size: 12px; margin: 12px 0 5px; }
+.settings-body label { display: block; font-size: 12px; margin: 6px 0 3px; }
+#character-search, #character-select { width: 100%; box-sizing: border-box; border: 1px solid #8aafd2; border-radius: 5px; padding: 5px; background: #eef1f8; color: #2e4673; }
+#character-status { min-height: 1em; font-size: 11px; }
 .toggles { display: flex; gap: 8px; }
 .toggles button { border: 1px solid #8aafd2; border-radius: 20px; background: #dae7f6; color: #2e4673; font-size: 11px; padding: 4px 10px; }
 .outfits, .backgrounds { display: grid; gap: 5px; }

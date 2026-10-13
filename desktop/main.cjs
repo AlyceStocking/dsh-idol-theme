@@ -10,6 +10,7 @@ const localResources = new Map([
   ['yukimi://pet/desktop/style.css', { file: path.join(__dirname, 'style.css'), contentType: 'text/css; charset=utf-8' }],
   ['yukimi://pet/desktop/renderer.js', { file: path.join(__dirname, 'renderer.js'), contentType: 'text/javascript; charset=utf-8' }],
   ['yukimi://pet/desktop/sprite-cache.js', { file: path.join(__dirname, 'sprite-cache.js'), contentType: 'text/javascript; charset=utf-8' }],
+  ['yukimi://pet/lib/characters.js', { file: path.resolve(__dirname, '../lib/characters.js'), contentType: 'text/javascript; charset=utf-8' }],
   ['yukimi://pet/lib/assets.js', { file: path.resolve(__dirname, '../lib/assets.js'), contentType: 'text/javascript; charset=utf-8' }],
 ]);
 protocol.registerSchemesAsPrivileged([{ scheme: 'yukimi', privileges: { standard: true, secure: true, supportFetchAPI: true, corsEnabled: true } }]);
@@ -59,7 +60,7 @@ function saveNow() {
   try {
     fs.mkdirSync(dataRoot, { recursive: true });
     const temporary = preferencesPath + '.tmp';
-    fs.writeFileSync(temporary, JSON.stringify({ version: 2, preferences, bounds: window.getBounds(), petPosition: layout.position, shownIds: [...acknowledged].slice(-5000) }), { encoding: 'utf8', mode: 0o600 });
+    fs.writeFileSync(temporary, JSON.stringify({ version: 3, preferences: assets.savedAppearance(preferences), bounds: window.getBounds(), petPosition: layout.position, shownIds: [...acknowledged].slice(-5000) }), { encoding: 'utf8', mode: 0o600 });
     fs.renameSync(temporary, preferencesPath);
   } catch (error) { process.stderr.write(`Yukimi preferences: ${error.message}\n`); }
 }
@@ -169,7 +170,7 @@ const maskRequests = new Map();
 async function refreshMask() {
   if (!assets || !preferences) return;
   const generation = ++maskGeneration;
-  const url = assets.IMG + assets.PETITS[preferences.cardIndex][preferences.petitIndex];
+  const url = assets.spriteUrl(preferences);
   if (maskCache.has(url)) { alphaMask = maskCache.get(url); return; }
   alphaMask = null;
   if (maskRequests.has(url)) {
@@ -200,6 +201,7 @@ async function refreshMask() {
     }
     const result = { width: 170, height: 170, alpha };
     maskCache.set(url, result);
+    while (maskCache.size > 32) maskCache.delete(maskCache.keys().next().value);
     return result;
   } catch { return null; /* Fall back to image bounds if the remote PNG is unavailable. */ }
   finally { clearTimeout(timeout); maskRequests.delete(url); } })();
@@ -209,16 +211,16 @@ async function refreshMask() {
 }
 
 app.whenReady().then(async () => {
-  logic = await import('./logic.js'); assets = await import('../lib/assets.js');
+  logic = await import('./logic.js'); assets = await import('../lib/characters.js');
   const saved = readSaved();
-  preferences = logic.normalizePreferences(saved.preferences);
+  preferences = assets.restoreAppearance(saved.preferences);
   for (const id of Array.isArray(saved.shownIds) ? saved.shownIds : []) if (typeof id === 'string' && id.length <= 240) acknowledged.add(id);
   queue = new logic.NoticeQueue({ shownIds: [...acknowledged] });
   const displays = screen.getAllDisplays();
   const previousBounds = logic.clampWindowBounds({ ...(saved.bounds ?? {}), ...logic.WINDOW_SIZE }, displays);
   layout = logic.layoutDesktop(saved.petPosition ?? logic.petPositionFromWindowBounds(previousBounds), displays);
   const bounds = layout.bounds;
-  const allowedImages = new Set([assets.SIGN_URL, ...assets.ICONS.map(value => assets.IMG + value), ...assets.PETITS.flat().map(value => assets.IMG + value), ...assets.CARDS.map(card => card.url), ...assets.MOBAMAS.map(card => card.url)]);
+  const allowedImages = assets.allowedImageUrls();
   protocol.handle('yukimi', async request => {
     const resource = localResources.get(request.url);
     if (request.method !== 'GET' || !resource) return new Response('Not found', { status: 404 });
@@ -237,7 +239,7 @@ app.whenReady().then(async () => {
     } catch (error) { process.stderr.write(`Yukimi blocked malformed resource: ${details.url} (${error.message})\n`); }
     callback({ cancel: !allowed });
   });
-  window = new BrowserWindow({ ...bounds, title: '雪美 · 桌宠', transparent: true, frame: false, resizable: false, maximizable: false, minimizable: false, alwaysOnTop: true, skipTaskbar: true, show: false, hasShadow: false, backgroundColor: '#00000000', webPreferences: { preload: path.join(__dirname, 'preload.cjs'), contextIsolation: true, nodeIntegration: false, sandbox: true, webSecurity: true, spellcheck: false, devTools: false } });
+  window = new BrowserWindow({ ...bounds, title: '偶像 · 桌宠', transparent: true, frame: false, resizable: false, maximizable: false, minimizable: false, alwaysOnTop: true, skipTaskbar: true, show: false, hasShadow: false, backgroundColor: '#00000000', webPreferences: { preload: path.join(__dirname, 'preload.cjs'), contextIsolation: true, nodeIntegration: false, sandbox: true, webSecurity: true, spellcheck: false, devTools: false } });
   window.setAlwaysOnTop(true, 'floating');
   noticeLayer = logic.createNoticeLayer(window);
   window.setIgnoreMouseEvents(true, { forward: true });

@@ -8,5 +8,7 @@ for (const directory of ['lib', 'desktop', 'scripts']) {
     if (result.status !== 0) process.exit(result.status || 1);
   }
 }
+const catalog = spawnSync(process.execPath, ['scripts/build-characters.mjs', '--check'], { stdio: 'inherit' });
+if (catalog.status !== 0) process.exit(catalog.status || 1);
 const freshness = spawnSync(process.execPath, ['scripts/build-client.mjs', '--check'], { stdio: 'inherit' });
 process.exit(freshness.status || 0);

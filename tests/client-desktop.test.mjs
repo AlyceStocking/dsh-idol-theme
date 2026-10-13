@@ -3,17 +3,33 @@ import { readFileSync } from 'node:fs';
 import { test } from 'node:test';
 import vm from 'node:vm';
 import * as sharedAssets from '../lib/assets.js';
+import { CHARACTERS, normalizeAppearance } from '../lib/characters.js';
 import { loadTheme } from './helpers/theme-harness.mjs';
 
 const plain = value => JSON.parse(JSON.stringify(value));
 
-test('the browser and desktop use identical character artwork and original lines', () => {
+test('the browser and desktop use identical character artwork and placeholder lines', () => {
   const client = readFileSync(new URL('../lib/client.js', import.meta.url), 'utf8');
   const embedded = client.match(/\/\/ BEGIN YUKIMI_ASSETS[^\n]*\n([\s\S]*?)\/\/ END YUKIMI_ASSETS/)[1];
   const assets = vm.runInNewContext(`${embedded}\n({ IMG, ICONS, PETITS, CARDS, MOBAMAS, LINES, SIGN_URL })`);
   assert.deepEqual(plain(assets), plain(sharedAssets));
   assert.equal(sharedAssets.PETITS.length, sharedAssets.ICONS.length);
   assert.ok(sharedAssets.PETITS.every(frames => frames.length === 4));
+  const characters = vm.runInNewContext(`${embedded}\nCHARACTERS`);
+  assert.deepEqual(plain(characters), plain(CHARACTERS));
+});
+
+test('character selection updates page background, signature and Mobamas together', () => {
+  const theme = loadTheme();
+  theme.update({ characterId: 'arisu', showMobamas: true });
+  const expected = normalizeAppearance({ characterId: 'arisu', showMobamas: true });
+  const prefs = theme.preferences.getSnapshot();
+  for (const [key, value] of Object.entries(expected)) assert.equal(prefs[key], value);
+  const overlay = theme.render();
+  assert.equal(overlay.children[0].props.characterId, 'arisu');
+  assert.equal(overlay.children[2].props.characterId, 'arisu');
+  assert.ok(overlay.children[3].children[0].includes(expected.bg));
+  theme.dispose();
 });
 
 test('appearance preferences preserve the theme and reject arbitrary background URLs', () => {

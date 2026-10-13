@@ -60,7 +60,7 @@ test('protocol rejects malformed state and duplicate IDs; pending kinds are alwa
 
 test('preferences accept only bundled asset URLs and existing sprite indices', () => {
   const preferences = normalizePreferences({ cardIndex: 999, petitIndex: -1, bg: 'https://example.com/evil.png', showSign: 'yes', showMobamas: true, arbitrary: 'ignored' });
-  assert.deepEqual(preferences, { cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: true });
+  assert.deepEqual(preferences, { characterId: 'yukimi', cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: true });
   assert.equal(normalizePreferences({ cardIndex: 1, petitIndex: 3, bg: CARDS[0].url }).bg, CARDS[0].url);
   assert.deepEqual(validateHostMessage({ type: 'preferences', preferences: { showMobamas: true, cardIndex: 999 } }).preferences, { showMobamas: true });
 });

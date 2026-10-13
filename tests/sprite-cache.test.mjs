@@ -5,6 +5,30 @@ import { createSpriteCache } from '../desktop/sprite-cache.js';
 
 const tick = () => new Promise(resolve => setImmediate(resolve));
 
+test('hundreds of sequential outfits keep decoded memory bounded and recently used images reusable', async t => {
+  const { cache, images } = fakeCache(t, { decode: false, concurrency: 2, maxEntries: 8 });
+  for (let index = 0; index < 300; index++) {
+    const pending = cache.load(`outfit-${index}`);
+    images.at(-1).loaded(); await pending;
+    assert.ok(cache.size <= 8);
+  }
+  assert.equal(await cache.load('outfit-299'), images.at(-1));
+  assert.equal(images.length, 300);
+  const old = cache.load('outfit-0'); images.at(-1).loaded(); await old;
+  assert.equal(images.length, 301);
+});
+
+test('changing characters cancels obsolete queued warming and admits the new foreground image', async t => {
+  const { cache, images } = fakeCache(t, { decode: false, concurrency: 1, maxEntries: 4 });
+  cache.warm(['old-0', 'old-1', 'old-2', 'old-3']);
+  cache.retainWarm(['new-0', 'new-1']);
+  const pending = cache.load('new-0'); cache.warm(['new-1']);
+  images[0].loaded(); await tick();
+  assert.equal(images[1].url, 'new-0');
+  images[1].loaded(); await pending;
+  assert.deepEqual(images.map(image => image.url), ['old-0', 'new-0', 'new-1']);
+});
+
 function fakeCache(t, { decode = true, ...options } = {}) {
   const images = [];
   class FakeImage {

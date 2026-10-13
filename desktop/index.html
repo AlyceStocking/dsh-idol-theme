@@ -4,20 +4,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src https://patchwiki.biligame.com; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
-  <title>雪美 · 桌宠</title>
+  <title>偶像 · 桌宠</title>
   <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-  <main id="desktop" aria-label="雪美桌宠">
+  <main id="desktop" aria-label="偶像桌宠">
     <section id="notices" aria-label="会话提醒" hidden>
       <div id="notice-heading"></div>
       <div id="notice-list"></div>
     </section>
     <div id="dialogue" role="status" hidden></div>
-    <section id="settings" aria-label="雪美设置" hidden>
-      <header><span>雪美的衣柜……</span><button id="close-settings" aria-label="关闭设置">×</button></header>
+    <section id="settings" aria-label="偶像设置" hidden>
+      <header><span>偶像设置</span><button id="close-settings" aria-label="关闭设置">×</button></header>
       <div class="settings-body">
         <p>双击换装 · 长按设置 · 拖动小人</p>
+        <label for="character-search">搜索偶像</label><input id="character-search" type="search" placeholder="名字 / 罗马字" autocomplete="off">
+        <label for="character-select">偶像</label><select id="character-select"></select><p id="character-status" role="status"></p>
         <div class="toggles"><button id="toggle-sign"></button><button id="toggle-mobamas"></button></div>
         <h2>小人</h2><div id="outfits" class="outfits"></div>
         <h2>Harness 背景</h2><div id="backgrounds" class="backgrounds"></div>
@@ -25,7 +27,7 @@
     </section>
     <div id="pet-wrap">
       <img id="pet" alt="佐城雪美 纸片小人" role="button" tabindex="0" aria-label="与雪美互动；双击换装，长按设置" draggable="false">
-      <div id="fallback" hidden>雪美……在这里……</div>
+      <div id="fallback" hidden>。。。。。</div>
       <span id="running" hidden></span>
     </div>
   </main>

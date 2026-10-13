@@ -1,22 +1,14 @@
-import { CARDS, PETITS } from '../lib/assets.js';
+import { DEFAULT_APPEARANCE, normalizeAppearance } from '../lib/characters.js';
 
 export const WINDOW_SIZE = Object.freeze({ width: 360, height: 600 });
 export const PET_SIZE = 170;
-export const DEFAULT_PREFERENCES = Object.freeze({ cardIndex: 7, petitIndex: 0, bg: CARDS[23].url, showSign: true, showMobamas: false });
+export const DEFAULT_PREFERENCES = DEFAULT_APPEARANCE;
 const kinds = new Set(['question', 'approval', 'completed', 'error', 'aborted']);
 const object = value => value !== null && typeof value === 'object' && !Array.isArray(value);
 const text = (value, max) => typeof value === 'string' && value.length > 0 && value.length <= max && !/[\u0000-\u0008\u000b\u000c\u000e-\u001f]/u.test(value);
 const identifier = value => text(value, 240) && !/[\u0000-\u001f]/u.test(value);
 
-export function normalizePreferences(input, previous = DEFAULT_PREFERENCES) {
-  const result = { ...previous };
-  if (!object(input)) return result;
-  if (Number.isInteger(input.cardIndex) && input.cardIndex >= 0 && input.cardIndex < PETITS.length) result.cardIndex = input.cardIndex;
-  if (Number.isInteger(input.petitIndex) && input.petitIndex >= 0 && input.petitIndex < PETITS[result.cardIndex].length) result.petitIndex = input.petitIndex;
-  if (typeof input.bg === 'string' && CARDS.some(card => card.url === input.bg)) result.bg = input.bg;
-  for (const key of ['showSign', 'showMobamas']) if (typeof input[key] === 'boolean') result[key] = input[key];
-  return result;
-}
+export const normalizePreferences = normalizeAppearance;
 
 export function validateHostMessage(input) {
   if (!object(input)) return null;

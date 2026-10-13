@@ -1,4 +1,17 @@
-# dsh-yukimi-theme
+# dsh-idol-theme
+
+Windows 双角色试验版：在现有选择面板中搜索姓名/罗马字，再通过下拉菜单切换 **佐城雪美 / 橘爱丽丝（Tachibana Arisu）**。所有角色台词暂为 `。。。。。`，沿用雪美配色。
+
+本仓库为保留上游 main 历史的独立公开副本。修改只同步到 `AlyceStocking/dsh-idol-theme`，原仓库为只读 `upstream`。
+
+- `npm ci`，`npm run check`，`npm test`：安装开发依赖并检查。
+- `npm run desktop:package`，`npm run desktop:preview`：打包并启动隔离预览，偏好保存在本仓库 `build/preview-data/`。
+- 角色、扩展方法、加载限制及人工待办见 [双角色试验说明](research/two-character-trial.md)。
+- 当前保留 `dsh-yukimi-theme` 插件标识及 `/yukimi` 通道以兼容既有配置；安装时是原插件的替换版本，不能与旧版并行启用。此次验证使用隔离预览，没有替换已安装的 DSH 主题。
+
+以下为继承的原主题说明；其中上游安装地址仍指向原雪美版本。
+
+## 原主题介绍
 
 一个给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（`dsh`）Web 界面和 Windows 桌面版用的**佐城雪美（佐城雪美 / Yukimi Sajo）主题**。
 
