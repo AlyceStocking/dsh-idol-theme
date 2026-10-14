@@ -26,7 +26,7 @@ test('changing characters cancels obsolete queued warming and admits the new for
   images[0].loaded(); await tick();
   assert.equal(images[1].url, 'new-0');
   images[1].loaded(); await pending;
-  assert.deepEqual(images.map(image => image.url), ['old-0', 'new-0', 'new-1']);
+  assert.deepEqual(images.map(image => image.url), ['', 'new-0', 'new-1']);
 });
 
 function fakeCache(t, { decode = true, ...options } = {}) {
@@ -163,4 +163,20 @@ test('warm failures, missing decode, and a throwing image factory do not reject 
   assert.equal(await cache.load(''), null);
   assert.equal(await cache.load(null), null);
   await delay(0);
+});
+
+
+test('a character focus immediately cancels all old loads without waiting for network or decode', async t => {
+  const { cache, images } = fakeCache(t, { concurrency: 2 });
+  const old = cache.load('old-selection'); cache.warm(['old-warm', 'old-queued']);
+  const lateLoad = images[0].onload;
+  images[0].loaded(); await tick();
+  const selected = cache.focus('new-character');
+  assert.equal(await old, null);
+  assert.deepEqual(images.map(image => image.url), ['', '', 'new-character']);
+  lateLoad(); images[0].finishDecode(); await tick();
+  assert.equal(images.length, 3);
+  images[2].loaded(); await tick(); images[2].finishDecode();
+  assert.equal(await selected, images[2]);
+  assert.equal(await cache.focus('new-character'), images[2]);
 });

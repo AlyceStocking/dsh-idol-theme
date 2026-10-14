@@ -60,7 +60,8 @@ function setPreferences(patch) {
   const original = { characterId: preferences.characterId, cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
   const next = normalizeAppearance(patch, preferences);
   element('character-status').textContent = '加载中…';
-  sprites.load(spriteUrl(next)).then(image => {
+  const load = sprites.focus?.bind(sprites) ?? sprites.load.bind(sprites);
+  load(spriteUrl(next)).then(image => {
     if (request !== appearanceRequest) return;
     if (image && preferences.characterId === original.characterId && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) {
       element('character-status').textContent = '';
@@ -134,10 +135,12 @@ function renderNotices() {
 function acceptState(packet) {
   if (!packet || !packet.preferences || !packet.notices) return;
   if (packet.preferences.characterId && packet.preferences.characterId !== preferences.characterId) { appearanceRequest++; flipPending = 0; outfitPending = 0; }
-  preferences = normalizeAppearance(packet.preferences, preferences); currentNotices = packet.notices;
+  const next = normalizeAppearance(packet.preferences, preferences);
+  if (next.characterId !== preferences.characterId) sprites.focus?.(spriteUrl(next));
+  preferences = next; currentNotices = packet.notices;
   refreshPreferences(); renderNotices();
   const warmKey = preferences.characterId + ':' + preferences.cardIndex;
-  if (warmedOutfit !== warmKey) {
+  if (!settingsOnly && warmedOutfit !== warmKey) {
     warmedOutfit = warmKey;
     const nextOutfit = (preferences.cardIndex + 1) % PETITS.length;
     const urls = [...PETITS[preferences.cardIndex], ...PETITS[nextOutfit]].map(file => IMG + file);
@@ -195,12 +198,12 @@ function renderChoices() {
 element("outfits").replaceChildren(); element("backgrounds").replaceChildren();
 for (const [index, icon] of ICONS.entries()) {
   const button = document.createElement('button'); button.title = `小人 ${index + 1}`;
-  const image = document.createElement('img'); image.src = IMG + icon; image.alt = button.title; image.loading = 'lazy';
+  const image = document.createElement('img'); image.src = IMG + icon; image.alt = button.title; image.loading = 'lazy'; image.fetchPriority = 'low';
   button.append(image); button.addEventListener('click', () => setPreferences({ cardIndex: index, petitIndex: 0 })); element('outfits').append(button);
 }
 for (const card of CARDS) {
   const button = document.createElement('button'); button.title = card.label;
-  const image = document.createElement('img'); image.src = card.url; image.alt = card.label; image.loading = 'lazy';
+  const image = document.createElement('img'); image.src = card.url; image.alt = card.label; image.loading = 'lazy'; image.fetchPriority = 'low';
   button.append(image); button.addEventListener('click', () => setPreferences({ bg: card.url })); element('backgrounds').append(button);
 }
 }
