@@ -50,6 +50,19 @@ export function clampWindowBounds(bounds, displays) {
   return { x: Math.round(Math.min(Math.max(x, area.x), area.x + area.width - fittedWidth)), y: Math.round(Math.min(Math.max(y, area.y), area.y + area.height - fittedHeight)), width: fittedWidth, height: fittedHeight };
 }
 
+// Settings have their own screen coordinates; moving them never changes the pet.
+export const SETTINGS_SIZE = Object.freeze({ width: 320, height: 420 });
+export function settingsBounds(position, displays, saved) {
+  if (saved && Number.isFinite(saved.x) && Number.isFinite(saved.y)) return clampWindowBounds({ ...saved, ...SETTINGS_SIZE }, displays);
+  const pet = clampWindowBounds({ ...position, width: PET_SIZE, height: PET_SIZE }, displays);
+  const areas = displays.map(display => display.workArea ?? display);
+  const area = areas.find(area => pet.x >= area.x && pet.y >= area.y && pet.x < area.x + area.width && pet.y < area.y + area.height);
+  const gap = (WINDOW_SIZE.width - PET_SIZE) / 2 + 12;
+  const right = pet.x + pet.width + gap;
+  const x = right + SETTINGS_SIZE.width <= area.x + area.width ? right : pet.x - SETTINGS_SIZE.width - gap;
+  return clampWindowBounds({ x, y: pet.y + pet.height / 2 - SETTINGS_SIZE.height / 2, ...SETTINGS_SIZE }, [area]);
+}
+
 // Migrate old saved carrier-window coordinates without moving the visible pet.
 export function petPositionFromWindowBounds(bounds) {
   return { x: bounds.x + (bounds.width - PET_SIZE) / 2, y: bounds.y + bounds.height - 24 - PET_SIZE };

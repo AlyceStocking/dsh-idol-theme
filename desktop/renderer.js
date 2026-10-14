@@ -2,6 +2,7 @@ import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, 
 import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
+const settingsOnly = api.mode === 'settings';
 const element = id => document.getElementById(id);
 const pet = element('pet'), desktop = element('desktop'), notices = element('notices'), noticeList = element('notice-list');
 const settings = element('settings'), dialogue = element('dialogue');
@@ -12,50 +13,28 @@ let { IMG, ICONS, PETITS, CARDS } = getCharacter(preferences.characterId);
 let renderedCharacter = null, warmedOutfit = null;
 let currentNotices = { persistent: [], transient: null, queuedCount: 0 };
 let flipSequence = 0, flipPending = 0, outfitPending = 0, flipping = false, lastNoticeSignature = '';
-let dialogueTimer, longPressTimer, clickTimer, panelTimer, pointer, regionFrame = 0;
+let dialogueTimer, longPressTimer, clickTimer, pointer, regionFrame = 0;
 let spriteRequest = 0, appearanceRequest = 0, requestedSpriteUrl = '';
 
 function layoutPanels() {
   const rect = petWrap.getBoundingClientRect(), inset = 8, gap = 12;
   const width = Math.max(1, Math.min(320, innerWidth - inset * 2));
   const left = Math.max(inset, Math.min(rect.x + rect.width / 2 - width / 2, innerWidth - width - inset));
+  if (settingsOnly) return;
   const above = { start: inset, end: Math.max(inset, rect.y - gap), above: true };
   const below = { start: Math.min(innerHeight - inset, rect.bottom + gap), end: innerHeight - inset, above: false };
   above.height = above.end - above.start; below.height = below.end - below.start;
-  const main = above.height >= below.height ? above : below, other = main === above ? below : above;
-  for (const node of [settings, notices, dialogue]) {
+  const main = above.height >= below.height ? above : below;
+  for (const node of [notices, dialogue]) {
     node.style.left = `${left}px`; node.style.width = `${width}px`; node.style.bottom = 'auto';
   }
+  notices.style.maxHeight = '270px'; noticeList.style.maxHeight = '220px';
   const bubble = !notices.hidden ? notices : !dialogue.hidden ? dialogue : null;
-  notices.style.maxHeight = `${settings.hidden ? 270 : 95}px`;
-  noticeList.style.maxHeight = `${settings.hidden ? 220 : 79}px`;
-  dialogue.style.maxHeight = `${main.height}px`;
-  const bubbleHeight = bubble ? Math.ceil(bubble.getBoundingClientRect().height) : 0;
-  function fit(node, area, height) {
-    height = Math.max(0, Math.min(height, area.height));
-    node.style.top = `${area.above ? area.end - height : area.start}px`;
-    node.style.maxHeight = `${height}px`;
-    if (node === settings) node.style.height = `${height}px`;
-    if (node === notices) {
-      const heading = element('notice-heading').getBoundingClientRect().height;
-      noticeList.style.maxHeight = `${Math.max(0, height - heading - 14)}px`;
-    }
-  }
-  if (settings.hidden) {
-    if (bubble) fit(bubble, main, bubbleHeight);
-  } else if (!bubble) {
-    fit(settings, main, 285);
-  } else if (main.height >= 285 + gap + bubbleHeight || other.height < bubbleHeight) {
-    const height = Math.min(bubbleHeight, Math.max(0, main.height - gap - 38));
-    const panelHeight = Math.min(285, Math.max(0, main.height - gap - height));
-    // Put the reminder next to the pet, with the settings panel farther away.
-    const bubbleArea = main.above ? { ...main, start: main.end - height } : { ...main, end: main.start + height };
-    bubbleArea.height = height;
-    const settingsArea = main.above ? { ...main, end: bubbleArea.start - gap } : { ...main, start: bubbleArea.end + gap };
-    settingsArea.height = Math.max(0, settingsArea.end - settingsArea.start);
-    fit(bubble, bubbleArea, height); fit(settings, settingsArea, panelHeight);
-  } else {
-    fit(settings, main, 285); fit(bubble, other, bubbleHeight);
+  if (bubble) {
+    bubble.style.maxHeight = `${main.height}px`;
+    const height = Math.min(main.height, Math.ceil(bubble.getBoundingClientRect().height));
+    bubble.style.top = `${main.above ? main.end - height : main.start}px`;
+    if (bubble === notices) noticeList.style.maxHeight = `${Math.max(0, height - element('notice-heading').getBoundingClientRect().height - 14)}px`;
   }
   const running = element('running');
   running.style.right = 'auto';
@@ -115,6 +94,7 @@ function refreshPreferences() {
   for (const [index, button] of [...element('backgrounds').children].entries()) button.classList.toggle('selected', CARDS[index].url === preferences.bg);
 }
 function reportRegions() {
+  if (settingsOnly) return;
   const targets = [{ node: pet, sprite: true }, ...[notices, settings].filter(node => !node.hidden).map(node => ({ node }))];
   const rectangles = targets.map(({ node, sprite }) => {
     const rect = node.getBoundingClientRect();
@@ -165,7 +145,7 @@ function acceptState(packet) {
     sprites.warm(urls);
   }
   const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = PLACEHOLDER;
-  if (packet.layout) acceptLayout(packet.layout); else layoutPanels();
+  if (!settingsOnly && packet.layout) acceptLayout(packet.layout); else layoutPanels();
   if (Number.isInteger(packet.flipSequence) && packet.flipSequence > flipSequence) {
     flipPending += packet.flipSequence - flipSequence; flipSequence = packet.flipSequence; performFlip();
   }
@@ -196,22 +176,19 @@ function interact() {
   layoutPanels();
   clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; layoutPanels(); }, 3200);
 }
-function setPanel(open) {
-  settings.hidden = !open; desktop.classList.toggle('settings-open', open);
-  clearTimeout(panelTimer);
-  if (open) resetPanelTimer();
-  layoutPanels();
-}
-function resetPanelTimer() {
-  clearTimeout(panelTimer);
-  panelTimer = setTimeout(() => {
-    if (['INPUT', 'SELECT'].includes(document.activeElement?.tagName) && settings.contains(document.activeElement)) resetPanelTimer();
-    else setPanel(false);
-  }, 15000);
-}
+function setPanel(open) { api.panel(open); }
+let panelDragging = false;
+const panelHeader = element('settings-header');
+panelHeader.addEventListener('pointerdown', event => {
+  if (!settingsOnly || event.button !== 0 || event.target === element('close-settings')) return;
+  event.preventDefault(); panelHeader.setPointerCapture(event.pointerId); panelDragging = true;
+  api.panelDrag('start', { x: event.screenX, y: event.screenY });
+});
+function endPanelDrag() { if (panelDragging) { panelDragging = false; api.panelDrag('end'); } }
+panelHeader.addEventListener('pointerup', endPanelDrag);
+panelHeader.addEventListener('pointercancel', endPanelDrag);
+window.addEventListener('blur', endPanelDrag);
 element('close-settings').addEventListener('click', () => setPanel(false));
-settings.addEventListener('pointerdown', resetPanelTimer);
-settings.addEventListener('keydown', resetPanelTimer);
 element('toggle-sign').addEventListener('click', () => setPreferences({ showSign: !preferences.showSign }));
 element('toggle-mobamas').addEventListener('click', () => setPreferences({ showMobamas: !preferences.showMobamas }));
 function renderChoices() {
@@ -244,7 +221,7 @@ pet.addEventListener('pointerdown', event => {
   pet.setPointerCapture(event.pointerId);
   pointer = { x: event.screenX, y: event.screenY, dragging: false, long: false };
   clearTimeout(longPressTimer);
-  longPressTimer = setTimeout(() => { if (pointer && !pointer.dragging) { pointer.long = true; setPanel(settings.hidden); } }, 500);
+  longPressTimer = setTimeout(() => { if (pointer && !pointer.dragging) { pointer.long = true; setPanel(); } }, 500);
 });
 pet.addEventListener('pointermove', event => {
   if (!pointer || pointer.long) return;
@@ -267,8 +244,12 @@ window.addEventListener('blur', cancelPointer);
 document.addEventListener('keydown', event => {
   if (event.key === 'Escape') setPanel(false);
   if (event.target === pet && (event.key === 'Enter' || event.key === ' ')) { event.preventDefault(); interact(); }
-  if (event.target === pet && event.key === 'ContextMenu') { event.preventDefault(); setPanel(settings.hidden); }
+  if (event.target === pet && event.key === 'ContextMenu') { event.preventDefault(); setPanel(); }
 });
+if (settingsOnly) {
+  document.title = '偶像 · 选择面板';
+  desktop.classList.add('settings-window'); settings.hidden = false; petWrap.hidden = true;
+}
 api.onState(acceptState);
 api.onLayout(acceptLayout);
 window.addEventListener('resize', layoutPanels);

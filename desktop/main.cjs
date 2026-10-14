@@ -4,8 +4,10 @@ const { app, BrowserWindow, ipcMain, screen, nativeImage, net, session, shell, p
 const fs = require('node:fs');
 const path = require('node:path');
 const { createConnection } = require('node:net');
+const SETTINGS_URL = 'yukimi://pet/desktop/settings.html';
 const PAGE_URL = 'yukimi://pet/desktop/index.html';
 const localResources = new Map([
+  [SETTINGS_URL, { file: path.join(__dirname, 'index.html'), contentType: 'text/html; charset=utf-8' }],
   [PAGE_URL, { file: path.join(__dirname, 'index.html'), contentType: 'text/html; charset=utf-8' }],
   ['yukimi://pet/desktop/style.css', { file: path.join(__dirname, 'style.css'), contentType: 'text/css; charset=utf-8' }],
   ['yukimi://pet/desktop/renderer.js', { file: path.join(__dirname, 'renderer.js'), contentType: 'text/javascript; charset=utf-8' }],
@@ -16,6 +18,7 @@ const localResources = new Map([
 protocol.registerSchemesAsPrivileged([{ scheme: 'yukimi', privileges: { standard: true, secure: true, supportFetchAPI: true, corsEnabled: true } }]);
 
 // The owning plugin supplies a private Windows pipe; no TCP listener is exposed.
+let settingsWindow, settingsPosition = null, settingsReady = false, settingsDrag = null;
 let window, logic, assets, preferences, queue, layout, noticeLayer, state = { notices: [], runningCount: 0 };
 let initialized = false, protocolReady = false, quitting = false, flipSequence = 0, rectangles = [], alphaMask = null;
 let drag = null, ignores = true, lastSnapshot = '', pendingLines = [], saveTimer, mouseTimer, stateTimer, parentTimer;
@@ -60,7 +63,7 @@ function saveNow() {
   try {
     fs.mkdirSync(dataRoot, { recursive: true });
     const temporary = preferencesPath + '.tmp';
-    fs.writeFileSync(temporary, JSON.stringify({ version: 3, preferences: assets.savedAppearance(preferences), bounds: window.getBounds(), petPosition: layout.position, shownIds: [...acknowledged].slice(-5000) }), { encoding: 'utf8', mode: 0o600 });
+    fs.writeFileSync(temporary, JSON.stringify({ version: 3, preferences: assets.savedAppearance(preferences), bounds: window.getBounds(), petPosition: layout.position, settingsPosition, shownIds: [...acknowledged].slice(-5000) }), { encoding: 'utf8', mode: 0o600 });
     fs.renameSync(temporary, preferencesPath);
   } catch (error) { process.stderr.write(`Yukimi preferences: ${error.message}\n`); }
 }
@@ -74,6 +77,38 @@ function readSaved() {
 }
 function trusted(event) {
   return window && !window.isDestroyed() && event.sender === window.webContents && event.senderFrame === window.webContents.mainFrame && event.senderFrame.url === PAGE_URL;
+}
+function trustedSettings(event) {
+  return settingsWindow && !settingsWindow.isDestroyed() && event.sender === settingsWindow.webContents && event.senderFrame === settingsWindow.webContents.mainFrame && event.senderFrame.url === SETTINGS_URL;
+}
+function settingsPacket() {
+  return { preferences, notices: { persistent: [], transient: null, queuedCount: 0 }, runningCount: 0, flipSequence: 0, newlyShown: [] };
+}
+function showSettings(open) {
+  if (open === false || (open === undefined && settingsWindow?.isVisible())) { settingsDrag = null; settingsWindow?.hide(); return; }
+  const bounds = logic.settingsBounds(layout.position, screen.getAllDisplays(), settingsPosition);
+  if (settingsWindow && !settingsWindow.isDestroyed()) {
+    settingsWindow.setBounds(bounds);
+    if (settingsReady) { settingsWindow.webContents.send('yukimi:state', settingsPacket()); settingsWindow.show(); }
+    return;
+  }
+  settingsReady = false;
+  settingsWindow = new BrowserWindow({ ...bounds, title: '偶像 · 选择面板', transparent: true, frame: false, resizable: false, maximizable: false, minimizable: false, alwaysOnTop: true, skipTaskbar: true, show: false, hasShadow: false, backgroundColor: '#00000000', webPreferences: { preload: path.join(__dirname, 'preload.cjs'), additionalArguments: ['--idol-settings'], contextIsolation: true, nodeIntegration: false, sandbox: true, webSecurity: true, spellcheck: false, devTools: false } });
+  settingsWindow.setAlwaysOnTop(true, 'floating');
+  settingsWindow.webContents.setWindowOpenHandler(() => ({ action: 'deny' }));
+  settingsWindow.webContents.on('will-navigate', (event, url) => { if ((event.url ?? url) !== SETTINGS_URL) event.preventDefault(); });
+  settingsWindow.webContents.on('will-attach-webview', event => event.preventDefault());
+  settingsWindow.on('will-move', (_event, bounds) => { settingsPosition = { x: bounds.x, y: bounds.y }; scheduleSave(); });
+  settingsWindow.on('close', event => { if (!quitting) { event.preventDefault(); settingsWindow.hide(); } });
+  settingsWindow.on('closed', () => { settingsWindow = null; settingsReady = false; });
+  settingsWindow.loadURL(SETTINGS_URL).catch(error => process.stderr.write(`Settings load failed: ${error.message}\n`));
+}
+function moveSettingsWithCursor() {
+  if (!settingsDrag || !settingsWindow || settingsWindow.isDestroyed()) return;
+  const cursor = screen.getCursorScreenPoint();
+  const bounds = logic.clampWindowBounds({ ...settingsDrag.bounds, x: settingsDrag.bounds.x + cursor.x - settingsDrag.cursor.x, y: settingsDrag.bounds.y + cursor.y - settingsDrag.cursor.y }, [screen.getDisplayNearestPoint(cursor)]);
+  settingsWindow.setBounds(bounds);
+  settingsPosition = { x: bounds.x, y: bounds.y }; scheduleSave();
 }
 function receive(message) {
   const validated = logic.validateHostMessage(message);
@@ -134,6 +169,7 @@ function publish(force = false, snapshot = queue.advance()) {
   const signature = JSON.stringify({ ...packet, newlyShown: [] });
   if (force || signature !== lastSnapshot || snapshot.newlyShown.length) {
     lastSnapshot = signature;
+    if (settingsReady && settingsWindow && !settingsWindow.isDestroyed()) settingsWindow.webContents.send('yukimi:state', settingsPacket());
     if (window && !window.isDestroyed()) window.webContents.send('yukimi:state', packet);
   }
   return packet;
@@ -213,6 +249,7 @@ async function refreshMask() {
 app.whenReady().then(async () => {
   logic = await import('./logic.js'); assets = await import('../lib/characters.js');
   const saved = readSaved();
+  if (Number.isFinite(saved.settingsPosition?.x) && Number.isFinite(saved.settingsPosition?.y)) settingsPosition = saved.settingsPosition;
   preferences = assets.restoreAppearance(saved.preferences);
   for (const id of Array.isArray(saved.shownIds) ? saved.shownIds : []) if (typeof id === 'string' && id.length <= 240) acknowledged.add(id);
   queue = new logic.NoticeQueue({ shownIds: [...acknowledged] });
@@ -257,10 +294,22 @@ app.whenReady().then(async () => {
   });
   window.on('moved', scheduleSave);
   window.on('close', saveNow);
-  const clamp = () => { if (!window.isDestroyed()) { drag = null; movePet(layout.position); } };
+  const clamp = () => { if (!window.isDestroyed()) { drag = null; movePet(layout.position); } if (settingsWindow && !settingsWindow.isDestroyed()) settingsWindow.setBounds(logic.settingsBounds(layout.position, screen.getAllDisplays(), settingsPosition)); };
   screen.on('display-added', clamp); screen.on('display-removed', clamp); screen.on('display-metrics-changed', clamp);
 
+  ipcMain.on('yukimi:panel-drag', (event, action, origin) => {
+    if (!trustedSettings(event) || !['start', 'end'].includes(action)) return;
+    if (action === 'start') {
+      if (!origin || !Number.isFinite(origin.x) || !Number.isFinite(origin.y)) return;
+      settingsDrag = { cursor: origin, bounds: settingsWindow.getBounds() };
+    } else { moveSettingsWithCursor(); settingsDrag = null; }
+  });
+  ipcMain.on('yukimi:panel', (event, open) => {
+    if ((!trusted(event) && !trustedSettings(event)) || ![true, false, undefined].includes(open)) return;
+    showSettings(open);
+  });
   ipcMain.handle('yukimi:ready', event => {
+    if (trustedSettings(event)) { settingsReady = true; settingsWindow.show(); return settingsPacket(); }
     if (!trusted(event)) return null;
     initialized = true;
     const packet = publish(true, queue.update(state.notices));
@@ -291,7 +340,7 @@ app.whenReady().then(async () => {
     scheduleSave();
   });
   ipcMain.on('yukimi:preferences', (event, value) => {
-    if (!trusted(event) || !value || typeof value !== 'object' || Array.isArray(value)) return;
+    if ((!trusted(event) && !trustedSettings(event)) || !value || typeof value !== 'object' || Array.isArray(value)) return;
     preferences = logic.normalizePreferences(value, preferences);
     output({ type: 'preferences', preferences }); scheduleSave(); refreshMask(); publish(true);
   });
@@ -310,6 +359,7 @@ app.whenReady().then(async () => {
     }
   });
   mouseTimer = setInterval(() => {
+    moveSettingsWithCursor();
     if (!window || window.isDestroyed()) return;
     if (drag) {
       moveWithCursor();

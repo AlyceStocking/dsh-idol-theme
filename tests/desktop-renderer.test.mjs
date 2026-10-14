@@ -106,16 +106,17 @@ function controlledCache(initialUrl) {
   };
 }
 
-async function harness() {
+async function harness(mode = 'pet') {
   const clock = new Clock(), cache = controlledCache(sprite(7));
-  const ids = ['pet', 'pet-wrap', 'desktop', 'notices', 'notice-list', 'notice-heading', 'settings', 'dialogue', 'fallback', 'running', 'close-settings', 'toggle-sign', 'toggle-mobamas', 'outfits', 'backgrounds', 'character-search', 'character-select', 'character-status'];
+  const ids = ['settings-header', 'pet', 'pet-wrap', 'desktop', 'notices', 'notice-list', 'notice-heading', 'settings', 'dialogue', 'fallback', 'running', 'close-settings', 'toggle-sign', 'toggle-mobamas', 'outfits', 'backgrounds', 'character-search', 'character-select', 'character-status'];
   const nodes = Object.fromEntries(ids.map(id => [id, new Element(id)]));
   for (const id of ['notices', 'settings', 'dialogue', 'fallback', 'running']) nodes[id].hidden = true;
   let preferences = { cardIndex: 7, petitIndex: 0, bg: assets.CARDS[23].url, showSign: true, showMobamas: false };
   let stateListener;
-  const updates = [];
+  const updates = [], panels = [], panelDrags = [];
   const packet = () => ({ preferences: { ...preferences }, notices: { persistent: [], transient: null, queuedCount: 0 }, runningCount: 0, flipSequence: 0, newlyShown: [] });
   const api = {
+    mode, panelDrag(...args) { panelDrags.push(args); }, panel(open) { panels.push(open); },
     onState(listener) { stateListener = listener; }, onLayout() {}, ready: async () => packet(),
     setPreferences(value) { preferences = plain(value); updates.push({ at: clock.now, preferences }); stateListener(packet()); },
     setRegions() {}, shown() {}, drag() {}, openSession() {},
@@ -134,7 +135,7 @@ async function harness() {
   await flush();
   assert.equal(nodes.pet.src, sprite(7), 'the initial decoded sprite must be visible');
   return {
-    clock, cache, nodes, updates,
+    clock, cache, nodes, updates, panels, panelDrags,
     get preferences() { return preferences; },
     async doubleClick() {
       nodes.pet.dispatch('pointerdown'); nodes.pet.dispatch('pointerup');
@@ -292,4 +293,37 @@ test('a settings selection waiting for decode cannot overwrite a newer host outf
   assert.equal(h.preferences.cardIndex, 3);
   assert.equal(h.preferences.petitIndex, 2);
   assert.deepEqual(h.updates, [], 'a superseded settings callback must not submit stale preferences');
+});
+
+
+test('long press opens a separate panel without showing settings over the pet', async () => {
+  const h = await harness();
+  h.nodes.pet.dispatch('pointerdown'); await h.clock.advance(510); h.nodes.pet.dispatch('pointerup');
+  assert.deepEqual(h.panels, [undefined]);
+  assert.equal(h.nodes.settings.hidden, true);
+  assert.deepEqual(h.updates, []);
+});
+
+test('the settings window stays open while idle and accepts character choices', async () => {
+  const h = await harness('settings');
+  assert.equal(h.nodes.settings.hidden, false);
+  assert.equal(h.nodes['pet-wrap'].hidden, true);
+  await h.clock.advance(16000);
+  assert.deepEqual(h.panels, []);
+  h.nodes['character-select'].value = 'arisu'; h.nodes['character-select'].dispatch('change');
+  h.cache.decoded(characters.spriteUrl(characters.normalizeAppearance({ characterId: 'arisu' }))); await flush();
+  assert.equal(h.preferences.characterId, 'arisu');
+  h.nodes['close-settings'].dispatch('click'); assert.deepEqual(h.panels, [false]);
+});
+
+
+test('only the panel header starts independent dragging and pointer cancellation stops it', async () => {
+  const h = await harness('settings');
+  const header = h.nodes['settings-header'];
+  header.dispatch('pointerdown', { target: h.nodes['close-settings'] });
+  assert.deepEqual(h.panelDrags, []);
+  header.dispatch('pointerdown', { screenX: -300, screenY: 450 });
+  header.dispatch('pointercancel'); header.dispatch('pointerup');
+  assert.deepEqual(plain(h.panelDrags), [['start', { x: -300, y: 450 }], ['end']]);
+  assert.deepEqual(h.updates, []);
 });

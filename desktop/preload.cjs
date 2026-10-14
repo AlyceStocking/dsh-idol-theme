@@ -2,6 +2,9 @@
 const { contextBridge, ipcRenderer } = require('electron');
 
 contextBridge.exposeInMainWorld('yukimiDesktop', Object.freeze({
+  mode: process.argv.includes('--idol-settings') ? 'settings' : 'pet',
+  panelDrag: (action, origin) => ipcRenderer.send('yukimi:panel-drag', action, origin),
+  panel: open => ipcRenderer.send('yukimi:panel', open),
   ready: () => ipcRenderer.invoke('yukimi:ready'),
   onState: listener => {
     if (typeof listener !== 'function') throw new TypeError('A state listener is required');

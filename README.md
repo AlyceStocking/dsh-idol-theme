@@ -6,6 +6,7 @@ Windows 多角色试验版：收录范围固定为 **190 位灰姑娘女孩偶�
 
 - `npm ci`，`npm run check`，`npm test`：安装开发依赖并检查。
 - `npm run desktop:package`，`npm run desktop:preview`：打包并启动隔离预览，偏好保存在本仓库 `build/preview-data/`。
+- 长按小人打开独立选择面板：默认右侧、空间不足时左侧。拖动面板标题栏可单独移动并记住位置，点击 × 或 Esc 关闭。
 - 当前名单与素材检查结果见 [190 位收录报告](research/roster/README.md)。
 - 角色、扩展方法、加载限制及人工待办见 [双角色试验说明](research/two-character-trial.md)。
 - 临时版使用独立 `dsh-idol-theme` 包与 `idol-theme` 内部插件标识，偏好保存在 `~/.dsh/idol-desktop/`。旧版 `dsh-yukimi-theme` 可保留安装并禁用。两版主题请互斥启用；目前仍共用兼容 RPC 通道及 CSS 变量。

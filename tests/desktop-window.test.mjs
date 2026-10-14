@@ -209,3 +209,16 @@ test('consecutive drag deltas stay anchored to the original pet even when its ca
   assertDesktopLayout(second, fullHd.bounds);
   assert.deepEqual(layoutDesktop(second.position, [fullHd]), second, 'reflow must be idempotent after each drag step');
 });
+
+
+test('settings open beside the pet and clamp saved independent positions to available displays', async () => {
+  const { settingsBounds } = await import('../desktop/logic.js');
+  const displays = [{ workArea: { x: -1920, y: 0, width: 1920, height: 1040 } }, { workArea: { x: 0, y: 0, width: 1920, height: 1040 } }];
+  const pet = { x: 300, y: 500 };
+  assert.deepEqual(settingsBounds(pet, displays), { x: 577, y: 375, width: 320, height: 420 });
+  assert.equal(settingsBounds({ x: 1700, y: 900 }, displays).x, 1273);
+  const saved = { x: -1500, y: 200 };
+  assert.deepEqual(settingsBounds(pet, displays, saved), { ...saved, width: 320, height: 420 });
+  assert.deepEqual(settingsBounds(pet, displays.slice(1), saved), { x: 0, y: 200, width: 320, height: 420 });
+  assert.deepEqual(pet, { x: 300, y: 500 });
+});
