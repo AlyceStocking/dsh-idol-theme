@@ -8,7 +8,7 @@ Windows 多角色试验版：收录范围固定为 **190 位灰姑娘女孩偶�
 - `npm run desktop:package`，`npm run desktop:preview`：打包并启动隔离预览，偏好保存在本仓库 `build/preview-data/`。
 - 当前名单与素材检查结果见 [190 位收录报告](research/roster/README.md)。
 - 角色、扩展方法、加载限制及人工待办见 [双角色试验说明](research/two-character-trial.md)。
-- 当前保留 `dsh-yukimi-theme` 插件标识及 `/yukimi` 通道以兼容既有配置；安装时是原插件的替换版本，不能与旧版并行启用。此次验证使用隔离预览，没有替换已安装的 DSH 主题。
+- 临时版使用独立 `dsh-idol-theme` 包与 `idol-theme` 内部插件标识，偏好保存在 `~/.dsh/idol-desktop/`。旧版 `dsh-yukimi-theme` 可保留安装并禁用。两版主题请互斥启用；目前仍共用兼容 RPC 通道及 CSS 变量。
 
 以下为继承的原主题说明；其中上游安装地址仍指向原雪美版本。
 

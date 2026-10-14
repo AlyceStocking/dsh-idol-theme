@@ -19,7 +19,7 @@ async function fixture(t) {
     await rm(resolved, { recursive: true, force: true });
   });
   const root = path.join(directory, 'source'), dshHome = path.join(directory, 'dsh home & tools');
-  const metadata = { name: 'dsh-yukimi-theme', version: '1.2.0-desktop.2', type: 'module', files: ['lib', 'desktop', 'cordis.patch.yml', ...docs], dsh: { bundle: { patch: './cordis.patch.yml' } } };
+  const metadata = { name: 'dsh-idol-theme', version: '1.2.0-desktop.2', type: 'module', files: ['lib', 'desktop', 'cordis.patch.yml', ...docs], dsh: { bundle: { patch: './cordis.patch.yml' } } };
   for (const relative of [...requiredSourceFiles, ...docs]) {
     const file = path.join(root, relative);
     await mkdir(path.dirname(file), { recursive: true });
@@ -31,7 +31,7 @@ async function fixture(t) {
   }
   const profile = path.join(dshHome, 'profiles', 'desktop', 'package.json');
   await mkdir(path.dirname(profile), { recursive: true });
-  await writeFile(profile, '{"dependencies":{"dsh-yukimi-theme":"github:example/original"}}');
+  await writeFile(profile, '{"dependencies":{"dsh-idol-theme":"github:example/original"}}');
   return { directory, root, dshHome, profile };
 }
 
@@ -83,7 +83,7 @@ test('missing runtime fails before packing or invoking installation and leaves t
   await assert.rejects(installDesktopPackage({ ...f, pack() { packed = true; }, run() { ran = true; } }), { code: 'ENOENT' });
   assert.equal(packed, false); assert.equal(ran, false);
   assert.equal(await readFile(f.profile, 'utf8'), before);
-  await assert.rejects(readdir(path.join(f.dshHome, 'yukimi-desktop', 'packages')), { code: 'ENOENT' });
+  await assert.rejects(readdir(path.join(f.dshHome, 'idol-desktop', 'packages')), { code: 'ENOENT' });
 });
 
 test('release staging includes the complete runtime and excludes ignored files, dependencies and unrelated work', async t => {
@@ -92,7 +92,7 @@ test('release staging includes the complete runtime and excludes ignored files, 
   assert.equal(observed.length, 1);
   for (const relative of requiredSourceFiles) assert.ok(observed[0].files.includes(relative), relative);
   assert.ok(observed[0].files.every(name => !name.split('/').some(part => ['.gitignore', 'node_modules', 'vllm-ascend'].includes(part))));
-  assert.equal(path.dirname(result.archive), path.join(f.dshHome, 'yukimi-desktop', 'packages'));
+  assert.equal(path.dirname(result.archive), path.join(f.dshHome, 'idol-desktop', 'packages'));
   assert.match(path.basename(result.archive), new RegExp(`-${result.sha256}\\.tgz$`));
   assert.ok((await readFile(result.archive)).length > 0);
   assert.equal(result.reused, false);
@@ -101,7 +101,7 @@ test('release staging includes the complete runtime and excludes ignored files, 
 test('archive bytes must include runtime even when the pack report claims every file is present', async t => {
   const f = await fixture(t), missing = 'desktop/runtime/win32-x64/resources/app.asar';
   await assert.rejects(createDesktopBundle({ ...f, pack: options => packFixture(options, { omit: missing }) }), /Archive is missing required component: desktop\/runtime\/win32-x64\/resources\/app.asar/);
-  await assert.rejects(readdir(path.join(f.dshHome, 'yukimi-desktop', 'packages')), { code: 'ENOENT' });
+  await assert.rejects(readdir(path.join(f.dshHome, 'idol-desktop', 'packages')), { code: 'ENOENT' });
 });
 
 test('a broken compressed archive rejects cleanly without installing or changing the profile', async t => {
@@ -112,14 +112,14 @@ test('a broken compressed archive rejects cleanly without installing or changing
     return packed;
   }, run() { assert.fail('a malformed archive must not reach installation'); } }), /unexpected end of file/);
   assert.equal(await readFile(f.profile, 'utf8'), before);
-  await assert.rejects(readdir(path.join(f.dshHome, 'yukimi-desktop', 'packages')), { code: 'ENOENT' });
+  await assert.rejects(readdir(path.join(f.dshHome, 'idol-desktop', 'packages')), { code: 'ENOENT' });
 });
 
 test('a staging pack failure never invokes installation or changes the profile', async t => {
   const f = await fixture(t), before = await readFile(f.profile, 'utf8');
   await assert.rejects(installDesktopPackage({ ...f, pack: async () => { throw new Error('Simulated pack failure'); }, run() { assert.fail('a failed pack must not reach installation'); } }), /Simulated pack failure/);
   assert.equal(await readFile(f.profile, 'utf8'), before);
-  await assert.rejects(readdir(path.join(f.dshHome, 'yukimi-desktop', 'packages')), { code: 'ENOENT' });
+  await assert.rejects(readdir(path.join(f.dshHome, 'idol-desktop', 'packages')), { code: 'ENOENT' });
 });
 
 test('content-addressed packages reuse identical bytes and never overwrite an older or corrupted package', async t => {
@@ -166,7 +166,7 @@ test('an unrecognized command shim is rejected before execution', async t => {
 test('a failed official installation preserves its immutable package for retry', async t => {
   const f = await fixture(t), { dshCli } = await desktopShim(f);
   await assert.rejects(installDesktopPackage({ ...f, dshCli, pack: packFixture, run: async () => ({ exitCode: 1 }) }), /installation failed \(1\).*immutable package remains/);
-  assert.equal((await readdir(path.join(f.dshHome, 'yukimi-desktop', 'packages'))).length, 1);
+  assert.equal((await readdir(path.join(f.dshHome, 'idol-desktop', 'packages'))).length, 1);
 });
 
 test('linked source content is refused before staging or touching the installation', async t => {

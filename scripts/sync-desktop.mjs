@@ -19,7 +19,7 @@ export const requiredSourceFiles = [
 ];
 
 const defaultHome = () => path.resolve(process.env.DSH_HOME || path.join(homedir(), '.dsh'));
-const installedPath = home => path.join(home, 'profiles', 'desktop', 'node_modules', 'dsh-yukimi-theme');
+const installedPath = home => path.join(home, 'profiles', 'desktop', 'node_modules', 'dsh-idol-theme');
 const samePath = (a, b) => process.platform === 'win32' ? a.toLowerCase() === b.toLowerCase() : a === b;
 const within = (base, candidate) => {
   const relative = path.relative(base, candidate);
@@ -41,7 +41,7 @@ async function regularTree(candidate) {
 
 async function validateSource(root) {
   const metadata = JSON.parse(await readFile(path.join(root, 'package.json'), 'utf8'));
-  if (metadata.name !== 'dsh-yukimi-theme') throw new Error('Source is not the Yukimi plugin.');
+  if (metadata.name !== 'dsh-idol-theme') throw new Error('Source is not the Yukimi plugin.');
   for (const relative of requiredSourceFiles) {
     const file = path.join(root, relative);
     const info = await stat(file);
@@ -55,7 +55,7 @@ async function installedRoot(target, verifyPackage = true) {
   const resolved = await realpath(target);
   if (verifyPackage) {
     const installed = JSON.parse(await readFile(path.join(resolved, 'package.json'), 'utf8'));
-    if (installed.name !== 'dsh-yukimi-theme') throw new Error('Target is not the installed Yukimi plugin.');
+    if (installed.name !== 'dsh-idol-theme') throw new Error('Target is not the installed Yukimi plugin.');
   }
   return resolved;
 }
@@ -106,7 +106,7 @@ export async function syncDesktop({ root = defaultRoot, dshHome = defaultHome(),
   const target = await installedRoot(installedPath(dshHome));
   if (samePath(root, target) || within(root, target) || within(target, root)) throw new Error('Source and installed plugin directories must be separate.');
   for (const name of managedNames) if (await exists(path.join(target, name))) await regularTree(path.join(target, name));
-  const backup = path.join(dshHome, 'yukimi-desktop', 'backups', `${new Date().toISOString().replace(/[:.]/g, '-')}-${randomUUID().slice(0, 8)}`);
+  const backup = path.join(dshHome, 'idol-desktop', 'backups', `${new Date().toISOString().replace(/[:.]/g, '-')}-${randomUUID().slice(0, 8)}`);
   await mkdir(backup, { recursive: true });
   const resolvedBackup = await realpath(backup);
   if (within(target, resolvedBackup) || within(root, resolvedBackup)) throw new Error('Backup directory must be outside the plugin.');
@@ -144,5 +144,5 @@ if (process.argv[1] && pathToFileURL(path.resolve(process.argv[1])).href === imp
   const restoreIndex = process.argv.indexOf('--restore-backup');
   if (restoreIndex >= 0 && !process.argv[restoreIndex + 1]) throw new Error('--restore-backup requires the backup directory.');
   const result = restoreIndex >= 0 ? await restoreBackup({ backup: process.argv[restoreIndex + 1] }) : await syncDesktop();
-  console.log(`${restoreIndex >= 0 ? 'Plugin restored' : 'Plugin synced'}: ${result.target}\nBackup: ${result.backup}\nEnable dsh-yukimi-theme on the Plugins page to reload it.`);
+  console.log(`${restoreIndex >= 0 ? 'Plugin restored' : 'Plugin synced'}: ${result.target}\nBackup: ${result.backup}\nEnable dsh-idol-theme on the Plugins page to reload it.`);
 }

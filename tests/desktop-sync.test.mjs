@@ -15,14 +15,14 @@ async function fixture(t, desktop = false) {
     await rm(resolved, { recursive: true, force: true });
   });
   const root = path.join(directory, 'source'), dshHome = path.join(directory, 'dsh');
-  const target = path.join(dshHome, 'profiles', 'desktop', 'node_modules', 'dsh-yukimi-theme');
+  const target = path.join(dshHome, 'profiles', 'desktop', 'node_modules', 'dsh-idol-theme');
   for (const relative of requiredSourceFiles) {
     const file = path.join(root, relative);
     await mkdir(path.dirname(file), { recursive: true });
-    await writeFile(file, relative === 'package.json' ? JSON.stringify({ name: 'dsh-yukimi-theme', version: 'new' }) : `new:${relative}`);
+    await writeFile(file, relative === 'package.json' ? JSON.stringify({ name: 'dsh-idol-theme', version: 'new' }) : `new:${relative}`);
   }
   await mkdir(path.join(target, 'lib'), { recursive: true });
-  await writeFile(path.join(target, 'package.json'), JSON.stringify({ name: 'dsh-yukimi-theme', version: 'old' }));
+  await writeFile(path.join(target, 'package.json'), JSON.stringify({ name: 'dsh-idol-theme', version: 'old' }));
   await writeFile(path.join(target, 'cordis.patch.yml'), 'old patch');
   await writeFile(path.join(target, 'lib', 'index.js'), 'old Host');
   await writeFile(path.join(target, 'lib', 'legacy.js'), 'old plugin file');
@@ -68,7 +68,7 @@ test('an incomplete runtime is rejected before backup or installed files are cha
   await unlink(path.join(f.root, 'desktop', 'runtime', 'win32-x64', 'resources', 'app.asar'));
   await assert.rejects(syncDesktop(f), { code: 'ENOENT' });
   assert.deepEqual(await snapshot(f.target), original);
-  await assert.rejects(readdir(path.join(f.dshHome, 'yukimi-desktop', 'backups')), { code: 'ENOENT' });
+  await assert.rejects(readdir(path.join(f.dshHome, 'idol-desktop', 'backups')), { code: 'ENOENT' });
 });
 
 test('failure after a partial desktop copy restores original files and removes a newly added desktop directory', async t => {
@@ -87,7 +87,7 @@ test('failure after a partial desktop copy restores original files and removes a
   await assert.rejects(syncDesktop({ ...f, copy }), /original plugin was restored.*Simulated disk failure/);
   assert.deepEqual(await snapshot(f.target), original);
   await assert.rejects(readdir(path.join(f.target, 'desktop')), { code: 'ENOENT' });
-  const backups = path.join(f.dshHome, 'yukimi-desktop', 'backups');
+  const backups = path.join(f.dshHome, 'idol-desktop', 'backups');
   const backup = path.join(backups, (await readdir(backups))[0]);
   assert.equal(JSON.parse(await readFile(path.join(backup, 'manifest.json'), 'utf8')).status, 'rolled-back');
 });
@@ -135,7 +135,7 @@ test('incomplete rollback reports the preserved backup and supports a later expl
     if (failed && destination === path.join(f.target, 'lib') && source.includes(`${path.sep}backups${path.sep}`)) throw new Error('Restore temporarily blocked');
     return cp(source, destination, options);
   } }), error => error instanceof AggregateError && /rollback is incomplete.*Preserve backup/.test(error.message));
-  const backups = path.join(f.dshHome, 'yukimi-desktop', 'backups');
+  const backups = path.join(f.dshHome, 'idol-desktop', 'backups');
   const backup = path.join(backups, (await readdir(backups))[0]);
   assert.equal(JSON.parse(await readFile(path.join(backup, 'manifest.json'), 'utf8')).status, 'rollback-incomplete');
   await restoreBackup({ backup, dshHome: f.dshHome });

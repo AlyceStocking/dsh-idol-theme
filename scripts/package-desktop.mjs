@@ -11,7 +11,7 @@ await mkdir(path.join(stage, 'lib'), { recursive: true });
 await cp(path.join(root, 'desktop'), path.join(stage, 'desktop'), { recursive: true, filter: source => !source.startsWith(path.join(root, 'desktop', 'runtime')) });
 await cp(path.join(root, 'lib', 'assets.js'), path.join(stage, 'lib', 'assets.js'));
 await cp(path.join(root, 'lib', 'characters.js'), path.join(stage, 'lib', 'characters.js'));
-await writeFile(path.join(stage, 'package.json'), JSON.stringify({ name: 'yukimi-desktop', version: '1.2.0', private: true, type: 'module', main: 'desktop/main.cjs' }, null, 2));
+await writeFile(path.join(stage, 'package.json'), JSON.stringify({ name: 'idol-desktop', version: '1.2.0', private: true, type: 'module', main: 'desktop/main.cjs' }, null, 2));
 const require = createRequire(import.meta.url);
 const zipArgument = process.argv.indexOf('--electron-zip-dir');
 const pristineElectron = path.join(root, 'build', 'desktop-electron-pristine.exe');

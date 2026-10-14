@@ -36,7 +36,7 @@ async function regularDirectory(directory) {
 async function validateSource(root) {
   for (const name of releaseNames) await regularTree(path.join(root, name));
   const metadata = JSON.parse(await readFile(path.join(root, 'package.json'), 'utf8'));
-  if (metadata.name !== 'dsh-yukimi-theme' || !/^\d+\.\d+\.\d+(?:-[\w.-]+)?(?:\+[\w.-]+)?$/.test(metadata.version ?? '')) throw new Error('Source is not a versioned Yukimi plugin.');
+  if (metadata.name !== 'dsh-idol-theme' || !/^\d+\.\d+\.\d+(?:-[\w.-]+)?(?:\+[\w.-]+)?$/.test(metadata.version ?? '')) throw new Error('Source is not a versioned Yukimi plugin.');
   if (metadata.dsh?.bundle?.patch !== './cordis.patch.yml') throw new Error('Source does not declare the Yukimi bundle patch.');
   for (const relative of requiredArchiveFiles) {
     const info = await lstat(path.join(root, relative));
@@ -174,7 +174,7 @@ export async function createDesktopBundle({ root = defaultRoot, dshHome = defaul
   await verifyArchive(archive);
   const sha256 = await digest(archive);
   const home = await regularDirectory(path.resolve(dshHome));
-  const data = await regularDirectory(path.join(home, 'yukimi-desktop'));
+  const data = await regularDirectory(path.join(home, 'idol-desktop'));
   const packages = await regularDirectory(path.join(data, 'packages'));
   const persistent = path.join(packages, `${metadata.name}-${metadata.version}-${sha256}.tgz`);
   let reused = false;

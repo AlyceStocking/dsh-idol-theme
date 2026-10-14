@@ -1,4 +1,4 @@
-# dsh-yukimi-theme bundle patch: mount the yukimi theme plugin.
+# dsh-idol-theme bundle patch: mount the yukimi theme plugin.
 #
 # Applied when this bundle appears in a profile's dsh.profile.bundles list.
 # The host half owns a Windows desktop companion in the desktop profile;
@@ -7,5 +7,5 @@
 # exports["./client"].
 
 - insert:
-    - id: yukimi-theme
-      name: 'dsh-yukimi-theme'
+    - id: idol-theme
+      name: 'dsh-idol-theme'
