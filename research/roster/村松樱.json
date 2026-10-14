@@ -1,0 +1,1215 @@
+{
+  "page": "村松樱",
+  "group": "Cute",
+  "id": "sakura",
+  "stem": "Sakura",
+  "roman": "Sakura Muramatsu",
+  "revision": 198478,
+  "checkedAt": "2026-10-14T02:05:08.222Z",
+  "files": [
+    {
+      "title": "CG-Sakura-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101369,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/1dybwprqog9glsl4etdz978jtw0vgx3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11184",
+        "sha1": "0be106d37fb08b870855cb9ba5c6be80abe27767",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102328,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/k8v0knehrzend43b3i88c6t83vea92s.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11185",
+        "sha1": "ad52e52034644c5ad40412aeb9a533704d4c2674",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102087,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f0/64o85m4udewphe3ugmj2j3p77enf2wu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11186",
+        "sha1": "3479e7a1f52c63d5668b7557be063e38618f5b7e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101294,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/pfdiorkvf8kdfien4yn1oa2vd0xbjzv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11187",
+        "sha1": "d9ad4dcca341fe3bd922a7bcbabd87bdf79d8afb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100895,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/1o0uzvrp3q2mvygp8fz2san7ze9lv6l.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11188",
+        "sha1": "0e4613408ee60513057cf36966ecb3961c1d221d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100736,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/e2usq8j9ck8eb2cvw72nmo81b2993o1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11189",
+        "sha1": "7887d5e3e16b9b469e9527f829e2089c84be5bd1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102366,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/9slhde01vwc5we725n52bwsfetjsmaq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11190",
+        "sha1": "53d906e067361829f7f048bf79ddfb7752c486e2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101349,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/octghzfznktq8s2emcnnm6nia46apw5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11191",
+        "sha1": "d0820e192492808192ff86c5ee056db3bff21795",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101386,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/q3m4k8gdk19rsbjalplbwyr7ymc5y65.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11192",
+        "sha1": "df70e8446d8cc4f9a27e68aac8eaa4bdd658c03d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101588,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/rqelr4kousiir8jycqishp9s355khyq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11193",
+        "sha1": "ed6bedc6ee8d5135704c4bd7627eb4d57cfd20f2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101293,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/cvgzr14t1twd9zwifet9eg49pingqli.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11194",
+        "sha1": "6e36c7d214c8c365a5259827a217e2e61015b9a6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100370,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/4ds4bcl0vs8w2v1kankkicxf114jooj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11195",
+        "sha1": "25853d053995388f17ca63c130a59422a204fbb3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102246,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/8myhsq1d40vhyprjvnzhu8f6wz9kq54.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11196",
+        "sha1": "49f23260d359ffe52f07e993f73c5a5a3f405658",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102291,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/qtfwt5zy5ydkmwv68h2jfg6cxsiq0e3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11197",
+        "sha1": "e59532dacbfff9516f5eecf2ba866842654bd67b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102126,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/969xrxmajbm9a50e5259sj903zv3the.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11198",
+        "sha1": "4e8a361c9cc72d3e45709ef306604dedac73d302",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101224,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/9qbgd42vvtyyrsj3k1o0tdre8aq08rw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11199",
+        "sha1": "534e50b64f80e79158dd9b627d4fb7158e43ee6c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99681,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/1g4jrfpksydbbkao4m959csj32pp4wb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11200",
+        "sha1": "0c654bb2d5281a0fea427d446f1abf08e41fd60b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98507,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/b8upzxqc715g2nkhtdran08wpe6u8dh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11201",
+        "sha1": "6046412e731172f7972d34248b2ecfb5728cd3e5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100645,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/o9fwjwnd775kbgs17tc9gwyf5q3g8jb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11202",
+        "sha1": "cfb480f948eaff843f12aabbdae0e5e36a302a37",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102063,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/4q0rv7mw9pmlpr5vuj5nh6rk0cj1wq1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11203",
+        "sha1": "286e658f1571ec662b2bf3516212b4a57407fee9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101774,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/0mi81h6atjgelv0oy5evvnfa3jddxyz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11204",
+        "sha1": "055a1c230209d0547094e79242d74009df77f63b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102000,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/4rpy8ru3r4ybx00xpdz4oat8tg4dit3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11205",
+        "sha1": "28d5d952bd462e5085ef00a98497399e52f63477",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102013,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/bsrdcbv20helrs0vo83xrqrghzg58ov.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11206",
+        "sha1": "65022075022a916ee33742df5ae9115f1ac9473f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100207,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/jl6qjlhajxp7u1vp7zje3yxtqrzc7y3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11207",
+        "sha1": "a7b1ab275c13297908e734e3e68782b1f146e23b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102230,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/mj00qsvnlo2snl13heq3us75cwvfrig.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11208",
+        "sha1": "c0db4565eb319bf3a28c21792e2eab6a9d1d3808",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101582,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/hee9vx14esp0k3uo1eabhkwak7exhau.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11209",
+        "sha1": "94f521e3f3714cb33c0b4b9af70e44876214dfd6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100707,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/fl5bljxgu8meo0t8a7as9bppfquvsn2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11210",
+        "sha1": "8570fd4b80ff14a34ec601eab60595de332758be",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101169,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/nx2m6w2z8jpkgp7uuahu47sl44s9af3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11211",
+        "sha1": "ccc3828887416d91ce5d5a8f2739dc6e084e48ff",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101490,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/cvzetmyct4fdmpgs8dzbv2055hmmr4e.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11212",
+        "sha1": "6e55ed525a9d10276b1765239754d6d7d1937cce",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102296,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/llu9j7r4s5981skqru6wnik35lm5w5v.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11213",
+        "sha1": "b8f898e391af10538ab23e5e5965348757498c13",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100486,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/igkw5cn9f0jvmbmjakmptgcoxh51lp3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11214",
+        "sha1": "9e09a65642d5466eb4301f0f84c281815e993d17",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Sakura-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101204,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/09diukwkz3nb4ursfyw8dlv905felek.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Sakura-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11215",
+        "sha1": "023ac2fb8fa2690d18d37629a818bd60760346dc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1239233,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/06crbbybi2a5k7bv6b2oll0g2l2min7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8961",
+        "sha1": "0182d6599e82abcdec2be3fbd5ad34d69b98dde3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1282312,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/s9yj37nyg9qxm2hir55nwjybsi80cd0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8960",
+        "sha1": "f21249763eae0dcf8d404692a66aa9d3592d4e94",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1285258,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/og7l8wgtkst6yd1r591yua1rcryk6ty.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11230",
+        "sha1": "d150955b8f11a4f347feaf6d7a438e6ddf338d96",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1317880,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/id6ulae9gi0052ouilrij90fw6kkmi2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11231",
+        "sha1": "9d3b4571469b4f8e664f64e4d799265a688adaea",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Sakura-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 41818,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/qx27kb36mnwr7f70ahgn103iy9kyu0l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Sakura-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=589",
+        "sha1": "e671899047625af1cf6113c8d07009ba2c1cc475",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18036,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/s94syevdiw2xub0v08s4x40bojf8x0u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11216",
+        "sha1": "f1e00504db726812753ba3aebc04e03aa817342e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 15448,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/0lm4ii34w111qmpn0so6waojz08qjoh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11217",
+        "sha1": "0523d4d3aef1bf84968afc0dafa3da5e597dde21",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16476,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/2qhjk5a4n3y6cvljh9pkjpf9rsx8mmg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11218",
+        "sha1": "176b9c65904262715653def58c1388eb70b7c588",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17561,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/4isccf217iyxcl5xx60h9ovl9wxew52.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11219",
+        "sha1": "26b6001ef168c8746a6ea21706f4fb14ceaeab36",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 15604,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/1ry8k9n590reztcn8hxlt20oz41qi2m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11220",
+        "sha1": "0f3525b67a9463f64d066f4fb407e46bd9e43efe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17263,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/o7cyoz1jammpkzafjk0qgmoga5l841d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11221",
+        "sha1": "cf35c6fd7895d5e592ff5c2d3586126e262fcf71",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17127,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/a0qllg4w4s6g0xfakg365dbmy040h47.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15449",
+        "sha1": "55c8b240a6d3eae3058f6df69358c585cb4f7aa7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1198726,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/qxqd5bxs0xqszsyaj5i724u20yrat6i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11222",
+        "sha1": "e69a6262476066c6de59b9d7412f60e59d0ff53a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1162160,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/4nh0yjpeettl86cnglwiw9li75g45pl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11223",
+        "sha1": "27d33fd2418c693cbbe06663d64e2323089529e9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 23927,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/45i5uturmym19gue8b8csgdq4fo3lii.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28497",
+        "sha1": "238d627422127db37346e965086814457f5503aa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 23995,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/9frwy7t8qiscidfpbopw119rbxkiv0w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28498",
+        "sha1": "50cc81044cf416aa9a105d6e24c929e94e209590",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 23802,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/qc48cdu1que0dldkyaghug1cwggp3ko.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28499",
+        "sha1": "e1768a116f182787f3a9c13d092772f341442e58",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 23846,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4c/p875drpxx8yld75tf9x74gj32y9sw85.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28500",
+        "sha1": "d7f864d27c685301b09788df7b5477738cb0e325",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 23480,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/66/ftcpofycebk9me6qjttr0hzfvv6huub.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28501",
+        "sha1": "876481003d259b9efa6de8be4c2ea9fe44900863",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 24732,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/lh6ihaymf8cabm7hpduh0puwfk3d71x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28502",
+        "sha1": "b7dcecc50fa3b0deaa4c7c1c9a7d8bdfa4c707f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 23805,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/2fih59i9h0ourbc5u2462p6vyxduslv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28503",
+        "sha1": "14cf8aaf238f5366561445c0b6912ee6a0461d53",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 23876,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/bb3s6w2jmedusb34mxq8ydxjy3cc8gt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28504",
+        "sha1": "60cf54b2dca5ba20fa40991367fb693258400ddd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1006886,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/atxs6o6oewxhdqxibxm2hbklq223mt5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11224",
+        "sha1": "5cba468fd45e452ca0dea22d13530ca6273e0039",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1132654,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/0thrcfuuoqhi37snj55zbu1ivbb1cvq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11225",
+        "sha1": "070376eeb0286b4475f331bf80f574d7936c5e76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 25794,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/ttorbempoiexsw5g7rn6y6nf6mvrqgd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28505",
+        "sha1": "ff52dfd94ee6448dacc89d347022b49dae4775ad",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 25477,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/51wumzlbih5y5hexn26xcezz79d5ram.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28506",
+        "sha1": "2b424960c4ae900f400db91e03f4deee35383a6e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 24398,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/hq5h27w4kjispdhyn9kc8qb4t4f96of.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28507",
+        "sha1": "97c0c62587da7a179910cea12369f6785f02590f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 24159,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/b87axn7lgyxga1usfg4bap3eogk8wpg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28508",
+        "sha1": "601ea74528841f0433d47aacbfe1383b4f692b94",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1089579,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/gi0js4dbce9yot4jycytouc0vymsyu9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11226",
+        "sha1": "8d41dbf4fc752f3ab474a4b2cfd1836ee4f92d61",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1195709,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/q3r5doms79a3yndq0q41gurdgm65edg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11227",
+        "sha1": "df79669e8e2f6614e2418c76adf564d7ae74f604",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 23732,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/rb871nukvmn47r13nd1a93doz2063ln.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28509",
+        "sha1": "e9cfefdf97df11f754a652aade1bf7cb8bf7cfbb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 22929,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/l1tqbe3iufrbbtmdgsly0k32pkihk96.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28510",
+        "sha1": "b43627a0b0a183e6b8732a70e5ea3cc2d966b2ca",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23984,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/rsoz6s2cesvfyj1wb93yvraeqeszjte.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28511",
+        "sha1": "edf73960fd08e33e1f18c69aa104eb46dab10312",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 24166,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/79cq9ixqddse8v67dhzztxs0kp6fzj1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28512",
+        "sha1": "3e266b67d192206fb949c83a221de333fafc6b9d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 19952,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/s4ela4mjwomqx8lysz9dkk1wa81qln4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28513",
+        "sha1": "f0c02f380c89ff40b5335c1abc65fbf6a3d15110",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 20995,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/3edpcd3cusm45935z3640k8w2qymem1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28514",
+        "sha1": "1d1a2a8a7bb88d8c53d4435dad7cd1b31c4a1d79",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 20812,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/0lpcayp1ma0kwukhi842q0maqvowmhs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28515",
+        "sha1": "05294537ed986947555b4eb5def5b8b570044de0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 21616,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/qgzoiu41wc8jiri78dx82rwjwhk1dls.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28516",
+        "sha1": "e29f3aa703b2537ea1fc404b7f6e7f558db33320",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1332036,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/nryliay8he60wer77jctmpfggy9up9u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11228",
+        "sha1": "cb8c542a67156067e2cf3015710917aa674e4c72",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1445605,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/o212siyicevfzswdn59jvpb1ky0qrd8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11229",
+        "sha1": "cdf14ae5f9063208831f9e07eed525c88967550c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 22852,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/83cdysusa1zdo1t31uqkcbqewo3i9iv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28517",
+        "sha1": "454826c7766ca0e68a651052b045fd7adfc8c3b7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 22770,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/fc30yebur5m9opc9w1d2ikoz2a6a96w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28518",
+        "sha1": "834936ed245f219e2a42a2917d4eb541b6145b08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 22425,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/s9m9fmn0wfkikoptnqcljrehj3toogn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28519",
+        "sha1": "f1fd8a85acd5ce6c980a0b44e51807820f832ad7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 23320,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/rtsr2nj6s9ljswj0pfifr839dthh604.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28520",
+        "sha1": "ee3a7bebaf68d0803f5c0171761b8f2ac61b8da4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1283489,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/mmul9z1i3mczqc1e5vxlm6mq3qsjos3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15450",
+        "sha1": "c1c598eb71fb92637a13c0a4a44090e27e6df833",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1275844,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/2i4w8a30j6i7i56ixkvfbmxi8ekgu3h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15451",
+        "sha1": "156f34f388ad97cc93b5830b9f90f1134f03885d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 25160,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/6v5fm49icrgtv47vej3gpnkw9va3tem.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28521",
+        "sha1": "3ac5cde515b5c413975633e0fec970b0c91c6d9e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 24590,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/ft65uo9v1gbtycz0blhjqm5tcyknxy3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28522",
+        "sha1": "87596d299c56fbcc230f0a98aeab56b12d7a679b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 24070,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/pkil29k9y0vlqz15jzu0tatfxbejz8z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28523",
+        "sha1": "dae6416aabd52abb3789804725cc8887d855e333",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Sakura-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 23299,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/05/da5ctwgw48z89xpq3no1nk3yjwkizxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Sakura-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28524",
+        "sha1": "71b441e5d65dd142bfa4d13daab4135187584a76",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

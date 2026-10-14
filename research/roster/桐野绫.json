@@ -1,0 +1,933 @@
+{
+  "page": "桐野绫",
+  "group": "Cool",
+  "id": "aya",
+  "stem": "Aya",
+  "roman": "Aya Kirino",
+  "revision": 198101,
+  "checkedAt": "2026-10-14T02:05:14.938Z",
+  "files": [
+    {
+      "title": "CG-Aya-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100864,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/qyhhm6ku8masdceyvx0rf40ulw7u84u.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21960",
+        "sha1": "e6c8407e93db52afb30837f3256f0221a0153bae",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100550,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/o7y2hiqewu56y1x6gecgcnw4ld8r15k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21961",
+        "sha1": "cf59779072b3d4e047e2b06a891f222d02fbea98",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101279,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/8a2q8axiry1qafuaal6jqqr21s0iuae.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21962",
+        "sha1": "46e1f4c8b02db49979392e13f2b2103b3a55e9d6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101921,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/2d524usk41vpxcz344x3aebamqj4ind.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21963",
+        "sha1": "143f196a3eebaaf540ef4e66f1e8a03be0dbb269",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101526,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/jb0dt1o892rl4pdzhii9mky0nxg1buq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21964",
+        "sha1": "a546277afe47bfd8fc44e8470a2b1e7b67c69642",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100706,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/o00yyo67wqk02jby8dhyr346oc7fzj1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21965",
+        "sha1": "cd775bd55b99863779c62ab3190aea5999bd789d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100928,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/gv2ojuec1pw2hji89znr7irqayc5l60.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21966",
+        "sha1": "905cddbc289d8ad1a4650b4ff04c57f96b5d6e68",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102288,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/4tlwai0wogou6mg5fqn2lstkxz0wzdj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21967",
+        "sha1": "2948bf414feebe60fb7c52b199c0f6d65d56f717",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100006,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/pxc3jbyut9kfu951btd06a5pede2736.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21968",
+        "sha1": "ddf2afdbf73732d5371ce8b2ecc8183e9b76d262",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101735,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/0ha4ir4gwljc8abffquoqqoufvywhuf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21969",
+        "sha1": "041c080a50d0615dec5827836b68c4d7b6d5d057",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101935,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/fef90cgllgs9amaa5qquzxy69prr0a3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21970",
+        "sha1": "83d7a3a18c63a15b3bdd254e2313f86440c4492b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102180,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/hvf0cgydt42h64fgkm0c33yqlgci8un.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21971",
+        "sha1": "990148b7b1261dc55f2e8a9bbde59f827667994f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102192,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/kjq8zhp9ckz7ajr7e3pkpoe2rexi3dc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21972",
+        "sha1": "afe87b5cf75ecb849c97049eb467497ab830ca90",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101213,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/fie1m0jvcd27cwwzfuafkhogiqk0fmy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21973",
+        "sha1": "84c91bccbe68aeb8ec0d0a9418ef06a7b784ab2a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102369,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/axw5dq7n2ftmo00bsqmh03y80ln25r2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21974",
+        "sha1": "5dab0579214396f6d026af8a427c6074933e749e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102293,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/q3gh2occfzegtvptjzrnn8gg7yg3d86.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21975",
+        "sha1": "df67594f6735cd5b147d82d294e574215aa3adb6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102125,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/hvaf6m6zjzynrwrqhedub46ud9lqnqe.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21976",
+        "sha1": "98f9869f871755292311319cbb44a5dfdba243a6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101508,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/j03jwgtwgmceotmksf221wfndv6nm9v.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21977",
+        "sha1": "a2addde3760c6ccf6877b09f53c34f76d1ef0283",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101139,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/gfqf3s2bbmaenmgygfr205utenwnwus.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21978",
+        "sha1": "8cb6f9adaf5103cd26082a1d5394134d049c0214",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100208,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f0/0vw4g78a5ufa0if5bxahm34sk1grvio.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21979",
+        "sha1": "0795822c83caf2ae6aace7124fd383486494cc50",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100734,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/sgwuwyp9sbwwy7t6pcr75in8r62flbd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21980",
+        "sha1": "f3b9996df18124aef5f8e05d17ef60453365e3a9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101703,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/hq22hivksh920forv725ldlfrufzc65.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21981",
+        "sha1": "97bb042c75fdac9cb7f50e5c3434b2d8329e3f5d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100930,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/1udh7x30ku8wnqpgzbwuzim30pmxyyw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21982",
+        "sha1": "0fc8ac6043a05c1d084c67029cbe9973d9cec948",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101306,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/4zchms7sk3llrvygrqf90ev4937ipf8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21983",
+        "sha1": "2aa619e7f1dcb3dbf844409cb4e8acee2ed83434",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100650,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/me8gu012tm1ppcjj8rex0tcd9w52o7r.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21984",
+        "sha1": "bfb92b8c98a3a1772c735beb52983195c9375c17",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101664,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/r8gbo9pu4aw5onqirgvn3zl1hi242k1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21985",
+        "sha1": "e9270d39479b930cb325786aba00d28ea3d4fff1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Aya-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100748,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/81/jkrc79pmj153do95j0ipwe1me8ehfyg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Aya-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21986",
+        "sha1": "a797a123c8e200dafe71b5db34e993013d4db908",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1202183,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/diea8skr2l35812ur8ozl4smb3cz9g2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8772",
+        "sha1": "73aa5efe16cff319787ec8674ff2980d1727c292",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1476717,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/m7yhv0zwu6lz9r4x4s82j4x1mmfnb0q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8771",
+        "sha1": "be3b0bd5f41321193fa3ccd3891a273ecac5be8a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1282683,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/671686v8kf5y5ipg8vijmjosnqeaprq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15980",
+        "sha1": "35098d3301d4b5d701571bb961c84f40c38086f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1473275,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/71mw1t7atqfr5uqptjtrfn4vrosn0ta.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15981",
+        "sha1": "3c5095f0d1bf13be6a75a918c5c827bd725dcfde",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Aya-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 49910,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/cgolxxqnalai3h6szysz90dgok1xfpw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Aya-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=466",
+        "sha1": "6ab2815f316ebd71e5ae6a7320cddde63eb0bed4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17065,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/j1x6bvfaijtcgfftdywigoobalx0qla.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16542",
+        "sha1": "a31cd648414ec0831bfe98d3fcf1ce00b6f91b9e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18554,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/2yf83al7vzuzjnv0y7ufytu08236zka.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16543",
+        "sha1": "194eb4c1082e7de6f4a843391d60a6c31011a48a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17771,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f4/0g3dmahh0eyq70u475nq0lvzbrooc1h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16544",
+        "sha1": "03d3be9e3c8a2bcd0d17519dc268a01dc9b326f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17291,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/jwnl9nqf71hvtwisenf6extzsauehf5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16545",
+        "sha1": "aa6bd0a78757229f00d7327ad5b2ca714bbf15b1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17391,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/4x7t6gbomqg80wuk9gp8iuxn48c0ep2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16546",
+        "sha1": "2a246f3852a49da4ef8a828af7aeb4bba2b5f666",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1075018,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/apopep5x915bssw7jfvycxw66p78ptq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15974",
+        "sha1": "5bb76b01aab531d04b003f402eb4be3ffc877fbe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1155368,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/2dtk5x3s8wy3wyd82csjnjx6hdckakn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15975",
+        "sha1": "146887e4f68dbb3bfca31ca3d6010644ab3ee287",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 25635,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/nwmhuf3ony29zpk5ww1smt56zfnqk5k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24058",
+        "sha1": "cca83fd19db191f0a1250d43e88df76eaf7dab88",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 25454,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/s05idv0q4qbxgva8nzetdpyktgc438x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24059",
+        "sha1": "efbd523ab21df909f09153ae85b7f04873188571",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 26092,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/1ddq7cqp0bfmdvzow0qmm9kd3qlmk32.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24060",
+        "sha1": "0bbe2fc477a0ee97fa238505a58cac58a09d5c2e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 25578,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/adsl6368hens0jo85cy12k8sutyujpn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24061",
+        "sha1": "58e3758a07c5d3e91782c99997e37232fbec954b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 981868,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/tvodgj82blxr6jgmve3v7osnvdzbkom.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15976",
+        "sha1": "ffcbfa3a42e6f6a186d86ef84e1f6f1a712a4476",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1317981,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/pxy7i0ttnqr81iz308w83owtbq31j30.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15977",
+        "sha1": "de18136376a0bf920f5fa1f0b5d1549cd11591dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 23503,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/l37on8xnkg89488bq3fn3t12vmfkwuq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24062",
+        "sha1": "b48aa0b053001b189a450519fdaf02f366fdda52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 23608,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/mycu1ozn60ybvkqlfj6s4ezkb91k9ol.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24063",
+        "sha1": "c482183a7b21c534f215d35286d19b2908458305",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 24164,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/s857gv1kto6p5wk7fl4rnqwluk9zysc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24064",
+        "sha1": "f1a3d30630b4a90b86df3c3166cd653084ac33dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 24678,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/2i3bbjbo19sc582cvn4s9s5977aueaa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24065",
+        "sha1": "156c889bfeda84f905d205471db705cb011f19d2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1186549,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/arxykvfk0i5vax2mqkqrd137v75whdd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15978",
+        "sha1": "5c40d27059b5099c304f712753831cf02b7f70f1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 990902,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/bqxkavxi4vo4hh4zuyac87oad20rnry.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15979",
+        "sha1": "6492d88d401ffe78dc76d1cdbeae014e6a3f491e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 24840,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/jk1lnxm7f1xb5bk6ypt5z1wbgtyavke.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24066",
+        "sha1": "a76c1b74132cf4cef3fc0fb3fa781c72f625744e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 24760,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/qmsec4bqpcij4jnuwuptdc8cxesihvj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24067",
+        "sha1": "e4002ce36dc67fde4436f14508d3634ea523ceff",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 25196,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/emmsfje8aq0ws8jbkhkgegwuevvzi6e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24068",
+        "sha1": "7d3bd543851b212f516a8d2eb81c8d7b1eac01c6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 24824,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/lerzflwdpaapjf6ra6x753rf3d9n4ah.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24069",
+        "sha1": "b74a9a1137cc5a561c5c68efc0689e33e96b6279",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 23847,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/pecme6qug033yxtq7ve49x8p8a2i5th.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24070",
+        "sha1": "d96ee8f45ab469991026133dad72904bae3357f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 24477,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/ssh7hgmp9x6c2sr4bvasrp1jn1jggkc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24071",
+        "sha1": "f679a83b60a2f665dbac7157463c89e679ab7edc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 24651,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/2dr0bdimnji83tt5qgirgxnnkjbb8b6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24072",
+        "sha1": "14643768bbbf54bde4b9656480663af07abc15d2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 25521,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/6erzsbni7b8dkpprjezpiess81hhuw1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24073",
+        "sha1": "36e10bb0a605877048d021a29e2e227991168ba1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 26703,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/mtlxdkvu31483aegv8xcxwy907sklk3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24074",
+        "sha1": "c36115dbb82f03ea34fd990ec2f386d5c4190223",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 24177,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/32r4ly4pnxncl86yoqu0vnca75s9lx5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24075",
+        "sha1": "1a5657c14f29eee8a0c3fcc917fdc9f6d1f99739",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 24800,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/lqk86bohl2281vp0etbt397m6r53xy3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24076",
+        "sha1": "ba1802121064f4af5191c036b962f5de23e11f9b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Aya-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 25769,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/ky7jeg29dddzf45621jue0uwteug5af.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Aya-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24077",
+        "sha1": "b359ff1494b7368ad239f877676ae7a5ceec24c7",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

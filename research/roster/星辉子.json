@@ -1,0 +1,1913 @@
+{
+  "page": "星辉子",
+  "group": "Passion",
+  "id": "syoko",
+  "stem": "Syoko",
+  "roman": "Syoko Hoshi",
+  "revision": 198638,
+  "checkedAt": "2026-10-14T02:05:59.495Z",
+  "files": [
+    {
+      "title": "CG-Syoko-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101735,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/8x3nbzlf1pz4entmdj2ooj0c6zdm2lz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13648",
+        "sha1": "4c5bae8a23e10ba5994cbfe04973134ccb92afb7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101391,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/l8h7u51btrkfeckk7pwjj3bioureo98.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13649",
+        "sha1": "b5cb22232a296740068942ccd2843eddda8ea54c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100683,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/hn3pxi35xf2ooksmdsgvj7vfasjazkq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13650",
+        "sha1": "97072d770fc5842a76f7974f99f28ed9ea20159a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100680,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/ffnjkmk0we59vxfs79jhowg8i8lwu3c.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13651",
+        "sha1": "84228a638b7042378d2504962feb1785f8b7d558",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101784,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/52j2n3csipsbq30y8zvpwb9lq0dmt6a.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13652",
+        "sha1": "2b67dd7adcdaeb897f056606230514d64a154a32",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101956,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/896qiscf7cj8mxiqqcgf7324leif68w.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13653",
+        "sha1": "46abdb63aa254a974cc80af56408f9009f906760",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99275,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/iko6qcufpv5pbmyzcw453kho50jtv11.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13654",
+        "sha1": "9f02ba58faf57ec63b7bc652d9313a68f01e8555",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99488,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/d8mqcbvvwjkcj8v8vaubsl5asxvmdre.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13655",
+        "sha1": "7157e2b6af7d29083b9cbc69cac8e5a63866d22a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99895,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/lalnhj4r59s1bfu1v7z9jxwqjzsyd7n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13656",
+        "sha1": "b64c62f4cf19e462cb9c95738ed09840b9ff2f63",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101629,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/totoyzvlck580v6uxzfm9371vvkurbk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13657",
+        "sha1": "fe2ad5a02dd42353dd61c4fdf940a6c24f1485d0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99633,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/2ah9rqj14ehl9cimf1bug4sbggzfbrf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13658",
+        "sha1": "139d1e8b527c9bf95a7f65f1090c613cb7dfec4b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99895,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/pnvk6ca38043t5v3d7gqgawldeibhbi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13659",
+        "sha1": "dbb2d404904f223ebf7ae14fdb739508de41866e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101246,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/7gi6b1nvq7q9yfoead5lvy02e9ybjq2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13660",
+        "sha1": "3fd9c463c2e60e24e0aee4b5a5370beeae06be9a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102185,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/q2ubfguafpogw9zxrpizdrmvn4lgin2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13661",
+        "sha1": "df41e190ec8092fe83de8d3d6c3ae6ed2696b75e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101934,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/n6g6872gdyd897jbhjc32rwrrpbqd6k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13662",
+        "sha1": "c66ec17a9adf35ac8c3ef735d695a527ebaa243c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100333,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/7vbia8kxvixpvny4g9ii10oek5boodb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13663",
+        "sha1": "435fa5ba6bf9e141a24e60384b2db1b093ed705f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99091,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/a4z0wv01r8ez0u67unvgggwl4rxkley.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13664",
+        "sha1": "56ca73b30ed7da8b8b9eb0ad08d873955e43366a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100710,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/jtllrule63a2xigej9clc39le5055di.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13665",
+        "sha1": "a9b1d3661d1ddee577c631552a16f344e36bfe76",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101625,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/4x0lxi8ufqsra2i0gmzcuwktd01st6t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13666",
+        "sha1": "2a1841bc206a7821b145da0dc9641ef7018333c5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101914,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/10bz7hphpck9yl2ngjadrux3zc6oobd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13667",
+        "sha1": "08a3d39f3670991a1356e500920d16f60b2df719",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102059,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/qoso0zyvk1qz4cbwocufndodk0mt518.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13668",
+        "sha1": "e47a62710c8fea4a34a986032da8e751939b14bc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101768,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/48z51vhxxoconeer3gd25xiqorkhez4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13669",
+        "sha1": "2460b9a8b307cf85ea1421a68e08d88f42de4610",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100730,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/76q1fa5tyydkdzgd01bhhprlaqv7ug8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13670",
+        "sha1": "3d864bd1571dc27e9ed91f73ab8e839252359ce8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101111,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/4d8xsi0eoytosx4b73v0hsvcqg7em63.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13671",
+        "sha1": "2564cd6a98e84a787fc0d8265eb5098ba019aebb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100741,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/suflymyw5eclqosempiyf9nwf23784r.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13672",
+        "sha1": "f6f0b58812e38720a9b8ac58a6368e77a50c3feb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100995,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/jsl64gqmsh2i5v3eikafdwf3ia89cjz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13673",
+        "sha1": "a97436b3ebed4f54dcb8531ceb8c6ffd3fc6f7cf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100493,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/37qx05numt83g6lvme0le2u0p1088cl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13674",
+        "sha1": "1b865ed7f416fba5b345c72899f995162d4f1045",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101028,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/lf1x1d6qqxs16k2ll5zyoef5qg9jhn7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13675",
+        "sha1": "b75b664a3cb127242a71e0e494d980e5bc24a913",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102336,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/jqzb6arrli5ni9ub3b7h62aepvkm9de.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13676",
+        "sha1": "a9125f10e6019099465c63c986b7853c640c58f2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100946,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/d8y0j2hz1cangcbukn28v16c5zbcjok.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13677",
+        "sha1": "716af72613fdd0bd231aa7c3e25d4d54240795a4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100781,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/64i9b3wrem9k13ez9kxh9lnm8n9xefe.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13678",
+        "sha1": "346fd01320d11f5d3dbeeebe01a0c0f8d8902c4a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100604,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/l57h2xzj16qdh1a6017jxijcesou888.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13679",
+        "sha1": "b50406bf8511562fad3b9f263b5865f7e56f6d28",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102154,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/1btp6m5ob1zsud1zt0m1dmmk3nxx3qq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13680",
+        "sha1": "0b5f70ed44969afdb9a3c1a75084128387a23e32",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100545,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/lm9fv1husacopw8jtp8qh5y59lycyiy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13681",
+        "sha1": "b9124288f44bbc1ead52383a60bd7beb9214dfca",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100276,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/oys7q98ar5zrmxyr099gk2gtx9utwhl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13682",
+        "sha1": "d5bb3eebbfdfd64374e93ae44bbf473240ec3bb9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101389,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/cikq22xmzkk0zhookalbz32g9zmli2y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13683",
+        "sha1": "6b25b042f5d92e468d283466855e75322ae120ca",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-16.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102151,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/qh1u6gknhyy68wbc75b6nwi1sm1cz38.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-16.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13684",
+        "sha1": "e2a2e079965ee12dbd1a2c512154363f9b32f5a4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-16+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101433,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/8t6063l9c2i7ug0uttzenri9zk084ay.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-16%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13685",
+        "sha1": "4b6c28ab9d31e9219d4e5edc21540633475807ca",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-17.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99608,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/pb2v41rc7btml1v48xuuqglb952wp86.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-17.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13686",
+        "sha1": "d8a7c73ce391b617b51ef39217117307d9490db6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-17+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101944,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/697mutpb698udyrurbzpv1pgtr7vnhj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-17%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13687",
+        "sha1": "358e3b98aa7efad18a01f753ce0880be514f0ba7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-18.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101706,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/7d8bfmqmkz84lw3u9j0tu83o5vkk1id.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-18.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13688",
+        "sha1": "3f12777dae60153b73c8fac31ca3d85b2f5d04a5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-18+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101069,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/rwi9h4xdux5aqvgei1dtd9ufsfejl9u.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-18%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13689",
+        "sha1": "eedf60cd6ff53ff0d61ceaedfda36c548b61dc72",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-19.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99258,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/t3qm2o529wv6ch8jiua0yhhtor7t183.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-19.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13690",
+        "sha1": "f927356386cbb0d029f4f1c1e61b5c1904031e73",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Syoko-SR-19+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102009,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/fbye282eyg7s4qcn59alsce7aqd92v4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Syoko-SR-19%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13691",
+        "sha1": "83416003eed2582fe144332c84ac29338ad0abc0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1203176,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/3atong3fpm7ai04dtcdiau3hh95q0ld.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8997",
+        "sha1": "1c41aea1cdf30dcea7ff6880c05eddd0638fbe81",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1588148,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/4mps00z9tb6a82j7jo9vwzx5m0nf54m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8996",
+        "sha1": "27a52bb55cc54832d6f19fedf96e864fb327deb6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1345118,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/ldtuu02quvxxdjsrd6fjqznnxl50xms.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10178",
+        "sha1": "b710e40c19d009b5910aa46407721ec64fec1344",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1418180,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/qla1hr4agvg2vvvaxqzs2i41ogkxl9v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10179",
+        "sha1": "e3a441ae5c60e2da4e5234639ac4951afa367df3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 966872,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/hkjjhq3r4rmfiv95uqng6ofrs1zhgtr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10180",
+        "sha1": "966b4cf78fe81b31b820e859cb17fa73ab0d966f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1261429,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/mbht4t94pcypfgxju66m2izzz7ymtxd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10181",
+        "sha1": "bf1256102847fdcf9db94aa4c2b05025763f0f01",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1148981,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/qp5fgq1x1ygm46acrc60lflhg5x19pa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10182",
+        "sha1": "e48ff735207fbe0eb1600b90b2555fcae7c81c5e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1382408,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/eincws7qa77p1eyaqog620nxkx0a32v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10183",
+        "sha1": "7c49497dd3cedce19e2d661284d616cd3300d217",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1218149,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/ivj0i3tw9gy34mblbg21f61x63zswbn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10184",
+        "sha1": "a197a0853352a2eec047ded42760e58779cf21a3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1337775,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/bouydfz852oxjdllx0gpr3kox3q88fx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10185",
+        "sha1": "6414ae07e4bc020378081355904dd1b6cd5732bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1356185,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/50/c052iuihey5z8x8wwzhic21x03iut5i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10186",
+        "sha1": "66c36e8f7fcdf722b482e65adeb5786903226d16",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1510440,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/tolzo3egjkg261upku4ptc6yhr7c2y4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10187",
+        "sha1": "fe1dcf092e4d1e15b87cbfd7d37f0a427185dcec",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1638865,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/dko52lfio4ahnpp0f865lnenduqq06n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10188",
+        "sha1": "7434cad80b3e558cf5c822d35a2897064ad1a56f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1533703,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/n57e3wgc9naup87qjyiiks7oa6g5ob6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10189",
+        "sha1": "c623079bfa12291f4ce3637da07084e6b0019252",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1152812,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/5pziiv1km2i9ob4y0jrvdscy9jobrpw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31962",
+        "sha1": "30fbd69cfe30180c2f90955ce620cf5165b1b514",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SSR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1381479,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/i0dctou2auovmztp9uodfndbdy4ge6c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SSR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31961",
+        "sha1": "9a2edf81c8a6005ea026cb186e9931a632f587c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Syoko-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 88948,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/9shb49h6huin12jtbf68bjdvf24zlmt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Syoko-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=608",
+        "sha1": "53d1f810d5a87991442c2fb8e65cee044679d445",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 19644,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/juuxgqcrz9a6gw3cph9bdgfzj1oddmg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13692",
+        "sha1": "a9fe789f3683c1837d021905f3069ece363b3238",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 19638,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/j7yemaatloh2ndp70fhilrg2t4fjidd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13693",
+        "sha1": "a48c2dea67aaeb97deace7f1aeee85d4eb0632c1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 18615,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/69ome0d6m48s52pfzb1xcz59l9v55e8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13694",
+        "sha1": "35aaf554b7e2efe2e9c6cec131b18f50fe3b7d90",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17095,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/ah1jfddw4g65gavr9u591a6jxgti0uo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13695",
+        "sha1": "59a93a3e2d2f4e06b654aa60e16d80343dfc21d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16288,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/czuha7ubetvokt3go1ljkb9ub7n6o98.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13696",
+        "sha1": "6f41186de8b1000a8282045afd66fcb91ba2e34c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17529,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/puh7fx9111jypfxv1w4krf7tf4g141t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13697",
+        "sha1": "dd44b1cf70cb01b1873347ab5b8c278d8ef79ac1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 15974,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/hu5j5xng4qqgscxdt9z2tp3tm5q844c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13698",
+        "sha1": "98b46178dd2f4404fd53f6841ea22c283ad4f4dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17341,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/acb80oyqjwpgs85vc953zymgwgr1x31.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13699",
+        "sha1": "5889378d2090c8b2048acb13b0202adf197398bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 15882,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/kt6ttf6ntenrp03k5b0hwg8uwbia9af.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13700",
+        "sha1": "b22868e3408d627b0b294cd433c4c11fb3ef2b87",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16565,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/rqnbf4fgbzpchypxq64poob0p1ewuqk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13701",
+        "sha1": "ed7aa9a4c78c30723641a0f924bf114c9dac659c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 18177,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/lxmzdyzolhzuxszbvm0cgsmbqoauxea.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13702",
+        "sha1": "bbc6ceab16369e91436e0724cb764e22ec100e92",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 15905,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/bipibsfckacd1awoan3kszjdixeu8px.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31955",
+        "sha1": "629e3582ae2c89ac651f66932de3a671f0a2d9a5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 869313,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/1re2bkv34qcl5o96m6bzbtwyq8r0kv0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10170",
+        "sha1": "0f1308998ea02e28ad336409c349d6f19519a49c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1347141,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/axtb24ccs0z5wu5kb6w88cwex3elzw7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10171",
+        "sha1": "5da6370991546189e8c7164645cb9eb9fe5ef2f7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 30528,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/e5xhg2nf3apsfk78bc9znn0v8xo3qyw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29065",
+        "sha1": "794302743e4550bf2e392028210856bb1ea72748",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 29932,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/ety0mwfdsr4vec38cdpih6ywxz4761m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29066",
+        "sha1": "7ef8f56aaae04bd92e7b48042630f23811031a5a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 30258,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/821108e9byyu12bfq23uzls7o7j1ea7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29067",
+        "sha1": "44f8107d5368175365dd0cfb614a0d5287dfad8f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 30181,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/ie56updjvalgcmrpf1sa0xwnk7zek4a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29068",
+        "sha1": "9d7557975eadb2e8dddc51fe113e5cc965eedc5a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 29388,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/dbg6onvqvkxo94341jbymlbrbfn0ht5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29069",
+        "sha1": "720372706fd4fd4be75b42f330f78303fba2dd29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 29394,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/d5t4iimpx79ptm1wpzwpw6mtqelyu3h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29070",
+        "sha1": "70ac11062225bb53ac46425699b8a34979ead9dd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 28909,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/ibuo1h5umrw9zvxjgkm5mmzye09dsdk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29071",
+        "sha1": "9ce9cb545429574c0c0627b3a45c651fbe82d9e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 29218,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/k6am0w83pgmlz67nti5lq7dieoyek91.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29072",
+        "sha1": "acb6a319339b10f36da16aa898765d177c2d8005",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 26751,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/b1rkiacehzlcvl8t2gfe2j9s3ajmei7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29073",
+        "sha1": "5e96c8e43a8504715da77fc8d0ff0bddd7227def",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 26692,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/3uufgwrtp2hnn1xjyyt7t9kfgy9wwie.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29074",
+        "sha1": "21047b4c103dfae31af95358d4ff3f70cd669d96",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 26327,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/4c3bo2ilzs9vovj6lc6vms6oknj7jfd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29075",
+        "sha1": "251e6e5c6c0e72954cdb1f05b6c6ac23672a4d19",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26585,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/khx5fyizcjchkolxkq798vc3eybzk6v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29076",
+        "sha1": "af7a661140e23ea1464acee578849b1c16f2a3f7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1013085,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/rjfninlvikqfuemcbl9bqp2ectszsmf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10172",
+        "sha1": "ebc3905734414b8a4145d3fe4b5a88767cedeba7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1027591,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/imdcb7carddfjvypqhcnqz26mmsqkjd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10173",
+        "sha1": "9f6a248540acb504b31be270f117a203bf997e79",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 23885,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/fzuqxakdzzjr5yiv3h77kr7eflsbad2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29077",
+        "sha1": "88f04349b7fb0bed31d5d4b58c68802822718936",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 24376,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/d04c72b03kcd8p2m140qufcemb9tdkr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29078",
+        "sha1": "6f51c447d5f0e1bee06535e1f665e78c55bb7efb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 24849,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/phhvxx9n89qaungzlweg7uutp8xsmqn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29079",
+        "sha1": "da2e71d04e48ff7d325de02a16a671cf9053131f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 23817,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/7dp0gnyomzj7gn6uc5tm23ycqyhcxi4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29080",
+        "sha1": "3f2eb2e96359c963a94e2890cc99d2d9eec74d9c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 25910,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/8qjr8otcixcf1g03vxt3hq0f7g66do4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29081",
+        "sha1": "4accc86d174bc27fc6fd6c606adff4af28ffc0b4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 26791,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/3oa0fjgjgc6kfvhdkfdd994h1xfc3vq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29082",
+        "sha1": "1f74b15a03061ec9382bda7e8ad158d24e1181a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 25735,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/6tlxthkmsucj7q7mhk4yctfq2nnhhd9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29083",
+        "sha1": "3a67f63d3bbc7843244d4a44a152bdb09272452d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 25657,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/6kpqmqhlhaa1bypyd2i30rb12x35ohb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29084",
+        "sha1": "384a7ed7d5e3cfc8bd12015ec1910fc4c0f3722f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 28394,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/26qsa5yzi7axx9l3p9sdkp8m9ce4mkr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29085",
+        "sha1": "12b9b33e948495706e9f86b094be6f401486d94b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 26804,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/8ezxgzgrlx10gtw4hym54uwx3ubgd2o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29086",
+        "sha1": "480d9bb174983ff63c625542be8336a841003930",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 28965,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/41ng7fukwqadtp8n03xuqvsrlprqmrq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29087",
+        "sha1": "22a2d165d2ca09cccd4ec5037a0806c2c19604c6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 29408,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/nq9hicip8h8ejhjdsy3u5q5u1q4ud56.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29088",
+        "sha1": "cb24fcfef32d3ab9028a326ae22d6ccd3bb85a0a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1305770,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/le46q74a8hxhug5w14eegx8pae95xg8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10174",
+        "sha1": "b7225c1b8f6a7bb3601becd19750d5b5e2b6b998",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1188821,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/iap7tn5whtxiw0ualryqjovqaxhq2wi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10175",
+        "sha1": "9ca3b349b1e67a33eced472abbe33c4ed5ad8632",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 21010,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/p5jsur0ienn8ejgcgx2lulu7pyq1syi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29089",
+        "sha1": "d7572861afeef19bddcafc09e3418669df93bada",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 20705,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/bje1kcesbz7x8owhi96iyndvebg2par.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29090",
+        "sha1": "62c7b284610fbb4094960fcfc83044e271c6a893",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 21403,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/4tqw64wzlhgqpv7ebczlhd442y8bp6g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29091",
+        "sha1": "2951324ffcd705b342800b4dc29592f9ca7e4438",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 21293,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/tn2inb4xkr7t781n5gdz5jutsomdrw8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29092",
+        "sha1": "fdc000ae6b040b2c189b63832877f271392a0478",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 30911,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/mtv0r1tat0ovzhcag9o9owtm65t05ln.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29093",
+        "sha1": "c370768f65b687211c3c3d65ec79f2ce7b1d6d5b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 30384,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/jot1gp9io1i2mwjkpdx1quc0x3wy49n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29094",
+        "sha1": "a88e03dacf63db4dde211807fb2fe9eeafe1661b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 30121,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/6tvk30mzry79vbm5r1hijadxp4on7ef.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29095",
+        "sha1": "3a783a19f20cae4d21e5559bc4aa04502a95fd37",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 30184,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/fro8xeydfz17l4u65c7q712gajxfdkc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29096",
+        "sha1": "86fe4163fc51b2da155293df1c85cc5e93c37f6c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 26478,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/oo0esglh23zbvh2f82tgjmn9cdnpplv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29097",
+        "sha1": "d32b75767ac56f7234562b9ee53446dde91e18e3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 26140,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/qv0cjka4p1kq81dgvxx7bonsk9w1x0d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29098",
+        "sha1": "e5f4a29dfb59e581e33e5efcc69075352d88815d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 25203,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/fd8ftfesiambfm1pv1jraqcc9jzk9y8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29099",
+        "sha1": "838f3eaa86dbf092b1b82e9f4d3a444d51402e60",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 25334,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/bt2c08stdx0gljeddecself2clozceo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29100",
+        "sha1": "6514aa54109d5a2e373a1bb9acf7f1248b83f590",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 28375,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/hfhxt6bvpkqadjml05ml7155oyveuv7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29101",
+        "sha1": "953834cb53a1678f3bb30751eb59a23bb8089ac3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 28068,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/l4su7q05wg88ar137s7wddufjo1ade5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29102",
+        "sha1": "b4eb4720042a1140015baab99bfa2316d816534d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 27969,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/m13tr5jwfe4qb5r6oe2v5wbeeq4wwa0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29103",
+        "sha1": "bc99ebcc4c2a7237a6450c54c131479ee427f768",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 28569,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/4q720cyeohcerr5bv8gtg5sn4nzd51r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29104",
+        "sha1": "287904f28664d124e7000f2b3ccb6bef0e7319cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1189348,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/r7asmk0vwuwgsqqt223klfwwgfk904c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10176",
+        "sha1": "e8e0d326adc3215e2bc87cef4dbf3cfd1b5b98dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1321697,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/ctmj3covky9zcpkyf2v1qxim2ee9rdp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=10177",
+        "sha1": "6dc663e9284257e37f334798eced8db0739058dd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 25142,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/ea4pjht6nyemduwyc1sush3rjmtm9zh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29105",
+        "sha1": "7a42bc2722420e1d8b092e2651ca55ca2b47210d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 23933,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/7d3esr0pbi8snas6ye5d4v3yd3goeci.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29106",
+        "sha1": "3f0a2b6ee75c64a0aa473ba3c36540a61452aaa2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 24085,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/42gh7tmz90d775x3yeg7jdc9je24kl9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29107",
+        "sha1": "22d3e7bcfc7300685eb35e1ef4293eb57379eb3d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 24030,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/69t56juiba5fp36ii5af2wunieic4ts.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29108",
+        "sha1": "35b29aed982d9a24ca7c672acac991e545afcd70",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 29818,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/81d9wff9lt78xjih33bn55qi9a93af8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31956",
+        "sha1": "44cfe5c5a3329638ff9e3928d195695f8aa97884",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 29668,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/30byxfamxvzy63yazq7v3bzuj09r9ww.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31957",
+        "sha1": "19c2f4e037425f02e0a8a5266aae24cbd292c3f0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 29541,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/000neffwt6gcuia9199ylacacx3pfz3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31958",
+        "sha1": "00011965896f69e595afdf9e9c8eea58cb35641f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Syoko-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 29832,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/owfwvkbvuz9luk8z1rn47bsqecu340s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Syoko-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31959",
+        "sha1": "d52cb09096a68de0e99dd0d478dd1d5aa860251c",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

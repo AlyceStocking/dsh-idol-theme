@@ -1,0 +1,1821 @@
+{
+  "page": "白菊萤",
+  "group": "Cute",
+  "id": "hotaru",
+  "stem": "Hotaru",
+  "roman": "Hotaru Shiragiku",
+  "revision": 220897,
+  "checkedAt": "2026-10-14T02:05:09.956Z",
+  "files": [
+    {
+      "title": "CG-Hotaru-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99622,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4c/3ojwgkclh2uogjkr5243xt4iu9ymffi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13464",
+        "sha1": "1f856a9fac464f0beb6d0a4f3c0f7cbebfd37d9e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100750,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/6ijk1qk4qq3ue08f9v5m4mt9prs6ioh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13465",
+        "sha1": "37c6493e4fbb205423ee630eb47916c997cf5c11",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100246,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/jxqcujlmyasgzx81qto8heu5wybn8fs.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13466",
+        "sha1": "aaad5e9f5f78637359534a66c9a709def7937d78",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102205,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/1ntddiij6xjnjjdj56awhl0ay8hrt82.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13467",
+        "sha1": "0e39690872b81e7c262a93f2bc79ea2f3eaf3db2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100073,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/euq6oq5r4iml6bnxo16pzmmune3wpf3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13468",
+        "sha1": "7f289776260576a791b5eb168d374b9e3d2d13af",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101384,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/7ya3yd85enf9f0zs92vgvosyf310tpd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13469",
+        "sha1": "4413ea08d1a10065fc1be3ddde36b7c7e90c9361",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101967,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/181dndqw6cre9kahbuudik4xfv2chc3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13470",
+        "sha1": "0a78eb6a89cd1b27f1b5be5ca34ce4d5c30230c3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101874,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/jye9yh4nis763c50s0yl0ncxn9zc3s0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13471",
+        "sha1": "aad5d188699213dc3ac9334075bf38c759521520",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100473,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/a67x3qvxmwlvl27nlptkc32503ij0if.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13472",
+        "sha1": "57165e88ebfdd442c33975d9c536bd647fb00757",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100811,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/rhw4zfbc9b1zkn6sgug4zdtygvj01ht.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13473",
+        "sha1": "eb65afccbcc67ece96a589f25c4a83a07a775691",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100440,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/rrncyeta949171psq92hxc9om016zv1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13474",
+        "sha1": "edb79c9ec81588e53d7249684d76f27545a8fc0d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102334,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/4mw3msepcjp8az1413eurasydrtxiic.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13475",
+        "sha1": "27afdd01709aaa4e57b35aa536e7d5011d3ab4f4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102389,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/tp020d94ge6cmfd9irs8c53u08eaof1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13476",
+        "sha1": "fe3597d3f93bfc89e9c21ee22c32dea18286081d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100007,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/4ig8ouqye4iwy87sfzblb2ocrj06ygk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13477",
+        "sha1": "26a189569b9ab3743f89e3adce404a1c1c60cff4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102076,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/5rvf0juvldin331e1rv17egslf0vrt5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13478",
+        "sha1": "316ea9d3a4edd28c29944e38c00db2fa27d98a89",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98828,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/p76nevdnmbh32t14zhhuo92w0nvq616.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13479",
+        "sha1": "d7baac3ae8f16f28ac11757201a911d2689fdc0a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98479,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/cnzsbm20db892wr0u5kr9jagnw6xqvo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13480",
+        "sha1": "6c6f8b955ec958019a5ba699ff54b418669abc54",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98356,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/d1g2gmr247zndqfcib071voirthr4q6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13481",
+        "sha1": "6fa27a920c8cdb70817509762484194e2356c5ae",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97695,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/q12lb9ikg96962o0xnw08qee9falce8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13482",
+        "sha1": "ded61e9eae9db1854a6bb53ca5b2e4f9b6b42800",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102213,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/gg6i6x2h7xbao0ysbxi61x1iplm7ntg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13483",
+        "sha1": "8cd22d401fb701b407a1012de1fed059aaa6ce54",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102203,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/c0j7r977onowaxwtf5h3qitqk82cszh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13484",
+        "sha1": "66db5a22fe984312bcb5437d26e3757914d63fbd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101201,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/anoiojjh8q05wt8w9pqfb793tnn0ez9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13485",
+        "sha1": "5b3d591a176b050c80eb57ca88d19bd3f9270ed5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102317,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/9skjza9ys13jkoj2xwk2hr9yiqzu6b8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13486",
+        "sha1": "53d775567c0291c8fa3deae5ef02ce62b0e3c674",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100612,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/6xgwn1idbekiwn2x8080pckbaezb1he.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13487",
+        "sha1": "3b52f5947f1e9551c407359d821ca208e4553742",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102037,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/indrbm6xyilsbvnvc653tpgd7ha1gb7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13488",
+        "sha1": "9fa7b98b0b0e8a8ad3c2395bfd1a5d9af6ece6d3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102296,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/fma11dpfhdxj4bya8h569u8vup7eti0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13489",
+        "sha1": "85b5d354535094462e985a4411c7a446f07597d8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101591,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/gf8w53k2czjqt78dsaiwp7qtxpjgkvz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13490",
+        "sha1": "8c99564a9091b794d16ea7b76e4fb5d70a0114bf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100950,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/1p38n4eskfjpodvjzo3o37scbu0b0jh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13491",
+        "sha1": "0e86f9a7de80af22e231e8ffa38288e1150fbf7d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100955,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/he64jh3dkzcwayzwm1atfk9dm5yd5oy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13492",
+        "sha1": "94e75a627881aaaad0fe33d4e7acbb3cc0739412",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101325,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/dplh0nktkwo3hjfrv5vqji4k0seic0y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13493",
+        "sha1": "7560aa549fce6dfef1fbb3543743433b0af6cb62",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100490,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/r2wb2e500nrlotm0kfh50834lioqi6v.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13494",
+        "sha1": "e7d4d1501f35ac2657bf2606a6c963577ea1ce97",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100754,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/2yofp5v6zeayh0ywpyqilr3s0f3657y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13495",
+        "sha1": "195e485c91b9e7efb2a702611a05b954b80edeee",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101802,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/6zra8tg032iaf7r4u25uo2lyzaapjla.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13496",
+        "sha1": "3bde433a2dce7ca7c01413f251cb1262105d916e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101878,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/szjd37qhodsk0d8psj738e2wma35377.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13497",
+        "sha1": "f82770fd4e13462d2b0b6dc301f4d361cb484a73",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102103,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/i8ex5s1y2mfztu7clvzrgj4z40sseww.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13498",
+        "sha1": "9c188904b5d2e83b2daefe239574980f49b0d680",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100716,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/qjst9fwxl801dlm6e8ryrt5ersmcbkn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13499",
+        "sha1": "e34a3ed82a3fe0a0ffc3a5c9b9c75cb223fdbb97",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101692,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/gltcmp7xwqd8dd6vvlf9m0r9confgnb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13500",
+        "sha1": "8e2931af0efc47424ea255b7f0495b45ca17d907",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101930,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/ki9j14fp0954pz41wdbtalnpocfkux6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13501",
+        "sha1": "af8f544c93c7058bf9b4ceeb62442528ac17b88a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101154,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/20yxehif1l7xi86yodjp3ce23jbhq50.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13502",
+        "sha1": "115a34fc5de1f787121c8b0ce017ec791a486594",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102131,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/9yrk48ej7q4rasu6n7s0vp2f69r771q.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13503",
+        "sha1": "5550905cf3b69078cf014928abee52f0bc9efe6e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102109,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4c/qdtj85hfvhz5iqia32trj4sp5kc8mu2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13504",
+        "sha1": "e1de3403ae6342a398e797ded7b035396f5a119a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102305,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/00/m7b8xsxd1tdvwq17iwi0ib2ouqxmkdo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13505",
+        "sha1": "be13bbc49186cb8b44570ae9ff3e1fcb567a59ac",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101285,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/dfwzsnthzj567c4cx9acs1hwu9op6ww.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13506",
+        "sha1": "731360fc1438121d754edef9912f9bc5ea49ab40",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101459,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/8raxwjtttbwiylyx8ag89fal49cwdvp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13507",
+        "sha1": "4afac0edb3318829a50cc47607acd3beb227de45",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hotaru-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101299,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/6vdopaxtjqyaqqp4dbu0wnjdd92gmpm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hotaru-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13508",
+        "sha1": "3ad3c268a520a04955b1b9d77177407b74baecfa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 869463,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/9dk3e064a3tfliu9nbab6ywnxwj63rj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8830",
+        "sha1": "504586331a4c823bd91f095e71078feb0ce09b8f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1451268,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/27glfha12bxvu68vrymfvipx57fd2om.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8829",
+        "sha1": "12e5585284a0255121db429f137f244df4b6c9d6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1027490,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/teqf96fmkk4uxkydjlvu8jrpagux84j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13377",
+        "sha1": "fbc488fb37360c0ae5bd2c13fafbdba6ee74a563",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 999482,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/riutq8emzpkn9rcu9gatlwdcfdwn7lz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13378",
+        "sha1": "eba0580f1b5ae0ff28c949cbe93c51c34f18ea47",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1189455,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/2w5pauadroargon2p6hypu57vb8g05t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13379",
+        "sha1": "18c4d9a77710b902a0bc57df91791a2ca54128d1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1274069,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/11ejpfhoepft48c2s7t426juljgk7ag.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13380",
+        "sha1": "08e50c6e1f594f8487646978357c7a2ca5a56de8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1273067,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/i4fri84v1ok4fqv21tsh0lp7iu745a8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13381",
+        "sha1": "9b2673e4ec136af0e2968ed1cb70ca3d1fe572c0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1523580,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/lp2g49d2z9pii47r31qj1j9o76keort.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13382",
+        "sha1": "b9bd10d19ed3197a7cb4fccc5f5abee3d97f50e9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1196227,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/sm7xc0ygt0ket79g19nfx8am7y6y52k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13383",
+        "sha1": "f4fcb2fcac574aa10d2adf62a92843904408cc2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1466354,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/ma274ryfdejf4s64rsyc6ifw28xc75l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13384",
+        "sha1": "bebb0f72080e2081c43f1d9cd0179dae9c28b039",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1316878,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/bl9lw5a7puxgjcrxg4rui4qr8ovnldl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35354",
+        "sha1": "6339f3768b532aa07d48bc48f5035b2443ddeaf9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1112462,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/71s3j955lkp3d0idu93crrtqim9ndf6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35353",
+        "sha1": "3c5964753131a4eb49513e12641f90b2d61c04b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Hotaru-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 51597,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/pb1jddgvqdbn7tv6gtu2kwdhati6fpe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Hotaru-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=502",
+        "sha1": "d8a58926142fffc2719ecda4809cb7c72f1c5b02",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1135881,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/tmntvgx3v4er58zfj5ccgi0yikivakm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13371",
+        "sha1": "fda72a234d946f21fc63efbd50295f562b740946",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16971,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/4nsdnvtv5vxz4pybvqpkp8qtqioiyy1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13385",
+        "sha1": "27e67284cbf48acbc1c7ae4a34eb172076330169",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18010,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/foptj253vwt00s27mo707wcm3n3y2d8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13386",
+        "sha1": "864a487fd502d2489f937060929d1a10b19c8f7c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 18310,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/cliki6zsqw0rlhbowguig4vi31xb7hx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13387",
+        "sha1": "6bd8ad367ef3ec083885c55809b1bc20bcbd0fb5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16083,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/pkt7iqdc5p1axjelbnhiz7bk93ed0yp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13388",
+        "sha1": "daf8387fc5ec2062a5f64fed9302e05d03cb9021",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17931,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/ce0t9zca7gfzi47poyv7iwg2evpbfi0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13389",
+        "sha1": "6a1082e192d87e3ddaa40cbdc81842ef16e21838",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17826,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/jea2t68yrll115fpdtcsgwq27nobyzy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13390",
+        "sha1": "a60d2dcd862e3f90320ad0c6832fc29a506449ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 15907,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/jskeb0e4oa9v35do1h1ebsnwcw0c5qp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13391",
+        "sha1": "a972e82fdf769009e5b933188070bf056b10e811",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 15635,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2d/am7btp57lknhyvc6t65hq7qf7upkrfh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13392",
+        "sha1": "5ae366c9e4d59c01ac853d1524f4b12b2d63e8dd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 17310,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/hoas1yaiveqiwuw2g0ggbdkw1lmsh6s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13393",
+        "sha1": "974ffdd4d6ac73ba6925e6299b5e1809e716a004",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16434,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/sdn8b0lutf4xxsgqei7qou1gxjb1ekk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13394",
+        "sha1": "f2f2afe4d0685d5b67e7b381ff516b9ce9932704",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 16818,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/k207w6qgqk4af7kku53pbj2zgr50kj9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35347",
+        "sha1": "abb18e1c37cfd4c370d191888912514b2d4198f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1168611,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/9uhg4ck57o0mycjdduk9g10qdocvjl2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13367",
+        "sha1": "544bf53ca5ecd3c1d1e3cf7e26a486843b73b0e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 917093,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/t9kll3rm0oxmft1jl84etqom5gm3f6v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13368",
+        "sha1": "fa8a4d278e40234452c844cac0aa04d661c555a7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 24690,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/1yxr5y02ib3ukhsdupstenrr60yhnu2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25721",
+        "sha1": "10de780fd888352cec13c21fd49b84922d9614ea",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 23763,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/1iksilij0hdsyko8y251dnu72o1rm5n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25722",
+        "sha1": "0cfa846ff1aa26fea191273fc86359e4bb2889eb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 23739,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/o28ttipc53ub1edduw5wl0547rajdlc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25723",
+        "sha1": "cdfe663a765bcd1c14a0362f8856f80119a4d190",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 23625,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/64f4rzkk77pxyaqwanyuoy9grj3ucts.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25724",
+        "sha1": "346a86e0e5cda46d57950094240411eaf4f85b70",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1025560,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/sq99zr1plc0s6517lch3vsoz38ot563.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13369",
+        "sha1": "f5f27e2669efd25f7573615c05f3861f27a8e76b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1191105,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/qsoyiu0tocj2fewwwoalzc1ztsk7l1o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13370",
+        "sha1": "e5679f126ea8f84e86097638d81a847ec1587a4c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 25818,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/llx8qdwrm3u424sygrdm13obp33edq4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25725",
+        "sha1": "b8fda1f7de8b830dea19eb91de57f495e3705bfc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 26094,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/8offk25bswwan9yqn4b8ees3hnnp3gv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25726",
+        "sha1": "4a4bb74b4262ff833b2c344db19e97967e82e0cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 25496,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/pzralx6uit4hi10r1brbj7r96yo6bx8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25727",
+        "sha1": "de8623765032435dd33fdb625317cde0ed0701dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 25053,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/svhzvegkmw8o4ldoky5qi12zb1s9c70.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25728",
+        "sha1": "f7319f1dc3903afcb2724c5aa6e87594384d55fc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 23458,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/grt31vxbw19pk977uwckh4l6hmjxyee.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25729",
+        "sha1": "8f96018e99de7eced75bf3130fda2bb09823c766",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 21875,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/lbr7rswjx7ml9z7hei4633jf9o25qkp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25730",
+        "sha1": "b692abe99e9a3d9ee43fda34974ba8a7db6307c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 24005,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/q4yui4liw5jhldl6o3xz1xljsvje2kq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25731",
+        "sha1": "dfc34b8f74fbb94e07106be9b48b19da5fd8538a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 22563,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/j7gcht0nsv7k3wtof17h7ohr7fwj7yd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25732",
+        "sha1": "a46da41d5e3a342fe4e997f40908933e625c9b05",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 24255,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/00ic61stovsx57h6zv7056p5nmtfnl8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25733",
+        "sha1": "001f029380407ee5968e87cf25e26c7b293f2a2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 23656,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/j5t8uglq1iw07lk65kjw7tfanhwb9qi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25734",
+        "sha1": "a409b2f6b244507309f77082ed538377f9acfa0a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23248,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/drmuv034gxbsgcyxywzv3eo28saynwq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25735",
+        "sha1": "75dcc2b6b8f6a89f9c38ad1fd7bf427877b7e78a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 22963,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/eiu8cnvxkqqyt5zgkeqmlt8ldckqxps.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25736",
+        "sha1": "7c54e8fdd4f26a4132e9342edbb31ebd452e8130",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1248171,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/qb4olan1zluq9eyeeqhz7tcxk9g2i0z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13372",
+        "sha1": "e13a6cf000aeaf5ebba01ee2b700fb5d2eef1bc3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 21577,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/kw84xn58dpkjtne61lsgtmpddc766fn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25737",
+        "sha1": "b2e1410097a3c3dc89422147756e8698e5358d13",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 21898,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/7azd9k3xotmy024gl60x66ki610j0ex.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25738",
+        "sha1": "3e89945e45e9898b71ef74ce246765f9364f0cd9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 22180,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/ehcgezdqqaq0h9rnz2omznzhz7b6nxd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25739",
+        "sha1": "7bf9f9343deeca4e1124427ca196cf84cf0995a1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 21639,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/ll7bf64btkd4h3vgbtpixlnbcyia8xf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25740",
+        "sha1": "b8d1cad187667fc5e3283ad7514961d7d03ae5b3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1075456,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/kqy9xvlb15pt9hhljr80om2llfx0k3p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13373",
+        "sha1": "b1a031a214abb88daab7e00ae59ac446c35f52c5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1253097,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/nda0tvv2qhchs2ov5x3e7gvck8z117t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13374",
+        "sha1": "c80e7eb7086f4d2892f796757097145bd6be1f69",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 22610,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/8if6i8ea2xlljzhmaldalszznuxw8eo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25741",
+        "sha1": "48de0768219b99d3af62460ecef9be391bb41b90",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 22348,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/13qkl50bgzxddrel8jz1d1hlf3kelde.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25742",
+        "sha1": "097322e00c1c53131925add2e253fca57acd13b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 22011,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2d/8hjp1zt2uvj50nar60hyhfdm6mi1p3l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25743",
+        "sha1": "48a8c9900baf12188d63f19632713f6feda57f51",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 23465,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/mn0uau6efr3ftltvwgzkt18e8ewp7pj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25744",
+        "sha1": "c1d02ada3a847527e86fa702daeb4f90e9d70b47",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 26419,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/m9uvtzf7n2f6ono6altnclnsfsqiv2m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25745",
+        "sha1": "beaeb13e4c29ccd555f9dd70b071533f325da7ce",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 26447,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/lxkm8typz0gxwbqo6pa8o0rxrm411ca.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25746",
+        "sha1": "bbc2ced1c3eddaa6e77e57b50af495e686d9490a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 24975,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/ffy7t4nok8z6s8lm2w5ywrjx7bzrnvq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25747",
+        "sha1": "843496dc78644c4b9f776cb01021fae8923870a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 27391,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/ojsxuazpjd53d73ae4j29qwsb5txtsg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25748",
+        "sha1": "d22b514c0d5bb24d4b547f104c86365da7613610",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 26205,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/i37axm4szne7fx0gg6k0ir8cukhos3e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25749",
+        "sha1": "9adb44e01d93dac503f1f65ead7506d9e49d053a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 27108,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/5di4881tkxy9xwge32o203la8bjqmqm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25750",
+        "sha1": "2e03e541207ca37338b686a52b3673c84086f49e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 24994,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/sozu5r0xbqqmrxzu414gxfcsh9q1778.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25751",
+        "sha1": "f5a5a71df2dba8207d6cc14e33be2042ec4208b4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 26654,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/6dg12wxp95o5hmjdtcq0r7g1biwzes7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25752",
+        "sha1": "368fefe87c2f730acb4b44bb1f32a3478cfccd97",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1251695,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/c0lx9frqh1sto9h4htvzmhqizgvjn6z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13375",
+        "sha1": "66dfeea4b0fe9773813c506b635db63e7eb06b2b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1356734,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/81/ihgxen3w2bzamusxc2v33q3mwsgpwo6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13376",
+        "sha1": "9e3fd25ca485dbfebc511a458231ff5855ecf1a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 22355,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/p912metdonkpo9ykqy29nwbyxk5eznd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25753",
+        "sha1": "d82afeb955bcb30c6030a619cad7886d42c030f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 22261,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/o132rooyzk7379ed7wm6w9oi83olntf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25754",
+        "sha1": "cdb7cbea3c3ead6715ebca1f2aa15934f0bb6fd3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 23114,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/0b3nk5edaxls6i1dpmdhthqd67fkkbr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25755",
+        "sha1": "02a3d39c625fc5901a3f2cd91b503353809b2ee7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 23611,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/om7adg1ot38ez8w2jupo2ct1emnd8fn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25756",
+        "sha1": "d2bd55a6a1d0ee5326d7a297e44dca9b321f1af3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 23558,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/i1kmveqdwxg7ntdo4szhl3ndqvi2gwm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25757",
+        "sha1": "9a780f296c15547fcc831f09a7f0b0cb820cd016",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 23315,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/rvwa086rbfnf1a8sc9iunl8d5kwnj65.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25758",
+        "sha1": "eeba33501eb8f67d85b4a388815cba0f1d4a40cd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 22049,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/1p5nq4tl5og3gi4w5ni0e7e8aynabaw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25759",
+        "sha1": "0e8b10d80bcd4cf75c6f67bd87a7417a2bb136b8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 23379,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/rhuc4qt708w8eidkdzgawlzdnt2jx9h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25760",
+        "sha1": "eb62a3f23569b86f7cd3efb9676b93910890b525",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 24071,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/26qxyipfml1hcjim6zmynz7rstu5nbw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35348",
+        "sha1": "12b9f78137a0d5580acde0def08d2739ab82f75c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 23937,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/1z16ftlnofoeu2om8il26w8cj8xwtth.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35349",
+        "sha1": "10e44272592f6fafb90bd6711f1095b0723b6ff5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 24086,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/k157860vqw4n303ydktcij0jpgm788a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35350",
+        "sha1": "ab7d1a17eaae7d47ed7f6cf7713482c79ed68b6a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hotaru-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 26083,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/hs3zk1j9oh7gbydw9b9f4edpqwods4u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hotaru-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35351",
+        "sha1": "983803c3448e0830cfcbea334d71ddd6442647ae",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

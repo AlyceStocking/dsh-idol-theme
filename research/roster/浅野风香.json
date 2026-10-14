@@ -1,0 +1,767 @@
+{
+  "page": "浅野风香",
+  "group": "Cute",
+  "id": "fuka",
+  "stem": "Fuka",
+  "roman": "Fuka Asano",
+  "revision": 198080,
+  "checkedAt": "2026-10-14T02:05:03.950Z",
+  "files": [
+    {
+      "title": "CGSS-Fuka-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1085959,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/61lioaelxjwwt5dfrdjzv5ssk5gni22.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8804",
+        "sha1": "33beb1e2f11e3993d4a58586d13bff45b66c3f2a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1472479,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/ibmob9hyiorrelkhw7nhxmzjzfzrug8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8803",
+        "sha1": "9cdc475fddb49b1eb8740c6d5bedbda1388d61e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1179992,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/e3ts5m8k96m098787tv4dz6co6jq8mp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16032",
+        "sha1": "78c2fe9bb42d7009d74d07fc33e68225752ff931",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1436713,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/9t7pkp3pxfwojxrj2yahrfu43rhdq86.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16033",
+        "sha1": "53fe9d6282f113fc2492e3440869bec78b6cf306",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Fuka-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 70107,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/qsxk97m8wlqddu2tkpxvnxp642mjph8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Fuka-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=486",
+        "sha1": "e5762ba2417ce05f65fd677d5de992765fd5e5bc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18025,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/llsjh5skmyvrz8ttz1oittqrc1w4zwa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16555",
+        "sha1": "b8f5aea5c2aefe90a1f81c1bc3b6e59f0235d2ba",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18447,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/ojmvc3pep9ouyajxg6r4q2tpit12atk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16556",
+        "sha1": "d2210dbfa8d8b67f22987220fbc265db50083848",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16455,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/o7cdd9h0dfc2u2zrhznejk1tar0smz8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16557",
+        "sha1": "cf34c68d412602fa75352d961464b62956c88f54",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16768,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/2b7q1pbxpgny1h16m4glcqrn52v12sq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16558",
+        "sha1": "13c9d9c0cfabd74a9cfcd2b5214e98a5a2869b6a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 18197,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/lfxwgvnz5riw20u6wn8mg4d3qnf5jiz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16559",
+        "sha1": "b7917c57e3762120b26e3da1ffdb0cfc9fc87d1b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 19714,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/bq8geucx7zzeyh172if3aqj48hea26q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16560",
+        "sha1": "6468633293f77d152cc1992fd8a752692bff5b92",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16907,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/3xf63tzlpotqyzl2w5jytmrw3fqwa6m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16561",
+        "sha1": "21a14eaf00a1c6254d4282776fac47ef7109218e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1217192,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/8rqni8zr748jx8p5arwg4bzp9nkw22w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16022",
+        "sha1": "4b155259561899bcde8b0683ad9691900316f288",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1001259,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/lvdjfk2glupp3z9pfuu5lb8qwh1b34m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16023",
+        "sha1": "bb3d15a6fcd651206626c11a6a37445f9dfee996",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26747,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/rp30szsdksppf5jisj3ndsi4gd24wr5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25165",
+        "sha1": "ed1b776ea6a6c24821f7eb377f1fe729fd8d14d1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26782,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/9oaurszbbzxswh2uork6iepvurovrmp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25166",
+        "sha1": "52d38c0cf7271c2c59e66c90cb3579a80b0ba1a1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 27244,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/dr099lo02j3zpvcawfjejm62s9ezw8d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25167",
+        "sha1": "75b68b2c16faef069b8470090622d192afe05fed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27286,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/lmemucflqs9fcgohf1s363gmw38dgsn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25168",
+        "sha1": "b91b0afe3b9797e1adb0ab7cecdd6f6ec73e0a47",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 985682,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/9ictimeeggahy2t6ar6aygqo0ksckqr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16024",
+        "sha1": "51699bb67f1f34ba4f77d017e297399be33b6003",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1454087,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/d6ygs6ejzio0meqm1coomojdcnx4j50.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16025",
+        "sha1": "70f1f993514d8b8a5cea6c57248cdbafe706b6e4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 29271,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/9v8ahhu1tb2h5tfwxxdx4ibjckjwfxa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25169",
+        "sha1": "547959dbf2374038c2b0cc22fe5c8ae879595b9e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 28353,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/qh4x4ydo1jma4p44leuu1jto63hbhmj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25170",
+        "sha1": "e2a816c1a3aa5d6520ccad662295573d9a752afb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 29604,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e2/ol11f85on33aszwd8qwx229bwv76gq1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25171",
+        "sha1": "d275e417e62a6edaf5ffd0a3230871803fd19d29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 28962,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/j8mfkvzhwlnommv20u8n2ut93d2nlsr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25172",
+        "sha1": "a4b4cf2570ef9841f73cfca4da03986028a0d41b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 25647,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/acom0bwrnhob4xcits9w7aspm3yv7w4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25173",
+        "sha1": "589fdb8541201e990342ec67d5ff0bd5976127b4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 24687,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/qpc2edhkjsuv06vcdiupt2df2ggljfb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25174",
+        "sha1": "e49b306afb7d5ca7e68e3db423b56808af7c8597",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 23714,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/k49l5e692s1glc60etez3qfqkewh9t3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25175",
+        "sha1": "ac3b26a7e76887a92b47171da6cd1c97259c23e7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26416,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/86b9ej9gz18t9445sd8x2omhmz95s5a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25176",
+        "sha1": "45fce08829ddd745a39b11b9d09a98b06992d2be",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1081091,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/7ykw3wj0g3oklsgrc3tbavzegaxeg3l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16026",
+        "sha1": "4426259dbeef1c6373bc557706d4d500e919f201",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1265292,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/mbx9l509rikatfj0mcyie9el5xwlaa8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16027",
+        "sha1": "bf2c797696579b4fb7b7d0fe87f6c51ee05afb50",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 24294,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/hn7mgbugzhr79kg4acvniriadme4y6p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25177",
+        "sha1": "970dc743f5f5eb76b946241c27ffc9d5eb54bc11",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 22824,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/19yktwjhwv1f1e7uu0qsdfzeyybq3j1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25178",
+        "sha1": "0aedf014120e0b650e63748a3bf3f180f10ce75d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23406,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/kkwdyau87i6kflt09ox0y7zn12s3nul.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25179",
+        "sha1": "b02fbd047c9dddbce5f20f0188e8589908bb4f7d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 23113,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/mbu1uqisujm5dbgxaz84cigydqpuzeq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25180",
+        "sha1": "bf2709c268d602216a5c6648669e6809badbbfc2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1167327,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/0gg48fb4ixxxu31yszuw9tltu1wugpp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16028",
+        "sha1": "03e9497ff93c4b02bc6881e02b9c62252b6e941d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1079975,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/on0tkn3tx9fl24g8gvr0z6nyb0dlp9w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16029",
+        "sha1": "d2ef46b7fa790e0e50305d2ef6edb6bec7f5d034",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 27639,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/p1w3v7dqlt77dt9wpauz9f47q4g0l9w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25181",
+        "sha1": "d678759c7ee8e01fe044831df01ad27911f06bb4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 27436,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/jtd0ilwqebh9oiervna0khu006ujgo7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25182",
+        "sha1": "a9a34c8fa6f8b96bbefbe606f707033494f09127",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 25496,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/iei4ao4fzmpvdhcn6wy9icgmev2tn1i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25183",
+        "sha1": "9d8b34968d7c835a835075d24144223b5eae97e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 26314,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/npy8evlr3pgrg64sfmea6k4n7lobt05.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25184",
+        "sha1": "cb11f5ad8cee2f431e1e3501b3cdce3c2f042395",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1206668,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/lc4qmyuxwt1pav8a1h57nzr9hzcb2g0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16030",
+        "sha1": "b6a98a8373419dd69d79074a8cd6d60d1fd72920",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1595635,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/9bfio6naqu9xrqo5dzzbsx3uwp7mmj3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16031",
+        "sha1": "4fc40871aea12fff91cf0e74ed1b941121b2068f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 28245,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/r06mardkio93jpav6ul4ar69pbk5lhz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25185",
+        "sha1": "e72f9fe370680d715f6c5dce54c3387a82146c17",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 25413,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/4jvybx5rkkp79ykp3ykymyaob11tqj6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25186",
+        "sha1": "26f8fbb969e1f1e6d57e9b1cc8c037ba9b072092",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 26383,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/c44pn1x0jgebi8qltejm6vhtm7qjnue.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25187",
+        "sha1": "67b655ac6c3ff8a623a5194bb1c18625a7087576",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 26897,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/7g8uwze8zyhpabygvao07zpxzyb14pk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25188",
+        "sha1": "3fca034a06fd39ae72683c087e9c33734c1ef118",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 26969,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/l0cwxmf139kjnf4x16f38w5c3hh3p00.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25189",
+        "sha1": "b3dcd7581f18549e601a99345d2adf4dc1a86650",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 26625,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/j6if1w2r61tm2tntju6ls8u3ps6v9ob.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25190",
+        "sha1": "a434442bdc60eef4697004d3141d8c52df9b48bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 26328,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/5sbhqrhj86awk8eu2esfz62he3pyghv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25191",
+        "sha1": "3189d914aa76386eb7d5474000367c267ee84d03",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Fuka-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 26953,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/167qogigabu0v7his7pp4sm30zrl8lr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Fuka-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25192",
+        "sha1": "0a09ec80bebe20be1aaad01f4224a16d828845cf",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

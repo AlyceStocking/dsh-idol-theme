@@ -130,7 +130,7 @@ async function harness() {
     setInterval: (callback, delay) => clock.schedule(callback, delay, delay), clearInterval: id => clock.clear(id),
     requestAnimationFrame: callback => clock.schedule(() => callback(clock.now), 16), cancelAnimationFrame: id => clock.clear(id),
   };
-  await vm.runInNewContext(`(async () => { const { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER } = __assets; const createSpriteCache = () => __cache;\n${source}\n})()`, sandbox, { filename: 'desktop/renderer.js' });
+  await vm.runInNewContext(`(async () => { const { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, matchesCharacter } = __assets; const createSpriteCache = () => __cache;\n${source}\n})()`, sandbox, { filename: 'desktop/renderer.js' });
   await flush();
   assert.equal(nodes.pet.src, sprite(7), 'the initial decoded sprite must be visible');
   return {

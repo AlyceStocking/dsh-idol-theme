@@ -1,0 +1,1957 @@
+{
+  "page": "鹰富士茄子",
+  "group": "Cool",
+  "id": "kako",
+  "stem": "Kako",
+  "roman": "Kako Takafuji",
+  "revision": 198411,
+  "checkedAt": "2026-10-14T02:05:46.658Z",
+  "files": [
+    {
+      "title": "CG-Kako-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100661,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/s9lujz33cxo7zkhrl9m21dcbr1zqrxn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13417",
+        "sha1": "f1fcd798f6e308ba5646ba823f530229f35226eb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100993,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/8et9ftcwfg2abqw4afsujmgzbd12hxh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13418",
+        "sha1": "480255484a3b0dbbc82ff1984a3e6f340f662c45",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99707,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/78lr5kz9gtkdma5d03peaxhavu52rz3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13419",
+        "sha1": "3df8cdbb668dd9c530a782aa0dc0cd748387c71f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101222,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/pk4jwkvkzx7o67fgl01ywahav7q0znh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13420",
+        "sha1": "dace86d9a56174ce6c2fc8170012e8ff6cdffa7d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99726,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/mxf32fb2l74qxqvnl94536uyx79ximg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13421",
+        "sha1": "c44905fef02a4a216129ac8544c9c876a8449188",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99460,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/agr19w1b60pt7jhbag2q95dx6clbccv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13422",
+        "sha1": "599776ee19e4c7e376eb5317082cc7002093984f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99745,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/0d39d8wn2yz0n7l4axu1s3zp3lmh8r3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13423",
+        "sha1": "031ce9f89e503fef5db8be1ab4e48ff79a30008f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99124,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/jc5kspby1n82ibtk1j4sqx7yeklmshi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13424",
+        "sha1": "a58bd090ae72cef243bbba60b5904c3bc3419eb6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100872,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/h627py48fbjgo934m8rbns1jn7ai77c.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13425",
+        "sha1": "92f9b8f103eba8c031c78f8e40164338f451eaf8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101775,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/rey985ug559vd00ywtqecjbmu6twvio.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13426",
+        "sha1": "eab2a3194d8e19d7a70af9a6f566272507d2dc90",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100733,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/20vcmqybunsmh6n376xypv6imbdz2gt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13427",
+        "sha1": "115428828593ee8742e11a77b1d479cd1609103d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101721,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/2ql13lwwf5ay8taqihiyxifmk4ec9fx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13428",
+        "sha1": "177182087967a7c5e55ea8d89bcedf5018c7d8cd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100374,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/58tppsjwdzu67eyjwe4vxm4koe4hsyg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13429",
+        "sha1": "2ce71f0a4e493b8dae0f176ec093dc8b6d1aa8d8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101846,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/r26l0dpdomfmg3l16ivdi0dsv2fmilg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13430",
+        "sha1": "e7a95169cf5d954d675678984853aaed48e4aea4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101698,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/6dahxw7t6y0xe96estyj70irxs8gw52.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13431",
+        "sha1": "3686953d59cbfd984a97aa7c21c1cf9e1f96ceb6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101766,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/pnm7pd82fcqemwgvi4pvgfho8mvctks.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13432",
+        "sha1": "dba305eb804c5eb1e681c1a9e9979faa596937bc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100521,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/sbgw7va3dinx4hdqq7stzqcbzy5mp5l.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13433",
+        "sha1": "f26e381b26f070527af5e98b7f2e754442ea05d9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101261,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/pcztagzo3yzcrnn0qdb2wbg9jy2hk0t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13434",
+        "sha1": "d91c5fa42a20dd5b34724aeea06d1e9b8be3f99d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101625,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/dif41nko4ib27gyhpnaseoruteqjkrk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13435",
+        "sha1": "73abc55c44bb01e9fedd2b179bf3740198e891e0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101489,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/7usnl4048z84j9xw2f0oi1s6wp9dj6z.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13436",
+        "sha1": "433fc45403acde3859d5dd6a6ec7ebe13181cf6b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101069,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/gqvepjps3zwiu5780bw361doxiruahg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13437",
+        "sha1": "8f5d0f08aae33cb95c2a1b114aa679e9aab12394",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100851,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/8iib045mpzwesr3r3n579tnmuk29tmu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13438",
+        "sha1": "48e3503078cb195f37a1f0fe271b9230ce077046",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102016,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/7gmm8y03hsx2be6qzfqz3q088gb7n9n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13439",
+        "sha1": "3fe147b3794956c4fb7552853a708346714c1c8b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101960,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/dvhcko7kmio7kdwybp0fw9tz6nwyei6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13440",
+        "sha1": "76c6f454b7f1202f416baced640ad3957d6f79ee",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101409,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/dqn4lckjs8zni0bt5gns2do0p8a27td.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13441",
+        "sha1": "75a0573b47fabf30bec064f55e3f80b4a28b8e11",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100943,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/02t4mghzckkszs1jymg7qgeao2res3i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13442",
+        "sha1": "00ab02ce820fe3a67dff49f206e9b9cfbfb9c8be",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100568,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/lfomxjjcbj6bxoid3tgr3ck2swbgk7z.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13443",
+        "sha1": "b781d18803eb2da528c5579d3849013719d0755f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100102,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/c9p1oguanyxoja3b65qa5owrzq4mub1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13444",
+        "sha1": "69091b0cd82f646d49a61e3d371e34342a0b5eed",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101916,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/e9edbjq04d001udwncvqb9ufjn3ligz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13445",
+        "sha1": "7a1631b80d200a487d95c03f6fd254574086dfc3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102240,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/4niuvygc5um44vi2q0if1yvvz1fqbpt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13446",
+        "sha1": "27d6589c9175dc0cfad310e169abe4f4a7adc0d1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101361,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/554wds4w8mcsspw8ytqm4htces39dd0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13447",
+        "sha1": "2c06871a3f80a37e087444421cd3c0c3659c5ee4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kako-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100844,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/dz96hak15vn3j3hgaa7r4bh6oclct3d.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kako-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13448",
+        "sha1": "77aca5dc9d9d99b7719f5264e8dfd110d05f0349",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1197679,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/2eaa1qtd20cdgjzrfkmr2xt2aqyble0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13355",
+        "sha1": "1484cd99afb79d9c1636382e077073512d386b08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1322549,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/ijwa24h1stl2vbzi80f81vz33oxsnh7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117562",
+        "sha1": "9ed38911aed6d2f1387ee161bc80e3ef830876db",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1601280,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/0gj8p86noys12nwe9fx9yay6os1owbl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117564",
+        "sha1": "03ee91ebf3cd2dfb8236482f177482eccb9e4aa1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1200810,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/byet5d1t5s5yvo8v2vudqv31ydtdv1z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8840",
+        "sha1": "665a25d7e8a1a179f93a64286ff42d0ac808cf77",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1117699,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/dcqyycdnyq2m4fexo82l1b0l6p5fhgb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8839",
+        "sha1": "72528fe9f1fcf3eb4ca83b50ff3db4006436cf1b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 874513,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/54/e1uiqgz1d6i4b1b11219snuit9zomj9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13345",
+        "sha1": "784a7d3584740eb6909897a20411c85fa1219f15",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1071914,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/n40th8j6oly72n2m47yi339njscvn07.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13346",
+        "sha1": "c5db099c3ef0c4eff49fc347587f3470c7bef237",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1323473,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/b8iq1ddgpw6v2xajyycz3od4kh2oyrx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13347",
+        "sha1": "6031f6d30d849eca1dba66cb9a7a1ba7ff8d2c0d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1342885,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/st3a7khvtuvett2jg0s12b7dhqij8vs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13348",
+        "sha1": "f69efcde7e0d2edd2d406e75e3b63ff8de3bfdb8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1001071,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/4ubrzh4bxie9dv2zpvch5lxe6211qwl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13349",
+        "sha1": "297482f3520df6ec1c2f4f870db751edacd70775",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1428210,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/9jmjxlae2t9sp6tklwys1rstb3tr4jw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13350",
+        "sha1": "51b6f2003af24e530849e9bed7006efeb02568cc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1101272,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/lfg88g5bqnr6g21x28r8ge7ywzi2pno.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13351",
+        "sha1": "b7739992e542e1e0c5efaf422286ab48ba192c64",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1112807,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/lnk1usccym9w9x7impgorh1x964pa8g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13352",
+        "sha1": "b961148a65e62b7e6b7c48506eb731553dcb2c10",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1389123,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/h7hmo9i5blw73o7vw9fewxdqayi0nf7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13353",
+        "sha1": "9350aacf21faad3752d4449ca7904ba1f4d1b093",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1402337,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/09/d6pzag0sp07s2tqr3rxbgx93az9tumv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13354",
+        "sha1": "70e3a000696503c097ba671b9ad13d13dadeb557",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Kako-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 32830,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/5l4i8dk7z4xepyzs4tgvr9bxoukszxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Kako-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=508",
+        "sha1": "2fd3e5153fa7fba31bd7b91412bc7c3b8b4330f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17573,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/4dfhxvequbj1320oxa0x09s2dwmxcui.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13395",
+        "sha1": "256fe5217128077a2e925c2c61a47bb1c9b0654a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 16774,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/di7t70i1ya4lp12rosh1knlld13sxyp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13396",
+        "sha1": "739f6c8db19494f608ecc429f982a51d3dfc31f1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17550,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/o75vxuo5s5v3e5dig94enk27l022218.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13397",
+        "sha1": "cf29cf8f3962f9f81ed2ca6d9a284e883236c8cc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16736,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/no417wl77ouaia124s0sh45p2usfkoo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13398",
+        "sha1": "caa20393012f8e16b62c49e325cc13e4880f4a78",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17122,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/p2dpb2dfzbjo4h9ju3bs2adz3kxlzry.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13399",
+        "sha1": "d69636c98fbc52d2bdababf9e7190ade62e7295e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16029,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/4pzmac09aq9h6lv3zdcvlxzcqz6y1ln.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13400",
+        "sha1": "286c718e710e8b26be1873a2520e1f62b6400e9b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17006,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/4yzbimr1xxyroufsg6f3cq2jyliytyz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13401",
+        "sha1": "2a8fd4a126ebccaea6ee0de9fac55809ae1e723b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 16921,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/g3z9jwvsgfk736jdmznyhhqoyy56iev.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13402",
+        "sha1": "89eb68f1077acf1a800d43fb9dd0378170d2afb7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 18814,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/0ri21knqxhr5rpmsm60durlbsy6k0vg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13403",
+        "sha1": "068a368fb7e618317b94a70397c551fe8be54f6c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 17359,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/her7o5k2yxixo3x66set68w3xyjkfim.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13404",
+        "sha1": "950b02fc810f96d0075cfb68e20d9e8d2d9b168e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 17872,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/iootweulnbnwsx4h3nevl8hsra6dk5p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13405",
+        "sha1": "9ff752fb46592c5ed954efa8fed283eb92a4854d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 16950,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/85ykl0tr1uzytikyhwkw8olpglyddfn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13406",
+        "sha1": "45e76b3c5a27694ba24ae3ddb04a4cf1e6fa9b43",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-13.png",
+      "kind": "icon",
+      "info": {
+        "size": 17703,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1b/q669d0p8s4g7cve8wspr3pmr1ybzy3b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-13.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32143",
+        "sha1": "e00cb50f5c5311cf5ac3635e2f8f60a69bf71a57",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-icon-14.png",
+      "kind": "icon",
+      "info": {
+        "size": 17318,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/4rxnvl0c8st2mh5qhyp9xhc7pwne2kr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-icon-14.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117555",
+        "sha1": "28e2e3e40870e7d19a2817ebea0765e1ec284b8b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1245696,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/doj5hjjc45a8b8jo03v4ab1wwpzo3j6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13356",
+        "sha1": "751fdd5b2156f04f1ff88a9eff8fd79abfc32ee2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26855,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/b3n240ngmr0pwkqpb1crhsjk38dp96o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26079",
+        "sha1": "5f08e91426dfb74440473ada2241de30296177c0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26673,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/f8ikvu0j6m6hak7skkkovxk9h8jzeka.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26080",
+        "sha1": "827002151ace203980355484ecf272984ffd977a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 26908,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/ik0ci0d3e1v9t1bk7w4glyh9ktvgwp4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26081",
+        "sha1": "9eda6a09a38e831677b07d8c7fba10f044d19c88",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27538,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/sreglu8eazwvm1vy9pawiqc8e3hkl5a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26082",
+        "sha1": "f63822b3d1d28459bc01fe9d72aa9318e1cb250e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 26110,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/5vrcahjj85gx8q1erknz1ty1yqwbilz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26083",
+        "sha1": "325b477e144f6d176bba5b9dcc8a157311b55af7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 27356,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/8ckbks9bie8rlzem95pqq97iz0orprf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26084",
+        "sha1": "477975d9259d7afe5b519c3367473c352765832b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 26713,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/byu2x8hnxpua1i7l1w26q0oyp00ujqu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26085",
+        "sha1": "6673f8ecc7775f3568670b012086ecf1b67acf76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 26574,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/5d0p6rg6r05k7c7ytr9w9d57zyoy3dv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26086",
+        "sha1": "2de67109efcafe7055977b4dd0c6e30a77e515a3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 22870,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/hxci7ybir8m5ycut54zgqu5svc34xsi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26087",
+        "sha1": "9976cdf7d5e56e20d8417682dfb594ec231f0712",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 23566,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/85dtr4y6el692kr7qk06d5nsukve4ml.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26088",
+        "sha1": "45c4568a658492174f8e0e38c3d81f6acbc73ded",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 23182,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/rfa7l9ijdrzstzhslkmpshmaqw8kxh9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26089",
+        "sha1": "eac6da42e44f7105dc171ec07b306fe07d408e7d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 23789,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/8xzhze9nwenfuktyhkjjyr4gnueeo4n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26090",
+        "sha1": "4c918b1abd497246c775d21be9e04ec0c94ee7a7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 946346,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/mdq6ueubv60eenfcgvvghnfs2a8p6ox.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13357",
+        "sha1": "bf9a432e785eb65c92885e666c61bd11a4d17e21",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1171970,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/qhx4g19kf9b3p6wb8r3qjwc1qu9g39l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13358",
+        "sha1": "e2d7c7eae3d18583bd3a7b46d7ac33de22933589",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 20506,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/olkr8vipfxhewg1ph0tj148ftv57aul.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26091",
+        "sha1": "d2973bc808dbbb6d80e927c39f5889d79d51c3ad",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 22046,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/j70z2e2a2w842430hw62luruy5y2857.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26092",
+        "sha1": "a453a5181c47dbd69392f6c9cd992e088dbccbbb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 22080,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/j269136a4qlnfdgtsaidvm7m5eb3w0i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26093",
+        "sha1": "a32c2ee1d8c9bcca038b513c6434ca22eb7577d2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 21901,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/eot0ro6br1yzxrsluub8nrs2881elid.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26094",
+        "sha1": "7dc01ff3cdcca9d87eff5eae4814b8af54062565",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1095149,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/br2etuve4f50d5jzsanzsw3dg7l9hxr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13359",
+        "sha1": "649b0b40ca2713efa6e6fd6976eedfb3ca58b40f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1032197,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/4gj9vtkuqijgzw8i0i7sj5knq3kvo3y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13360",
+        "sha1": "262ce961f6ef4788a67dfaaacba13e82a53e6bce",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 21504,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/q6l4l8fthc1rv1k14o4eu79y1hfbd8p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26095",
+        "sha1": "e025d9394ed65de2bb585f9b4e3da2edfab5fac9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 20267,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/qcbgrx4akkb0q5d1p46rlvoo4b5n7rz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26096",
+        "sha1": "e182c5c77e0b6e25c495e6c5584a91c51e8bf81f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 20646,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/ps9snhbhneq05t4cn9j5x20m3azkgw2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26097",
+        "sha1": "dcbe689ec7ee4f2a7fcc2526a229b21d7f88ad82",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 21133,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/7dqoherk2msg6bczqeacysgi9c0qwh4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26098",
+        "sha1": "3f3184aa569beb80ebf52ac17a88847b2bcae6e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 30144,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/cw53gomscckm2xsci3d0c35pg2lxtcm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26099",
+        "sha1": "6e5f8a2315d568064907d16fd33c7bd8727dcfd6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 27324,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/c2r7ow4bfhjj1ni7ten8lmitxjmnlo4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26100",
+        "sha1": "6762a196a96040107d1f954c7cb0744152871f74",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 30173,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/902luxz001vb2zwmb2kwjzp4zeltw4l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26101",
+        "sha1": "4d108d71920065ecc5801cb8726f5bccf6b1a4e5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 27127,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/aeq4ws64f6uk80ub1hs5yr3hx3aikmz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26102",
+        "sha1": "591c30bb64eb87e1d6b40301cb759c9bc62fbefb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1245269,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/s4lv0u2nlkh3wlw4r17ix9qxytojk7i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13361",
+        "sha1": "f0cc7aafcbc8811816f073db339d9584d26df90e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1170516,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/i36w25z6xayy1s4uf9l111bgq7wdc89.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13362",
+        "sha1": "9ada9204fa12d318af8f33dd1b5abb9d2502bb29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 21008,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/mvrw2d6614880e8rb9p5da5aimgw8cf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26103",
+        "sha1": "c3e4ec85c3e21c77a1c229748987c22c7ed5ba3f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 20498,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/jsmp1sck3addhifjwoagfl2go86p5h0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26104",
+        "sha1": "a976cb3024222f1e29d85fa856edd42fb5b44df4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 22217,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/r7yddirreor7lidcac10fgybj9kl32j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26105",
+        "sha1": "e908b16de70e6fc2df0edaf34a222f50690c4acb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 22984,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/66yr0wx7gkx8ufexzizrqv57xk3hj0p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26106",
+        "sha1": "3505749622dda97d15fdb7e0cfaa54827d23fd89",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 22392,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/kexgqy9sbp1o3mjcdd1zqoa4noc2x7i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26107",
+        "sha1": "aec44c7d5593f01dfb79bae8a108800d8aa2709e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 21832,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/j49fyfnx228qzho4r9jsv2dn0jfyna2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26108",
+        "sha1": "a3ab55e5d48857bca51478d604b448b6a390055a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 24197,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/btjlsjt4x2xc887d89z7eyuosapf5pk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26109",
+        "sha1": "6531df5c4274299a27362205e7155be93657aba8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 23053,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/9i1mrcw8km0dlfjli1p3rasbpzzs44w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26110",
+        "sha1": "5156b085aeeea26d2de7cd5e83faba33b3e2c2f0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1462452,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/2nx5cnfd1gc3u2fdlnv2uuccuooakdu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13363",
+        "sha1": "16cf5e76d887fced7304dd12054eef0bf860ddb2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1513783,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/74axr5bwx6ptqssvmfz6pgrdfjtegpv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13364",
+        "sha1": "3cf3011e5ad1be21c74f2bca7c5afca9d011e523",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 22389,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/ejla8o9fh2wscsavuk9fhunob8mvkqe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26111",
+        "sha1": "7c82a81729a8916935cb384eab388913090a20b6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 22135,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9c/s1ao278o84b1zkgwo5dz302eqmbfmgc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26112",
+        "sha1": "f002eb822a26149845f659054cf716b1c370426c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 22351,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/8mhia644wmjx4y5sozy81ekhsbe5hnz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26113",
+        "sha1": "49d578dac9dd9eece24af33f19ccd215d8d3c2af",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 20958,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/om8rpmig0xcnmswyfmbfih6o2o09p30.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26114",
+        "sha1": "d2bfd70c777887ec79d0aa1d400d251c75a4673c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 29015,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/kybaqy2y5ufd6ieo8yyz5149j1255jb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26115",
+        "sha1": "b3605aa46af0791366ebb61d750999b91f080147",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 27192,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/hwaeyscalk19dnn6b1iqpvth8a12a82.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26116",
+        "sha1": "993664843a8031a39ba46745fc88842e7ba96942",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 28236,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/381q8ntez2ajcs1bwhezob50epyt5wi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26117",
+        "sha1": "1b98a7711cb7436fdf8deac7939d68f2c91a0922",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 29538,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/mrnrr5twica6z0rud4bimavgoibu5b3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26118",
+        "sha1": "c2ea73088e7b49092fdd982e505b936a0103695f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1317113,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/t2ol9bk54671oc05taahefuu0oan17s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13365",
+        "sha1": "f8e6e945442f7c02bef548cbbc97ac6ec7758fe8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1495936,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/4m9e2atecnipdudpxnevm5j0t1ro3di.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13366",
+        "sha1": "278975ab195db4843a29cee785023e910fab9616",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 29314,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/17o86ufywqfvbh0gv5z0a0n82pb0vd6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26119",
+        "sha1": "0a62ae0727d8f31c17ebcd31dd7f5d93ce1badca",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 27539,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/9754ty8dz89tw9zcepeuoxlu02tskd8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26120",
+        "sha1": "4ebef6f4604c0951784000c097c0b84a41355b1c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 28062,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/1xa8jaaxprdv67ae6b79azxvcsthem2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26121",
+        "sha1": "1079d2c39017c5892e537f8161e971f4d2e9113a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 28626,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/csv2e9rydqs8fphkeetex330rlc6m1v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26122",
+        "sha1": "6d97f2c00de6408ac4f9dcdcf7e4c191d8cd6523",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 22906,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/ohc4vfiskitwow7xqvqx2w8c475yc2g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26123",
+        "sha1": "d195257af72fda78aef2ac3c717f749748225298",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 22894,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/rymnyb0jsnb5iph0b13c3rd7nm7ksia.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26124",
+        "sha1": "ef60938491f521d17c58683ae574f39656937c52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 23926,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/jh76b0qo52ie0nuxmpu4xxyagl3tg6j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26125",
+        "sha1": "a6bee6a7f9fdf66a14113c0b190c22e85306ce2b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 22526,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/c9bf6xzilk9yx00jgbow7xxlf29nn79.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26126",
+        "sha1": "68f210e7d9ce62cf24b9c8c9e43f7b672f0ef635",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1477038,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/goocavk6eky41a7bzukmkgnozhb62ph.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32150",
+        "sha1": "8ed75abeb1c5fcc72b2334d99b49aec4442f5235",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1281635,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/80s1jnjgajft6h2cteri3748x96aalo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32149",
+        "sha1": "44abfe5747c23f107ebe5561158153d03153ee2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 25766,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/5g4uanqulf861bwfbfwujghpu5achsc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32144",
+        "sha1": "2ea4139a8ee15124a79f527c5cdd7bf9ac67830c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 21363,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/1cnxjx4mbvpsl4o9zvepf9lqhedpuzt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32145",
+        "sha1": "0b9290a982cde9d9e6e4137b3061e1e258e01e29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 24214,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/oq82fci00evave4nwqccjzm2b3rbq7y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32146",
+        "sha1": "d3b22905cce6bbe3859e71049bf827e00d30707e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 21856,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/ljiwujcfj2pragkp6sp8263hr3bwdnt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32147",
+        "sha1": "b86ba564f9e0de9a80efa4bca825308e39a4d429",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-14-1.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 1,
+      "info": {
+        "size": 28743,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/duwo4qvtbdy4fbmsb04o2e9bqgbwa15.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-14-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117558",
+        "sha1": "76a3fc595392f4b1fb9174a27ea3865fb13085c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-14-2.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 2,
+      "info": {
+        "size": 27352,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/ejxyfejignuxn836265amzx7j4zpatf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-14-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117559",
+        "sha1": "7c9815c6d5e4275bd9eb09c9dcf84013a16c8603",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-14-3.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 3,
+      "info": {
+        "size": 28041,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/bpnlqfnyl3l13w83ybthzzdpbmq9erh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-14-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117560",
+        "sha1": "6445203b4fd87bf26fa619ad0d2e73df8b7e14fd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kako-Petit-14-4.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 4,
+      "info": {
+        "size": 30410,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/igm7x1kbewh17lz6t4bhtxnnzrkh2jh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kako-Petit-14-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117561",
+        "sha1": "9e0be4c412eb064cd7b9058ceab1e945f2fdf71d",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

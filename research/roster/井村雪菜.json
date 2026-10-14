@@ -1,0 +1,933 @@
+{
+  "page": "井村雪菜",
+  "group": "Cute",
+  "id": "setsuna",
+  "stem": "Setsuna",
+  "roman": "Setsuna Imura",
+  "revision": 198075,
+  "checkedAt": "2026-10-14T02:05:01.384Z",
+  "files": [
+    {
+      "title": "CG-Setsuna-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101031,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/38a73p4oltw58fgkm8v2zzuv7w6g9jn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21759",
+        "sha1": "1ba6f96f368ac106adeb3e86d74cbb5b63570a53",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101353,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/q94gpa52exeka6pnxjusswq243iao43.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21760",
+        "sha1": "e0c04d0d1b368cec7eebe59499fa95cf59379693",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101830,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/fvv4ecswxitykx1b9k888oiyrmzkdhj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21761",
+        "sha1": "87fd634770aed560a118223b48af6aab1bf6cc47",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100849,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/p3ilyzxyjntyv5p9ah2l00m3afxqtyu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21762",
+        "sha1": "d6db63b46fcf2d84c848709d45e3810c9057d736",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101786,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/cuvlm0tmgkee4q59rwr1y9tbwlrzd5r.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21763",
+        "sha1": "6e129ad545b7ccae460b87cdfeb2e22ecfec5c5f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101064,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/p99ytnl4tsi88xxf97nso2u6lud5axv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21764",
+        "sha1": "d83a092b9cee9d99dd050311209007c05ab7fba3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102363,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/6wu2z4zwp1gsc7xunpo0ygw2kjeug7w.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21765",
+        "sha1": "3b2c5d007e1dfc42022702101d0eabd3c120679c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100780,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/eqwybadhwvkdflx77k6cj8bl45v506h.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21766",
+        "sha1": "7e40870f10aaedde360de5922f72e371fa75c329",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102388,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/hcktzg2p60eb8jc25ap32lrmw9ophje.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21767",
+        "sha1": "948677f8cc275ecdcfd73b3f4c1e9cffd793810a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100379,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/mmr4otvox55ik0mu8l0ns0kq96hb86x.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21768",
+        "sha1": "c1bfbebf2e244f2dc044983400fd81c51c399739",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102365,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/b336jdydaxerzymrhdvksybxx6ggvx2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21769",
+        "sha1": "5ee74c40ac048b30a5186384f0c2fd6377e03d96",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101406,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/3oeiz7jdaq9coigmgzbywlqoa70thfd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21770",
+        "sha1": "1f7c53fc33e7b175476f76a9315427c825aa1979",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101810,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/kkn4y2ucz0ur1rank0iioa95yo44124.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21771",
+        "sha1": "b020189726dd8d2e6415a7fd56f53083ad51225c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101756,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/5vqbtfos5no228szfciv70hay5dlxjr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21772",
+        "sha1": "325990e4cdceb1d3e99a71ceba332a1d11f19e17",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102364,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/ryg03ux9dxmya0ry51qif1aswbhtb25.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21773",
+        "sha1": "ef554f5a457c41df2a2c9e1b0d6eb4b185bc9a3d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97923,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/6faea0i6xxfsib09rubifm313hs4a15.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21774",
+        "sha1": "37002a346064ae88c7624918ac6337ec967bfbc9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99641,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/7wrh0n32z7yg6ooswr8y20clxn4f5zg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21775",
+        "sha1": "43b7857447855e01e18cd3122ef18c20e6de5c0c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100197,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/o5yu3m3x1k2nsfmnfjngmbltvw2uqvk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21776",
+        "sha1": "cee1029ab781e27d766d37ead939ae43482ed590",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101970,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/0v2tzr9ejdi0zzd1pddzkxo5c9tah7w.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21777",
+        "sha1": "0763fa3e318cd4d629fc5d0c22c539ac6b6676ac",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100690,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/te0rnalqjn5q1sbkpkp8s9riqu7hicl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21778",
+        "sha1": "fb992684de7d79b5a9a3cc49aa204778f0c63625",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102386,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/54/qnyzipxozc955ph5ypsxjyj0grvyxq6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21779",
+        "sha1": "e448318be77252493d8e3c9cfa734731337eaa3e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101894,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/8b2031o3dagjnxzif6c0rcq63wcvogl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21780",
+        "sha1": "471d9ae25d4e8873259a93aa8889ee1ce60b4995",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101761,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/69srt7otl3v5bq3wrspi83duprhivyc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21781",
+        "sha1": "35b1fa259597c8847f1a09bafdedf099fc7d7f44",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101993,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/djb7t1ze8uldk38cmeg3agdlvzj1433.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21782",
+        "sha1": "73e20f7c145331c5a206bc55ec5c7ba5545759ef",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101355,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/5ttx8w8q9am2b3itwoefwu4qr4pd2e3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21783",
+        "sha1": "31e5e446c852360556cdbc15036d977207a9c65b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102322,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/q2ktzsczzrn7qrheg32hou7ntgnvxek.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21784",
+        "sha1": "df31d7c6630f7752b30f16904307ade2836a01dc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Setsuna-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99421,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/4df83vc67vpxyxxw7sxaakolho188qj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Setsuna-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21785",
+        "sha1": "256f6ee220c7d725b7b674a3a17ca5548b922f3b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1270464,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/jfncwaf9qul6b9f7y6s99n9ind5b65z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8977",
+        "sha1": "a66083579e99b93e146fc22d38d99c2718825cf7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1415231,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/84zqjskfyrx2fx3ichi5dmib3djmtgj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8976",
+        "sha1": "45ac835ebb64f9ea41291eb452d702d5f85575a3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Setsuna-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 41791,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/f4qjfctu2l09btkg8yjgacirlq803a3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Setsuna-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=598",
+        "sha1": "8189f5be47b43fde74add13697b569449e80d09b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18005,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/6xac1fis9txd5xryuox1unpbun3mo4y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21787",
+        "sha1": "3b47d8710f5d5c19368926ad331b3aa2ede762b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18799,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/pfaz14hky8xbzwrnke0xq5i9m7uzpmh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21788",
+        "sha1": "d9a8ff9eaad9918970fce8f49ae0d68c86b66679",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17193,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/a8plex3w54s2ok0k0hklvwckyr8onvp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21789",
+        "sha1": "57ae033cc0540814d520a32bb566adf5a6a702e5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16585,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/rvvauv8v5vzn48coytzdpjr9dimms2m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21790",
+        "sha1": "eeb88ca51219019bfb92e98d07d1ac88bffea59e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17202,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/230c0ssi258it82uy1v6mb2zbxm551r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32104",
+        "sha1": "11d656b5e00bfdac14555c4dc8056455dbad12cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1029817,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/kinh4oo0r848jzwd0vnce18zsj8qzib.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16375",
+        "sha1": "afa6ea14bbc7ff591d350519bc301018caaeea43",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1126805,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/3rrj93kvofmflpcs9emw7xnmzskog3a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16376",
+        "sha1": "2048f48dbb40840b5785fbb1fedd0f73811f9b76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26430,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/74fss9k0wlfgjg46hhpeuin7mk4ye8w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28757",
+        "sha1": "3cfb39e1a7df3de046c8edb0f04490fcced1f0a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 25653,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/rexhde8ulgi4jb4uliarutxvcp5lec6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28758",
+        "sha1": "eab15425038c52795ff04b943bd371221b9ce4d6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 24062,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/cm6n8qjnv2qv9txehrt5h9d5qgfnur3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28759",
+        "sha1": "6c0163cd369970e89d574586c063af3fc1db8a6f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 25786,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/at3np1qd2fwmbunkx90wewzmonelfci.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28760",
+        "sha1": "5c87557bf36802438639d232db9d077ab2a0caf2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1410058,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/pyr0qnocpqbz8caoig3o9k2mwejhn7r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16377",
+        "sha1": "de48cc48dde35d83a1494d0e1ff7bdcd0345fac7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1510419,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/t1bz09mjg825hz5og5g0z3zeo0324jm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16378",
+        "sha1": "f894b2598a505a21fbd468b0daed4bc468de6682",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 28481,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/iynjs9ysudslzb9ezpxrdwuv19mzo5q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28761",
+        "sha1": "a255ed882a6f09ee72079a15d43585ece313cf0e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 27930,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/s62votj8j465rwcqb0az1da449x07ra.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28762",
+        "sha1": "f126228ee98b6662fc13e7b492dbd7529f60ec46",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 29463,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/97s5j08bc4jx67radxady71ifo2rzeq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28763",
+        "sha1": "4ee5e417def1e702bbd878ce826b55e03b35fe02",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 26800,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/r19huwc0ur865ckdv28v8qqcwsbmf4x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28764",
+        "sha1": "e7715db50c8bf2883cddd2678856e8e77ce2d121",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 27815,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/ihzq4nfct2icqycx53mmia82709bhx8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28765",
+        "sha1": "9e5f9c0199a463d077f2709cce8c535cd6f4c87c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 25771,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/1yqhzr3bu6m7ct8l7twujxff7try10z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28766",
+        "sha1": "10d233725dc47ac5c1f069a9d45873fd08b2f8b3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 26219,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/73qb6pmfo8th13njaqfw1ubzmprvn33.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28767",
+        "sha1": "3cd01fae18fd180d3d58a9e3dcd956de2dc5a59f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26399,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/e1q7a5zh8wohi0wglv6p5c89ddj06r2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28768",
+        "sha1": "78432fdfe81c6c6fd84b509f6c8e9092a08d792e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 880552,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/7clx87w5xz25i0by96fgaps57k8x5dl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16379",
+        "sha1": "3eec98cc2677af3ffd9520cf5f5aa24b10ca2179",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1292671,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/ltmy8j1ihjcst07ze9023zisk680jc2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16380",
+        "sha1": "bad33eca73ee098e14bf7b90535f744e4bd781e2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 21171,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/f8xkps0kba79z0df3ryuol979synkcw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28769",
+        "sha1": "82895d9addb50666ba178d66205c4ed6206a68d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 22562,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/sg3jv7fdw4h3zaleqeomxzuw6rnxb1a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28770",
+        "sha1": "f3880a61057af05abf70dbd7e7b47e698c10d91e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 21010,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1b/ks8tks2bebfge9m3w8mypv8uxye1rr4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28771",
+        "sha1": "b1eee74c64176461a76e0404aa10f4d4ca1268c0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 22878,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/0kdzlf1ng6712z3w41zg8tlf07addq6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28772",
+        "sha1": "04d931f151a2e988c44a928c47f4d6391a330cbe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1213180,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/q1tbu3ruy0wfwb3smgk4jxc1c49w2cx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32111",
+        "sha1": "df03550b320a559b9c5b048112123d0f6d1b0cf1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1540048,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/g79nqf0vqf85ajvsn3fi1mkgry69447.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32110",
+        "sha1": "8ab39e056380b14821c8024a83e9291f8ef0bb17",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 26121,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/pti9rdplfr01ivxx52c33lctn2ybp44.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32105",
+        "sha1": "dd099e14fd7e1116554c7476977562de36ecade4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 26510,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e2/plyf26w5qagyolka9smybipv4vxc6ze.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32106",
+        "sha1": "db3de832bec375dabfe66f32c4df674917074b5a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 26075,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/3hb87nsa6stg1f0pm90u4yjewjmctxs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32107",
+        "sha1": "1dcc9c4364252b5c3eb870ca0b75ca311b1ba490",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Setsuna-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 25610,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/tqnd0tjil8xje5j4ku3en02rzfrzjpe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Setsuna-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=32108",
+        "sha1": "fe99e18872f1be5d3b65074f9964a02958ded582",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

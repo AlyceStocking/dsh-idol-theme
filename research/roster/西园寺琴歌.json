@@ -1,0 +1,1921 @@
+{
+  "page": "西园寺琴歌",
+  "group": "Cute",
+  "id": "kotoka",
+  "stem": "Kotoka",
+  "roman": "Kotoka Saionji",
+  "revision": 220887,
+  "checkedAt": "2026-10-14T02:04:57.469Z",
+  "files": [
+    {
+      "title": "CG-Kotoka-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100707,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/m3450uvvfct6dyr0k2oviwszdbh0r2h.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4919",
+        "sha1": "bd14345518ba96e9cbf074375ee3b04becebd609",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101504,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/b6ybj1gpl2fg60aaqdxpm0u0y7tl9w3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4920",
+        "sha1": "5fd295c8050216cc11a555d06487887789cefe53",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101099,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/lenh3cjc3ueecmf4zoq5ceyk9jn6a7d.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4921",
+        "sha1": "b742f9e890986f0317016f130019f3ba547aac29",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101503,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/92g0meyfhibntvk4qnzoxsddop7uvym.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4922",
+        "sha1": "4da0fbba401d089922b40bc70c9eb494c463284e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100493,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/cgnf93qbwfpv47kbjlurul8kuupkpgk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4923",
+        "sha1": "6ab08005ee4a01fcc0bd02d350e7c3b70d0b8ee4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101006,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/3sfi7zgdzt32hml10f097nr61ianugz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4924",
+        "sha1": "20717dd421008d556f731a850d350b8d4aac5c03",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101147,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/85gudj7nt5de20f1f4tl8s8v9gkx0mw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4925",
+        "sha1": "45c970bb0ce832952ff5299a3350cbc03b1ba578",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101154,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/r39iurg6opixu4isbpswxx1d6dwv6ad.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4926",
+        "sha1": "e7eb2ab440d157f7c963746ed9a0e55421dd4595",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101763,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/f58kmgd1xz1kelea3swdegckdv0rkrx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4927",
+        "sha1": "81a87464c6129bc6443335137e75617c894a4ded",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101307,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/93yvqcwcedenaqlufh86cx8oimflki9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4928",
+        "sha1": "4dfdc295c329526f3f5bc5541ef769fd270b0211",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101149,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/kuug5rq30o4c89cw37am2a6pikw7zq1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4929",
+        "sha1": "b28d3ad79933cc6393446454d92cae64bf000099",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101959,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/n8hys99uzqxd7cs712092mikhbyy4ez.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4930",
+        "sha1": "c6eb8acd6f83e8bb5d15ae9a5ea9b622883bc8db",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100288,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/fvtvz85rpscfh0o0s5lbyetx9qex1b0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4931",
+        "sha1": "87fb4d1f314c4382cbd229d85a2f9dfa75c5cadc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101940,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/k1me1ko3jlgyweqnwl9iofcqy78a4yj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4932",
+        "sha1": "ab9a2b6afed7ce94fb931d76e5185155c3295b9b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100718,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/9v2jesgkp1ya2xakjwpaw9qfw1bb5kf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4933",
+        "sha1": "546f9fc36952ecdf5f40a4f5a8fdbec340023fef",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99589,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/pxztplxb3d2wui4ith4tcj6466ws2la.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4934",
+        "sha1": "de1acf6099d1d94221f3665a06d2e2de660d541e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99005,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/4gkrk4vm87zrxv55g7bxjynejqqz283.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4935",
+        "sha1": "262f6ed56bc015f236e34c3456cf8329e8cca803",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100860,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/enc84qr0fblzvwsgaig7zxg7t476lfs.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4936",
+        "sha1": "7d66d8a267b7feb1982d7e7f6d9b3ba7887f3908",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100345,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/if2cgxv0hhcamp7svcvekavnkhjz1x5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4937",
+        "sha1": "9dad68f190d13f47dfcaac99bbaed6357830cb79",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102027,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/5a60l6wt8zt9ud3xcpqgupmi7y7zk4k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4938",
+        "sha1": "2d38cd1fbf0840d52ab696442d13a117a52a6fa4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101203,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/lejajqjbl01aq3zklni1mlxpizsaffc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4939",
+        "sha1": "b73be7985e1946309276a476b8eba5d0fb11d498",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100629,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/l01f021m8rrbnb1qxlrs2xxju4t3ewu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4940",
+        "sha1": "b3c965c5c97866bba6d49139cba4f245795bdb3e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100229,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/ekal9t5gstul0blgjg335p24u9bxuqc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4941",
+        "sha1": "7cad735239c8c7e44d8c418630037a258394a8d4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100726,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/6dwc5ll4w67whu7kw69ojrqe7bju8qz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4942",
+        "sha1": "36ab8387735b1b693d33cdf92bf64ea7609876cb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101572,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/p10iqk3lw29zh368t8wulrsxuq8lldk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4943",
+        "sha1": "d6430b89f71f0208289800ea555f6a317d532f78",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100651,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/r1waksyjppqqhnn8bnvwuxdgjh3oqw0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4944",
+        "sha1": "e797eaedec44ac8a22ec281525149ec5c7869520",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101691,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/pzcc6q5mx3ipbuwydwwb8j0vfxvjz48.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4945",
+        "sha1": "de6cd8e43175e7ff29e12ec2cdfe13c9d01f8b88",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100999,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/syg19g1tmis3prcmqiskxrwei8kb7b8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4946",
+        "sha1": "f7e4ef8d5c1a15fa3ce2b02fd726ab697d704dc4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100629,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/2y4om3ekq84z9dz8o42ytnlpsgzpmxv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4947",
+        "sha1": "193ce1808a2ed7c36a8733cd7fd0dc520db88363",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100803,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/jccrlspxiejmycj0argt3ete42lpg3e.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4948",
+        "sha1": "a597f8c14d6ad665135379ca1653d743874a5aba",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100771,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/1x1ohlzwx3sidq1zo9h3d0kllopeeak.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4949",
+        "sha1": "106b5a7a82d8cc15b423fe7d4a2382c46495e8dc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100558,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/hsp58rldm2o72pad9oltuak6ka9hpvo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4950",
+        "sha1": "985bcb1c2a73782d6514679abf06aca64fbc6e44",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101022,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/6e8r1ueta7u6dxfevah5jbatzdbm5lm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4951",
+        "sha1": "36c0817cc0162d70e1ab379f8164fcac11d674da",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102212,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/jsln9g7g3ihs6dtnijo5w0azdlef4tr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4952",
+        "sha1": "a97504cb60f740da13d6f939a15c09f94a01982f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101457,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/sha9br3kgv6ltc1f8s15pde7umd6nsw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4995",
+        "sha1": "f3d04275b230984f54bb074ff5412423c845a300",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101938,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/mbu0wajm9dm1k3osva4l5pdxoz4xlty.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4996",
+        "sha1": "bf26fe410f687cb7c51262447abf0bb76e939cc6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kotoka-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101399,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/ln3p261ns4cbb00ssna7pyavicm6ta5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kotoka-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4997",
+        "sha1": "b9456c3b4c319302464c68e0cbb119cf05733fbd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1041793,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/29ktfo1kjel4tdh0k07heaxeu2tyw4x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4973",
+        "sha1": "13663d3708141efc86cde4fae0941f6011a9bc31",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1281793,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/ayju3l2ae5a4ku7csqv5spl5v9xh0ni.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4974",
+        "sha1": "5dd3137b4684e219565762556eb96a01811cd28e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1224421,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/jrh3uj54vwyuu5gactsa7m760og8dzo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4975",
+        "sha1": "a9307736c9ecc1fb510480920ae0f73b6323e8d4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1261891,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/nepgtwgnjeiqz90kvl5em4rs7gmnzhg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4976",
+        "sha1": "c8657d2cf8eab19a299dd60722336a6178c29964",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1142718,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/1hxyr6oat1s2pa69hy5t1jk5o1lb8ll.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4977",
+        "sha1": "0cd3eaafdf6d436bb1ddadaf5ec675d2480d9949",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1330411,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/brkk4x2pnn4chqhko5oy171eafucyj6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4978",
+        "sha1": "64b9bb53db024a96880036fb72894eaacf84d3d2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1358326,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/i9utrfps8bljplrqr2fhptfjzfp6pk5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4979",
+        "sha1": "9c704f1beb90d072d27769411ff4102935e60be5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1258162,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/ixxot84la1zzhxd3y8lx6g0ft8f3b4t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4980",
+        "sha1": "a22a327ef19c2174bb7501226f359a896be27a1d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1300527,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/m96844jefjs9ynwt8vph84s151r02kr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4981",
+        "sha1": "be84fe5b531c929adc4ab193c9f2f92635543c0b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1268926,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/a2qub0h97ey50mck5ly95te01cbid7d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4982",
+        "sha1": "5642dc0285dc153fccd22bada97d2057c457be59",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Kotoka-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 41269,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/633ssvuvuvc20xn32bozy0klfh8jmol.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Kotoka-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=521",
+        "sha1": "341a7c6f728a80cf4764513d72d3818a44811595",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16654,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/qb9m8no0smcsn8l0379innyhwnbdlco.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4983",
+        "sha1": "e142c52e4f876a50f1910bc09bae05bb2b7a9458",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17752,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/jzcqnasc76olfbi53en3xnysxl8sel9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4984",
+        "sha1": "ab1018edbb677f99b1349ceba52f7e1d402ec4dd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16409,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/axsudoyrjvy4bm0d5l7loxs7e2ad31i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4985",
+        "sha1": "5da56e7a045f2d300713544aa20915ac554582a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 18211,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/esiqcgciiwgofjomjcixu4r7b7pk7oo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4986",
+        "sha1": "7ea23b9f5e73b9e1c1346ae2548afcaadf9e08e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16875,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/e35f36e0n9cgexj2dnabatyy011il3m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4987",
+        "sha1": "7899cbcb6d991f32290c3335cd95cc8e1e5c0052",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17894,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/5wf5bbfwxmfnf0xrm32nsp1h2tm44dz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4988",
+        "sha1": "3283894447471154dcfe5ffd87931b45ce40b937",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 18352,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/2bqle4lwaym70t7ukb5owasz5hipqy2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4989",
+        "sha1": "13e9c2ef6658b7e2fd696fccdb9e276b87c69aaa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 15948,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/hx0p0v62mflrul9esj6ys9tgn2d5woz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4990",
+        "sha1": "9962d4f0a774781e98d1feccb73568de337619c3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16426,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/bwqnr7hv8op2rkt0ktxaa0ugu3pf6y5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4991",
+        "sha1": "65f46ecf1fe174d1de1118950d9a318eb76155ed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 14963,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/ol7wbzerv4hqzzcnp3vlqidri0ehha9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4992",
+        "sha1": "d2817d34aec097ec323b69fd1683e3a357081fc1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 18905,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f0/ny33vgwftcrzn85vdajo5fzuud3ot0i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4993",
+        "sha1": "cd0137ad9dd89130b31ab20c050b461b1af73fe2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 14826,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/8hfvph3qzxj8eub3rluvsxr5q8kdc31.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4994",
+        "sha1": "48a255f1bd77c5577a2830a770a33bfc659d126d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-icon-13.png",
+      "kind": "icon",
+      "info": {
+        "size": 17551,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/4ssbml1tcke0223k3nkdvtlc76g264a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-icon-13.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121792",
+        "sha1": "2916bc93ccc825aef13983a2dcfed4544d78e37a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 962781,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/pg23zw6jm3yimjlnmqeu3g62uojfcrz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4959",
+        "sha1": "d9d6e3b72d244687c8bb182e017cf4c66507a16f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1128347,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/783dq6nam8hl1subvcukoo2d7vaqs59.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4960",
+        "sha1": "3dd9bc021b16757ce1e9d44b32990e5aecb1e6fd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 35694,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2d/iw0r0ficcgsdjifcoca9lw1307u46lg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26587",
+        "sha1": "a1b59ea508d815c12e62578b4af691d2b52a1464",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 34309,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/0e2tj9ww1tt9eiu5943rcxxrmd9j8zo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26588",
+        "sha1": "03590c178798c61cf27739fbbfc0d9cbf92fd144",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 34228,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/fhg7wx3zk073aori5n2vxobq759nsle.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26589",
+        "sha1": "848fe8e3e100c5a8ad481b817be274ada7c3bd82",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 36173,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/t9tmm0xx8j6ree6exwi37huxth6f63q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26590",
+        "sha1": "fa99919d53cf6a416aed2f5ef2cbce99e06686a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1596561,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/c2f5fukh476duml2803gajojgrj88q8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4961",
+        "sha1": "674e3bae76f7f432eab1c2786b3e0f54bb0fdd30",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1226157,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/41lx7rf2ags5c40e2fld8yqcuoyzhh2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4962",
+        "sha1": "22a03c201fbe17007f8485cd338cc67c56f0e536",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 30300,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/e46iav8cro9wjhm7y0of7qoqvls0m07.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26591",
+        "sha1": "78d883d9a5f376068e7c1e3692437c0b0022ef67",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 30527,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/n8usb2endpfgroup9kmm0po6spdms63.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26592",
+        "sha1": "c70138a621fb00e222d830ea31e0ceb373aea91b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 30035,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/hri55sln4lugao2n7ixw4zpyq0m9317.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26593",
+        "sha1": "98131349a084595ca40ad8f29b185ee767ab6d9b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 30961,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/6hb7dwbcsrvnn6uc7s069h6xznfcali.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26594",
+        "sha1": "377b493f13dc123f0bebe9d5ed8ecbc3d62d5ba6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 33647,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f0/pvmvf2cl5s5leibq4bmayn3rhq2o42u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26595",
+        "sha1": "dd8b2726351c0efe9153cd95dd6ac8d84db8e4a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 34724,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/0pln2u66u9i0t2vgaeu2gd19u6nwf9b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26596",
+        "sha1": "06168533ce72437fa5c04c7de72295646fcd843f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 34242,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/me6x4sy6n8brptlo94n6qcgl8bpgrrt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26597",
+        "sha1": "bfb68dc0ce4fa4b1700c394f0e1760925a457599",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 33359,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/177187x52m8mzjve37zztbjoq1twffp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26598",
+        "sha1": "0a459af5ce268b99617402bae978d11ccbc59725",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1150765,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/m3sxcawk218sp6y8vw1sdf99o6abm3e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4963",
+        "sha1": "bd3e1e87b454dddebc6057de75fd60857a97269a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1126516,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/nnootlgcvnxycu7q28gqgu91zzoj67z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4964",
+        "sha1": "ca8810f2c1512a536afbb998dabc96d32b979a3f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 33118,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/q667oxlnf7vhsenhmokxi2zo4jzv0es.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26599",
+        "sha1": "e00ca0fd4b9036372f5f2ec9792344cd916e82d4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 32263,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/jbf0lbapk6psgu93wb6ba5qtkrr3jmy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26600",
+        "sha1": "a55ee61ddcbbccc249b86bea741c5fe36dce4d2a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 33574,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/2sgi6zn2fi388922tooxsr3y9vsfd99.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26601",
+        "sha1": "17e39c174deb5f8d27bbada46525723c005d78dd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 32508,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/aedbyil6p107iwwyux3hm6c3e1ml68p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26602",
+        "sha1": "590689bf5f4b58d49f9e8c3b5ec81e41096f2cd9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 28343,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/d8r7h7z72fqczq73qarf5a7fdhps91g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26603",
+        "sha1": "715f7462d05182860c755347b165b3bd99d249c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 30594,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/bi8pmqsiokwxm0rxepnfeyilel26xlm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26604",
+        "sha1": "6281cdfe7411f65d6f92ad5c685b2b84b58fc59a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 27999,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/hm91f7wv5y62hj5more6y2xuzcsnmtb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26605",
+        "sha1": "96d34baa683349e395fd2d017ebe1a62e691cf3f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 29875,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/66/4gt88eq8kmi5cjhngej9pxrhdc136sc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26606",
+        "sha1": "263dbe913829463d2bcd42578ce1718d4220a61c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1320652,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/cinevt41tuqiysgcoifrw01avoox5mn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4965",
+        "sha1": "6b2a3c9970a91b3448c9c1d75ab0ff7c5cd082bf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1408721,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/jbs1rhmaysoxbsd4ifrajwvils5h9d7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4966",
+        "sha1": "a574eff19b66f228299d3da24007f0aa9cd22eab",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 32669,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/44aiahviattl9i8wbraxe2cd4o8rj4i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26607",
+        "sha1": "234390415aaff1ba8fcc3275d239e5d5e4198192",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 33182,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/4k7hag7669kv9tluz2do1fr221gdq8w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26608",
+        "sha1": "270c79a483806fe9705545d57bfd3906fb801a20",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 32743,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/omsphll22bshopzvyr01e61t01ufh8k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26609",
+        "sha1": "d2e18e60c472e62a4b47393c72712e6ced0cc704",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 32292,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/3b4687dwm7yhdttl5tgbceqq5c4aezc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26610",
+        "sha1": "1c536b05bf744c2730c099c596415e48e10d6e58",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1568804,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/8srmfqstrdbtd39yhzlz05vtfc6crwe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4967",
+        "sha1": "4b53d6e60af5ed4347febe81b369d0609b94be3e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1377983,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/9wt536o3zv3pedv3mopku7m77yfd1gb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4968",
+        "sha1": "54d97c6cf58be99ddb7674915a88a51cc9d2af9b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 28742,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/6jdesdrl7se2yn24rbezqqlnlyzc6dr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26611",
+        "sha1": "37f8c5155f3c31879153ca38bf0f7d9d2714864f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 25220,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/mtq92beyx3gndoqsh0gl5eog0obgr7h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26612",
+        "sha1": "c36866025867388fa3ea25ab3d54460a7c2938bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 27917,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/gv1h64psap6ay6sn57ovka6cxslv06y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26613",
+        "sha1": "905ad41361a78ff315a7c50317a88c72ad1447ba",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 28494,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/hh88qzqqh04rc3y2ucr6vaio54sv07w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26614",
+        "sha1": "95a19053f4e6f095a4a21e1f01800561ae498edc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 29131,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/9zzsnczjrmmpede4248ohrz6he939ni.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26615",
+        "sha1": "559b5eaf809b60f7e1a76413b4b46dc99b02849e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 28235,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/6mus0sbxrhjttr8dguswolzv8i3uwil.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26616",
+        "sha1": "38ccc5180afd3bbbfd4f97ec8ef5da493b7bab1d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 29378,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/94airpwoglf7cw2sd26yx7x0a24epr2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26617",
+        "sha1": "4e11718cc2bf77e07bb0dcdb045754b7ca09e5de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 29533,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/qejhtukhgglp5jqn0lbydslm8ou6l4u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26618",
+        "sha1": "e20a1ab0a3f142f673cea0b6701170c2202bee7e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1318123,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/ielcivnkg988kcckngc1j21l8jyst02.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4969",
+        "sha1": "9d90aa3d6c4b34ea7d87dcf3c25d3c03de22cfd2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1898305,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/94ulof18rdzyk78afkd1bm2jskr6rrg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4970",
+        "sha1": "4e3366951a4b37ecc47d320037b5f3e26cbc1d0c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 28918,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/cr47upf9dlm68lwadch5xveonwwbqcd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26619",
+        "sha1": "6d2dab79ae056b4ed66dc7927d160f4413cb6a1d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 28784,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/cnfn363rd3k08cslyodmwlwz5gdxwmz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26620",
+        "sha1": "6c4d7a93d6e4a5e97d761f30e1ee099dc8c1a07b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 28357,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/ksbtjbp0tbiqdzdsqfuiqpwekwh46tq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26621",
+        "sha1": "b1f3f9858350b02f5b2ea3d7e76a388f86e3ec8e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 28644,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/64qyass171xzi81rh0gnnh75n3znnj3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26622",
+        "sha1": "347e83d2998fed9facf18faee20e122d7b3e75df",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 26432,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/m935368cgfbb8zxa7v0boy71o1kht5o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26623",
+        "sha1": "be7fc7410dc703b9d10c9961cecde7a2ea3ea5dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 24874,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/2lobvmfqcw27gstg947pc538c06eh9j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26624",
+        "sha1": "1646b3ced02b55e1bef3e30b7795eb0e7c01d4e7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 25512,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/c2dqnqlgs2n4a1hxnme1af4x9dor171.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26625",
+        "sha1": "674bd909a0f6391896268055f9cfac2d9cb27acd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 24251,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/8kky7bp3mh5gkcssstpvfvj1jvng5e2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26626",
+        "sha1": "496189ff63400f15e7156ce67a19bf5791fe424a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1139788,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/43spta4uuh2p28ezwd1n4ra43b26is4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4971",
+        "sha1": "23257a738b79ae93d76e106c9fa8b374c4e92294",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1604675,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/o5fp6xglfd030hk473osh5ely1kb592.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=4972",
+        "sha1": "cec0a66dd770e7e4afcdeb0515bcec63f5908756",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 31185,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/os16t1wdmvdzijwafn8nfhjnaq6ajjv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26627",
+        "sha1": "d4204865a69ff70dde17c74c8322cc8f42ab4f7b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 30332,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/5ppi48vtg41pxez1a7pfebk9ni3d0cm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26628",
+        "sha1": "30eae8b378d9b94562f2087f1ec903ebba705e06",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 30091,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/nrfjhbkaw8r1l1xtzk705u63qr6buop.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26629",
+        "sha1": "cb6c1aa13c62f0c8284dc368c1a4c3d27601e219",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 29740,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/8rd9o4e5uex6bb2gk9cs0wzqpwddexo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26630",
+        "sha1": "4afeb038581a2398b2302244ea0d098cd44949dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 32884,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/mo13bao932rcbf93sehssm5jzmg23ye.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26631",
+        "sha1": "c20d77bd65a2f8a7dd238385f08b8a0b33a09886",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 32012,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/lopvbu28776o69wxqcbwh12p7rn6q4b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26632",
+        "sha1": "b9a7cbfc74183817f47969155a4bc4c154453cbb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 32042,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/7jh2jcrjq77ksuprhuuh2yx1xy1wuyt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26633",
+        "sha1": "408e87aff1dfdceb489ee03aaac05d2ba3c31dc5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 32607,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/n6nj96x0a1cic5tdofk1l8ps00yt2bd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26634",
+        "sha1": "c67b347570aa5511f5d55b211b8a28d836d412f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1246960,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/ictiee4rwwyu2v7mhwfxcudaatjit47.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121798",
+        "sha1": "9d24b719469466bb8b5f74812a394ea0b3230ae7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-SR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1234216,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/5piytnh11bizbmo2ct2l65uud7imy4b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-SR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121800",
+        "sha1": "30dfdb447535df8b25f63b6eddf3cd6412c9743b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 30103,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/nihywtrgyvdorbd9acfus57sz058iyh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121794",
+        "sha1": "c94c516a131c5d19ccb7f4c6d19de40b92af66f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 29181,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/oc7tp3wxss7iyoipcrooz94n753rstw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121795",
+        "sha1": "d05d78f009f812ae60518213d60b764e570f11b4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 30547,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/79kgw0r68unu8qdfr1dszo1zy83y9w3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121796",
+        "sha1": "3e3381e48f972dd354065eaa65a5a2acc0ce4993",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kotoka-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 31455,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/df4sms7w4yuswbgb0whsy397nd9hjr0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kotoka-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121797",
+        "sha1": "72e3b18fb17cb373be326025f0e6851564e0ab3c",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

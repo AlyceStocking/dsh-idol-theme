@@ -1,6 +1,6 @@
-# dsh-idol-theme: two-character Windows trial
+# dsh-idol-theme: 190-idol Windows trial
 
-This public derivative adds Yukimi / Tachibana Arisu selection with name search. Dialogue is temporarily `。。。。。`; the existing palette is unchanged. See [trial and expansion notes](research/two-character-trial.md). The inherited plugin ID is retained for compatibility: this replaces the Yukimi plugin, and is not a co-installable second plugin. Validation used an isolated preview, not the installed DSH profile.
+This public derivative targets 190 Cinderella Girls idols: 188 selectable, 2 pending metadata access. See the [roster report](research/roster/README.md). Selection supports names and romanization. Dialogue is temporarily `。。。。。`; the existing palette is unchanged. See [trial and expansion notes](research/two-character-trial.md). The inherited plugin ID is retained for compatibility: this replaces the Yukimi plugin, and is not a co-installable second plugin. Validation used an isolated preview, not the installed DSH profile.
 
 The original documentation and upstream installation links follow.
 

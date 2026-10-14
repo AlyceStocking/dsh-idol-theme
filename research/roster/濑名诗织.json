@@ -1,0 +1,1025 @@
+{
+  "page": "濑名诗织",
+  "group": "Cool",
+  "id": "shiori",
+  "stem": "Shiori",
+  "roman": "Shiori Sena",
+  "revision": 198134,
+  "checkedAt": "2026-10-14T02:05:33.335Z",
+  "files": [
+    {
+      "title": "CGSS-Shiori-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1250822,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/0ruak7kflv649rwev8nwnczumjm1bty.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16416",
+        "sha1": "069ee7d2c74e94dffc6292ba8a993d1ba628d426",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101680,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/t2o1cmmdjllt0gugqic876ex297ygpu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20738",
+        "sha1": "f8e5f9dfa608367f506be04481a8f90e99361422",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100868,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/lispnxw4tikvvpcr0pkv8fb11c9urf5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20739",
+        "sha1": "b83f578986bbda1a1f0ff346cde69fec1c008f51",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100622,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/4e98twd6dnsuqcrtvmh16iddgm1yls3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20740",
+        "sha1": "25a232ab08ca7d489464fd467bd25c0ffd2b9bc3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101676,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/ab7ritdfzir0ryeam57leczvkamytyk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20741",
+        "sha1": "58467df5efc62e87d73259ff43693f6b6ee10a2c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101288,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/dj7xxldltkxxqdwi8h759a5sa5shbpt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20742",
+        "sha1": "73dc860a76ec60c9892e3b9dbe11dcc19a21c591",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101024,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/jzryaeeck1ihtt2txom4eecxclbb1gr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20743",
+        "sha1": "ab29d25d9c1b4f290cff4075e488e47599503b2b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102011,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/53vd1xbudxkdus0zw6bzub2vjsihimb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20744",
+        "sha1": "2bb98607b1db79af59ff479331b490511989aa83",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100900,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/79xk30dv7409qzhdlxq6baprt0a5pcc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20745",
+        "sha1": "3e49a40ac3eb7e5f5ad1b96e3391d877b50ae98c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101770,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/mcf6kuadjg56ul47d35xj7q4qw5u69j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20746",
+        "sha1": "bf4ac58af5108dfd37daee5fdb52d40ec8d0c037",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101206,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/nbei8eneorxiaibwkxkgvcadc53d9my.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20747",
+        "sha1": "c79c52964a38db4016b366b59c0d213ac3c3890a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101600,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/dbcwsalak3ju18pge89s2pm4nbprvm2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20748",
+        "sha1": "71fde8b12f2a86a734a4bc2b8a7d633d18170dca",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101782,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/2ganhfl0z7mlnn4kd9y7kmcd4ul94oe.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20749",
+        "sha1": "14ff302f0f053bb9e9a88be971967817c5a96cee",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101624,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/5padgu10qyrc3044g6w3ukk6qbw7yhv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20750",
+        "sha1": "30d1533c26797a6041cedb803f44eacec3fff663",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101366,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/79mqp4un00uunpu29jzdqk9756bmess.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20751",
+        "sha1": "3e3759a64472a089806f3768da8b29846b91c76c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100861,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/kfh757i7pbjxrf1e0l7kh6onq2ltahq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20752",
+        "sha1": "aee5ab0fa86ca34d5c7c5100de3b49cb8bc3b75e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102205,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/7up8wvef516skuo88bqawtbjy5b4k70.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20753",
+        "sha1": "433a012be2062cbe9a5e947360c5e553d4603e3c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97783,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/h5so65ymasa3k4m1y1einyr0qiqlziy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20754",
+        "sha1": "92e995badb974afc1bbc2d9fb180cb55b684291a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98205,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/sykrb5n2e7q98ts1g5tdkhe2swblmcx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20755",
+        "sha1": "f7ecec634d48de3737430532517cfee937920f71",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100257,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/l28wh7m0ojoy0dloy31ie8mr0vg3tv8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20756",
+        "sha1": "b44fcf44764ca8332b545b2963847f8537dd65f4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101445,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/2l8650h4lcg09mjuinh04m64a6j8psj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20757",
+        "sha1": "162b60587bfbcbccb05548ba05b483d0525a9f93",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100807,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/l21eikz10byx7g2ltybfoha0cuclafp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20758",
+        "sha1": "b44320f3ebdb98f64c5231f4e34767e8bc84ac15",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99562,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/im9uq5sna4irk2y8ifq64gy0au140bj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20759",
+        "sha1": "9f643e5b27799643de2aa0bcdcc944560654539f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102130,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/jttuow69yr2zsrlr9in3t56blhx5rbw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20760",
+        "sha1": "a9bfc5dc803ce85eb737230fb9bb1e1f1699ce9c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100489,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/4mmuqc6etaf4clni0poarsrq620adxn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20761",
+        "sha1": "27a039d697dddc408e3abfacdb6955a617448d0b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102302,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/d3lr7hl11kw84qdupp7v818vidp3wrb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20762",
+        "sha1": "7025d9acf33a03544a9a5eaaa3ff3556b222b597",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shiori-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102100,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/pb0cs5mrcpw4p1d6s4xg1wd2rmvyq52.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shiori-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20763",
+        "sha1": "d8a3890204812513bc9c544a07750838003d7fd6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1064077,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/n1cw353k9jwxkpx1svdiqht13rp2ys2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8989",
+        "sha1": "c538d249ad3028baf9e366d7b9a02789a6ce9192",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1200722,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/s0z1whpjljsrh1b2vq5zv6kr2pwmwaf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8988",
+        "sha1": "efef471dcc055c3de2cacd58ec7298c232e950f7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1074807,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/81/6alufqu7sg6zim9psgkayi6kpm5ldug.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16421",
+        "sha1": "35e323e929035189aba50b7466bc93ad738d0658",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1222233,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/dwe3zfkfy6cn2b4dhk8ofqzgrvrfnq4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16422",
+        "sha1": "76fe5ad5bfac7d1b1ba4cb66d49d75ea18feacdc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Shiori-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 53460,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/6wqxjyxqrabgdega1akhj817jll2xf5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Shiori-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=604",
+        "sha1": "3b270919cc8abc1509ad54b7729d421359deaeb1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17664,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/a8gi0dcrgflsg93d3szdo0gt37i3zm0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16765",
+        "sha1": "579ea22cda8bef8a5a9f2cc58a6052a601451508",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17348,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/p85703edaww3jjwa5de0foj72rcgin8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16766",
+        "sha1": "d7f5167f8fae6eb02573ac37a82a6652dd437a64",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16547,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/5cr6xo8jcx2powss9hqd6dfazcjqa7y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16767",
+        "sha1": "2dd65d6c91071c4489327e9216d1f376744a093e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16240,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/8zajyi6zl6gcnejepqu1ryffydccpsx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16768",
+        "sha1": "4ce11d4c7ad7b6e56b32ca10c8616f318703cda1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 15865,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/hw9ic7wiidpq6olb1mcuk13n76i3291.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16769",
+        "sha1": "9934dc2cefe17e26d6c6f8223dbb9686b9478825",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17231,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/96o4gsg23aups8wchucpq9gmz2q8xak.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34397",
+        "sha1": "4ea233350dccd8af6f0ecba65b16c4eb4c42ac8c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 898561,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/m6hw3elrxy0beydo1wia03gpjf00epj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16415",
+        "sha1": "bde21720270ff3b1231e8df65fbc2e98deee5677",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 30394,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/khjne28oizhaa6vxrsc2t3d5woji05p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28961",
+        "sha1": "af63913e3ac40200c0024042503d999ff7b5644d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 29973,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/nhuug4ew3363h0ejyfm7j2b1kxsdipk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28962",
+        "sha1": "c92536f7083aa2e0f2cec7ab963815185f94dff8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 30980,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/djl7kkg8acuszycfahxper4dq3029s3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28963",
+        "sha1": "73f2f5ae0f8d7474c12b23e5ebbbfcdd11726a03",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 30161,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/r652v96wdlw5fx8ha3j1823l0wjrft5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28964",
+        "sha1": "e89a48618ad3ab146b030860d309935efb553bc9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 942813,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/2qimlhuwh5jpw9i9br715r4308j59jx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16417",
+        "sha1": "176d71d362d7ed85ccac0426bc217b9e89ba929d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1406605,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/t3gddru0lpv7o24egpn1xn5sumbzbbb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16418",
+        "sha1": "f915e3d76a26e1bc6507e77bd63fc8e96c010707",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 29302,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/m4oz6m8t1w13tz6csd4alwxrm4gpduv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28965",
+        "sha1": "bd745193eb11f171e262663b0d04f35e40a3d267",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 30173,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/68um1je2jlu3o90nq54higjq3a2nzhj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28966",
+        "sha1": "35783613187313cfde120d9f72a3fb7add916d67",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 29215,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/mhjxkxehbb09ei7vvr10cog640brwag.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28967",
+        "sha1": "c0833067620e26628c6eb588a107814efa8f8738",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 28966,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/op0qejeeh14cboj2e20chesxom18r39.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28968",
+        "sha1": "d368e19f3989e3a735f8c96227df90f5241db425",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 27353,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/dq3mst5dgtkgbqdd0tu2qid6lrjprzi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28969",
+        "sha1": "757f601d635d7320f04dfbee38b64b7b561f68ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 27359,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/1jy0hjigx66kfu1ihyrqgzm9gbnnwwx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28970",
+        "sha1": "0d4dc0887a565bbef7290f38fb9ec5ebb5c6c961",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 26782,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/3ka09vdd5nwlfdebnuw2c5mncne7h35.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28971",
+        "sha1": "1e812d6c776bb6f84e85cc286411997b29c75c41",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 27056,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/nda81d8gepz3bec9x94psml1ct7ugvi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28972",
+        "sha1": "c80ed563d40f05af2c22413bcf290c9cc88dabee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 984977,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/7gcl6z1ahk3irfxyznv04ojws6byi89.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16419",
+        "sha1": "3fd051fcc34fcb7d5d3c0198f71ba49b27f313c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 996777,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/dn5vbrkzebd9xrz0gxa2vif95nw7hv3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16420",
+        "sha1": "74cc86ed873dede6e1aab649a0e7c152f170c22f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 26208,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/54/c5limjxylu4rig1zk9vvunyqocqobnr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28973",
+        "sha1": "680fa130e55805708507506fc5ce2222fbe55b07",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 24467,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/prdtgduyt7bxuka8iy2u8m4sblardxu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28974",
+        "sha1": "dc885560e6626c4a458142aef0c27a9d3c63ed52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 25263,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/h4545kf2ub1opzh2pasntjecq7kv78v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28975",
+        "sha1": "9284dfc01bf011e0ed170628707dcf32bcede66f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 25233,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/b4krls8il5897nmcspt29vtv6jrtwhw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28976",
+        "sha1": "5f41e9709617bc18154667cc551a39827f7090c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 27264,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/8cvbw9uki549vedjfc827fhhhh7bwc5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28977",
+        "sha1": "478c139e7350154320e8a21861a53fcfe4d01375",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 27154,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/ckgpyq7etwffoegt935qews4u1k06g6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28978",
+        "sha1": "6b98ac8be337a8e8e746d71e5887e289477438a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 25676,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/ochqbj0d4zutraussyx881o4ss35alu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28979",
+        "sha1": "d06e395b2fcefb0d566018b9f5ac6a2b885557f2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 26689,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/6rogbx29jafj1vpbyl1a97dr14kit00.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28980",
+        "sha1": "39f275a2c8567833528b4d3f6ac86e52fb015750",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1186464,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/7svk5ferudgrol205bytducdg0m8b67.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34404",
+        "sha1": "42caecb4ca201a7c886b170c4a124da7d9c8008f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1217179,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/tf1x14od1pf8an2gibmfkftvsh00lb7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34403",
+        "sha1": "fbd7f8ad6d0525ab02ed75b0a461abafcf8dcfe3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 24100,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/fgahle44sxpl5ocx6049lswc1jjcm3d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34398",
+        "sha1": "8449575d1e5c16023422870e77b03460bd3429d9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 24070,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/3eqb0dr6yo2v6wbcfo6a3j3r9vwc6nd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34399",
+        "sha1": "1d2f79ed405fe1cb305620fcec3454b54b3df8a9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 23810,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/daj8o6wka24nwlcg5tvvnshc5oa6t6s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34400",
+        "sha1": "71cbbc8846d90bd72c1ca7e9ca93e9f2331bd344",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shiori-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 24064,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/9m94kyrpk9e1yl6bdzjewvi2hg0gq3o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shiori-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34401",
+        "sha1": "5256df319e8daf7f640733d2a38622bcff90b824",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

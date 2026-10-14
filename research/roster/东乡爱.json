@@ -1,0 +1,1419 @@
+{
+  "page": "东乡爱",
+  "group": "Cool",
+  "id": "ai",
+  "stem": "Ai",
+  "roman": "Ai Togo",
+  "revision": 198108,
+  "checkedAt": "2026-10-14T02:05:19.328Z",
+  "files": [
+    {
+      "title": "CG-Ai-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102304,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/grs72j82kf67dafcshqcr0t34mh1g73.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20360",
+        "sha1": "8f9480f874bcd49e5981bb86fb435380c4a2d13f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100668,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/dcz4pev5bkbo371c99xst05ok19xbyc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20361",
+        "sha1": "72605c4e2617c0955643fd8491f75f043b7147c4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100580,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/gywzfndivghyrp2yifjmupj6ct7o3r3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20362",
+        "sha1": "9146bd39cdeded77fc857344d0cf8115da2a63ff",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100596,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/0pctrbyav5vjpyxfqwi6sip5hr07uo3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20363",
+        "sha1": "06079d684da84946522c8b297920d1e1307d3303",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101611,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/jv56zxyokhdg1i9zvvkglxblayqna29.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20364",
+        "sha1": "aa0fd44b8566a1e58dfc3398609f567292a594b1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101128,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/cgdawumkz5i6gaqv56v366edn6i102i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20365",
+        "sha1": "6a9f62ccc25d25c9244d48799255c71ae567909a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101362,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9c/5cdupyp7h8fdjz1tbdrexu2rcnsmd0b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20366",
+        "sha1": "2dbfcecf085501ef40d7503298443f050671c35b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101633,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/9k53rwsj62x4l7mjw9uu30a0w1youdn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20367",
+        "sha1": "51d650dc02bb5f595748e94e88c9cc9c702fb5cb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101302,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/9f566xbsgbn8nnrz6as3y6rp25f67mm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20368",
+        "sha1": "50a60b61d6839f8bb10aeea6f446c63b584f6f1e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101662,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/rtfxskshmutnh823af8ytft2vart8os.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20369",
+        "sha1": "ee24d0fdc5147c9eb4726783803c0d8e997ba43c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100275,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/c17ntv91eu1ie0xkcvyu5gmjvow2moz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20370",
+        "sha1": "6704b11544543a03013799b329472fd462fd0f63",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101173,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/gph55f09mdreyk5ehkw7d2f35wxjvrp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20371",
+        "sha1": "8f080eeedaeb1e753e38c7b135679b30f4ad7895",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100656,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/s6k6ow0gppx7r77tt2hgbub4mqyeq1d.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20372",
+        "sha1": "f14366355c14328f4c3b1bd90dad414c7dbde551",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101098,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/t15o3d5kgmhx5uk06neliil8zzpflw1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20373",
+        "sha1": "f88a09b0c9f71dd8f0d516051ffb6c7ea9fe7191",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100568,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/a87x4jqxt668s6hg0zj8t6kx05wk2s3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20374",
+        "sha1": "57901fd1dc87148eef93b4ec8f728dfbe7a9df13",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102336,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/704oc8u9gwfpfrtkaootr30mtqxdqnb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20375",
+        "sha1": "3bf4e8766bd5acca2df7292dbdf88eb19c268127",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102200,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/h8snnf6y2mg7eprd7x1ku7jo4ckmqal.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20376",
+        "sha1": "93a030fea3cbe1739a25bbe40e666602d8d1b29d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101003,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/cuzcywlmd719obf06ah78xb0r27wqyu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20377",
+        "sha1": "6e18f685ca4d39ccadb667b333277efe8dd5af86",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100660,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/2obb59afpuc5jxujv9h0y8qe61rc49y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20378",
+        "sha1": "16e750c99f030c40c56383b59e099cb87fd31fa6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100592,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/7wrshdbbkuzpycyv2iq0ogws44iejtc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20379",
+        "sha1": "43b80f51679710262a4fa6714d85d89bcd6d7dd0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-R-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100559,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/8x5iexghdj11hdybtru3i6ofeggqnb3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-R-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20380",
+        "sha1": "4c5ed533d5f5b35a99c612334d748fa81f9fe87f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99302,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/gy6o1e8hapm94qfj69sxtlbryrp237q.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20381",
+        "sha1": "911a3cb5d2566c905bea53922f9efa71717161c6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98666,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/j57p7o9m7ra1uo3m0fpjaoylehzw58a.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20382",
+        "sha1": "a3e543e982e0c245928c9d993476e0ca59ece97a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101489,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/qg79uk410gkvjc67mg9drboq4hryj9n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20383",
+        "sha1": "e26f30e84317e5002e26ba176b3c5cd9ef34350b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101850,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/19zvsqhek0lwz93eyvmiwo7xzyu8x29.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20384",
+        "sha1": "0af024ddfa06285ac77567e99ba9936b17fd6f61",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101728,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/c667bxj5oxpx9kqswhjxfwo9ssl5xl5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20385",
+        "sha1": "68329c548570801f2f19b07021b931c5dd865e49",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101031,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/klf4jap6pfmf2ebgql6eozhvdywwu6u.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20386",
+        "sha1": "b04f6ceff426e2d888e465b6afa53d907bafd8d6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101674,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/qyif9olj6rk1eyvvmh2wts00q4smrrj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20387",
+        "sha1": "e6c9d52c0e5b146c965d74abfe4723ff5370020f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100972,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/gaoqwgti5h5t740rxv2u6i1jkn51cbd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20388",
+        "sha1": "8b83c33024f94f57a65f58e266bea642547ad599",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102307,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/b9g7kztft14070kjkchnzdl9vqctgoy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20389",
+        "sha1": "606a979aed64d618b6e0c78f53257a20f4095dc2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101265,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/o5yzhw7o714wqoukdhifmk51syz09m3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20390",
+        "sha1": "cee1437ffd28dccb1bf22a5e9e644aa75403fbab",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100694,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/kmqjhax7fdts2uh8ruaj6i3ataae2x6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20391",
+        "sha1": "b09f9b16dd9a6769b3e5e97b691136692dd3084a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100688,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/rs9wcz6a81v4h0o937txt0ipi3bmzoc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20392",
+        "sha1": "edddb9d419f2aa4a496b7c758a3d8a019fbf951c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101521,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/4qvazap5sja0yc2dl0ijjbwsa9tsqmi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20393",
+        "sha1": "28a2067d92e15f5532e4f5d52a3940c28acd16ca",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100731,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/shdzm18iyej6xzudswdrt0kvjz66xge.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20394",
+        "sha1": "f3d691415dfa619d889500be8185ad6e1a7f10de",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99621,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/7nf4cqfugiwu1jaotx02ni916jfn6u6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20395",
+        "sha1": "417ebdc11d1adf236496f2279e0e984a9e24bd5e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101949,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/d5dit15r9ogitowmkjukm4kay6k5ki6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20396",
+        "sha1": "7091ae70691546bb3f3a15b0cca3737a5bb7030e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100203,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/1genp69wg04vmhtvjj3gbaupgpvpryc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20397",
+        "sha1": "0c766412cd85a3c29d9be9d299256914a0a21cc4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Ai-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102123,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/6pyjdzxday8rl7ytvkhdx9jld4izv6v.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Ai-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=20398",
+        "sha1": "3989c26b3569dabced5546967bb3d44f54a77aa7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1163165,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/kik5zqtke6gtuloh9zfhdt8cuvnjp8t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8750",
+        "sha1": "afa1517223bd99d56c0f0cf7f899d5266310398d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1066887,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/6vdouq5varc0a0z3oksbuxw8epubss8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8749",
+        "sha1": "3ad3c4385d4fccf6ced21a47a0ea3601deec2878",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1361570,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/qt0eahxrulp1rma98w8vl6aq8wnzhtc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15940",
+        "sha1": "e57af69f44c628a6ba4ca02bab8cffaa25b83bf0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1429883,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/ns7m71ij6nxmb6pg7u1xollcon7j4j7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15941",
+        "sha1": "cb9b948e5454fb3aef54aed0f07ede85750340b3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Ai-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 44558,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/tf24hdnn9a82purptud55mrj4azhmq9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Ai-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=450",
+        "sha1": "fbd85247e4d9526244f071e3b4297084ef95f851",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16999,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/dk54j695u63cm6uz1bw97aoftnj0ipj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16523",
+        "sha1": "7414a3330106b55d3904451ae51e3111dba69db7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18550,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/rkmjr6vviiudpuavjh1xmesubc1cifg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16524",
+        "sha1": "ec0c19ebcca7b1a6b0d8cc0e76c07435da57694c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 15469,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/8tc7lc5r29mo7s7yr9mnrn09k55ylap.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16525",
+        "sha1": "4b76a75aa064d7a5245f69b4b1354b3600077951",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16074,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/tadsfyuo7ij91cqhoq3pqkg690irl17.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16526",
+        "sha1": "fabba9cd42c8f0d5da6fff5998fec1af588e053b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 18200,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/mtrsa3kt1ks1xgpdxw3h0xw4cd24nww.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16527",
+        "sha1": "c36afdfd003eb90a22bcfa927a908ea5ee82a810",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16012,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/4ls6qy0a6sbuvt7s9iti1hkt6omi37s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16528",
+        "sha1": "276c5e592bc8c4b0bcecf3c5f95473d6a96fb6c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16583,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/ro0fhtwmz7jimfl9dxhc28ksbe3pg07.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16529",
+        "sha1": "ecda34dcaa281961824c1e8899df827782aca847",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 16447,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/qiof65fmylh2wu02dd8h8bhp360ldp6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115038",
+        "sha1": "e305f145f471b4319804a86d428aafcfe13d809a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1268682,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/22085s28n1n9wmzyhxim55uzlhmprgp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15930",
+        "sha1": "119947c3d2a216b157aa7be203d86b2ebcbc2149",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1126065,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/so1f9q4st82wy59zammbhxpwz4cnfur.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15931",
+        "sha1": "f56b755db4aec024a8852a9c8d845cb6f462fc03",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 22567,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/ebqsnfafrca7zc8zheacwe8h3enz46p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24186",
+        "sha1": "7aa4f5ea6f1805d36d03fffbe57e795867dadef1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 22761,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/mlb4ealx9pju3qeif777q2xla128tsd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24187",
+        "sha1": "c167cc4557cb10209af4c9fa2581f63b918f0ecd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 22829,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/rcm1v6d8rc9tsit18lcdg2896o8da82.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24188",
+        "sha1": "ea243ebb7dec0c2bb87010d3dd2e2dbb7e307d02",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 22114,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/59fzlgxd2yogc8kazl7a4vh3l6nmxde.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24189",
+        "sha1": "2d0cc9b6a460facca4510f18ff0167c191b1b172",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1252097,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/4vhqjofy5bhpkhmiwwu5xiz7g68ievc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15932",
+        "sha1": "29bb7793547add0e404a379e72c515e08d39bbc8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1253537,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/onpskm9dl4oi40c2o8xzhuf6gcf62ur.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15933",
+        "sha1": "d3198142d90c654ffcae5b2009a8349abec1f2f3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 22866,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/hjwo1kz1n1owadrex5figv9j2j2hecr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24190",
+        "sha1": "96449eee56aa5b3369ae65dfd1e86a14d7dbb0eb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 24125,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/7ll59as8qw1x55y0vd5mac23j75c5ua.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24191",
+        "sha1": "410f2d0875c8362d7d0c00fc77532a1fd0de3992",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 24306,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/36ed7kcwlucpikyjbaqt85f9lsiz6xp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24192",
+        "sha1": "1b344578c1fa79bc059d261f336b760d678fdfdd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 22986,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/froqordm6w09q6q0vo8rdn76n03tktu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24193",
+        "sha1": "86ff16f379d5dd99b4d20985f815cec7a154e1b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 22822,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/7uwvvp8b5zyzllxb46s7g537rfayc0y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24194",
+        "sha1": "4346ebad9d068b5149de9bb2ed080189ae99c762",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 23774,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/tbv8n63m5w6r29foyljmta4tqvg6pcn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24195",
+        "sha1": "fb160c77eb7b92799b8ba75309003fd995a991d7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 24378,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/gstqbrqnyw32sa27nk8nei7xul0f4a7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24196",
+        "sha1": "8fd3f9f1a9a64464cf5fd0dddc9da4af10b3576f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 24580,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/tf5uv5z091ubnyji85oj0tv2w1gpezl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24197",
+        "sha1": "fbdea23f4747b056e37ff9d87f27c3be63984c21",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1076490,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/alxerz8pgboxqtpfu8wpt2laci2zvcl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15934",
+        "sha1": "5ad2a142660bf1d9e4e90bc86fa0ebb3707c9375",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1258427,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/3zhlxoayrbw4uiham3pr6x8li47fq9t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15935",
+        "sha1": "221f2fd9e6e0d4e4e3ffb5610e546602be9f89c1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 25867,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/5mpy4sytvr2xeq6no0u3tu8bugjyc1m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24198",
+        "sha1": "303507c357e2d7d88821c475e87595009f6a447a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 25623,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/dllvlr9i31bkf7xlbyob64qq6xuba3l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24199",
+        "sha1": "746dd7b24157d854ff922d03a21b5354434ee9e1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 25462,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/45wmw4p623xmh91ztrh4duotb532mth.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24200",
+        "sha1": "23a5dbf4fa044c8797342594d7708f7358d6e705",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 24477,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/r7reav0z42s1j1614bn5uga7khnfsgp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24201",
+        "sha1": "e8fce63eb2590b9087f251087b34742d678898d9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 999828,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/c2x47cu229fjdybms896opkg3oz2gii.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15936",
+        "sha1": "676c9d12ec13daca3bf49b3d7a63bc3826bb531a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1402393,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/elmxv2hulr3efkh7jcx9znxwvjusm1n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15937",
+        "sha1": "7cff36117afb90c1023d23ef8cb48c95f587589b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 24876,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/suni7rue48g2gesnkv1kwbc3djyxm00.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24202",
+        "sha1": "f6fe0fb4f2f84913bc96a44a87f0018b06e00ba0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 24485,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/34/7e24ovshylohm8i85jdoub20iedm4kg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24203",
+        "sha1": "3f44e17eff85aaf3ca254ecf4f48511c292f05a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 23892,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/c485jj80t8uvqnwvuh6on5wwa28poky.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24204",
+        "sha1": "67bc279bbdf326ba24557d484f1a9a18379738b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 24189,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/gbygwz6yihkjw3umo62samjuf6p5e0j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24205",
+        "sha1": "8bd114a57c6e5a14f5434703e94cd8db7eecd733",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 23841,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/2ox8kncsq5605hvq6kkgvxfvw0eoiz2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24206",
+        "sha1": "170c65b83a1c50c1d1285b7de03bcfe16da7040e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 24515,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/nga4y1nkabpwf3ykwcx6rq6hhi2lpx5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24207",
+        "sha1": "c8c551bb1954cdfa20b52557252e19e777f29079",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 24401,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/98g4odj0ekth04dmpdah6ukb8pash7n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24208",
+        "sha1": "4f0e6f88b8a0c953cc41ddddcb784419f69fd423",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 22610,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/8lpibxbkt9aqotrgu4w5v0pan92ekhy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24209",
+        "sha1": "49a620281bd75ea48c652270d981263c5b0f5546",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1008321,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/7m6spdhb6u7535afn2wt6jp9bfkvnjf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15938",
+        "sha1": "4133c9f15b85456c0833b06a2e45bb34cbd1a8eb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1338459,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/mxq6opgf74bdb33yk0nyhyzwvoo4r0a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15939",
+        "sha1": "c45bcb72755a798cbeb62627626e5fe19d0fc9ba",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 20945,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/md55j86o2v3eu0z8viwzlew4wtuvgr6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24210",
+        "sha1": "bf76b074fea0ca3c13891f332101e274f01ed892",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 21054,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/sys8h6vypnkhek2loh7wrka7u4gwooy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24211",
+        "sha1": "f7f99126b403484226d8d447fd5633d2e39d8502",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 21525,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/dd0puqy6u632m9txdu6cf2xkvjj41mt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24212",
+        "sha1": "72630b846f2eed4a1cdf74172f199f00e07cf045",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 21014,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/orn9tyjukudhagaajfvklt60am8aqlo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24213",
+        "sha1": "d408c02210ebaae67c88240dc6a33fb5787f652c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1417297,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/4x7j9clray7suh5jttvk3aow72xbm38.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115044",
+        "sha1": "2a23f7efce91804749579458ddf627455f3cbd94",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1224513,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/lub2wgr29oo973skqxodnouqh0oe4d6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115046",
+        "sha1": "bafc0c8f1b8f525614de902454675a8e8561b59a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 23569,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/sdmtba2erl23cmljx1la0h2chiso7ad.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115040",
+        "sha1": "f2f1fb9af66dad8b796e20ea31f45acf413f6ee5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 22039,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/h93sotb6gh8h35xy39ikasr42alhrlt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115041",
+        "sha1": "93b30784af49d79b9c0ba1f5109d950966936301",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 22987,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/4t8zkxv3n5bd9lwq99qtcftrzzk1080.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115042",
+        "sha1": "2932eb14145f7309cf898c5dba1eccee5e2ea760",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ai-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 21832,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/cuzp429tq2co15wptyl8hc7ruzs0f7o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ai-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=115043",
+        "sha1": "6e19888be138c7e8c18b1e9d1b6705ba404df504",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

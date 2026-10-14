@@ -1,0 +1,1405 @@
+{
+  "page": "福山舞",
+  "group": "Cute",
+  "id": "mai",
+  "stem": "Mai",
+  "roman": "Mai Fukuyama",
+  "revision": 198037,
+  "checkedAt": "2026-10-14T02:04:40.936Z",
+  "files": [
+    {
+      "title": "CG-Mai-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100128,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/0191w043zwzv6v3ldn61d4e5wmet1sg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6268",
+        "sha1": "004c2f59cecaea20db6dfcff04f90bd41b2cd450",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100498,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/lx39p4v2x89s6b5mqlfg2yg0tb8lp9g.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6269",
+        "sha1": "bba578967026649d895f1a068fe5a1ed171e5724",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100233,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/a6xqhwbx3qsfja2nxi978lf2v61ejhx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6270",
+        "sha1": "574206908a0c003d048e6265d518807cc7a64335",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101378,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/37m7tysg0t7v161u2wgjc01oiqf9woz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6271",
+        "sha1": "1b7e6c8955bdaab90b994441d5c748fc8e4244c3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101527,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/49a8f5edgqjavy3lz8z2re60647n0e7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6272",
+        "sha1": "24737c1a06988451f5487295857cfcffd156b8bf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102321,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/h9ci8yeiqa55nz4lorr8gadwa2i3cef.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6273",
+        "sha1": "93c1c218ed99535914a3f80b2e7b910d21f89b87",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100426,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/tnr81gqfr22cshgjp4lngcpfrv2kz42.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6274",
+        "sha1": "fde9c7b58ab5e69ec7d104bfda1638e686f17cc2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101205,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/l8w9hpc2t9svw9v7igps98p9ldjioxr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6275",
+        "sha1": "b5e4939426bd7f001adb9e9dda4ebee4835425bf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101818,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/oh7lubtydf3w2hbfb7oapz3y94x3lfa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6276",
+        "sha1": "d18d7d05fe5642e3d3fec48dc3184b6749b5f036",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101257,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/lwf11kabkaco14fw2twy5wn1nrafyi7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6277",
+        "sha1": "bb7c7ad74af18023658e27b30348335e8a8aa26f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100961,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/p62ft9lvut6e0qxkbrzddv0qa9z7krv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6278",
+        "sha1": "d776acb79e8dd281dc976a33cea51fdb6d6b4beb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100989,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/lb5q7on6nfqcd290fdj8s32z7i48w2p.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6279",
+        "sha1": "b66e55cd7d3a320c7598afe80206b6724a969061",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101689,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/tfh5brdq86uzg00dxqor7yesvxlu3b9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6280",
+        "sha1": "fbf1b9f96cec8adb85fc448a51286290cc16b545",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101102,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/hqfmt9giavx918k9zx4x7cvn5qa24rz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6281",
+        "sha1": "97d1f455e4eac149a41a264167a63f9dd1a886af",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100614,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/05/iaorhpva2x0znn09rwt2vq8dos9i3yi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6282",
+        "sha1": "9ca2eee73c8534e85ce503b7c870e819e3303d8a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102182,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/j1nz5nbg1otdcehqauk95owa5csdd6a.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6283",
+        "sha1": "a30d47e66e264e9038fc30e86196df4250909ff2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102118,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/b0ixonw19bcw4yoo4pjlo7psxq4810e.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6284",
+        "sha1": "5e4b4eb63633e7d5eee71a8bdaab95fab525f31e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101641,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/gmxomvrlkepaf74s5lo83q36jqc0b4t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6285",
+        "sha1": "8e6d662a8b953f898b0ccd3a314b17fe3de71c5d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101487,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/nmba48ou1mbrnrprr2t2fi6ydm4ovkg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6286",
+        "sha1": "ca3483e15056917f33ee80fc4fa200d84178a1d0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101113,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/00cuasbgnm8rv56gl5j3zxu2cargjl5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6287",
+        "sha1": "0015b7311707bb02b4c9c476e86ab1f673ad6a29",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100641,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/qju8tkzbu7xx3wikinuigpeqhydq0hc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6288",
+        "sha1": "e34caad9ed749bbf569b4bed42a567d43dbe09f0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-R-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102176,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/5apnc21k2wfl7r97c8ykehntqno1f9b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-R-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6289",
+        "sha1": "2d59ffce89ec32f55cf9dc1d98e0f70dadfcb77f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97821,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/1e2mll38anypiias4cbxo9zavqsxz5n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6252",
+        "sha1": "0be84aff134da0c34cbb689ae783bac72a52e43b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99036,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/oz3k368erp7riq8hjgj60hw49fhprz9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6253",
+        "sha1": "d5ce6d783b8738315c065cf00563787ecb0a36e5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102309,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e2/k460vuw51p3lvui7ibiwq63bmig0fy5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6254",
+        "sha1": "ac3520428e2671f3d1a34e187a9bbcfa92ad08bd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101180,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/m32rjypymnkxgaj5g9o2qzfq896ejt8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6255",
+        "sha1": "bd11e175dbaaa9b184830fff33ce060c9679e5cc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100473,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/da10fhjri7h7zeahz48qamwezgh0qgc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6256",
+        "sha1": "71ace92b7cda6bb943277ccf04e0362926fd26ec",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100495,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/f5bs4ewpxjx1d7v5r5413xnngzlpqay.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6257",
+        "sha1": "81ade146ff5f4b684277dd72b1b821f05c24b26a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101780,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/14c3mqgwapdbrvy8go8uacvqwpoj080.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6258",
+        "sha1": "09978ad927857edd6191ae82e7098c05a3b223e0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101027,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/5rqq9woz8zl5f2ttpwtcp90f10u6947.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6259",
+        "sha1": "3166bcb683f783ae3a9e08de83c70aaacc9e21a7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101753,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/mxtcjb8vw9zpbe5wy2pmbk8j1uyw5ch.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6260",
+        "sha1": "c4612481315a1233aa375ed98df691f19ae34d11",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101420,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/1eiaocg4k9wkhig40g13bkfa3aowwtl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6261",
+        "sha1": "0c02ca10c74160f9a0e64da6e13a8b334b839e29",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101185,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/cz5z87jj7e19o8oovd006mepq8m742s.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6262",
+        "sha1": "6f17a9a275b3966731bc41556fd5aa1dc12fe664",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100477,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/5mcz5ef2mnktqgsss62fw38zeonwppn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6263",
+        "sha1": "301f183f7b6fd9526407827e860bad516cedc12b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102145,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/h5anhyylnphq6k58ya4l0swwh7lmgva.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6264",
+        "sha1": "92cb1d64da282662dda28ad53c6224a09c2cbfe6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102064,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/m7kd4p89lryf9v1vqepzo8k2be274a5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6265",
+        "sha1": "be23264c9a3aea5ff7c4f7086a7b3e90c3137b6d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100718,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/i89ab13u3n4lu9le6730lgb8ovznye2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6266",
+        "sha1": "9c0f01ae37d633d554ba44b6632a627b53826cda",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mai-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102144,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/52xnmxs5goir3vgkpjj7jea0o9jc7k1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mai-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6267",
+        "sha1": "2b808698e1f8130f6be210ab79a355d6d3bae841",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1224274,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/3amwod0zwn120nr7kwwtkuusqqemzri.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6307",
+        "sha1": "1c3638d1325feac456ce914637780ee38b38748e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1268970,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/agkiscczx0238wkyp4wybhft1jsr3v8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6308",
+        "sha1": "598c73330c789627a04bdf44ec1f9ab0a4aa6454",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1170495,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f4/4pnxa059eymekokcz8bkskfa4uj38vj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6309",
+        "sha1": "2858aae2d6f0fa7becb9eee5fdfb5724a3123aaf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1229550,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/37qayen4uyyh1gpdmfz7px5lpcm1583.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6310",
+        "sha1": "1b8555b4fd2cef856295606d22e9674b5c9126b3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Mai-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 56761,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/kypu17mdfxa07c531gltlf9hcbjvsll.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Mai-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=529",
+        "sha1": "b378ef309c271ac6663e5d81cbcca18c724ea189",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 15834,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/llclbq5xs4jms3pj28jf221294hqh9x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6290",
+        "sha1": "b8dab66f2b58247b714f2fc3cf27beec020e2af5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18604,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/bjcc596pqlegmqci4x4cm7qnt5mxofb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6291",
+        "sha1": "62c4cff2563adbe575fb86378db5c482c7e393e7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16220,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/hdk9g3wyajo0ykxrs9l3bm9j7ll9ki0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6292",
+        "sha1": "94c26184f499476ee529528e79773e4bc659a908",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 18296,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/mostcuaf5q185v0wpa7ez7xuxmrjuog.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6293",
+        "sha1": "c23c594a1abe5f70572c55edc037570fd0c5c510",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17216,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/mm1yb0e9lnb0ba4fgjvmw06vhqic4oo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6294",
+        "sha1": "c1952b67aa3928e31e51210252a37f8e7c2a6cb8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17298,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/p59azn3xsxmg577psr1n5ntscfqnfqv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6295",
+        "sha1": "d7456888aa1e64cb8bb5d16bb530635d20a76577",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17224,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/7bts23xut76lyjj0glccjopu3cesro9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6296",
+        "sha1": "3ebd0158c44ab4fea014604720b4855c97eca919",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17239,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/99gwwl0ogj4f1gjmnvzfbjw5acmxigv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118738",
+        "sha1": "4f4ca37c99c97914f2710aa251f6c89e639541bf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 881609,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/q0v0k1e081m38mhgn8dbm0qavvokyud.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6297",
+        "sha1": "dec94eb3edefe3ea7cc9b28989c2b2d0a2bb5165",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1050117,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/srhnk8bkv9mmcyoej9fvh22jq4z8gu8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6298",
+        "sha1": "f63d890cba1473c74e961c7eb06fc6a9d171fa40",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 27063,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/2zwjk2frld97necg59hvdoy4i1murxv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26745",
+        "sha1": "19a8de7e1efce005cbcc65e48ea3c5595f5e82f3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26308,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/rtpmws4qynhbv2cvclfuskq8l0xja29.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26746",
+        "sha1": "ee3537265647a22df921b263c8901bf4fea3cab1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 26398,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/qjtil21dgwo2a1ty5yapnw1l9bpawx9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26747",
+        "sha1": "e34b6f59e14f34a92393baccfb12cec4fc915a2d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 25672,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/qju7kt1h69t1gflujv8yfepwirg17c2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26748",
+        "sha1": "e34c9be50b8b6e42cd96155b6c06a5d76be25762",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1073491,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/sqlpwf22fwrehjowvweps0v6hm79m81.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6299",
+        "sha1": "f607884634a12cc635f9cab03fb7c9db0fc8e7c1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1217623,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/k1livdxyp3jh28mot3votcbrzw3ffpi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6300",
+        "sha1": "ab98b492e254b79a99759f165c40c7bcd7875046",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 22760,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/67ynmjw4zyffow47wub3ixw5g9swwii.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26749",
+        "sha1": "35422c38f35bd8f516528418de67074f04410c9a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 22781,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/62ueva1mxxdqfwc04a04ed2726ra4un.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26750",
+        "sha1": "340a9cc1b8fc622edac5ab8b0e62c2c0e522ea0f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 22042,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/1pfletmjq4tdpf2jg0uq9wrds57nbq4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26751",
+        "sha1": "0e9bde0bb393a05393360c995a9b55df0f63361c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 22821,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/aiz94nh7q8k8eji6dwdbddt72kdkw78.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26752",
+        "sha1": "5a1f1d9f58b2b85aa0acffd77d8c6e16d1c3bd04",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 23024,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/5cywn936h0mlp32en48uh5fjlt2pxao.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26753",
+        "sha1": "2de368eaa0afb1981982d7091b503abd3c085ad0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 22547,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/jwrc505pizn2vt9226wt9uotqf1lxo8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26754",
+        "sha1": "aa72267c60b34e5027126c7b2029667e99edbab8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 21544,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/f5svimaqmc8y74xpdws7y8gshu0vpq9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26755",
+        "sha1": "81cac972e6f89206502e1e2d95385a9e7344dc01",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 23458,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/5596ccmk7m0t9k9tfv5cjecmg82z3yh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26756",
+        "sha1": "2c0dc27ccc9bddc19cea25dae56f4089f75fe0c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1006380,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/3jhi0h0jtlna48o0rnutmzs1tliwdcv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6301",
+        "sha1": "1e50f88c5bd6162675bc297b3ac0f1c5a4bee19f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1350024,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/5ukxrufb1zb0c3mz8ba129ya5ch6fw4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6302",
+        "sha1": "321392fcd5233fd86daa669767b91d69bda7c6f4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 22114,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/hum69fi82qt5p50c0lx18lw8w11gmqj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26757",
+        "sha1": "98d085aa4175a8574145347169ef2b410a681c1b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 20454,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4c/kre9vksfcjjague3n9m8bjkilqziaxm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26758",
+        "sha1": "b1bb3f50269458d0691431f0f91e486dd3ff82da",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 21459,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/c8dh31b8xo3tnm4ro8l42sjfber6m0y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26759",
+        "sha1": "68b8a8f2b2d44c1ef8cbfe60307e9240614c1802",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 22380,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/slkbiyi0132cmfxc4ke22qflq6n6ukq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26760",
+        "sha1": "f4d4c7fb30a600ecdcfe221e21b8b1c4ecac0f4a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 25759,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/lq6ltml25sxsi5lxyzdj2e8v6ka1qyy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26761",
+        "sha1": "ba00f989ce6978ba00c784367d41fe03945a78ca",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 25412,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/e1ca07483mbyamu7eisj9pq7e6kkcbo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26762",
+        "sha1": "782ba3fa5592c629be06706eda45d27241a38764",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 24341,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/ddfdnn0mx715g8hxvkomddo2vs6tlrt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26763",
+        "sha1": "727bd663090ae8b2369f92e211c5e6e151b43979",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 25571,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/0hrb6ygaa9590s8jy58n75nfd38qygo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26764",
+        "sha1": "043917a074d6fd18773c8925eb405c05bd24b4f8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1094988,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/pzwtec4kgar96v0kxh7fxqpysdc7zod.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6303",
+        "sha1": "de8f79eb910affa6313ebaf420d3a944194ed05d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1239986,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/38pe51nxovgm1qt2a4lf2lhp2yuzwwb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6304",
+        "sha1": "1bc0ab9b077b74551ae4c08f0433e02290fb974b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 23375,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/az7q6cn6xvj236bx9fsa6ei7va3cccn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26765",
+        "sha1": "5dfb79fa412100430469397a31ff54a51a00c487",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 21427,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/jo2k8guw938a5fx49vrivl8i1y0basc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26766",
+        "sha1": "a8613d331cb9bd44ab72edd6a31eab23ce5d635c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 21394,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/cnp11pb3dj3ckzdh7i2ange9xd5i93b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26767",
+        "sha1": "6c5d5a90e12019ab8cdecd539f6394b50f96c787",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 22119,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/fxz9176tb1tnh8bxa6z47cxb76eam63.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26768",
+        "sha1": "887e1fa3a2157271f7a79383c018f7dbf75564bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1142273,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/25ud7u38b2vdgcfn9q3z5dgab8zdi96.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6305",
+        "sha1": "1282e13181c33824960e7ca6a4f9d0aa3237f0aa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1206291,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/m5orjzk03ku69eqhztxo7zu8a4batko.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=6306",
+        "sha1": "bdb0d65a0259fbadcd017cde2e4e464a6feecf38",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 24487,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/pwklfl3wgq74p9ujo7gj2snpqlkwidi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26769",
+        "sha1": "ddc42dc666413093f71413049efa87fc3a8a0d06",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 25534,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/81111tm472q28btlp1qlm5xwfcmdjq0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26770",
+        "sha1": "44bb30830b9f98d4e93408cf2db1cf06752c1b18",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 22573,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/1vlzbe1e01wl6ygidjdxkwe9afrw64c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26771",
+        "sha1": "1013edb83a173be525a00db2cfbcfeec16af5dfc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 25630,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/rdgxzgr6p9mv5kgshl4225qtjp5e4r1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26772",
+        "sha1": "ea587c0edbc4e285f23016cb9554b0a6d7eda88d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1239132,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/71azpcme8gv92jjz8co8kpz40gggb4i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118744",
+        "sha1": "3c3c770aea7a999a6f192db4a080e139146fec52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1436513,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/jy4tiuuo59ahvvo301oakfvb04tvx2y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118746",
+        "sha1": "aac5d3c9879dc51ab1d9df2dd062e0eb12b0463a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 23617,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/12tz2470403jvdxzmg2yglu246cdzxa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118740",
+        "sha1": "093c031909326fb9965e6a2f064290fb08a81b1e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 24004,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/pc14kki5mzjaxjlll4hw4zio5j91smk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118741",
+        "sha1": "d8e1b7af3e303399c6133ac67b5c0c6506b16c2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 24150,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/3a9emarf9lxzt1sh7d8jghml6ornkjm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118742",
+        "sha1": "1c1f63eff80a90eee74402242ef56737b6b3c2c2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mai-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 23631,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/e3f5c5jwfj0qsf5vhednmhlnr6esu3i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mai-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118743",
+        "sha1": "78aa3f928d4e200ce8602dbcd4132b0b58129d5e",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

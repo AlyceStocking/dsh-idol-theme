@@ -1,0 +1,767 @@
+{
+  "endpoint": "https://wiki.biligame.com/imascg/api.php",
+  "revision": 173458,
+  "scope": "190 Cinderella Girls idols only",
+  "roster": [
+    {
+      "page": "岛村卯月",
+      "group": "Cute"
+    },
+    {
+      "page": "中野有香",
+      "group": "Cute"
+    },
+    {
+      "page": "水本紫",
+      "group": "Cute"
+    },
+    {
+      "page": "福山舞",
+      "group": "Cute"
+    },
+    {
+      "page": "椎名法子",
+      "group": "Cute"
+    },
+    {
+      "page": "今井加奈",
+      "group": "Cute"
+    },
+    {
+      "page": "持田亚里沙",
+      "group": "Cute"
+    },
+    {
+      "page": "三村加奈子",
+      "group": "Cute"
+    },
+    {
+      "page": "奥山沙织",
+      "group": "Cute"
+    },
+    {
+      "page": "间中美里",
+      "group": "Cute"
+    },
+    {
+      "page": "小日向美穗",
+      "group": "Cute"
+    },
+    {
+      "page": "绪方智绘里",
+      "group": "Cute"
+    },
+    {
+      "page": "五十岚响子",
+      "group": "Cute"
+    },
+    {
+      "page": "柳濑美由纪",
+      "group": "Cute"
+    },
+    {
+      "page": "樱井桃华",
+      "group": "Cute"
+    },
+    {
+      "page": "江上椿",
+      "group": "Cute"
+    },
+    {
+      "page": "长富莲实",
+      "group": "Cute"
+    },
+    {
+      "page": "横山千佳",
+      "group": "Cute"
+    },
+    {
+      "page": "关裕美",
+      "group": "Cute"
+    },
+    {
+      "page": "太田优",
+      "group": "Cute"
+    },
+    {
+      "page": "栋方爱海",
+      "group": "Cute"
+    },
+    {
+      "page": "藤本里奈",
+      "group": "Cute"
+    },
+    {
+      "page": "大原满",
+      "group": "Cute"
+    },
+    {
+      "page": "游佐梢",
+      "group": "Cute"
+    },
+    {
+      "page": "大沼胡桃",
+      "group": "Cute"
+    },
+    {
+      "page": "一之濑志希",
+      "group": "Cute"
+    },
+    {
+      "page": "前川未来",
+      "group": "Cute"
+    },
+    {
+      "page": "赤西瑛梨华",
+      "group": "Cute"
+    },
+    {
+      "page": "松原早耶",
+      "group": "Cute"
+    },
+    {
+      "page": "相原雪乃",
+      "group": "Cute"
+    },
+    {
+      "page": "宫本芙蕾德莉卡",
+      "group": "Cute"
+    },
+    {
+      "page": "小早川纱枝",
+      "group": "Cute"
+    },
+    {
+      "page": "西园寺琴歌",
+      "group": "Cute"
+    },
+    {
+      "page": "双叶杏",
+      "group": "Cute"
+    },
+    {
+      "page": "杨菲菲",
+      "group": "Cute"
+    },
+    {
+      "page": "桃井小豆",
+      "group": "Cute"
+    },
+    {
+      "page": "凉宫星花",
+      "group": "Cute"
+    },
+    {
+      "page": "月宫雅",
+      "group": "Cute"
+    },
+    {
+      "page": "兵藤丽那",
+      "group": "Cute"
+    },
+    {
+      "page": "丹羽仁美",
+      "group": "Cute"
+    },
+    {
+      "page": "道明寺歌铃",
+      "group": "Cute"
+    },
+    {
+      "page": "柳清良",
+      "group": "Cute"
+    },
+    {
+      "page": "井村雪菜",
+      "group": "Cute"
+    },
+    {
+      "page": "日下部若叶",
+      "group": "Cute"
+    },
+    {
+      "page": "榊原里美",
+      "group": "Cute"
+    },
+    {
+      "page": "舆水幸子",
+      "group": "Cute"
+    },
+    {
+      "page": "安斋都",
+      "group": "Cute"
+    },
+    {
+      "page": "浅野风香",
+      "group": "Cute"
+    },
+    {
+      "page": "大西由里子",
+      "group": "Cute"
+    },
+    {
+      "page": "安部菜菜",
+      "group": "Cute"
+    },
+    {
+      "page": "工藤忍",
+      "group": "Cute"
+    },
+    {
+      "page": "栗原宁宁",
+      "group": "Cute"
+    },
+    {
+      "page": "古贺小春",
+      "group": "Cute"
+    },
+    {
+      "page": "克拉莉丝",
+      "group": "Cute"
+    },
+    {
+      "page": "佐久间麻由",
+      "group": "Cute"
+    },
+    {
+      "page": "村松樱",
+      "group": "Cute"
+    },
+    {
+      "page": "白菊萤",
+      "group": "Cute"
+    },
+    {
+      "page": "早坂美玲",
+      "group": "Cute"
+    },
+    {
+      "page": "有浦柑奈",
+      "group": "Cute"
+    },
+    {
+      "page": "乙仓悠贵",
+      "group": "Cute"
+    },
+    {
+      "page": "原田美世",
+      "group": "Cute"
+    },
+    {
+      "page": "池袋晶叶",
+      "group": "Cute"
+    },
+    {
+      "page": "辻野朱里",
+      "group": "Cute"
+    },
+    {
+      "page": "黑埼千岁",
+      "group": "Cute"
+    },
+    {
+      "page": "白雪千夜",
+      "group": "Cute"
+    },
+    {
+      "page": "涩谷凛",
+      "group": "Cool"
+    },
+    {
+      "page": "黑川千秋",
+      "group": "Cool"
+    },
+    {
+      "page": "松本沙理奈",
+      "group": "Cool"
+    },
+    {
+      "page": "桐野绫",
+      "group": "Cool"
+    },
+    {
+      "page": "高桥礼子",
+      "group": "Cool"
+    },
+    {
+      "page": "相川千夏",
+      "group": "Cool"
+    },
+    {
+      "page": "川岛瑞树",
+      "group": "Cool"
+    },
+    {
+      "page": "神谷奈绪",
+      "group": "Cool"
+    },
+    {
+      "page": "上条春菜",
+      "group": "Cool"
+    },
+    {
+      "page": "荒木比奈",
+      "group": "Cool"
+    },
+    {
+      "page": "东乡爱",
+      "group": "Cool"
+    },
+    {
+      "page": "多田李衣菜",
+      "group": "Cool"
+    },
+    {
+      "page": "水木圣来",
+      "group": "Cool"
+    },
+    {
+      "page": "佐佐木千枝",
+      "group": "Cool"
+    },
+    {
+      "page": "三船美优",
+      "group": "Cool"
+    },
+    {
+      "page": "服部瞳子",
+      "group": "Cool"
+    },
+    {
+      "page": "木场真奈美",
+      "group": "Cool"
+    },
+    {
+      "page": "藤原肇",
+      "group": "Cool"
+    },
+    {
+      "page": "新田美波",
+      "group": "Cool"
+    },
+    {
+      "page": "水野翠",
+      "group": "Cool"
+    },
+    {
+      "page": "古泽赖子",
+      "group": "Cool"
+    },
+    {
+      "page": "橘爱丽丝",
+      "group": "Cool"
+    },
+    {
+      "page": "鹭泽文香",
+      "group": "Cool"
+    },
+    {
+      "page": "八神牧野",
+      "group": "Cool"
+    },
+    {
+      "page": "莱拉",
+      "group": "Cool"
+    },
+    {
+      "page": "浅利七海",
+      "group": "Cool"
+    },
+    {
+      "page": "海伦",
+      "group": "Cool"
+    },
+    {
+      "page": "松永凉",
+      "group": "Cool"
+    },
+    {
+      "page": "小室千奈美",
+      "group": "Cool"
+    },
+    {
+      "page": "高峰诺亚",
+      "group": "Cool"
+    },
+    {
+      "page": "高垣枫",
+      "group": "Cool"
+    },
+    {
+      "page": "神崎兰子",
+      "group": "Cool"
+    },
+    {
+      "page": "伊集院惠",
+      "group": "Cool"
+    },
+    {
+      "page": "柊志乃",
+      "group": "Cool"
+    },
+    {
+      "page": "北条加莲",
+      "group": "Cool"
+    },
+    {
+      "page": "凯特",
+      "group": "Cool"
+    },
+    {
+      "page": "濑名诗织",
+      "group": "Cool"
+    },
+    {
+      "page": "绫濑穗乃香",
+      "group": "Cool"
+    },
+    {
+      "page": "佐城雪美",
+      "group": "Cool"
+    },
+    {
+      "page": "篠原礼",
+      "group": "Cool"
+    },
+    {
+      "page": "和久井留美",
+      "group": "Cool"
+    },
+    {
+      "page": "吉冈沙纪",
+      "group": "Cool"
+    },
+    {
+      "page": "梅木音叶",
+      "group": "Cool"
+    },
+    {
+      "page": "白坂小梅",
+      "group": "Cool"
+    },
+    {
+      "page": "岸部彩华",
+      "group": "Cool"
+    },
+    {
+      "page": "氏家睦",
+      "group": "Cool"
+    },
+    {
+      "page": "西川保奈美",
+      "group": "Cool"
+    },
+    {
+      "page": "成宫由爱",
+      "group": "Cool"
+    },
+    {
+      "page": "藤居朋",
+      "group": "Cool"
+    },
+    {
+      "page": "盐见周子",
+      "group": "Cool"
+    },
+    {
+      "page": "胁山珠美",
+      "group": "Cool"
+    },
+    {
+      "page": "冈崎泰叶",
+      "group": "Cool"
+    },
+    {
+      "page": "速水奏",
+      "group": "Cool"
+    },
+    {
+      "page": "大石泉",
+      "group": "Cool"
+    },
+    {
+      "page": "松尾千鹤",
+      "group": "Cool"
+    },
+    {
+      "page": "森久保乃乃",
+      "group": "Cool"
+    },
+    {
+      "page": "安娜斯塔西娅",
+      "group": "Cool"
+    },
+    {
+      "page": "大和亚季",
+      "group": "Cool"
+    },
+    {
+      "page": "结城晴",
+      "group": "Cool"
+    },
+    {
+      "page": "二宫飞鸟",
+      "group": "Cool"
+    },
+    {
+      "page": "桐生司",
+      "group": "Cool"
+    },
+    {
+      "page": "望月圣",
+      "group": "Cool"
+    },
+    {
+      "page": "鹰富士茄子",
+      "group": "Cool"
+    },
+    {
+      "page": "砂冢明",
+      "group": "Cool"
+    },
+    {
+      "page": "久川飒",
+      "group": "Cool"
+    },
+    {
+      "page": "本田未央",
+      "group": "Passion"
+    },
+    {
+      "page": "高森蓝子",
+      "group": "Passion"
+    },
+    {
+      "page": "并木芽衣子",
+      "group": "Passion"
+    },
+    {
+      "page": "龙崎薰",
+      "group": "Passion"
+    },
+    {
+      "page": "木村夏树",
+      "group": "Passion"
+    },
+    {
+      "page": "松山久美子",
+      "group": "Passion"
+    },
+    {
+      "page": "齐藤洋子",
+      "group": "Passion"
+    },
+    {
+      "page": "泽田麻理菜",
+      "group": "Passion"
+    },
+    {
+      "page": "矢口美羽",
+      "group": "Passion"
+    },
+    {
+      "page": "赤城米莉亚",
+      "group": "Passion"
+    },
+    {
+      "page": "爱野渚",
+      "group": "Passion"
+    },
+    {
+      "page": "真锅斋",
+      "group": "Passion"
+    },
+    {
+      "page": "大槻唯",
+      "group": "Passion"
+    },
+    {
+      "page": "姬川友纪",
+      "group": "Passion"
+    },
+    {
+      "page": "喜多见柚",
+      "group": "Passion"
+    },
+    {
+      "page": "上田铃帆",
+      "group": "Passion"
+    },
+    {
+      "page": "海老原菜帆",
+      "group": "Passion"
+    },
+    {
+      "page": "及川雫",
+      "group": "Passion"
+    },
+    {
+      "page": "小关丽奈",
+      "group": "Passion"
+    },
+    {
+      "page": "卫藤美纱希",
+      "group": "Passion"
+    },
+    {
+      "page": "星辉子",
+      "group": "Passion"
+    },
+    {
+      "page": "片桐早苗",
+      "group": "Passion"
+    },
+    {
+      "page": "堀裕子",
+      "group": "Passion"
+    },
+    {
+      "page": "西岛櫂",
+      "group": "Passion"
+    },
+    {
+      "page": "的场梨沙",
+      "group": "Passion"
+    },
+    {
+      "page": "财前时子",
+      "group": "Passion"
+    },
+    {
+      "page": "依田芳乃",
+      "group": "Passion"
+    },
+    {
+      "page": "相叶夕美",
+      "group": "Passion"
+    },
+    {
+      "page": "野野村空",
+      "group": "Passion"
+    },
+    {
+      "page": "滨川爱结奈",
+      "group": "Passion"
+    },
+    {
+      "page": "若林智香",
+      "group": "Passion"
+    },
+    {
+      "page": "城崎美嘉",
+      "group": "Passion"
+    },
+    {
+      "page": "城崎莉嘉",
+      "group": "Passion"
+    },
+    {
+      "page": "仙崎惠磨",
+      "group": "Passion"
+    },
+    {
+      "page": "日野茜",
+      "group": "Passion"
+    },
+    {
+      "page": "诸星琪拉莉",
+      "group": "Passion"
+    },
+    {
+      "page": "十时爱梨",
+      "group": "Passion"
+    },
+    {
+      "page": "娜塔莉亚",
+      "group": "Passion"
+    },
+    {
+      "page": "相马夏美",
+      "group": "Passion"
+    },
+    {
+      "page": "槙原志保",
+      "group": "Passion"
+    },
+    {
+      "page": "向井拓海",
+      "group": "Passion"
+    },
+    {
+      "page": "市原仁奈",
+      "group": "Passion"
+    },
+    {
+      "page": "喜多日菜子",
+      "group": "Passion"
+    },
+    {
+      "page": "杉坂海",
+      "group": "Passion"
+    },
+    {
+      "page": "北川真寻",
+      "group": "Passion"
+    },
+    {
+      "page": "玛丽·柯克兰",
+      "group": "Passion"
+    },
+    {
+      "page": "小松伊吹",
+      "group": "Passion"
+    },
+    {
+      "page": "三好纱南",
+      "group": "Passion"
+    },
+    {
+      "page": "凯茜·格拉汉姆",
+      "group": "Passion"
+    },
+    {
+      "page": "难波笑美",
+      "group": "Passion"
+    },
+    {
+      "page": "滨口菖蒲",
+      "group": "Passion"
+    },
+    {
+      "page": "村上巴",
+      "group": "Passion"
+    },
+    {
+      "page": "土屋亚子",
+      "group": "Passion"
+    },
+    {
+      "page": "首藤葵",
+      "group": "Passion"
+    },
+    {
+      "page": "冴岛清美",
+      "group": "Passion"
+    },
+    {
+      "page": "佐藤心",
+      "group": "Passion"
+    },
+    {
+      "page": "南条光",
+      "group": "Passion"
+    },
+    {
+      "page": "伊芙·珊德克罗丝",
+      "group": "Passion"
+    },
+    {
+      "page": "梦见璃亚梦",
+      "group": "Passion"
+    },
+    {
+      "page": "久川凪",
+      "group": "Passion"
+    }
+  ]
+}

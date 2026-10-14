@@ -1,0 +1,2415 @@
+{
+  "page": "速水奏",
+  "group": "Cool",
+  "id": "kanade",
+  "stem": "Kanade",
+  "roman": "Kanade Hayami",
+  "revision": 198481,
+  "checkedAt": "2026-10-14T02:05:40.872Z",
+  "files": [
+    {
+      "title": "CG-Kanade-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101502,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/j57cbgrwlb8mixjzlaf80cbv8zu043o.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9443",
+        "sha1": "a3e4a8da488abd16a7d933840fd7c1ba82829ec4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101600,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/6uuf1j89yh4sfpqh54opnhz5s8vpue4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9444",
+        "sha1": "3ab32d15fecf8480a0f554a2e383ac230536051c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101684,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/dvcw6wd9gpviez31c16dk88wjm73fk6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9445",
+        "sha1": "76bf6bb7806283a530db60d155589bca609e2086",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102202,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/i0easwloxh9669bjerkm43qs484yo9i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9446",
+        "sha1": "9a3078190d2b401edc9c3db5321006fd9e659356",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101454,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/27x3s3vy15a9hzal9ss4su47bqw21qd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9447",
+        "sha1": "13014370b32cff143e3249f720db4bc8d62fad45",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101834,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/563rk4ta55fl1ucf0escnkaxhc9rny1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9448",
+        "sha1": "2c417cb45828e433726b2fc403b979b5f35a5af9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101193,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/jmjtfh6y4f4x2kzhp45pjg0omhzb2se.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9449",
+        "sha1": "a804aa19d260bc6377948f31f6277cd1bbbf29de",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100870,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/14fj6l8fpxutnw9hq3anyjb4euzbjh6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9450",
+        "sha1": "099d5890ca96a053b12c1f7c5dc162889eeb525a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99381,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/lem286wijfbzt5kqcenwixg3itzpb47.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9451",
+        "sha1": "b740963f3f4d568c85475a51701749dadff57b87",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99443,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/g54wduosj23w8qzz9r57ceokedhrexe.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9452",
+        "sha1": "8a31d0847e03f73ee080293e8afe7c3302016952",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98709,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6b/8r2hjq6y0k88ph01911slud33778ibq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9453",
+        "sha1": "4aec75050bc64053821eda8cee0d773296a0e1c6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98382,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/ez4ckz9fh8x2ots86p1e4s0dkmqidt8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9454",
+        "sha1": "80340d096db3400e6a27de2f7b0ff4b6b6d8086c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101474,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/efpqhd3dll3g77q9vhhuv1825tjens6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9455",
+        "sha1": "7b96acf8e6df3f9dca8b1c818165e81c9989c6e6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101762,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/dkafyp07gb9w9ptgt4v8ta2zw051e3e.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9456",
+        "sha1": "741da12cb742c0829d90fee7c43dee40fa7fe29a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100101,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/shc7ybi3ukx1dx54b1djbu4zi6hp6rh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9457",
+        "sha1": "f3d393c0eba5c1938da6e36c5717b50b71e3577d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100606,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/seapz3b97frq3xfz7p30gd8dbkzg89e.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9458",
+        "sha1": "f31a6921a4750968c57951cfeebaeb5bb4fc50d2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101419,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/ce5m97y3dzl2lkhbqqer5nmtajnw21g.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9459",
+        "sha1": "6a18a2f769ddc3ecdefc917b607a40c4c9645554",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102361,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/fg9hrr2c7d6e0psyfe1hcot5hnyevhj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9460",
+        "sha1": "8447a895c71437ac6bec01eff5dbdb0c6c1b04e7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101688,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/r5kzfvh9j9rpqohr7mmbwacxu2vlkpe.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9461",
+        "sha1": "e8784d1b976e012fa522fe4a02c349f6289d4312",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101754,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/7dih67bo8syr3oa66nfmtdp15fkqgbg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9462",
+        "sha1": "3f23a585b5406d3622e5883e9c0a74b8d339951c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100929,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/62iuzoyls2cekt828gbc2yw2ao3u6hx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9463",
+        "sha1": "33f713cbe0d321fa7b3d941a799032f2a51cdf65",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101641,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/rvb0djf6si8bk6kfqnd5ts4ojhtkkf7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9464",
+        "sha1": "ee963c8ba15caaa0437ca6351e7ec0a75242f563",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101722,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/mhibh3cthm0rqeb6ox2zouyiwk6dr8c.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9465",
+        "sha1": "c08075ab08e2c20eb217317a35d0b26db754e11c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101440,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/k3fthkk9r2c0nmbx5zdvj5vkzjs4bod.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9466",
+        "sha1": "ac08cfd56ebe3e593db64a3539f0d3633f4a0c1d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101203,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/t0jsy0353wtxdhxvd0cu5fposg29byq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9467",
+        "sha1": "f8651028839949be2c3de8f1db4ea2add6e4e6d2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100725,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/4b1grpffs614k6zw1q2kv61z7ka8ag8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9468",
+        "sha1": "24de6962f38172c62d2e8264ff2f2df543c030e8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101845,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/020joc99zk432o6pu89dckcuhj67k25.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9469",
+        "sha1": "007aad9fca093c3a13d762ce860e3251e5b0e34d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101986,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/akdr8ra4kvsalgu0omfbdoom2gyk4q0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9470",
+        "sha1": "5a7484989d0dcf1308f6f6ff0e29cdc2c2bf96e8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101199,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/egge8v4emi7g4l199zd07zl9k6ljpyq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9471",
+        "sha1": "7bc3c236b50741643ce5537eecd2097745369732",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101381,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/37eudzhw1769stitq8y06gkz43bnm2u.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9472",
+        "sha1": "1b71f48d24c577be68e4a116a67718de070da686",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101611,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/b5fyhd94k7zi3wtyn0eye7bjy9fuutw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9473",
+        "sha1": "5f76a8223b78686d8071224eceda3af25d0c0a94",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100814,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/bvof0eucx32rwj0bg40tlgvyze65bta.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9474",
+        "sha1": "65b3c357da193b8e7b252d9453161aefe065390e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101827,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/42k990iy8buif1ft1k3tjr8mxa948cm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9475",
+        "sha1": "22da4b8c2d0181df6d1f8e187da8b3787ef2a446",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101259,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/hr1rqzjpdoahtfkhuq6fy3o2c3vakt4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9476",
+        "sha1": "97f76391384c083bd81325b5e21315509e0732d8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100896,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/ce7fww32rqpj4npop178tmaozn504qu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9477",
+        "sha1": "6a1bb880e9cce031acaa09cdf3f7e3e1d2cc2906",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101317,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/pk8jdp1fms5swjea7wd56spw3zfelj6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9478",
+        "sha1": "dad544277fbd8db1ea50f8121e3d4b04c89d6f82",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101023,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/s77tcush2lta2taw1cgm676lovd73ms.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9479",
+        "sha1": "f16b5b88f755affbd3611d1be6c09c666292d724",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99293,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/cnnve1pv9lg0zddt9iakcv0a4ucbr3s.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9480",
+        "sha1": "6c5b65a2cc46ea3af1bfbe4554d5eb9c9421e1f8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-16.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99478,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/ecil3pbgnrlas1z2a9vfiiwu48kllif.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-16.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9481",
+        "sha1": "7ad3f46fe30b0b08c91c244e28de0b64cc74d427",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-16+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101833,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/3kgf2pzixad4x545w5erwdypfs9b4dw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-16%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9482",
+        "sha1": "1e8c04d472cf9a8a0fad68b5fd471ac3c9f4b3f4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-17.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101001,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/60afqds1623ec9gbqnz4tx3pgi0m4g8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-17.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9483",
+        "sha1": "336f1411a0cc0de545375e795ad46792decb8808",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kanade-SR-17+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100739,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/9rpvwprx9s8nha8z74jm9rq5umdr2kb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kanade-SR-17%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9484",
+        "sha1": "53a398c97d34bc172f1376faa721cca564dbaabb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-9.png",
+      "kind": "background",
+      "info": {
+        "size": 1047188,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/7jji8cqkceo4aegmkrw41o5pgrng1h1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120111",
+        "sha1": "4092a638569d02f09e4408ce45aae76651026e75",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-9+.png",
+      "kind": "background",
+      "info": {
+        "size": 1355161,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/rjvt34hfkbxtnenh7id50v9yso75nej.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-9%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120113",
+        "sha1": "ebdee1c062905f2ffe002d776758678696860cbb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1352625,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/7avp5xleysi5arryl4rxsxzl7ek00y3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8842",
+        "sha1": "3e835fd8a0cd9210725355481bc2b180677140cb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1437980,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/by3q43om81jqmmcrq97yh80b24oryji.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8841",
+        "sha1": "66476769fdfe63b1a47861f06a227df55aa06f9e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1121636,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/k1ym8uo3fro56e946jlywl0vffvwwad.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9281",
+        "sha1": "abaed8e2c42397ca835861ac1bbdb41d13d13675",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1222702,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/jw6q582l86oceg7kypkfdnhpss2e1sp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9282",
+        "sha1": "aa4f4bf27667af9047049c48fb3df8dab6de3299",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1062899,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/irpj2ix6c2fybc3gjtyz6oun9e67dlc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9283",
+        "sha1": "a0af232d2124806b7232a881467bc351f4e14e90",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 997471,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/ej38xscxkn3ekic774695hrjxd6j6zw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9284",
+        "sha1": "7c64282cbfad43576449147dfdfbe1fcba70942c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1116843,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/lvoh7o6wfu8wdapwandbv8j4i4s805f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9285",
+        "sha1": "bb4f94e6bcca3a807fbe80de4cac3316c5c8fec3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 957244,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/3n6jmgdu18e0i3mfhartd6eb4ovwfs9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9286",
+        "sha1": "1f31f4046a90575ff2e7aea8ca66794186aff6e9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1208292,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/rdsbmif742opumpfqgcl20d79fdyz4z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9287",
+        "sha1": "ea6bba03f5502f8bd2944e1d4968dc548eedff63",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1489926,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/fu1x2nflhk8tmtx1g2ury7ejamll2x4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9288",
+        "sha1": "878f207f6b32b04b85b182bb6d05b482d9d2af08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1205281,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/0nbbo5cd8fxrzx145qtwyzj8wt90c0b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9289",
+        "sha1": "058b51f8ed1fb298c08fab00ecaece36d71e79cb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1242555,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/1j9gjup8tu2ui7yb17s7f9p5wk89dxr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9290",
+        "sha1": "0d243b21850f241f2622c3ad066e26511a6ec6cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1111475,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/a1wgyzqtifkuf558r74ipkewrbt31lv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9291",
+        "sha1": "560f8093ffc0ddb61b09eb619c81030514eb23e3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1957103,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/hcjayui91m9bj7hqviig28tojxmqvye.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9292",
+        "sha1": "9483e264631342c9f64d04e614a269162ad74e46",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1257250,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/b07c2n7o1nxreenz5ncqno2011wavwv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34388",
+        "sha1": "5e37b0e59a9d189c881a81860f5816104d67940f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SSR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1266094,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/irrnd124h5g6288t6l1yuz87b3gtxmx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SSR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34387",
+        "sha1": "a0b2b8975bd2b49e6c83da99a7fe0848ff1cbb89",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Kanade-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 68393,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/ppubgelfgvi33zpcdm6d6uwavifgxob.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Kanade-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=509",
+        "sha1": "dc2a7b4499727be0dc0f517b9e5840e34535757b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17639,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/1mpywb91914imwz9jqkr0y06plnom2w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9428",
+        "sha1": "0df6c7b7e2f07a0e22ab9505648c9b9ff67480c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17913,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/13bv2vpsko3g7zjk1eu3sfsfjkbunm5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9429",
+        "sha1": "095a4381d1e7e4884c3864d618699387e8307e0d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16272,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/runpsecrqhry582clwcxi724nfo4bbr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9430",
+        "sha1": "ee6ed876ad77a864fb2d5bd3a02c4c549bfb3657",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17500,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/28wb96bw2pb86y9o0uhfe3qtc67z5sh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9431",
+        "sha1": "133cccec2c12e3baa97d205c47902d659c344711",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17538,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/884if946n421dp3ay5bn8kxtfdfkkb4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9432",
+        "sha1": "466b37b18bfd6936332c90fd52021ddfe73996d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16690,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/7fv0lm36iywiv4vh0eatk6h8tpvaj75.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9433",
+        "sha1": "3fb29affe8d4ced4cc481624cf2ca3831d7bd2b1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17590,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/oeviadq77ka7lbaz9m5ywd6mm89k6hs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9434",
+        "sha1": "d0ff466e8c907ed934e7a6392ec3b857fd2906e0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 16132,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/0rgkano8sl3y7daw8furwppn2feivtl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9435",
+        "sha1": "0687b03db9735e4be16e46ae3c9c3993eb96bb99",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 17821,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/id4a0n5htao3474dijfmxipn1zba3ed.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9436",
+        "sha1": "9d36ec3d0ec94e52445c04336ae27576a86d56b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 17982,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/jol4357theq0geipgzfrp321y4qb68t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9437",
+        "sha1": "a8809c2d6d730cefe1b078abc33b4fdd9f893e5d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 16131,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/g146lu7clw82jshn83lqn47gs6kycry.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9438",
+        "sha1": "893d187fb53ddcdfd2ba0d0095490bf011c9a12e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 16945,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/6ydfpa5lhw704dc2d5on7wbb7pbby4a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9439",
+        "sha1": "3b89f7b39121bcf957813b804584ba54ba7da07a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-13.png",
+      "kind": "icon",
+      "info": {
+        "size": 18036,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/l8zcddp5964vp21ionx06i9ln55o0jv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-13.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9440",
+        "sha1": "b5e9c8eb3e421de31babb010260215bd642d21cb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-14.png",
+      "kind": "icon",
+      "info": {
+        "size": 18735,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/35p6ysftgm2o31m0u7zgd5xv1h22lgr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-14.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9441",
+        "sha1": "1b09b3d084a9f5e7b3fb39268e00571a5e07cf2b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-15.png",
+      "kind": "icon",
+      "info": {
+        "size": 17670,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/40m75lbn8tj0kje8xrcq6olcgc93mmq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-15.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9442",
+        "sha1": "2263d324a52a9f2bbb4a8d8cdfd5bdd43f19ee52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-16.png",
+      "kind": "icon",
+      "info": {
+        "size": 17816,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/79bjfwo866srg3fhyf2ssghwsgw61rd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-16.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34381",
+        "sha1": "3e24687564e4e4bd8ef02c9fd3dcbe5391e16e69",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-icon-17.png",
+      "kind": "icon",
+      "info": {
+        "size": 16891,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/cx0rd1w6i6wxo77ztvcj4h9y36t6u07.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-icon-17.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120104",
+        "sha1": "6e951584fc066be3fe5889e27117fe2772faa267",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 939345,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/c3gudc0tpqfia84dkt2o07rs9nprlkj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9265",
+        "sha1": "678df8e14a17a5b3fefe3914d32913b0c956aaf3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1338246,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/twhqcnirouzjb05rf6ehujix7qfbxc9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9266",
+        "sha1": "fffd9f71e3a2bbca641153bd39cf088c3a7b4489",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 25998,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/ok5rnaqm9ym2rn7nw6ds9ovoimi9if7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26127",
+        "sha1": "d241028b93f0b3986b3bd20a111fb41617324f83",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 27005,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/3f2pkcpmqp7pzg63svksc17wwybqgnc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26128",
+        "sha1": "1d4473c8f8b99a7ac0ffe26ff23ba9c7030b89c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 25365,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/l4sjxiyxe9kgps2chiwe9c3niyq09rr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26129",
+        "sha1": "b4eacb77f9d4f438797cfea4d12d9665970e3377",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 25309,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/20mwvxo7tnwgfv59kmyw62m2t5k0oja.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26130",
+        "sha1": "1145e3f3f7d0f622d1f0d12f2ae1caa1e6a59436",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 24936,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/hh18dr0l6k9cktou9nphds1380jimc0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26131",
+        "sha1": "9595b5955f61406482beabd9347a3af8c8c87490",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 25199,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/0owfsnq50108ve57msb0kntb6wddchp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26132",
+        "sha1": "05ebe70d20c25c953f059bbb9c96084afb8b4d7d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 25904,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/7mffapvzn80cna60965t1c44orycut0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26133",
+        "sha1": "414260d93942b5434936307e58ca2350602654f4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 24744,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/5fuycya823eqqz94h2o9gxnz4p3rezm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26134",
+        "sha1": "2e935b70942b3eafd637973da2d92bbb73946ba2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1122546,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/ce5yi7e8y13zyb0yn4d2kjjnvriu0c0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9267",
+        "sha1": "6a193644c44cd69cc921d09a420824da498bab30",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1016932,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/mgv33p665e3bcq9aesikvywgeenyo72.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9268",
+        "sha1": "c0592c395c8bb694a96e8e643fab3c595a09fdfe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 20959,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/lg24opngjw0owm1j4xc33c9grxkwm94.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26135",
+        "sha1": "b798a2c5c176da2c988242951b3b41a6d2faa0a8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 19973,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/3zn6bz5ifs7iexwpflhijue5vliiwk2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26136",
+        "sha1": "222899a51f9b9b2c5004e7f54f2442c5df7a6b52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 19645,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/3cl27x7xb5pkgcxnhqfqkb4l1cvguas.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26137",
+        "sha1": "1cacdab007e0b3f6575a1de75c8d08a7ecb07c64",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 19944,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/00kqa8stqym0apu2kleuvoig58zb51n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26138",
+        "sha1": "00230e226b60752a48f3a65fe3708116db5f614b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 23193,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/5sqeyvjcmyfggl0ejrzkwsmflz1y0lr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26139",
+        "sha1": "31a31542b24fbc6b279418bdf44a7eb13f8e548f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 22760,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6b/gi1ivf9d7oypckmbn715e8jzne0sj86.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26140",
+        "sha1": "8d4381f023d2489c973d6490070fac7a61297856",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23871,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/gz8tx5ygqmwt11t81dnfqclb8388h59.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26141",
+        "sha1": "915ac5c32d2ab1fa06411d96b5b2d376778d3ccd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 22648,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/71jb8wii9goe3zzrnkl32iggkay356k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26142",
+        "sha1": "3c4a8912e679f79c0b138bb635e9393382bd46fc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 23315,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/bssvazqqudcjcujdgtpun8q546ycth7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26143",
+        "sha1": "6504a95d776aac585e88644b749de30a890dda3b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 22865,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/gzh6gv9kzhfwxelidqir5k8t54nl7n7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26144",
+        "sha1": "9168e3de72f0d6aecee1323946074df6e997b0f3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 22371,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/rpgwmay83sn3q9bgmn9pcyyjgfydbxt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26145",
+        "sha1": "ed32f1bd4e4b4d2a5ad182641a8689b6135a3bb1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 22186,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/b4qhubvbqzeqk3dn4shq3va9n4pz45o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26146",
+        "sha1": "5f4b9976223fb0318d4e9308a18d7cbe6594f8cc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1202204,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f4/7d79x8r2c4irsthhq27dtk7h2adedds.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9269",
+        "sha1": "3f10b46ba6bb728ab3e7da0bc52b191736493040",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1157280,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/3b41amsyeagz8jt732hgz9geshxn8ny.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9270",
+        "sha1": "1c532fb5497360dabda085a7c02a85349e34709e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 22257,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/agccq175y5buocrsvfzgqjxxeqmagfa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26147",
+        "sha1": "597ea30d9b6d89f88a7b6f9835498aa3f2b60fa6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 21467,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/413il47arr3dgne9gi1xma85lfipmp1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26148",
+        "sha1": "22811bf4b9a9951e641f2ddaff233e4de302bd25",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 21399,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/j50hwfmliwx3i6xzqmtihuczp71o863.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26149",
+        "sha1": "a3d915a934f3da96d18fbfaed374ba603e44ac5b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 22244,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/iqyebxk8xz1xhtsrt7fy2yfl2wqb0z1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26150",
+        "sha1": "a08141cfc29ddfdc3843bb82872568feeee713ad",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1047902,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/fuw2mai8bdk63mlp3bawkcm3ea74v1z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9271",
+        "sha1": "87c21e4637098f1fe942cee62e7199ee3a54e537",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1199920,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/fzunmgqxg34hbksos7x83e3894t6p3o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9272",
+        "sha1": "88f01b988250ea7b945008d6c4d4dec07feb2194",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 22496,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/czq6ej6l56tn8ua5klqtx71oh7olrft.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26151",
+        "sha1": "6f39d1fb91edb9bd0b4956ed7ea76188b7c42229",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 23211,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/se9kw9npxe9kzh36yu3n5i6nby1i2ak.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26152",
+        "sha1": "f3187b28e705981f7851bdb96759e71f43fbb51c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 24721,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/05/kad89dc9qpkc8vr2brrzwnayq0zc6vl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26153",
+        "sha1": "adae925256080912dc16a272938c57075cfbd0d1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 23521,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/0gpk0gusomyxxs48c820743sq8sgdn7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26154",
+        "sha1": "03f93f5ed82927eec1b1fede579aff8d79280513",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 23482,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/gb01js4an22sbhx7iimbx5uqq62qgy1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26155",
+        "sha1": "8b96dd28dc60bc7129c0f2381b3165c817021249",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 23498,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/t2tfebyapx8g74br73o6nk130tc9p3e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26156",
+        "sha1": "f8ef174f171c593e255cb894e2c273e65e5ac74a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 22868,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/7v01l81igld5hpdopyrl7ce4xl227br.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26157",
+        "sha1": "434c4309b644a43b41588fc23a2a1a7aa9ec5797",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 23082,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/hvb5gyiiftnl6wndaj0sqdt51njlret.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26158",
+        "sha1": "98fac2badddbf985a574b6afb2143b8b7cc27d05",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1071147,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/jk16wfed8rccllurxc2ud4w22zeyhjk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9273",
+        "sha1": "a76b69ea15e7c72149391f29d634515a60de6750",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1356565,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/85zjwgvxpob6n541lsm1hypyqruiev9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9274",
+        "sha1": "45e913efe1814c1cbc6c145fa162045f45ba65c5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 25921,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/hz8rusipcofeyawkhdebpt8m5zfbz3g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26159",
+        "sha1": "99ea3f3a510690df0d9dabf6b2fe98df07ee316c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 24562,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/2agdccggjd8n92dixc58cfr8lqr4c8b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26160",
+        "sha1": "139b9899bc738c012779f7aa66a9e7c140c109eb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 23573,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/jmgs1pblrgystemsq6b5ak77l4q2kl2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26161",
+        "sha1": "a7ff86c407bfea473e31f0caed1a5d31343dceb6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 25660,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/evy9tj4m3o30b1qof01cujbv8pxe3vq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26162",
+        "sha1": "7f7324dfd65ebf36af31d9a99d20544935ab1026",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 26192,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/059zwg4t7ohq89tu19tzgf8xja3os3p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26163",
+        "sha1": "01414a62f5340ce8ac932fa6634ffc34e4215f45",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 26587,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/lccccnfvxzgbpcw16jtdeihemxxde1t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26164",
+        "sha1": "b6b665f0afe648d5ae62bf20e36b7ef3f1d24d61",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 26116,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/01nbytle28lex1u7ct37827duy0g8wq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26165",
+        "sha1": "0064552f7a751283cc5a804ea7a40609f891791a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 27592,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/ekyvv0ooun42kax2r8nzx8qt5yr4wxa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26166",
+        "sha1": "7cd6885435be52d9ccd21d0f6d4caa1167b3d2ae",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 26590,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/a5dboxqzzqdyv8b04b5bojwowej8kks.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26167",
+        "sha1": "56e2a1f8898aefc4961b970523733b33aa26052c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 26323,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/szdqbla45nif19c6lled32ws8nccmz5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26168",
+        "sha1": "f81deab204f93106a9c95c34c64a8300c340c751",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 25893,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/m1jczh4zrx4fx7iiyygqal5owqk1gd0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26169",
+        "sha1": "bcb430997fc53989e9be3295ff3aad1cb1c74514",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 26170,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/c14t99ak7trbyj3jhd1xf6csg0qheky.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26170",
+        "sha1": "66ffdfa3e3822d7b38d04c187b0c16355ffabe12",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1308291,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/46mn3raugnhjt4lu1rvlt3nuctfd4qt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9275",
+        "sha1": "23d1d5fbb7e4d331737a91471fddda3d98619c45",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1390209,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/jdjapufwslo2tzjvsutavj3j80n7wkb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9276",
+        "sha1": "a5dfe482abafc7af1237aaff23c740573ea9579b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 22477,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/1hyfbz8vx2ewkkwlbt3zldhifkiwxku.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26171",
+        "sha1": "0cd4b208b7a9ee487c02e093a01adb244e0103fe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 22602,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/ohq3jpk6h11e0owa01rs28oh9bjkqcs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26172",
+        "sha1": "d1acc22ea810ed6d5085924d16f55e5b3d6c916c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 24059,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/8nxtb7p252a5cmzss1p9c3wz2gyujv5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26173",
+        "sha1": "4a2dec6fa2f468c611960119a6246c65d2944211",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 23356,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/9nws8q5q2dqygddzvc8koam2vgkfu4s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26174",
+        "sha1": "52bbc0fc49f4b8dc531deec0098d73bce1138a4c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 27697,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/k3kem3qhysrcvnpya436bhv4srog75u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26175",
+        "sha1": "ac10917c8f56fd31c0932b9de84de1fca493ac42",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 26269,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/idtezaqxkgm2msn8wddj9as44k9n9ub.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26176",
+        "sha1": "9d616e7d7d216792a1eb7de71227b95543554a93",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 26971,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/ow44ijyjas00d8o7kgilftsadfsajar.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26177",
+        "sha1": "d518c1955ce9f0e316f4e51c0cb19a7611a70833",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 27285,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/8yi11jc0zwjmmt8lvcjq1klw0tt8bc1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26178",
+        "sha1": "4cb0e08ce627e67ed5c2e0ad7bc7550044eebc61",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1158022,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/2wy3qs27nnrodgyjf8umgn2u23sl118.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9277",
+        "sha1": "18f4e09d14480c5249369497540f23b49c74207c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1200967,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/ezq7i4cc2lkhc37axsfl2z4lisyyh1x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9278",
+        "sha1": "805903d2a383a222a1d636da7ac4fb2b25643cd5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-14-1.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 1,
+      "info": {
+        "size": 21880,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/l9q1ark9waa0ar698azbjicqf6dbtsn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-14-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26179",
+        "sha1": "b616ec26a64d7ee0987777bb06e34ac5f33de097",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-14-2.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 2,
+      "info": {
+        "size": 22501,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/kvcbtxkh5ldk8b2m3xm70fbbrgpx80g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-14-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26180",
+        "sha1": "b2ab770ac016c6d16c97223400cc6800419d0fd0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-14-3.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 3,
+      "info": {
+        "size": 22814,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/q8ug95pcozkl5ya2000qlaohvyg98fd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-14-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26181",
+        "sha1": "e0af5ea2a925700675317b544b17d3f8915f9ae9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-14-4.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 4,
+      "info": {
+        "size": 22764,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/ght2jwmn027zf3tqfsnwm2c3uqwe4m6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-14-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26182",
+        "sha1": "8d35367722efbf5aa0dbb0cf1fdfa86f39a576de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1448570,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/3c7kdkv21b82fnto6q67a0cousooxv4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9279",
+        "sha1": "1c960862ed063f2818ad9d7babd738704c08a970",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-SR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1258356,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/qpwo68g2l76t7rcp5h54umv68tbu8ts.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-SR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9280",
+        "sha1": "e4be084fa00cac562f0905546182292394b90730",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-15-1.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 1,
+      "info": {
+        "size": 27221,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/0azs6xgjvi1j56chsyal4wxlqb2ya76.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-15-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26183",
+        "sha1": "029d47b54aec94ad018565e641e89be6daf49622",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-15-2.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 2,
+      "info": {
+        "size": 27745,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/cy179gqm34f3aapxdulhoj3o01zc2pj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-15-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26184",
+        "sha1": "6ed2b53b22bc43a94521ea9f26a5ba7e14293fb7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-15-3.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 3,
+      "info": {
+        "size": 28088,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/jetlo2bmby7f2fmkg5ffvenu4wfrs4a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-15-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26185",
+        "sha1": "a62e31baea44a4264a8d11e46e89e59c226f761a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-15-4.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 4,
+      "info": {
+        "size": 27247,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/5x2jhll38z0gfiwf6l5lb0l187vlsgl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-15-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26186",
+        "sha1": "32ab187c4cc4266436169593ce168e7681803e55",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-16-1.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 1,
+      "info": {
+        "size": 23889,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/563ljbqvk6xd4syv4yqbg70maq8ux60.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-16-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34382",
+        "sha1": "2c413448c5c834d252fc0301e319bba332e3d368",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-16-2.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 2,
+      "info": {
+        "size": 23020,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/mzeywu0ck1rkyyiraq8u32knoh5ul8m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-16-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34383",
+        "sha1": "c4c2950b7d3e327828173b726d87d0de5fc81006",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-16-3.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 3,
+      "info": {
+        "size": 22930,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/50/q9xgnre5f7hxn34g0eaffrhkjo4w52q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-16-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34384",
+        "sha1": "e0f156bb0d126abc457a98608e43a6ba6f54f5b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-16-4.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 4,
+      "info": {
+        "size": 24917,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/g5ompu5txpydtqbvh38ylt31ozd5301.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-16-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34385",
+        "sha1": "8a532e549b804acbe1f580ab83b0e2e709e3f771",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-17-1.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 1,
+      "info": {
+        "size": 24143,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/rjis5dc15nd9i3klij0v5f3ysu0y8fe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-17-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120107",
+        "sha1": "ebc8dabcc5c0159a434b4c20860a643a7490d72a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-17-2.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 2,
+      "info": {
+        "size": 23249,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/00/h5jja0h81q2wju5nwezfjk6lm8gpato.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-17-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120108",
+        "sha1": "92da22c339905b4c1b5c3cf3c918bb88746dd30c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-17-3.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 3,
+      "info": {
+        "size": 23301,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/0qgd3zggzflxbahsaq6g96jijjxsg9h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-17-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120109",
+        "sha1": "064a7953fdb509fc69e297ac66727f3a60e5de55",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kanade-Petit-17-4.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 4,
+      "info": {
+        "size": 24697,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/75nb61u1zf9kaqd2yy61xs6ew93p71p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kanade-Petit-17-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=120110",
+        "sha1": "3d44cdc47616e743bf3029539b58613df39e16ed",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "page": "松原早耶",
+  "group": "Cute",
+  "id": "saya",
+  "stem": "Saya",
+  "roman": "Saya Matsubara",
+  "revision": 198061,
+  "checkedAt": "2026-10-14T02:04:54.980Z",
+  "files": [
+    {
+      "title": "CG-Saya-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100338,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/a460amavhz0j8jben8bfg0oeegdn27b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22457",
+        "sha1": "569962152605eb48a9aa758e6bbb8e1c9b7a37e7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101190,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/65yte7l0slw7cbkhdlsuysx8xm5uaer.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22458",
+        "sha1": "34c8b091c37389ea19167c4394599c58bf63dd33",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100475,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/50/1ble696ymahu1jlq0f7d45ilts7ra39.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22459",
+        "sha1": "0b51654e762b8415598592ca7751814e3556d2d5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100484,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/1878cfjrgtfbcqybkcx3qp8x8mfq9x0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22460",
+        "sha1": "0a82d10d1d4fe3c0ed5e2464b2ccac958367fbb4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100908,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/bdmf75nu5w9dlwpoiy85pl5tmjcw7lp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22463",
+        "sha1": "61689aa2d1a5171a99b99629a7b1f91e8d66467d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102193,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/abwzbzhrfpqelkbs6mym8vrdwsbesu1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22464",
+        "sha1": "587122749037bb4b5c43a892f6bc7e838e70a479",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100418,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/fmkk4t2ly1k99g2wjlt0qtn4lw11dvm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22465",
+        "sha1": "85c7a1fb166d1564cec1eed702808f802c1f6d82",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101517,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/s6shscfu7nvib4c6cplgnl8wgtihxps.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22466",
+        "sha1": "f15172dced2b3d70a4603a6a1d23aac28583aaf0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100621,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/8jpezuns7t46v19ht1xzpldfi8k2go1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22470",
+        "sha1": "492c3707ffa1817a848478f7cce6b5a429dd54e1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100739,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/3uch02e024r4ri2yyjy93rpmdep7zzx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22471",
+        "sha1": "20e61d77737537c4a60f3e15551095cf945db2fd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102046,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/5cvi9pgtzo6zzbgms8qu96kap190kcb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22472",
+        "sha1": "2ddda954f41e991afbb2538c233cc5bd0bd4c3fb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100574,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f4/dmtd7qmefh6sh4ggqaz5i195qf6ej9j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22473",
+        "sha1": "74b7624b8cae8e848b427c0ee7f3ef3a623f9b07",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101565,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/dhzq1yphmubq401halccx8gvvsubt71.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22474",
+        "sha1": "7391bf913c142c5a3f0cdb1265adc61b5e3fe68d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100325,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/ihvjtveh7hwvi2cd2zpnkr33r7y132u.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22475",
+        "sha1": "9e588ca4b309a2ba66ebf00b23d8071222f313d6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101294,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/82kvoap8o8q97hgbh8mfchc9klakjpy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22478",
+        "sha1": "4519a26ffe59112fcc776e6b3c132497a46bded6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100746,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/0s7effh1pminve5r4rozku8px0cmbgy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22479",
+        "sha1": "06b51210ebce123ba5371f6b1139b52e66d8bf92",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101675,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/jdvsjhc5exu615xijwwj9rmasuw2os3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22480",
+        "sha1": "a5f505ac1f893cee080640b7881bcd53279b81f3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101629,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/58o3wwfwxviugg258q8ghpbddszrily.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22481",
+        "sha1": "2cdda458fe8ab64b9f660e1fa7d0519f4eda99f6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98166,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/aajoxem4siz3balvun35fx6t603kdyh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22461",
+        "sha1": "581dc91629bf10015d70ccfc3d9df855155d06a9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99937,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/b0o9qg78vli16nq3a21zbuxikcu5zan.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22462",
+        "sha1": "5e54541fe3c29f8a15ec71044e1ec20feddb8fef",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100775,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/3ok44n9wfm1w4j6ml5tfkngrco7kxxa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22468",
+        "sha1": "1f85c6d7da25fda11d555487b99926090bf32fbe",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102251,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/r24g7aup4o57trau6xw60hy170veenf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22469",
+        "sha1": "e7a5b5cb2a66f3adb4bc6a53dd3a019d45c270ab",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101723,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/mebv3r1m9dg621cqvn2yhhzhux1at03.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22476",
+        "sha1": "bfbee9ddc98aa075530d57d56cec034aea0d9653",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102181,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/b2dde9051873iw731pvksuirxhxs5yr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22477",
+        "sha1": "5ebba73bd4d8c1f1c997b6d8d7e1b500a6428233",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99254,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/4ymtry4q9qycnuqg7nkqfmbr24k3fjk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22482",
+        "sha1": "2a7ab47423604da6848f16849ff6b71c20af7570",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Saya-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101652,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/m9beua3mxr4vhu8cpe91lftcupqpmzf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Saya-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22483",
+        "sha1": "be8dc3c23ac69152b860e10e8fdbebed989e7e9b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 818617,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/3ujddk21c52ve6vq2k4yhxagsv9sc4q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8971",
+        "sha1": "20f1c83196814e19ba43aed61b67ff27f43c716a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 857050,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/hcc36kwoke6htzjsau0yc3mwnoyzphp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8970",
+        "sha1": "9477ae741a9dc58d162cc30e6bc4f34486349dcd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Saya-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 59338,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/hrhb7vfgkz06nsq0stul2g75o9vpk0e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Saya-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=595",
+        "sha1": "9811ab3ab9a5910e3d6abf7468408a0b6444348e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17815,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/qxwmka9huq7wdgjl3pu8aaxzmgbzcr5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16733",
+        "sha1": "e6a4f905cd4d67627caaf53992ea914eab147651",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17138,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/rml0ol5srva2hs3le9wcmx075pxhorq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16734",
+        "sha1": "ec8344b06102a61a6d1f1dd4261a3d69be476ca6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16054,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/p5kd34z2d5m6lrl9qqdsyoqcymeoyb7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16735",
+        "sha1": "d7581baf5e741551a61feffaa62f1dd70ea7c9b3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17351,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/sz9ts66k1ugnux27m9mrfnh9xrxq681.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16736",
+        "sha1": "f81750b26e18a83bf0d77bf26264647d905dff01",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17240,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/5ht496ksq8xqj5wlqjy1r4wctbfinz5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34389",
+        "sha1": "2f0a018acd395918605776d658f6cd3043e294e1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1039362,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/cw15eac8is6gzmv3vba663yflfsxho1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16355",
+        "sha1": "6e58ddc6441a66027255975b0f3d1e87f4951fb1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1210026,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/t88oc6boudhg3vm1orst6r6mbul44if.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16356",
+        "sha1": "fa3942e7089966b7cc192dca2cf50747727d8cd7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 25488,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/rbubffuln3h7ix4asw0yfdpy51oyw44.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28685",
+        "sha1": "e9f5587139d7bb3d35d7a53f9cb35554dcf76314",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 24528,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/ryudlu8oauxzh9337n5d64ktyf4f1nn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28686",
+        "sha1": "ef6d9e53bf33a00dec8ec1a57f31b2f86f523623",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 25550,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/p2jvicbaixeixk52si09fplwn1eom9q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28687",
+        "sha1": "d6a0a6c950c074dad65ccec1529a9f42ca0e68be",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27625,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/h04f2ckc4dblh0l6mdswg8y119fxszb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28688",
+        "sha1": "919030039cda216856463dadfa1e712fcb6793f7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 924875,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/9nt12q13udiyqx50p7mvjea2prxc498.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16357",
+        "sha1": "52b5679804da4ce7df1a77781cf5f74b9e7cbd8c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1345420,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/09/pj8fi8tzsjm2y3gb4qgpkd12b3c38nj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16358",
+        "sha1": "da983510aeea4546f3da46d2b9bc041f408cf68f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 21627,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/sqk5vmuav8lrst88mlg7e8l29ldo0ou.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28689",
+        "sha1": "f604e69b954a6b8bcf5ddf6ac6c6e2bf5a96ca7e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 21692,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/2tdksiunyi7ak79zjoiwrsiexapjp0s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28690",
+        "sha1": "181b892233b333c0a0f6815dfb5bdfd77193b66c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 22193,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/b6b2rxmmwtgo14upmla50ujtfqql9yt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28691",
+        "sha1": "5fab47c1c3ef2e669478ddfb81d88d722b0857b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 21387,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/o2as1kykbkuuob3az75df1x4f80j4xx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28692",
+        "sha1": "ce01b2ad6aa626aa5a0449c162f3dc0d7142afc5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 23920,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/dy0v13068t2jb03swhyec5hskfywsjx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28693",
+        "sha1": "7761b4704953ff073417ac1a9622e1e3ac0f968d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 23606,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/k4xr018szzptjisfdegx9ziywi05zed.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28694",
+        "sha1": "ac6402b04aa486802c134a12c472a08850984a75",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 23514,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/ckw2le6dcxb29wiwlywpif1y2ff6fh7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28695",
+        "sha1": "6bb2a1f6b8c3c365ade628d47cce8a9c50543edb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 22324,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/mhult8uc623d65639o8rrmxxk88qpqp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28696",
+        "sha1": "c0953cd07c7e980ca819e155073f4ed1f131acd1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1170182,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/930ookm3ye7lnhzetvj6crhnp8nohti.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16359",
+        "sha1": "4dc3ef1c448d4975c4bfc5a64b70d53db8315736",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1399805,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/k0cty7cwrpkyy3pxrcq4m8j317qhka9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16360",
+        "sha1": "ab4d2127ac6e4db0ecbd06eb409ebb87f78e26f1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 27279,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/tp9qaz1p1avumescj3hajluhnsow96b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28697",
+        "sha1": "fe45f419853b06965182455cf29f0fb32996ae73",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 26908,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/jk9s9pxmu8bjwsw5vv75dtf2fo8sdrf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28698",
+        "sha1": "a779f21afd190a98c81c9a27e072180c99420cab",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 27103,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/lz0cx0ytuk9701r2yjln1fa1j6eag10.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28699",
+        "sha1": "bc1a4d9b69295c9374a1ec8570219b65f69085a4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 25771,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6b/a78zf6m8nae3nmnarvyyn073ub4doc6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28700",
+        "sha1": "57550bd11f9b457349efceab90fa52335ecaec76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1275157,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/cv7ndsgha0jrxns8lwasahe58p1cqts.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34396",
+        "sha1": "6e26faf83741550783a3f8b29052af9f831e77d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1501991,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/2m6ahe5q0419rdmfsp0kdvh0oqb68gj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34395",
+        "sha1": "16651348a933a83a4976999311bf7a609a398353",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 21449,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/iuzos5b3wv5cgv4k5nme7a1qvmz7ltn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34390",
+        "sha1": "a176f26a80c739488a192999858478f1bf1ef53b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 22346,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/bmjfogr4d3pr3w3odooiuyryvv7jfn1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34391",
+        "sha1": "638772491418ee00d9d5135ba1a85a45cb2588ed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 22769,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/7mkpqz7hiy846rv33rctee7nqbnxth4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34392",
+        "sha1": "414b530b9f39d2ac7788033347383e3d4448f678",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Saya-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 23007,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/na7p766x0fxztsr3czkoek2eql60f4x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Saya-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34393",
+        "sha1": "c753ef853dbe99fcf16cd33a369a2164340aa6a1",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

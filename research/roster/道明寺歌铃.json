@@ -1,0 +1,1913 @@
+{
+  "page": "道明寺歌铃",
+  "group": "Cute",
+  "id": "karin",
+  "stem": "Karin",
+  "roman": "Karin Domyoji",
+  "revision": 198646,
+  "checkedAt": "2026-10-14T02:05:01.853Z",
+  "files": [
+    {
+      "title": "CG-Karin-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101668,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/rs9xt7czzjsiwkep8g8bijy8bknfiuc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14633",
+        "sha1": "edddcb4627e3f0e494ae5f896c9d9b58dcc30424",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101286,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/ot7sl8pb1jsylksepligugtakoiuj70.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14634",
+        "sha1": "d468544436cf6e9fa8b581fb4255d69a0e7b2eac",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101306,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/b3wjoq4ngybpfr92zzzobmyy8nn91hm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14635",
+        "sha1": "5f18f48c9db15439475c34ae6a8eeec1ad1fa2ca",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102012,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/636ajifd2mgsd08tyrci29v19g3q8vq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14636",
+        "sha1": "341eb38fde6428d3955031f03b602ccfa262a276",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101924,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/othvq8wzvmi3df579loilbrf7qv9tm5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14637",
+        "sha1": "d479630b43b3d2929bf15b984b2d4877c34c552d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101943,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/nd5d6l7su993ptoimbmvk10b9kd7506.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14638",
+        "sha1": "c8069ebe97ed4ce387769f6d77075d504acf6216",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102214,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/9fzo8dohssp3be2q9u52ojul1ixfmrs.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14639",
+        "sha1": "50d99f68f07ccd61671bba1b4739fc575c7cba08",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100910,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/h2d8xwik3u4pgqjrrfhaspm9yjbigan.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14640",
+        "sha1": "9218df85d8f73df5738658287a478e39702b99ff",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101597,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/6dv8zn819bsoo54ruoepbuvx0u5e9ko.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14641",
+        "sha1": "36a9ac8fd48ba92db83ee7fc9783757a9056c4f8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100653,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/gmf4x1kjca345bxrnklq44ihp301thn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14642",
+        "sha1": "8e4e08cdec59190309e1eed2e9f43a96161e078b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101721,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/0lvnshwsvahys4azrenc6wbcpvwsfl5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14643",
+        "sha1": "0533f4c4f0254f421f6da6e30e5d33c335c0c9e9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102236,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/l13i2b8q3tq3dgeycn9jukri1od1r87.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14644",
+        "sha1": "b409ccea7540503d5d7191ba8b4cd91a6b785d17",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100767,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/7i07m8cug4psjywtqv51md06urnwo2o.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14645",
+        "sha1": "403524e9ffce533a0a32b04639a8cac0a2c164e0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101006,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/g2t822slosrl29ksu2kd1jzpvd41nkt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14646",
+        "sha1": "89a4510836d6dd5c59fdf08392be13c05ef8359d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101964,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/lbwe4vv447rov0n612nvhbpfpswbxy5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14647",
+        "sha1": "b69b6cf2b1048fcd6fb1429d800ffa5bdb89e09d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100874,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/tuej80wyl9qfoayd4uql1ocebpr53mr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14648",
+        "sha1": "ff7e75ff4b9e4dd624079060c10bd2a9c0ead0a3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101103,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/34/pduyu8a8dw462niwu8tdymb4abmhtye.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14649",
+        "sha1": "d9510e5c28446e2394d90695565072a2ca1833e6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-R-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102162,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/7fdztlz61jkerjj85ftq0merobd2ttg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-R-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14650",
+        "sha1": "3f95d24b64891eeb8fa929ce20660ad7b6747c74",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97818,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/9m3nrb9lx40nvzc434dtwcs2qfhb5kv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14651",
+        "sha1": "524da05f5990c864448a8b466aebc84eaffb5dff",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99808,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/s7ug0n9uq8wp9nq0dzi2m1yayzdxdv5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14652",
+        "sha1": "f1919fe6727e3195189451e4249880f60d3dfd71",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98996,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/mmw7con05369s1nw1chft2uu9d8kdmo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14653",
+        "sha1": "c1c85347b6d96231ed7c19d1e4c0dcaae6eeee00",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101223,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/00/1tg9ajvbo8g7vtdzddz6ojen4zva6p7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14654",
+        "sha1": "0f907f415d590f1300542c3742bdd86c3b742b6b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102109,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/lqycob64ola2ntjhmae3tr7hwd2639j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14655",
+        "sha1": "ba2fe4d22849f6339c644ee75ad7ffff20d92c07",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100165,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/3ci82ddrbuvcytaksznxecm8krfiixu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14656",
+        "sha1": "1ca80e465d011974043e67d95e9dde118a222b62",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101237,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/fb4imql1priy06w9zpcr5s25djbr7le.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14657",
+        "sha1": "830edbe0ad7f8d10928572d9a77d2f9b9b348632",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100776,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/jqr5yvfr4mt4ax0kfzose73xzlw0g9r.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14658",
+        "sha1": "a904993c69234c42daf8a160d6ac9e7ad248565f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102182,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/ecdn3x7o9il1sm39uacuwlhrla4kynj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14659",
+        "sha1": "7acb980b9f518bffeb68df6f448d7d2b5361e86f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100650,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/cmnidamxz0bctcnt0wbg7di9jyccqo4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14660",
+        "sha1": "6c1de88ccccf21765963db190fc45f8dd69ad604",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99308,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/1kcdh00nnnmsvksjt03ofqyyutcw8v7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14661",
+        "sha1": "0d6609520eed8717f1ee5712b7a930f434f174e3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101112,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/shfdm62ijkuxrn37vr2kjg2di34tj6k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14662",
+        "sha1": "f3d8ea8deb58b2843450c366e913f37f53f5d65c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99924,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/6jo347i9n33p0ukh5xdj4l6ewoqlqf8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14663",
+        "sha1": "380ad2aa7af34318bcb3f687da378a8734acb304",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100582,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/7dl251hmhx52a63n14detz7f6s8dpej.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14664",
+        "sha1": "3f280377880a01a9d5d9a901cd93f9bc9143d9db",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100284,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/hd82nkugw0elzs34opy9zhinlrlvlpm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14665",
+        "sha1": "94adc500bd6638503f6bfa3c3cfa1d35538a10aa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100271,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/hwploofixlopv7f28r43ta86vaoyl7b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14666",
+        "sha1": "995012dc5a8815f2042c8734effe23689ce28fd7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101854,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/kjvdh4vzamn3rmcmk300dd576ibd59l.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14667",
+        "sha1": "aff125df497c9818308d1754db4aaf00cd79eee9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102264,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/5n8tcgru1lwhrowxbcr89zmiv0ao1d3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14668",
+        "sha1": "3054ef5aa1e8f8b20f215f94e4f0294124e6d6e7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100938,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/r4n78nstx0sku08iqaq48cw8ap0sh6i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14669",
+        "sha1": "e83f2c324b1772340d8d7e854d0967becbe6e9fa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101737,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/sivbp0ntpjl8jh80n4uni7z0gk6i0cq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14670",
+        "sha1": "f430c269b5d0ace49c00114cac2d87b6a76b684a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101397,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/0hs474bsp0stzp7datr5j17glzpvjtp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14671",
+        "sha1": "043a7468a253bacd1e24af98a2b4dc6245a6eb1d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101044,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/06smjwe7b1gxal5yrnwjg42q5g688dh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14672",
+        "sha1": "019dab88e98c1af6e5c22f8c2a81c061fc69b265",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102058,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/rc1lnudjgdvn1ecsi3k45d3ryzj0tpr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14673",
+        "sha1": "ea01a9d23e0828b66cad7dab4fa55625bbc3d56f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102280,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/1tgfl8g48u2rtqijn07ta3adygdhl8h.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14674",
+        "sha1": "0f90caf963e26da8705e47c9aa251bf7268352c1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101967,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/e8q3fh2khrqaaiyxbl41l4pl0mpks5n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14675",
+        "sha1": "79ed251b7562c01910e0eab4c7b511cdb08ddc8b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Karin-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101427,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/3278ggupawqombguv1lbolp5tob48i5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Karin-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14676",
+        "sha1": "1a34b3f6f48c50474ba75a7e5668a01f1d255f0d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1255819,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/qzjw4oxzrnkngtpjybsenpucbzq5fn6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8850",
+        "sha1": "e7093157d94157db0e2b4ef496aa1cb380755472",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1298673,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/70qsspqbvftv7u4fk2y0iu5omlkrggc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8849",
+        "sha1": "3c1a51ee33160fb563f38b8b3f2218ecd4a1f40c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 937515,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/kk238mn7vou1q5kmd4c4pyiftqqlupu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14693",
+        "sha1": "affc8119d95d398af33411c7c6c930daaaf320c2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1232083,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/a7rgspppuht6wwkxf7fq2cy5dw9raga.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14694",
+        "sha1": "57744d0465a4d9cd1871d0cad1fb9df5094ba6aa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1168868,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/defezu206xde8edi7ncuizerzfwz1th.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14695",
+        "sha1": "72b8c6fe81d821bf0506b81e3cdfc3bec8069ff5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1513724,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/sva9q3a4alg8cnte20zhi0ppic7zcmx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14696",
+        "sha1": "f7248e5e7d44f7d9640e3275e311160144e8a1b9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Karin-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 35455,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/ccl5j37wrqc5cr6uekp421g6jh0l96h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Karin-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=515",
+        "sha1": "69b92744812839b5e3d9db46c2f13cedc50bb5b9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16889,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/88v2icvazsohr45iq95f66rifjyczxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14697",
+        "sha1": "469820b5e60891f400fe69e0068982879d903ef6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17539,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/rmk1mpjvald6k38zndgc38s2tuvoz4f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14698",
+        "sha1": "ec819f2f08dd28d5616e9b51cfab24915e18cecf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 18691,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/qkvbb4mldgcze1qmn5mmxc3xyohkz5f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14699",
+        "sha1": "e38b5a2c8004d22c2811aff956b7e0e6504b5ff3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17855,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/9im4sl5dmktd5mgflhgflht3cw8gsjx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14700",
+        "sha1": "51795b71d3b2c2d66df3007b26d1a1d4cf8dfc8d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16705,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/hr7s15ei4vl28738b1qr44mhyfqm8p3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14701",
+        "sha1": "98018c61471e6d019fbd520fa18a3bedf0022b87",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17172,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/mg9xtsm1v1ktbn6t2b7vi5aldvyo9rn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14702",
+        "sha1": "c03569d3b2e574c081cddc62b04131874c3f9573",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16964,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/i61q5fjqq0zjw0fjecuyasb0kgkai19.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14703",
+        "sha1": "9b8877f86f28a21ce6adc3c064b8950feb7a8dcd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17457,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/5y5yecwd6ej143mgzsaa5490b600fpd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14704",
+        "sha1": "32edbeff293014d28707a12ba563c29b147ed781",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16458,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2d/omp39yq7byuuvbyacm02zm89lmoqppc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14705",
+        "sha1": "d2db70911acd6c428522215ba2d92c118910c4a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16890,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/ls3yg0eco1ttesfm6obzcq0xv0cf3b0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14706",
+        "sha1": "ba763f9fcd45a5e6e3957b2f0ef758c04a2f7a7c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 14902,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/5mfhmapwe5h36guf2zl2oqamzhqqh4r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14707",
+        "sha1": "30235826530409a35bc3c6f920820ebbf95cc73b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 17083,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/rcg6a5noo3m5r0e19s21g87vblm5zuh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117582",
+        "sha1": "ea1a4e6b228572b6d74269c34ed9dc9ca32dfeb9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 868660,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/m719bha6bss2hgvj7ikz1ubv4jofwry.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14677",
+        "sha1": "be02d74e5a91c1283a2a5c4c1ae3d02824a597ae",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1128362,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/mtg0rg9ar5xr5mgypyyzlhk2vqu94x0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14678",
+        "sha1": "c35719262097edcc1ac49943444e0f41c0237724",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 31103,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/a5d3dd4g5gzsjegogvy6dvpvz3huane.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26379",
+        "sha1": "56e23de78ae080b1987fa692be0ae7e314a71e6a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 29177,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/p2xom55vn34c9uwbqf8f8y7qpztz5zc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26380",
+        "sha1": "d6b80085d5f9326d81051af1245c5068cb2ec208",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 28470,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/9rxy40g5uugiesuta5t8s97aoahci0z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26381",
+        "sha1": "53b13a7fa47db66a7146eaa7ddbb3b431629ff43",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 32606,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/qlt1kvqllqya0555hmf3zdr7e4zbou5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26382",
+        "sha1": "e3c463e2233133134492ffc0c31b1adf1019857d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1107082,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/8rctf1ls78qz0p08x8rdrpgpd4k3m6v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14679",
+        "sha1": "4afdecc95f5eca5bf9310bea657203adc059c717",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1253454,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/a6wegdp89dw8z1itpkec9wpl584yz1y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14680",
+        "sha1": "573fc4da8b935f78a4e0768a97e74e1c32b419f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 27305,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/r3utctf2s9gl7sp1795q4420ir711e8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26383",
+        "sha1": "e80f2bf2f7d586c6c2f64b9d7aab1c9da4449050",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 26475,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/4umfxxi6pc1fg872186uqbm8sefqt1w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26384",
+        "sha1": "29868c110d1ebb438286b8575da8be1a51223c94",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 26778,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/alc85rh2j8k47rkzmetbhs95hp31urt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26385",
+        "sha1": "5aaeceb98ca5e144c4928d0e379d0d4577788909",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 28207,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/hnw5zjtichh01bhezrb025u8xyi1u9b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26386",
+        "sha1": "973747d5c20e1a2c5957433df8ecd4ced95d796f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1247842,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/6i3kjlqo8qko7sjz0330jlhb293fcol.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14681",
+        "sha1": "37ab40c35333a253e58a712b18082d73da4774f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1222315,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/or1674fjms3l14igp1ewrhe9gl8u8v6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14682",
+        "sha1": "d3e36090375b7c7edd5112b63ab4cb38c9f54462",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 27200,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/76y5el5me9r3h2aao6qkknqpt8fv88j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26387",
+        "sha1": "3d9402e901515d5bf5c3a8ca70db9b7eabdada73",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 25957,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/8dd7bn3j9oqnz1g8vxytkazbroql8bs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26388",
+        "sha1": "47aa4ce195f723639fa92375864e9702fda74768",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 27131,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/i4tn4mshcphshpkycmgvl85ovpaw1d8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26389",
+        "sha1": "9b3debe54b2c835c2f8db24f6752cd2aab9f0cec",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26268,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/2obcxw84ehmw6yhf6n4fxircf8vehn3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26390",
+        "sha1": "16e76660d9a3a49dfbc211e7101e9de1d5c9dfcf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 28422,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/25exlmhsn3qa8ml78e6ordazdiaygvl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26391",
+        "sha1": "1268c7da4e5047b6e9bab4165452088ff51cebf1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 29165,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/f6cmr0z9jll1fgnc0n1q3hrfk28os0m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26392",
+        "sha1": "81ec321784108bd4c2a6eb8cc28558998ff5f3d6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 26750,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/fs3e0dwh31c9b8qj9o4tk843fgvugwg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26393",
+        "sha1": "8717dc0db51f2fef5a2a01770184509c784b2010",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 27233,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/ign6ebwkhxr5cwjc3x9aylvdk9r3esp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26394",
+        "sha1": "9e0d8364a9e908297b4a0648e1f8fcef43cfaca9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 26686,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/fcxqqslxbws4rsvr9emz832bonk9jsf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26395",
+        "sha1": "837d282115dbd6875ead02e6438f7223f1905c6f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 25974,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/awbd2a01p1tav5powtlq8rptaz8s6qq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26396",
+        "sha1": "5d4afe608fd7996946ef2b1ede0f041c73ce6522",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 25872,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/1ql5bazul0ciqmq503ie90lb4qb8oe9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26397",
+        "sha1": "0ee2226564e716b99f26dbda9866299898c2c081",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 27612,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/5o1mfi064qnwu3wi6nh3eihtk6whx7b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26398",
+        "sha1": "3085a661218fb9f461c1bcf9ce0ed84a41743a57",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1115906,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/q8g0tvp0qbmcfo7wps5drayb0zuu4e1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14683",
+        "sha1": "e096f8837ae9d9d766025bda786fd3b739c17bb9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1162395,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/i5wcw0e1i0ncddz5iso0vroeej92twh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14684",
+        "sha1": "9b7f63fb7be7dca04a59eb3146d3921217d138e1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 26677,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/ftz35u0zwnnv50tug38pu54jl4i8mfu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26399",
+        "sha1": "878a5700a1677854ab56535524a50951d641159a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 26416,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/fgdbd2ruvdomnjjk3qqamlmzyb93v6k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26400",
+        "sha1": "844e1f2512e0f8579d4996a28e47ef32ffbb559c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 26383,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/einherxogvwfimjulftzif3yj6r3hb9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26401",
+        "sha1": "7c497f9a0f8c92db2a8705d10e19609b6cc7fd65",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 25306,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/2tocl2uq7jtgcpimj3dq6twl8nll4gt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26402",
+        "sha1": "182dc06123b553029f3ccafd8cf710df4a55badd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1174542,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/ckog0iej50kjmeep4wmlm6mxxihkl4o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14685",
+        "sha1": "6ba5bc1d8a2f2a0f41f45f65af14bc1df5f730f8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1333598,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/o4mclsxoo4qpfmput6jmrajca882419.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14686",
+        "sha1": "ce8f04e24d13e4fd72992e6da52f681db7f048ed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 27394,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/pyi73p8xkn7tz36kcgh4jszlmdkx9ka.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26403",
+        "sha1": "de39e0aa3b91d32a3c000a1c7a7420a5439c36aa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 27199,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/ll2a5hsf3s0xgmkummzwwizx8ajqr8f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26404",
+        "sha1": "b8c9470bd9368a76a05b4217e5a67cbe3e0e275f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 27057,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/o1neve349jgbd6u7san6w2jhoow8nud.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26405",
+        "sha1": "cdda2f8395a431817c787c6f354107629b006ab5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 26888,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/ghoadzepte57dttg1e0635odn1uv50a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26406",
+        "sha1": "8d2d202c2e5755beaf3607f9666817b0c0a15d1a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 28639,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/741nvnv63734rtufbb4gkx37574nmb0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26407",
+        "sha1": "3ce3523faa5435aeca279889c53acc47a327e0ac",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 27660,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/g7u6hdtlezteyxujeaoe5iz2mfgmw2j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26408",
+        "sha1": "8ad6518a5ff7de5bdcd359250eeac4b83b1cd7db",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 27977,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/8ctvtqg99dfkoqobvxlvegujcpcldhx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26409",
+        "sha1": "4789a1776fb66de08464e47771136d23d04e4795",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 27890,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/i6qdrc8wcrd94vt59o6v0ao8pk14awl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26410",
+        "sha1": "9bb22989abfabb7fc8ca9b18f668439d040c1135",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1278546,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/ctna923lhmlluv1qcua70uh6sojpw5c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14687",
+        "sha1": "6dc7aa7e72fbd7a02ae3d5252944381ad5dd0200",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1174204,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/ffdh2eajx2j1pjp6wbw6exk54vk0gj1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14688",
+        "sha1": "8411833824b67a422cb0fb6e647300865e2643ad",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 25383,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/mc663urrfl6n371ayrqcq7foij2n7uc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26411",
+        "sha1": "bf3b87bddb793b48be3c42b7f6ff71a5a66e1574",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 26826,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/4j9dvemf3ggdd9u4carh3solmtcec95.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26412",
+        "sha1": "26d2d1d6fb164316c1c1748ec66c1f5deee0f589",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 25667,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/pmfs9cs8hx0bumvd31sdzhcwo7x2j2y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26413",
+        "sha1": "db5b4644b921f9d5a7be58065020ef451f1b8a1a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 25495,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/o9ixyo6lyrsia75dwa24s600enaxelu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26414",
+        "sha1": "cfb9a4a3ca299916445f49aaaeb7512fcc07ae32",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1280519,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/324ae0l8ffcwsk7f94gk3z55rwxfxiq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14689",
+        "sha1": "1a2fb87ca0f5a84646889332d1641ca3a08c8872",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1399737,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/9veqrs41v104mxhw0e0rvfn6hx1nhqr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14690",
+        "sha1": "5484431d4065d64bf22978309c32f8d7fba20e93",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 28714,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/d71vgbsrx5ylbd1400y472hmxqqn22m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26415",
+        "sha1": "70f7bcb3d4684c1ed3a4a34c8c9d3c4d6122fc3e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 27304,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/i39r9mbs6j3p25wnjiek0dg6m58rm6x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26416",
+        "sha1": "9adf6b17cdb4ea6f3020b198a90b4ea3ec6ac519",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 25026,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/at0ark3v1ivdkzz73tma1ro2kh2bzms.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26417",
+        "sha1": "5c81a749a03eed2fc8f582e7b9eeae67289e6f24",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 26756,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/jwrfvicz4alhxwxrrrl07d19evqdj6g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26418",
+        "sha1": "aa72536a2e871b9596b9dd896fd7e8e75b25f858",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1400559,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/tbmhir7az0z5z2645bk834ym6nuzx2n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14691",
+        "sha1": "fb073f17bb41c7d78b0753129201afa3bff50c2f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1087377,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/oqf7eo7a5exhedcstpijgohi4llg6p5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14692",
+        "sha1": "d3be3b3e658c9d177ddb8a1cc460540434e2eee9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 21055,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/jah24lwu0pw4kvwzcdjchyqiwl05751.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26419",
+        "sha1": "a52579e25eeaee82bfa672f1ac23a90116a7a765",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 22076,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/br7m3av4woss45c32c0flbftuz3wsua.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26420",
+        "sha1": "64a3d71931892c3c2432e6861079401d8384c902",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 22046,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/h34cxwbli2x3bfo42qxss0p5v35ilhi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26421",
+        "sha1": "9246b800b7e0b39d205a3d785c807697b6f07e46",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 22044,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/pjxb8wwm6796t706dycf1yhu0rfr92x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26422",
+        "sha1": "dac2486c5c88a8f8215ba8d08dabbb82f5d7a1b9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-9.png",
+      "kind": "background",
+      "info": {
+        "size": 1570040,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/6gxe6efajjp46t1x8hpyp2vt2uodbyr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117588",
+        "sha1": "3763ee468aa1dfbde7a697178e2fe48cb0722dd3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-SR-9+.png",
+      "kind": "background",
+      "info": {
+        "size": 1370020,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/7qsvg5qawtcc9cla6njmym6nr4o390e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-SR-9%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117590",
+        "sha1": "424ca0d729327a18ac40429447b3e745cf30685e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 29060,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/qqbwscf6grsy8nxmi1963e35iiucxw1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117584",
+        "sha1": "e4d7cd7146e1c7c79f7baff0b2ff2ce5691afc91",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 30004,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/e5j5qnll5v65tncmwb47geb0p6l86qz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117585",
+        "sha1": "792ac90ba7e41b38b17ff8c32cd414ce97eb712b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 31506,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/1ooinwdj2vt2ew6k0o70ffzooanxysh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117586",
+        "sha1": "0e6e149eedde8f307dd7ba5243ad88780f1e8d61",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Karin-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 31645,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/1jjy1z4rmth9oedrrcgbyp2zos7m012.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Karin-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117587",
+        "sha1": "0d35f6a42400abef0d204c30c1cebb989fdf40a6",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "page": "岸部彩华",
+  "group": "Cool",
+  "id": "ayaka",
+  "stem": "Ayaka",
+  "roman": "Ayaka Kishibe",
+  "revision": 198142,
+  "checkedAt": "2026-10-14T02:05:35.396Z",
+  "files": [
+    {
+      "title": "CGSS-Ayaka-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1119382,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/7xyo8b16nv2xoknofmzyhkr1r3yi66j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8774",
+        "sha1": "440093051729e694e25503a36696b35800842dcb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1221316,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bc/gkpl2w88fhsvsdla23bhc3505p06pg2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8773",
+        "sha1": "8de5f32c623011e196f750bd8705fdb3348b1a52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1318436,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/e5ma04nakam3z4799yt0ud5cpnkts6q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23330",
+        "sha1": "79300f04f4c05c0c53f9104cebe100516f0713f2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1418695,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/p2r5ddq6h537lt2ca1zznwpz1tauixd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23329",
+        "sha1": "d6acf3b38875a069d1e6131da72757e5afc56951",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Ayaka-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 83956,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/ky3z7ig8lzq74q5gg1u2r2xq1imbguj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Ayaka-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=464",
+        "sha1": "b353f98dba1f5cfce0cde23a5cefaf9a0446180b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18159,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/54/eyun7xcyw700sseinlvtuqdu2k46r62.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12220",
+        "sha1": "8023a3ec2ccc60c5bb73c72a532635fda61ec30a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18600,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/6ep0j1go17rf6w8lnpoucsgr7tq0fxw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12221",
+        "sha1": "36dc01e7be7ff498af35da1d96f2693cd1096eb4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17417,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/12yrluog37rzanerd9qvaf23ni37oyu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12222",
+        "sha1": "09441e01280157e757dd35f9885761a48bf51526",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16537,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/q4qwnhogtiekslfy6fsd613bhbrmsrn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12223",
+        "sha1": "dfb5de2d8e40da0a30bfdc4986c58be0062d1223",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16430,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/6pgyj0l00iyjzw3etcuz890yk7njw90.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23327",
+        "sha1": "396c08378d46781ed9da63b5b73e27f9078bdd04",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 948469,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/e6kszk7mga4qzddv80w5qcdplxknk4w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12224",
+        "sha1": "796a7202457dc57798b77a82b7edc8dbb83e0db0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1272111,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/jd0o1eif497h6hodbus7dwz8vf6x9ap.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12225",
+        "sha1": "a5c0638a2e9b700a4e4e50753c151b554bc8ff51",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 29331,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/4bfw41cw414xzaxr69rrif8u3uurb81.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24002",
+        "sha1": "24f6ce86284a1071a9f27e69c879c7e464803791",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 28235,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/53nwjb4vzupivnxy1ucrncbzgmajh71.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24003",
+        "sha1": "2bace916d21dfa4b28d41b3da1e296a21f56ffcd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 28008,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/9yfd7wh1ly7hlzuukfvfa84lmw27fkd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24004",
+        "sha1": "553bf293a5786606459a302d88c6a4547bb7ac8d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 28002,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/e7w6g6c1811cjudjbk4g9lvu3xj801w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24005",
+        "sha1": "79ba8e5391f775c64c1bfc6c142d954cc2877944",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1012326,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/40c47yarx8i9vfgzswph1av6he7qmwr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12226",
+        "sha1": "2252c6d38187b8a1c56e9daa0dd5a6562ab7e57b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1254688,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/8pl1hzdo3hho62d2v778bb7bne99u1v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12227",
+        "sha1": "4a92142cfc0a03d83a250b694f4662a6a31cd163",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 27687,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/ly0rblyvtwqupyflg1gd9u0r8rzhoxg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24006",
+        "sha1": "bbde1a522b01b233f312fb1ac4a1b563f54e2774",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 28182,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/aq9au0m2chhg3qgoyxzi2w8ac7re4i7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24007",
+        "sha1": "5bda3eb5d39bb0c8121f23dd798ff3acedc3c54f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 28571,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/qwfydfy1mftjrk1s8y5yi810zyepf51.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24008",
+        "sha1": "e64be72da83ed963badd4cd916f9f069be22dee5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 28283,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/t9t0qy7xgbcn2roheghyfv37insj6ol.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24009",
+        "sha1": "fa988ab525fb5beefc3ce4ba7c8d491f0fd1e095",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 28199,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/qy244qodefec6yakkky1x4uhir8n6gq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24010",
+        "sha1": "e6ae40cc0c271a399eb4207b955a82bbcfdc347a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 27208,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/8ccgb8gsgysg6q0wesqgcwlbk2lxsvk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24011",
+        "sha1": "476c278f425886b82f4e84911186cb49e7768d70",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 28424,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/8rqcxb1l466fbhcfrf3ya5ckynvfh15.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24012",
+        "sha1": "4b14d31a3f5b6cf1996b81f739cf124ba9a75ef9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 27929,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/ik7zrszwiwno4gmki2q454ph9mu405x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24013",
+        "sha1": "9ee7583527d88d276434ce76090f262a21009fd5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1168856,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/emmt3wowgdb6k72pjuor6q4twpjlnl8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12228",
+        "sha1": "7d3bdd67625c7677ddf00be3b86e47a3d4eba1ac",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1285785,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/nvmjvxp9doc88ywc8bmx0gak94w4l7x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=12229",
+        "sha1": "cc6b77ddf527ba1955fcf9da4f557507f5c0846d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 27553,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/o15svxi3tacn2llm71ura0gil646t0b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24014",
+        "sha1": "cdbc67ca823690dfb3dc9009c6e54f2e6fc8045b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 26998,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/1vcxvplsydlf40ukpbah88953jk66r4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24015",
+        "sha1": "1004a4548bb1999c71ff0048f97ba33f593c97b0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 27368,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/n65jzyanixvi57do1fdpal1prfwlnfc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24016",
+        "sha1": "c65ccd24aeb3e488cc468c2bad7307c27f4315d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 28202,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/82o8k5qrrrzh7dhvzgj2tfizvi0d1uo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24017",
+        "sha1": "451f50172a77d3d519203b6be21003cea56c82a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 28575,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/gigprju1s2inq175f78yrf2a5jlp3xv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24018",
+        "sha1": "8d5d325d7d441d8d9039c0dc80484e810cde1133",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 28293,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/56ccjub2d9w5g1t8a6b4t45w2nscjvq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24019",
+        "sha1": "2c50005b9d9a273a83a15b744d55b1e1b0a667a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 27420,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/eli05i8zdh4uagqczjtogbn54raxlaz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24020",
+        "sha1": "7cf6dd17001b939bc75cba606fc2b624f31e001b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Ayaka-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 28581,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/fw7qvwjni3988ndc405n6bwmq58wxk3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Ayaka-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24021",
+        "sha1": "8812bc875ed80c0f09d7202b4bef5ac01336cde3",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

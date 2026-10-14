@@ -1,0 +1,947 @@
+{
+  "page": "凯特",
+  "group": "Cool",
+  "id": "kate",
+  "stem": "Kate",
+  "roman": "Kate",
+  "revision": 198133,
+  "checkedAt": "2026-10-14T02:05:31.668Z",
+  "files": [
+    {
+      "title": "CG-Kate-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100589,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/jr6gwimlp1mqqgtmtoarhvxlunxyki7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22367",
+        "sha1": "a91e7a452d0f37cdc7db84520c0f313c3e77394f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100873,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/sifh9ha9h10pbjshka5nhub2kk13lsy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22368",
+        "sha1": "f415f6ecc8fbabc42d192d6d5c575bc469adc222",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100095,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/cesly41o8isnsjuqpcmttzgvdfqvf9a.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22369",
+        "sha1": "6a3f840679d1e605410a5d61dfd2193e1669e4fe",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101905,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/a84eq3ch0dmatauzogoaxc5g28e9za0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22370",
+        "sha1": "578a2fd4a2c2048efc3bfdd81c44388b332a28d8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101818,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/h13bq4qvw8datnbsejefsm5lk8z4mfs.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22371",
+        "sha1": "91cb3776a864512d9cfc57b65a4e53d0865eed98",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100509,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/rl7uiywtj3l4kurcvmry9t0iv1tgb6m.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22372",
+        "sha1": "ec301e6a037d84e3fd67635cd4295cb71674ed9e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101374,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/heonc2epzy85d006b01fvj15wm6vlil.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22373",
+        "sha1": "9506aca41c706d247000e95d549f81e392d09cad",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100914,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/hcynx6u5lm6pclxe5iqvg7o5iy1no05.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22374",
+        "sha1": "949ddbb5b63f29845bade28575418ac76b4ea245",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101872,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/70tc85wqmpmphlvinl263o4ddd246s2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22375",
+        "sha1": "3c1e9d5fa79ec81c6c645b84133b67ab4621a152",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101023,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/h56rmc1i5vc1ix42jb23t0ftftm0ul8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22376",
+        "sha1": "92c48b56f7ae5a9cb422257257a48d9e487734dc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101536,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/a6nvpzjk7edjw96nmlv8xcrwri6xm5j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22377",
+        "sha1": "57315c5ca673cd3974ea9c79c1dd4ce19e1aec67",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101189,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/hlbwi5f0mrjbbk8etgu83bvgdxygojz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22378",
+        "sha1": "969b42b83af46f60e57776f136eed7745395364f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101309,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/ot69bglwz2l77gaytuao0e6qj1admpu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22379",
+        "sha1": "d465bb9eb24a51543ae74e3466218796c3e35242",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101392,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/lnjeu0t0zdkmzm1sag7p2xgo04259fk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22380",
+        "sha1": "b95fffb54ba1a739ce2edd0854ee365b668b9100",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100545,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/jro7py9e561gul1s7713he8kzpji1jv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22381",
+        "sha1": "a93c7c1b07e62eb783e30545869f1c04ae59ff5b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101398,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/e39r4zjoth26014g90dbljd75hyvyqb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22382",
+        "sha1": "78a1204ff19fbd320fa40145e7684466019b1793",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99414,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/6e3vc2hxgx69tr056833edckus41jbr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22383",
+        "sha1": "36b8407ce6bef035d5a025be7bc38dffb1926c17",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101085,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/krv7n7gex4gx56xl3syvvu4guugkbak.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22384",
+        "sha1": "b1d7e3d1776fa1399508badff675e92c73fb9e2c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101444,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/ba/hbxb70jqmp899gkrmmu5txnqkr4wib4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22385",
+        "sha1": "945eb1410bee0c5c08c0bcf8bb2e0d41d3d7b4b0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-R-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101142,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/j5ss6ixkqsvivj6bctnwxit5gpcday7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-R-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22386",
+        "sha1": "a408ea91347a521065faeebfb597c4bbde9448af",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98671,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/rjrc57balojt1e0zokbxwx9183y4wr3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22387",
+        "sha1": "ebd7526846dda5487cc515ddd50032d9813e8ccf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99298,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/7qpshchqk03dz3zm23fs4nq7oa1j2vo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22388",
+        "sha1": "42476a73f4529b8f7b3c33b5a2ca43bc6744de54",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101242,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/ka2kbsnqfuhxbdcwzn53t59myhwow4k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22389",
+        "sha1": "ad9c897fe93578ed3804e6f8b7cab92528915ca4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100927,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/0fi14mo1aca85e1njgnt88l3wv7l1dq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22390",
+        "sha1": "03afa5744b0c4d1efac303a7923beec11b2dfd3e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100083,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/26n7fk5yeb8rjcbtnyscxof4s2texv7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22391",
+        "sha1": "12b3a5cf7c987eb211135de26d425c7688c4e7f3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101132,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/epz0xopufkd6mbq5kf6fyu47qfc9a6t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22392",
+        "sha1": "7e0727e362ef6671608fd2fdf71289f3e7e123d5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100050,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f0/rx6wt6fa2u1aq1c0u4458o82774bwz4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22393",
+        "sha1": "ef090f12f492399db1afb6fd9384a67734c76bb0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Kate-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100828,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/4pukoqd6o62t21mc53aobm9lkv9qym6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Kate-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22394",
+        "sha1": "2863e9cd02945ed1686445e3bafd3a1acded36be",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1152153,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/nxt6qhlrzvlyf0g19m7bg8r400cwg11.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8852",
+        "sha1": "ccf0710f462df80e3c06fca3fe64ea87be7ea525",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1316675,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/a4j5pwyrdoib7qb8bvrvudjv991hh7k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8851",
+        "sha1": "56af9f0e7f2a70ac3f470351faae6bb5827e2660",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Kate-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 44183,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/idyk1mehajt0tn1xzy324b4cljwfont.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Kate-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=516",
+        "sha1": "9d6a1fe8296a484f7ff2f1676f1202960020c699",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18377,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/cy9k4uxe581xzo9u5qtw16khrtcmf15.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16599",
+        "sha1": "6ee0d73e224618adcdcc48d52d2018392bad0599",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17499,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/t6niw9t7gz4aurdvxi3vkb42e8anh9w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16600",
+        "sha1": "f9d89dfe375cefac7675d08f3bdbc2ed3ba58134",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17341,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/72dvgubyq091brgkhoq57u39t1820k8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16601",
+        "sha1": "3c7e3751669b661ac1d720936d3580bf05892b58",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17191,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/lmsp8fn0p2f1vfxyuvwob961mzpuw2n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16602",
+        "sha1": "b932d4644351746bbf8eb89932ee2515457ec2df",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16901,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/6vgozsdtibi5ejrmt22wrczatfluwoe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16603",
+        "sha1": "3ad8d89eb6db4f3b93b6ffae6dceb507b1d621ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1278701,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/ea0d7v87215oxndz4yzg5mfkmcw6res.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16096",
+        "sha1": "7a3b645b1e1c8e87412bd3f3da10036a58780044",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1263356,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/4o1v8ob3m95rvoqz6vuq7ftrlgaycbj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16097",
+        "sha1": "27f67e0463c82826c4c5209150bf61ccfc490cdf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 25039,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/pri06d2vulpxgyj8zso1xygs5tjisbi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26423",
+        "sha1": "dc8f69d1917090fba135e93c2f315bde8fab36de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 22942,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/nufvwxqi8lxocmx8jasp867427h4z3g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26424",
+        "sha1": "cc2351ac366331cb44628208ce4907bc3447d7ac",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 23584,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/1p4tpf6fo1mjwpdaniwje1a39pl20rx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26425",
+        "sha1": "0e89a7da7df3a47cf4c28ce465e8780083d5f96d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 23005,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/5aeers9gbd5efhjp7dugiv2jesdo6vr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26426",
+        "sha1": "2d46fee6cf03a92f3f6f806d01e2d6a40037f5d7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1230406,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/8mw0cb58yvdytdilroq7oz8rep52lyd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16098",
+        "sha1": "49edfea9c19368d0c6973327befbae9bf1b3a4a5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1369247,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/polb0z2scyoi8aqaoynv80i2axxhe9m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16099",
+        "sha1": "dbde5d7a52cccc2e6fec7284f0924f93b54e677a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 22448,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/d8veyuo29d8c0hw3c99olyr8n9ks4an.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26427",
+        "sha1": "716692100c7d671785766a711f92d88e9593ccbf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 23397,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f4/cqi8udmosrfph658btjhod489nwjg7g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26428",
+        "sha1": "6d0883864d9f90f7483c80e504cf322a776844cc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 23128,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/808pds536ibig2uco6y216okx4w0uqp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26429",
+        "sha1": "448b4aebd03a3a59276d85b4d9c6b26b811d5ba1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 23190,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/5zvv9c947wqlk5zdts4hkhntj1452e6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26430",
+        "sha1": "3356713b77fb79e3ad71ea02e1685434161b335e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 27069,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/81/87itdhb4r1j69n3uxw8xggej1e85yc1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26431",
+        "sha1": "46468782d609f1801aaf538623daa090ee920d11",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 25686,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/9ztfbqn2xv3nda0x61tjsd4u4f6rx8o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26432",
+        "sha1": "5590990f487188b7e41e642d4de4388ef11d0308",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 25710,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/poy2r3figjeotzlwjjllkcdztb0mfx6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26433",
+        "sha1": "dbf3f5b7696f8a3d42a4c409a9196bd36839961a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26929,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/k1p456x68m7vi8kn7u3xmci51zdskjz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26434",
+        "sha1": "ab9ec715b027f56c30c0dacea6436a9c5c7e400f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1252551,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/0l4u65bqcqs9f2xvwsjvf9aqofoh51t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16100",
+        "sha1": "05069919179c8fa4a4a242d8615c2eff987ce7d1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1328634,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/e1rkt0pzdsgilwca5kca4omxovn49hh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16101",
+        "sha1": "78458366c6d62d1ca4168b8b51b518b000501c05",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 25301,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/1s713qi2ext5pp6ywx3gwgj8fey9bnf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26435",
+        "sha1": "0f4404246c57ee736cb918467573df54e019ed3b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 24375,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/7r1tk885p744smrrtba3qjjm08q73z5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26436",
+        "sha1": "425bc246d77ae8584601d720f348adc8e66d09e1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 25127,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/chvffg6tf654i48bcypa1aza9rauomg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26437",
+        "sha1": "6afae9e0294666e12fbed6adde84b300c0a67e28",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 26920,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/ej02scapw9kourgm3hhfugsmlkq3ozl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26438",
+        "sha1": "7c5ecb7efe8852bf3cfd587be56b057dc6739b41",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1093192,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/sify1glcq3pgy765ymcw8eu0jo338j2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16102",
+        "sha1": "f416c0ac36618202a360aa657827a8ed8e12c0ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1115832,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/5ase2w74buekqfx99vj1fwr3gi1egs6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16103",
+        "sha1": "2d5ea33ac580ab7d25064cce6696419caf1a3576",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 29736,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/l969192y4bsaudov1ggraixudb3fal8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26439",
+        "sha1": "b5f5771d1394c81a8417b406592af8f3bc05225c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 27837,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/1v5qm2q9qzrj889va1chg6og958v55r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26440",
+        "sha1": "0ff8769d72c7a670c6139db628a961d7e8b3f7df",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 27073,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/cm10vutpnmah35vfdwmk8pu6js8m7av.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26441",
+        "sha1": "6bf7e26e97f9ab9ff523c66972ad613425cc7677",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Kate-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 29008,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/mlw71wznqxh0xtjpcwioot9gfmkz91y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Kate-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26442",
+        "sha1": "c18b6f2cbb1243a12acd698a4127ef7f8156b496",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

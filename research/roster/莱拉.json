@@ -1,0 +1,1843 @@
+{
+  "page": "莱拉",
+  "group": "Cool",
+  "id": "layla",
+  "stem": "Layla",
+  "roman": "Layla",
+  "revision": 198122,
+  "checkedAt": "2026-10-14T02:05:26.760Z",
+  "files": [
+    {
+      "title": "CG-Layla-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102307,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/0zref1e0f8s65q18e3fifh8ouowyyv4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8289",
+        "sha1": "0881078e40cab12a9420517ac968244f07e24500",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100627,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/dseupoj1qtoufzd4hfsoxlx2u4yvd1e.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8290",
+        "sha1": "760c1a3886ee65dbbeb3630b5f6b40dde86da5c2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100403,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/i0hswaazvl1bzhpcbxjep05apqg6fpw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8291",
+        "sha1": "9a3664633cc7a6395ea370cf2482199da4ff5d14",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101101,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/i1awfx7nv1bau52e3eb5442c933irsp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8292",
+        "sha1": "9a679935a00014a389648fb3848a7a1aa6debc39",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101318,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/41kz310ywi3emzbtnrnwojb3no9qp66.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8293",
+        "sha1": "229ea1b10f44d977a726d434b32b166272353aee",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100444,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/fid65619rae1usyoueyueel6nsxcn57.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8294",
+        "sha1": "84c7a16501349cd00344a5f48d8796ec8e4da12b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101876,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/nx23dlzyx6iy3ezbzyxewadkq7suvdx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8295",
+        "sha1": "ccc2a04d26ac3915a78a2ec889d2196b0717b265",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102222,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/kdc7dhse7raf2g6h1slxvluvby1ppnt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8296",
+        "sha1": "ae63784bee87be93c9499709d855b6307c972729",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101363,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/o5t4ag7alxxvsx5uci0qqv608vhy1pa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8297",
+        "sha1": "ced757b873b741745c5c7fcbf95ae84020804a1e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101913,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/1t4r3e3jvwvypydiie8wpf1jxjd6uh7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8298",
+        "sha1": "0f7d0a7a9874532ee92a1ede1e49002d08d908cb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101320,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/rbaieqtdlwbh5ieyzo6wrj2ojfzdpc6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8299",
+        "sha1": "e9d3da5345a2f9699a6e3a34e2ca0c62327c9086",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102055,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/jwd6r5gzpy1qw9ff66sv44rna74jk47.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8300",
+        "sha1": "aa5a391751cf8b09dee6068b898f2ee3d3884c97",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101140,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6b/44hio5nf9oh4v9qwhvlt8dit5se89v2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8301",
+        "sha1": "234f6b23af5602d8b38dab1eb414bc7a926531ee",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101736,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/1uhi9pu37f5nfxdl4df6vf99iurkpjw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8302",
+        "sha1": "0fcf7c9d2e4729424033ccacdae175fdf3f6515c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100732,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/fz55nrlt00hbi4wl3i6cohkzdqw595t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8303",
+        "sha1": "88c4fd00eccd671274a7c22821d5d0addafb15a1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100046,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/5bpztaeyzvmzhwott92a2x114b9t6l9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8304",
+        "sha1": "2d97765f600c167fe068975b346eda5875fffb9d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101435,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/4i7bwgclahgnek79kj6fsfx1m6oknda.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8305",
+        "sha1": "269277d33725e33e297a88582d2dcc04d75c434e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101576,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/hblcro7x1uqrtg4pl29bsp15cckgp3h.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8306",
+        "sha1": "944a7957dda8a27597ced622c2857ec957dd270d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102167,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/05/5t8m4kupxhlzmqcjz2a1exxxpqxxngs.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8307",
+        "sha1": "31c1db986f453fd8c18326a902e465c5f78e2e0c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101605,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/nawg6rsvpckiaczmz7873eb70mpphrq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8308",
+        "sha1": "c77dc9bc9158b76f9d13d8c930ae54c49ca3b736",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101844,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/50/osy98fg6sahp5ftfbnsv6b3rca21mhr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8309",
+        "sha1": "d45833620831fe8458df726b5c8f15603913521f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100464,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/ldjd1ir6kgluyjw4dovvwd4cmwu7te9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8310",
+        "sha1": "b6ff2513beaf911512e8af31b287b684c1c94e91",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102386,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/00vjpps9jwa1ayprqn0k9mm6r21bt8g.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8311",
+        "sha1": "0035590f616c25921ffc5329ba0c42f8baf181c0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102044,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/4adxn2lji48sq5qlr3u1opqf9lp8xdr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8312",
+        "sha1": "24b69e97b5fdd9ab328a8910c13a56edc3d1d7ff",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101658,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/o8fjy6h6ixr9uomkfoo5f4qmwt5oneq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8313",
+        "sha1": "cf7708e81f69ac3895e8ad19f781149e586bc582",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100748,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/bmluemm0weeg7lz0hyuopw3n3xdxqi0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8314",
+        "sha1": "638b852e8af699c91ad6b26f3e99ed25ac5c4568",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101776,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/l147i36rxpl9zpem0yp1s1bhwsrp8c1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8315",
+        "sha1": "b40afed00cdbdfbcf5d27d91184a2749d6432171",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101083,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/t8oeumg3c4u2slv7vkfveib8ebquzwd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8316",
+        "sha1": "fa53df4313e5bc72721472e5307d8ee1e5ad573d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100963,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/59lbi82yvtgnux68o6x3g3vtsmmq6t4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8317",
+        "sha1": "2d15cd72042cf6439d3bf5c341cfd3f27eae92f8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101206,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/1eeh3zparl0z453tqodkr16anzg1p5s.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8318",
+        "sha1": "0bfc53d4884182fa0e1dbc8e64211bcb9bf2a1a0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101233,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/miml3nx33opl6q9sw7u1ub802kbc8yn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8319",
+        "sha1": "c0c48d8dcf36a4bd843cb489c9c02b708f69935f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101917,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/gly4jmd3blw1p8z83hssvmkhmnk66vb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8320",
+        "sha1": "8e3144f839cb9a0b46184ff9b262d77b32335847",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102264,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/5tehu2f2bfvs9aec5mittifqum6f8wp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8321",
+        "sha1": "31cbcd66e00117ac455ffc0a2abcda68464c18d9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102076,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/jwwyclpzgb7pt3fic7nilc8zjdfkwb1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8322",
+        "sha1": "aa7ba6174fa88e7d51c1bc803bb79b84f382938d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101271,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/8umkr45t1gevdze1lcnfjctq2qtrga9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8323",
+        "sha1": "4bc50f2616cce15b235f39240f383c72f7bd1031",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101420,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/fg8j95iydt3xv30zkjkue6b7dbuu4sz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8324",
+        "sha1": "8446098513b694d797ae983d352e4228f285edd3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101690,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/csvyt1ujsmzan90rek2vha9f4of55jj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8325",
+        "sha1": "6d99787d627e166bfac8d31a6ba7508490867a4f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100109,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/gmkxbtqv9uyc4j8ompq7002px6oowkx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8326",
+        "sha1": "8e57d2f5acabe2a2d1f02a06ca7c99980daffaf1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Layla-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101706,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/q4miwnpibr92s3gp9ezinn7kwqw84bm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Layla-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8327",
+        "sha1": "dfae7546e4ba1479001e1909321f483d37208fe2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1361875,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/a8s2hcff5n4vkvl1w4ni5sae9dl40m7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36646",
+        "sha1": "57b23247ac7e09f495daf359278770bd3e20751f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1334342,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/964g754jyt85zxiixzjx506p8m1lxrf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36648",
+        "sha1": "4e80ee39ac972a495a1d0c562c3bd5e0a736172b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1233538,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/r2n4so0ubbb5wsz4a1jb02rgux2ghv8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8340",
+        "sha1": "e7c54dc9682e31809ec43cb88eee14a413590474",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1363218,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/hagqovap6ckjjkoqplvab7tx3l8trmk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8341",
+        "sha1": "9405cbbbfd44031f8d75b54d507f673a27fe1d1c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1368156,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/8fc33enjzuoow87aat8y64v92gxkgk8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8342",
+        "sha1": "48222a24f64ed0bbb9f0e3b02edbd72082a3f1d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1255780,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/rm1nhan71celm2jvhg3yakmv2l5jxjt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8343",
+        "sha1": "ec6284c511bb6077e38570d5c78b3632952ba999",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1115970,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/5ju917ur2hx4rm4uuux7hjr03bl7kke.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8344",
+        "sha1": "2f85aced6771f9b2ebea9e1b98400dd49358d4de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1310410,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/rmgd6fc1dog9yvazwafsensv6ors4t0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8345",
+        "sha1": "ec7b666ef258815846961d3ac18f4435e6e38254",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Layla-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 42855,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/gdonwgk8vtjakdtuwqdrqycgfge14dc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Layla-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=527",
+        "sha1": "8c3a40a2d8ade43afa0915bd566ae70b125bca60",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18004,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/eroz2mmhra9yxu3gjwgy6vphoz767el.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8346",
+        "sha1": "7e6fe979cb80b5d1a0e6599c79985855251cfdfd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17985,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/frvpq09po9moddu3by4xcy4zoujezdz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8347",
+        "sha1": "870ae1a9e400f3ff1bb2211055231efcf32915a7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 18446,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/r3thsp9zabtt1zifdi1ii4cdd130uxd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8348",
+        "sha1": "e80cf00d16a45348d02793d1339b2e4064213391",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 18257,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/cg39fwj4h9kdxa3cxwutx7yde7n81bp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8349",
+        "sha1": "6a8e681570ee8f80cc581dda6f2b3b9e5e37cbb5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17103,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/jjr816oghqh59y4mlhb26zyvwvgxz3i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8350",
+        "sha1": "a75a8e7fa21edf5228c6bf34277c69de12a5dbee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16836,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/mlzr31lxpziv7cv4cramingydfbru7y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8351",
+        "sha1": "c19172c32896a5d8e343f947a01155b83461a8be",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16441,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/8u43fn3wobwx7j77c2jfypkeak6flh6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8352",
+        "sha1": "4ba5cea2b1972d03310b73aca327f72ac8cfd07a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 15596,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/0wkoc7znxxtdd6ylfo1n2iac34m18qk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8353",
+        "sha1": "07bf0704d4f65b8abd3313cd7a4977ff4039787c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16342,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/r5k0czym9xu6uqauz1cp6q1s3cjc6tk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8354",
+        "sha1": "e876a744f3c16608557a60ea281eab2042448088",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16445,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/to53fcxkgx1ov9vpxel26i8y5mc7vay.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30878",
+        "sha1": "fe013cddf9d2b73ffaa34f71baa2bc6ee9330e3a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 17975,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/7bx9n5du12th0i4wjja39ha5gcp94ec.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34723",
+        "sha1": "3ec2e7829f6f5da0476d679d9362d5283e4d2784",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 16768,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/gtuwuwdls0uk66lj7f7ikt9zfesxe54.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36639",
+        "sha1": "9012d9e54b041790b48830ef7f2d62b4a70c09d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1179286,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/bfr0zvkys1fplqzs5c7v5ua0cw6dbn1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8328",
+        "sha1": "61ea2562a3898e2c4830972d63afc43991be822d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1445898,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/3bt9r92bulblrzp7scw577wmw4c4w6v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8329",
+        "sha1": "1c7ddc09058d3985d1e388783c506ab8f96917f7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26355,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/73/iaikzxt91orye5o49xpjvu4iv4h5zd7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26681",
+        "sha1": "9c987b65556d3859d6151e6100dfd2aa35d1f34b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26340,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4c/68f0dw14fbr47zq3ujbs50mwqw84ryz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26682",
+        "sha1": "355dd41a68b1faab5cc48f6ac9992a40c03a8e9b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 25868,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/jz9e088aifamosbaivqgcbgvsxgezab.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26683",
+        "sha1": "ab0a6e3650e8f5093d6f12ca90c4687019bf5e23",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 26308,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/p01c8hlp096vb01dtbl3mi0pxnoguok.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26684",
+        "sha1": "d6078dbf45e0b32604fc4ad5c5c4ddd39a552354",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 26630,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/06itpb6qysg6h3oy7oo9s1w6fsz6cve.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26685",
+        "sha1": "018d187cd6c1f858a2b895fd6a238277871ae9aa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 25722,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/9s3z17q8ioonrvgezfowqc5q39ai6cy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26686",
+        "sha1": "53bb6b01da578c09b57a662006ed227772e1aeb2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 27158,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bc/pe05pwtn2uon4gwb19cgfiviq5rv8d3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26687",
+        "sha1": "d959d59bb28283ae3ea94ef298ff7731f72e8b17",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 27415,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/t65amqiawvvi6iw4d33yoycy3vevj0h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26688",
+        "sha1": "f9b9ca5a4ae0b18eff1864d9e1413ae622cccc01",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1017454,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/l1rm3kv4lt4ndske34z0anwy1kgi8gz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8330",
+        "sha1": "b432931ca3cc6b7b332b67b343c628cb80fb6b63",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1253346,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/17cx2x6f5wsu8f3dxez8dnfkyc9k1kr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8331",
+        "sha1": "0a4f8e8213a78c5dfea809d09dd26648c6ccbdfb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 25087,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/intsh4dp5v6osxfx7vqia6miz3i1t6i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26689",
+        "sha1": "9fc2d5dafa18903e73aa2637bc82a13a64ec37fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 26004,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/0amjz6nx9fira5qifb0j5bsgeuh5gpe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26690",
+        "sha1": "0286e92e74a5dbec66f7a1cb9ecfe89b87e5acd2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 25493,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/d7j4sydlk2c5796lp5695cj26kuz96v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26691",
+        "sha1": "7114ec7f51878de0c92f0bf9efa18e9f2a78a747",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 24865,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/slnoznlrp4kdgii2mw8wiezfjnutr72.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26692",
+        "sha1": "f4da7c9801021586610f6dcf3b9d71460f29b8ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1146024,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/ps7vc5sya7kghnykspwlunvetbq0oax.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8332",
+        "sha1": "dcbb271bb88545299c71f224ace3c48eab473109",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1322639,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/5qu7fh1hpt9bw2c2bib6y1ugbwz7eyv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8333",
+        "sha1": "312fbd32e4f58c1fbf507067df2f067d93567a87",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 25739,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/6qyp4d0m0y50ntzc5vus7cov0enz2xc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26693",
+        "sha1": "39c6e7dbe7e12db41c34b28e4beae47a85fd2890",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 24736,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/s6wybdqfqw51d5iwqauy5s3qjt5noha.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26694",
+        "sha1": "f158fd3c27960f81c05e04cf4163cb605a5944ae",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23542,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/cu4l3aya95eychw7ts7rrv0x3qzqxi0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26695",
+        "sha1": "6de4ec32f766c3f2f89e8f4ef01b57d434f84718",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 24762,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/bvrcbrvgjsdvhag4q9j1t0ic9sfel4w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26696",
+        "sha1": "65b8b5c5af2d215b279b4e25a8db4a251f395180",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1580807,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/n86qq5ok77vsj9fsl7uh9te66fryy8f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8334",
+        "sha1": "c6d88ff79dfe0daccf079ee6e104a2226cfe58cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1355694,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/64c7q1hy5tkum03dfk48u5tdi20r3dc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8335",
+        "sha1": "34659798336b226ab00f315cc03339b079f1f1d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 25916,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/i041ki8ufszl9gm3szdvst9l6k9ermk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26697",
+        "sha1": "9a1f200957abfb71da3cc3e8d81226983a989c5c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 25489,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/052cpa4gy2tl8qq4cvmro0orcyob57f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26698",
+        "sha1": "01345d183442aa8a80046f1d49aa1ab355b64f1b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 26686,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/56ysxzjzwn31no4uyc23dn1uwfl6ywk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26699",
+        "sha1": "2c75f959c5d77140ba22e868704efd8266294734",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 26961,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/pnga6e2lnmoel81cpxmywspdxhxpgpc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26700",
+        "sha1": "db98fe3d0693a23a86017c869d845216c15815d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 27254,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/l5gdt926vned7jybe98wggwkrlzubh6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26701",
+        "sha1": "b513178ffda0a82e59e8a34233bbf4dfe729bc9a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 24486,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/ixo0ujrm4xairoza1vhq6fz0ces9w6z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26702",
+        "sha1": "a219da3570c1087c0ac126a2c2e69d611b1d5f3b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 25998,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/nwv99msbi85q7crc7sgv7crcjb7qyxt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26703",
+        "sha1": "ccb710cd4ca3c577ffeecc4c1c792b74eebfd661",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 27105,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/rbl91080ks3fyu6ft2ad9x97mn3j7sc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26704",
+        "sha1": "e9e603718d0e252697e25e551be665d4217b6d2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1416759,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/3diqerujyo24gjz79eozwyctphnx3aw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8336",
+        "sha1": "1ce5cb60a517b81e01ddad9e4522fd8dad13b9f8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1371555,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/64lzf49o8koxuvu9ucov6igyifb2s27.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8337",
+        "sha1": "34761cc68024e0e6775566f51863a73800d7218f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 30841,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/bgax45nj7ck7u7ka5j1vvzdf6qz87ly.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26705",
+        "sha1": "620bc8c65cdb856b26001843b3df89bb84a4a386",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 28954,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/pn5df4yxkry18lpedh82zbugooaga1b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26706",
+        "sha1": "db868b4d621dd3363eb9a405e7e53a9c3732c0cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 29208,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/qw9tbnzkhxrx3d6s5u56d568zadexte.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26707",
+        "sha1": "e641850a9901f638a9001cce004c4954b6fd67b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 27906,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/0kj9r4htiolu3y1lut8xje4cupvm8jl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26708",
+        "sha1": "04e2209d66e19db0dfc5c6fd01744831ef7f37c1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1290600,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/ivqscrbm4jzel0741ap3g1flf1q0ipl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8338",
+        "sha1": "a1a4c5c1efb33179c658fb6d38151144bf558cb9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1056839,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/h1i6mq5l4lqefiquloer00gfwws6tj5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8339",
+        "sha1": "91e457beef89fe8ee8ef5f920aa74b3bf7deb701",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 24227,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/itv6jj5o91tvk04gchjge9mmaiuph9b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26709",
+        "sha1": "a13272f753c33f6927376e6e80c696d1843ca99f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 25573,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/3bo6antxolaul660bknqlxkiq5j6aey.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26710",
+        "sha1": "1c753de7463b9d6f584daeb9f6d26f32ef80c13a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 25502,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/7d28ato4iyv8ue5j161kl7cqpszekxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26711",
+        "sha1": "3f082c6449d771eb2cc2941ae8c8dbf7a6086486",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 24887,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/gcl8gpkzb9omk0gjij7piidnrlmgy32.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26712",
+        "sha1": "8bf793c80e2d9602f34b12f1082c81b84042ca8e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 25457,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/roj0q6vswdzvdyevwh3q80c58jv2a43.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26713",
+        "sha1": "ecf9a46f87699f294299774cc5073e0a58f20ab3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 24393,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/0hdy79qnu198ti0f5hpn97t7esqxxi9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26714",
+        "sha1": "04227faa8e0193e8bb3cc83a5e734e3a7ccc11e1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 25694,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/bbhzpsl2a7rngvc8jbbj671stzdnes2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26715",
+        "sha1": "60e75bd4a9c4aa63cdd14eba37ef88e981d31392",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 25763,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/19bccfh33r61j7kpb1q4pflc9jienew.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=26716",
+        "sha1": "0ac6a545810b7ae956ea608bb69588e717757c08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1462654,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/ku1gtgmbp51ouvf668gh3nwrqctiyhc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30885",
+        "sha1": "b25c389183b727cab3e649910f7cf08ec0d8cc10",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1252545,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/sug70tjmbwvvvguu1z17hpgnxqq9hov.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30884",
+        "sha1": "f6f1b2c9912d5bba5e255da2e94a051f475293cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 27278,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/mna095h16y07zb0ytkqpi4fplej75a4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30879",
+        "sha1": "c1dfaa911cade1cace4579c065919b5f4780917c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 26035,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/2t8zdechbs9z343fvu9onbhnfvc0cyw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30880",
+        "sha1": "1813c3f1496f346161ee93e7b6dfacabfc6459a8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 25797,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/oxsivhdykhnkdme88nevx6l3weepm6w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30881",
+        "sha1": "d57ee46f20b1f0bd0a5d18eb45bb656e9667c298",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 26794,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/a8har6igf58a1rldlh7thpywkqivsq9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30882",
+        "sha1": "579ffbd537f7628a379b183bbfc06c6a4fc3dd31",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1060601,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/re0fz9ovujdn13sr501cr6vzpmjphfl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34730",
+        "sha1": "ea797599eefccd712482e33036663ed305b57f81",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-SR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1648243,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/hkf6e9q8jdnb5oe1tla8lfkpeap84pa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-SR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34729",
+        "sha1": "9663ebdff6912fc26fae267ee61f5460ef380ace",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 27972,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/98sg3tszxfiev2buzoczdbaiu8c5gkl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34724",
+        "sha1": "4f2343cec2ce9db4169532098d5f6569fbb6ef25",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 28314,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/0vhdbbbsvo7hja9wmhzq2czvm2q7u35.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34725",
+        "sha1": "077c8f38e715e283628e1cf43b881096945d5611",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 27936,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/twa9wa4c22amqmol4lvxv6f6dd2mq4g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34726",
+        "sha1": "fff10340ec4f654249ce53945cc2915de4de13c0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 28207,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bc/sefs4csdclelj7k7pezn2g3qncqsuso.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=34727",
+        "sha1": "f322f774693d14c30cd5b076f378b4551d8e84e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 28932,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/3fdecdoe9co0x8t4ihf0q9vyf5h2xoo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36642",
+        "sha1": "1d5686c76d8e09835cffa7123f10b76785346c08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 30246,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/4adwf8sfkpp23fs7cp82y9ga33cqgvy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36643",
+        "sha1": "24b68ff3e7056ac26bb76678ada2379b14f5fffe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 30128,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/i1dffqaybikr1hn07swyuef4dfu3v0o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36644",
+        "sha1": "9a6bdf6d90f97853102b23b86a2e2667346709c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Layla-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 30278,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/7qkp8dm1nosqwst94lqa1jm812sv1nb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Layla-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=36645",
+        "sha1": "423ecedde25d5740ee275598939662eae99c0e17",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

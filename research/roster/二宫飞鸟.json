@@ -1,0 +1,2175 @@
+{
+  "page": "二宫飞鸟",
+  "group": "Cool",
+  "id": "asuka",
+  "stem": "Asuka",
+  "roman": "Asuka Ninomiya",
+  "revision": 220942,
+  "checkedAt": "2026-10-14T02:05:45.488Z",
+  "files": [
+    {
+      "title": "CGSS-Asuka-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1006537,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/sz5an6w2afnqnsb2gre2ixc2af91qg0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14026",
+        "sha1": "f80fa6f1dbe74009507748c328067940f07aa120",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102109,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/9snahqat7rfcc3ttiyajooxcm1345sj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13985",
+        "sha1": "53dc15f50ec6018e7040b0d19d2d9b7619c1dd53",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102350,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/ijxuqicgvizezkuncs0qbgvv3x23dtn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13986",
+        "sha1": "9ed6329e84615294d32239a11598d8e6029abebb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100922,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/9ixhjgy0h6f4wmge0magwonhj9nlnmq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13987",
+        "sha1": "518c8ea89aef13923328cca932a51c11aaf415e2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102060,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/4tmnwei3r2w3pspg5qxm2ajylmscevc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13988",
+        "sha1": "294a0b3f9506f7b045e0c06e4baca705f22c5a48",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102038,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/fe7jbpo2p2oj9snmmip3n10121jxknx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13989",
+        "sha1": "83ca987463521c62dac83d63b2b263cea149dddd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101102,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/bfywe91c4cyl0rsd3938srago04emj0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13990",
+        "sha1": "61f7754907ec9983f6997870b379f36c12546d8c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102028,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/hzow065ma8nq8k9jir3ddixj0721lgw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13991",
+        "sha1": "9a057f92b443d50f6a213d3d95247d23e5e6a0f0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101073,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/6xn79o7y22h5w1i7ii27xfw9pfed7fq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13992",
+        "sha1": "3b5d9acef2007070ecfe08497f1cd7b93f04a0e6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101745,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/9kqorzbd5k9ebcyilvuyj8gg3nu7fgk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13993",
+        "sha1": "51fad05f776c9c7d5feaf0983bfcac1500ec1404",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101782,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/2h9m5sqnyde9019a3q8ehxv9vs2c00v.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14058",
+        "sha1": "153a4fe0c4b31d586bcc8eaa5d0ef9794d2bed1f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102021,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/bmhsu0g965cynmpqtxhmsdo3fqr1pmo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13994",
+        "sha1": "6384aea88fb2abad0b2a9b5a696e493894628b00",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100582,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/q6eywnk88wqjo2oz7ympaq3dbd9fmnv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13995",
+        "sha1": "e01b6f784bff9090ffdf0b24de1a5847a4960d7b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100736,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/mij06j55zc7ariwivedvy999s8utgg3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13996",
+        "sha1": "c0be7f46a27a49085f7c567624eaa83db10df683",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101191,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/qmjbexydfl1jamv9eua8w4hk8hz63rr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13997",
+        "sha1": "e3f0d1a104790091c526cda1334519e00e00bf97",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100687,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/q3r031ro9i4co0tarlutcys9nqttzwn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13998",
+        "sha1": "df7926f10575d2f28b132789bdf585595c8ff007",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101280,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/r1u1hhnnw0ckhitwxpdr41ofpo1k1mt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13999",
+        "sha1": "e7941bca6770776120187ba1dcf8534f32919645",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101249,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/q1viy1e6za20d0uvirogp0pq3jbcpwj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14000",
+        "sha1": "df070c56e2547232ce439052fa6b3e36ed55d523",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101939,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/shmdbi5r73f94evzydn4asel6kkto02.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14001",
+        "sha1": "f3e4bd50365b01cc2bfbe87c18aa859090fe22c2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101722,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/49kki9yzx123sqrn4cb6yk6vbeld00n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14002",
+        "sha1": "2484f67a334da3f194d49b4cf7d5ead0ebadde57",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101601,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/ihttw6kiy5kfqc18psifz2ugoag76it.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14003",
+        "sha1": "9e55a3dc1ef0b57520a39c94f3a45439fe4d14c5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101952,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/21/koxoru46ombe2cy1oam2sz9aw7ayshc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14004",
+        "sha1": "b1257212453b69705b16222c4e42bab794590ab0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101421,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/5hqenierdcqk3mdp3if3z00nj2h7aoi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14005",
+        "sha1": "2f056bdec4fd7df14fe616171ebfb064d7041ad2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102347,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/mt62xabcw4a6qn41kx71g5zv5b8wams.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14006",
+        "sha1": "c3464a1e344b432173615d9c266e81c4780521d4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101531,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/p7lito43a4h3dwlwxvnswiwaelrerc2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14007",
+        "sha1": "d7d3d297ccd24f2759f3b9454559b5cc943750e2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101081,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/m4kne6mdbkbwkvuuw8y72xzuuisgm6s.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14008",
+        "sha1": "bd6d003127fe112d58a9ae14c135796f4d8f5854",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101233,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/elk3bb7ttmmo3b01rs3ldlpet1to7aa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14009",
+        "sha1": "7cfa64e8f9bfe898abd870e92470a50946bc6be2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101800,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/8vlh1bc6tperjo769g3cc1qtpr6ildv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14010",
+        "sha1": "4c00120f96d24ed98c9a0527e77c2dcc394a1ec3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101372,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/caypkofcf0gzprehke0zaqn1eucvcoz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14011",
+        "sha1": "69565305ab3bcdce507c8ad1b9ad5af0ae993603",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100043,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/p76810ngeivob41e90840pe9dyhlhlf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14012",
+        "sha1": "d7b9f339f29496e648d718f7bc51665effe2d553",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101908,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/5olskl9wlewss2izm1vy7m62kyr7s2k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14013",
+        "sha1": "30a7c24a6d44068ffd207ab5755fa06a017b0cdc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99600,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/g63qndrruld17kgae0015zf06tovexh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14014",
+        "sha1": "8a6cbb27eacc7c47eb94d276d557f99389c76955",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101448,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/icbc489n6osurt2riqioo4qhzhdghcj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14015",
+        "sha1": "9d05fb4c9a628f6f0d09c21bdb3c53a563293cd3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101700,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/l19gtm381692tk4kguo1d12s9ggcpvd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14016",
+        "sha1": "b413e3673a939501966952bb67ac72545b09edf9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101840,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/pxszw8w3r7tmgw9dq5q4gzl75a71cz4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14017",
+        "sha1": "de0f436c8c7a84bde54ffe4882fc2eb219ced6f0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101695,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/bf7lbmv1ln3x6vxqmm833knktuz06ma.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14018",
+        "sha1": "61c947c10e175acead8ee5458c15e94e07392c82",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100320,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/996o3hb82h72u3ixxbqeu93ilkpj1hk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14019",
+        "sha1": "4f3b5088dd30a86bbdb4c1a87dd8d55a8c56e748",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101062,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/a5kmz4t88vbvahx4d8oodxcpvcni2ho.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14020",
+        "sha1": "56eefff944c7f0f090bbcd89fb575ab80bf1341c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102258,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/gfh8x3dmvzedvnvxrrchwr2r7hdzrst.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14021",
+        "sha1": "8ca7772ae6d511502de952d486c79a9db9e3b87d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101329,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/gvlo4unf5htosc1i319hrpp9x8cyfbg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14022",
+        "sha1": "907cf9e259cc337318af66b8ed1e3da5ff5f7e0c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Asuka-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101054,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/h48ffplpleqhh5vcs8y6vu313zhts0n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Asuka-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14023",
+        "sha1": "928a7a1fb13d17dddf6322bd7e6d7d2b3473c017",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1329589,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/as5aegzkocxep2agty7fv4io39lqaua.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118732",
+        "sha1": "5c4d36ec3b885c623f6a70c040401dc84981e262",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1484354,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/n9h3fu64mgycm9aeia3ymy5yiezc08c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118734",
+        "sha1": "c726f2628beb8e58269934c76a01a22578df272c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1036303,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/7dm5jdurl4fl0v5v8mqjgu3jioz2d93.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8768",
+        "sha1": "3f29dd3c80ac3db849d22ff661b0deeafdaaf297",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1760872,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/s6njhfs684oecn048d45yzu0f9fgwpt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8767",
+        "sha1": "f14912c13863ba1b89a24ea507ccf58175182ca1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1196236,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/6u5ye95dw37w5yv4kcr0g7b21lv2q1q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14036",
+        "sha1": "3a89cf3c69269f915dd2cbc2943af4f6ae0e735e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1352414,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/n0rzsotd01bkkkxdspevl3tp4vynpln.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14037",
+        "sha1": "c5157beef465cad0e52310349e5b8fe811bb9f5b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1145026,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/k0b0rn92ryrtyfvq71elzxzro3qqp3t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14038",
+        "sha1": "ab4a11557332968007aa673775e86c8ee2ce8799",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1156020,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/as9nth5kp8jcgr1ejvi2mv03ej87noe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14039",
+        "sha1": "5c549bdf788d5b48617a906fc393559dcb96479e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1548899,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/rjvmzg2lx5xpxm4cx2tv6mak0rql36a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14040",
+        "sha1": "ebde985f55d9ba5821bc5e16cc66c4199417a952",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1138175,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/hu2jmg4careeqa2rawrrdinm8yfay02.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14041",
+        "sha1": "98af544767e1d7cab1e394ba32031a78ce1301a2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1220431,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/chywbqfsf8fefkpjaa2beu49rls3f2z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14042",
+        "sha1": "6b00c7c523e75682f9d2688c0b68e37898526f1b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1329468,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/p1btbvw08a9imbdec7gn66ap4qg5w2o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14043",
+        "sha1": "d65624d8d1ef299ddf0f4c269e124a36438569a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1490606,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/67up5csvfnsluypdxkals9utj8r638r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14044",
+        "sha1": "353b7aea904ee34f2d7b1d4d2f75540c32cae0eb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1402194,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/apzjcreldujdi2kjx23oh3haqxmnqvj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14045",
+        "sha1": "5bc9bc245460382818eb5df007ff9c54d11701cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1429911,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/c9zpk82z3cuyihwzxhnk17jnddh6ilz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23740",
+        "sha1": "691b2343d3be031c474560ce32e31e7a6c1d38b7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SSR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1348718,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/087cjrxsvvp7jxqxtshho6rz9t8xitq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SSR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23739",
+        "sha1": "01f3714be30ef0b100d28d032661acb198f6c98e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Asuka-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 85036,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/plo56nxoktphzpu45423hgkydd5uv30.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Asuka-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=462",
+        "sha1": "db2c886956a7f25b1be42fa0effc47ba41ccc1dc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17303,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/b7d408uzdy3mx6z8ec7u14ikeo8ww5k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14046",
+        "sha1": "5feb98df7f042220897b2b67d6d86974bbe5b2c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 18577,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/6eoq5isgejzfiu8pfu6ngoh53k0ypiz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14047",
+        "sha1": "36db8523862c8dbc848cddc02b5717ac9d32f5bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 19679,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/obuhvy14v6j3d1esninbqyj5kyemrpv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14048",
+        "sha1": "d046ef2e5a331bdd095a24880993d93f41404bd3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17059,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/az1rugyojq7jkx7n6odyh47rsvgnlym.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14049",
+        "sha1": "5df168a42f227d3644ab57bd4393b36446a23aee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 20390,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/24/e2oryqtnezxksl2yj5r052ll952jypr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14050",
+        "sha1": "787da749f64f1bf0ccb2c8d22b84decd39267c7f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17321,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/k5kjpwren783iqq3v1s04ea85b8ou06.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14051",
+        "sha1": "ac8a8fe68805d644b82f755e4f0ebe3facf311e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17316,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/fy3snp41ynsem6p6zo404mvvhbq7wga.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14052",
+        "sha1": "8885cf3e28f2d22f30fa1c19d60c2b65df15d60a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 18328,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/m342339szqerj9r5v2ynz20hjun20gf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14053",
+        "sha1": "bd141100c70dd2024e9bc2db435a963dfd968dcf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 18136,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/6bh9pgl58gvjxsvptjgwsmr6r5og863.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14054",
+        "sha1": "36184786945a523a694484fc94d075c03387095b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 18787,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/gsp7wtzfazaiwsa38k77bmwkqmqec3y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14055",
+        "sha1": "8fcc58e40aa9535ae2d22417828072d8985b46ce",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 17724,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/34/57p4op9yftyf1fmwfajuq2au8ui5sgi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14056",
+        "sha1": "2ca27e07480417f58e3eab441c06753b5ee6a952",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 16575,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/fagqdh63fx3ohqsd90duuy9glhjw875.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14057",
+        "sha1": "82e6a34ff3815db59f9d48b2096f85e03a441881",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-13.png",
+      "kind": "icon",
+      "info": {
+        "size": 16557,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/lpavg974dwryt1o6wo3yrol7lr2cmc8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-13.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23737",
+        "sha1": "b9cb506d10b9d1013f0acd8e1d4eb193be309a18",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-14.png",
+      "kind": "icon",
+      "info": {
+        "size": 18501,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/3clkaofacq4tnjbbdoe31m2ixc4gb7m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-14.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116449",
+        "sha1": "1cadb40f427ebf2c4f04ad0cc3bf0edffa5d60c2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-icon-15.png",
+      "kind": "icon",
+      "info": {
+        "size": 18415,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/7e8tge8nfyyrqvge1u06w72irhcn4mk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-icon-15.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118725",
+        "sha1": "3f5030b4c855857142ca50e8be9887f2fb4e172c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1060380,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/o9cqweya44uuug5rhxn34qhk9eiin5c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14024",
+        "sha1": "cfaf2a4adb4ad289942e40cbc9a4bc1e205d1fb0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1287687,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/t86gk1nf01472zw52wbpaosnd3h45y2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14025",
+        "sha1": "fa3583864f0be67ee0f8c5456d6b2597b18e241a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 28346,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/7guoa9mmerefvlz0bpre6ctenzjc4rs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23910",
+        "sha1": "3feee76ad1bce08f7cd8b39fadca7efd5552f228",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 28179,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/jce0fo1o71thzw7opswb7m14k5e24ke.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23911",
+        "sha1": "a59a13d61862ed1686b742e193ceba0fee5cc59e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 28181,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/7gy17a57qh4tyxk5dne29u7cd50wd5q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23912",
+        "sha1": "3ff495748177717f7014d41f039ad81a404a0e9e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 29135,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/clj23pr7s5rtwqavghtqac9fppu2mrn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23913",
+        "sha1": "6bd980d3f8a1ab635f9e61f4eabe6a2784e411c3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 29934,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/49zio0ttvee8aizei0e17nqdqu6eg7g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23914",
+        "sha1": "249e3de449fbcd20b9dbe0d902f24eb8e1fa278c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 30153,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/c01mgeicjgbogxxods7iv0smw3uu53u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23915",
+        "sha1": "66bd9aa233d98a0513b8f99c4eeadec1f86dbf5a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 30723,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/tq5ky4ge6jzlevpsk55sqgyv8o14wju.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23916",
+        "sha1": "fe7bd0941c9f3fc141bb5564e5fc668c3e00beca",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 28705,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/rjwru2n7vwj18qefawc6y9vpvf8v51g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23917",
+        "sha1": "ebe0839b29507205aa5c66e84bce242ab58cff44",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1254454,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/1svjhm3vx0073r55fruepjdxhh0c58x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14027",
+        "sha1": "0f6d76e6dd4a8fdb57fb39225effea9349acd991",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 29566,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/qp6y977wih3f4kzjc35mmgungwz0js9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23918",
+        "sha1": "e4928a12fcf94d74790ef5ef7f702566067ca729",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 29123,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/141hiu49nf2uwo32ndm23lag1m8lbfb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23919",
+        "sha1": "098597f6c89f7914b9bf86f81822683ea5f75d17",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 30170,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/q9anjiny5mu7mwhnx5i7b7icrsv5ys9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23920",
+        "sha1": "e0cac4b84444f22570b083153960a3dd05985e59",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 30716,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/pgxjonpv300knkaqaemacnl9qld5bb6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23921",
+        "sha1": "da0c0c5b850d7e1fa63298ba58245fe5e8094982",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 28267,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/t5ogmkl3w9vo90xh4mfxqrg28dy4b52.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23922",
+        "sha1": "f99d5318d48259209ad8fc0a228b0dafddb5c766",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 27280,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/hwqbbb5lkmgdq7woo4w5byuxamwzf5a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23923",
+        "sha1": "9951470c1ff3a390d18fce8515cb4e1d2a0a4f6e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 29372,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/buuagowglek67um1hvyo1z81u36mhua.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23924",
+        "sha1": "6580d190a9e6514a8fe33bee68d7e8b109bfd5d2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 29099,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/7fut9u8mq1ov5dyfb4asfilsr7tlya9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23925",
+        "sha1": "3fb242e42e5c47bf41db57f1799bc396817409d1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1152126,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/kbeuqxi3lqr5emn0b2gjdt3anhcn6un.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14028",
+        "sha1": "adee32268ff89e51f1636fbc9ace33e19ac8e26f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1405492,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/685xkm62gid2g0q49p891cq1uod9xh6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14029",
+        "sha1": "354e7a25c0648cb8f91e04b195c7a74f72afbeba",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 30722,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/sfthp6po09t2yb6chpaw5xzzg9r45ml.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23926",
+        "sha1": "f3770749b0f26f1ee4112582ac9a19357251747d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 31126,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/epnqj3h0x580xuuvvb2g152q067l2km.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23927",
+        "sha1": "7df410d4a6f92fe80134da2f4d2969d21c3abf46",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 31008,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/oo62k63nvzkccnjdikdah9qobziqevk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23928",
+        "sha1": "d33507cf6ea7efca367886a38cacb2e7687e3bd0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 32390,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/q1v5jt6594xhn9sj8bpoi4osrplpb4d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23929",
+        "sha1": "df066b42b532f8b6688768b203008fab0c83ed8d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 26056,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/3d2xl3nrl7m8p7x5nf6tgfxf4uspjun.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23930",
+        "sha1": "1ccb1337f8165a4fe499b33ac53563a2c9be04bf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 25842,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/h0j8thvcw0tacpz6xx8q4fojzl6zine.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23931",
+        "sha1": "91a94273a9a3f25ccfa5b5496e94626731f4732a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 26285,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/ntx7yy3eotbjmlrc12t9xptxkwygp7i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23932",
+        "sha1": "cc03c17ce05224541b6fd7e4a7ce9766bf8c459e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 26303,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/h41npqpn5j8x12hbpqt7o7jdeqxzo7a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23933",
+        "sha1": "927f075a9c9640ae0be21ac9a86984ee82e6ee46",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1154654,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/bodsra7qcgiwnktfut96395huwpmsbs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14030",
+        "sha1": "63f7ab26e9ef5d9addda2d169f29d227e74491e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 997807,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/7mjv0xjoswv2ivistxbbc1ow5eirsbf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14031",
+        "sha1": "4149e197ba8d51654dd5386feef54c879c95621b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 26018,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/lbf0gaoragqu1eldd3e5bbu8g8s67va.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23934",
+        "sha1": "b67e090eb4d1f8cc222d0cda69ceea92c1a42956",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 26153,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/jz20u3t3p29lenzg5x7iqzejdcg5fd7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23935",
+        "sha1": "aafdf9850f37fb6fc74032c005580ade7eaa2d0b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 25752,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/i6ckvqp9bbsdsuzps8yl2rtkqmf5opj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23936",
+        "sha1": "9b9ad28a9837651220495e68a093feee0c1c3357",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 26525,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/ivjnm683s0os35g5h1wdybvhihr7fek.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23937",
+        "sha1": "a198b674a0f2558e0d0e1e610b7fafd28efa88bc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1075433,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/sa1qb18a3qajjix0czywzbfdufrb50k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14032",
+        "sha1": "f217b2f584b2571a624e116fe7c9db425703a524",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1237625,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/17vwkzezsnmeh7ib9adpb7wli1pgypo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14033",
+        "sha1": "0a6fa9ac73584833178075044379579eceddd0bc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 29883,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/fk65mmk53zf8uvnja2x2fy3hzy0k9qs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23938",
+        "sha1": "853585e5b699fbcca27dc98682b8506aa674a654",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 28637,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/4oztv903w7kknt0i31rzgll99iduqjs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23939",
+        "sha1": "282fec35cf303b2d80c933830af9c5f9d6d366e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 28292,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/7ysd6zxdq32m02pcwh2avscjch43159.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23940",
+        "sha1": "4432c965b9405550f48e1c8c58f17c35f18d108d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 28738,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/g0v5tcvwhubck4n4nkmc7357gchnvx4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23941",
+        "sha1": "892dd6dbb23ca09c26058a9f9d5086fdf52a2258",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 26853,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/0ljc89extyrve0l3abudj6wajq8lj4e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23942",
+        "sha1": "051f1ee5d29fa605cf7962075ed4d6fcd2d5b40e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 28064,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/7fq5jrakndhb83tb4v9ftebh6d1h07d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23943",
+        "sha1": "3faa61fd7f64e852aa07714430163b35878fb049",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 26803,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/e1vs06skiqvf7nr927k65nn3hhls9lr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23944",
+        "sha1": "784c9d956b61ee2595ded2913c8c9e7459a1089f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 27533,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/js2yfntp80ysjuulhqeh8pvocjhd9sx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23945",
+        "sha1": "a95569fce98c42e8366309463c9ad52f8a250fe1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1394817,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/fh6p9wg4ijxi9rb6rbveqhelbi5b71g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14034",
+        "sha1": "847fd09f66aea8d8d1d4a193bc68a242f7ea9564",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1220453,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/2kxxajfbf06xkp6xforev16526drji0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=14035",
+        "sha1": "161a0cef8a9d2e4862e51a8b7599712eb0f00078",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 25278,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/akx482a72pb9f5x9mjcpfu9s1l1ycto.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23946",
+        "sha1": "5a9541d8fb5ec5bcb29d250373ec6fb825a09a6c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 25579,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/p6bs92xk1uk7afzt8xnd6s0go36sesy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23947",
+        "sha1": "d7867a6d8e117cac0e9a845d358ceeb575db6bf2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 23577,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/af6rf8dyo42u809mq5fllwmsbon0uh5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23948",
+        "sha1": "59384de526c255c1acdaa3fa4c8002c024f82149",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 25819,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/oszv0eimvfwa3f12gvd2s0jj9upl1sm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23949",
+        "sha1": "d45aea282b141ea59a70518ce1e06efeb5f83d56",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 28793,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/ni7vx08466525pz0t4z7ib0dwpbo1t2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23950",
+        "sha1": "c93b445e70bd6f0c113f7f2222ace4210edc4e26",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 27442,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/nt4zcsw4rv6puhk9tomf42dzvka4jtl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23951",
+        "sha1": "cbd4009b12fde0e2c0a9d409ce019aeb18330759",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 27436,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/berr4etpydzzll4srvdv7x32igqthad.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23952",
+        "sha1": "61ae7f0b28e025d171fb3a2b1ed05968131c36c5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 28844,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/m0ntc2yglcc6jx64hjfce4n55iz49xm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23953",
+        "sha1": "bc7ed850b458790c81298fee86fce16047bd264a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 29922,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/jcryxjep6oqc67oys192w313nww6z2x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23954",
+        "sha1": "a5b1ae65daabbe9dab0a8dab8f50be4f7d7fc719",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 30613,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/e506cc9dlosme61odffv10l3l2v70ve.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23955",
+        "sha1": "790aaf21b601e92c0d1cd596078e861e29c0d72a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 28820,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6b/knxktuxjimzaaik9ggdsdkvdpidkmec.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23956",
+        "sha1": "b0e862235a48ee988c012d7711f9efeb98ac3364",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 29685,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/huxx6cv695bzysknmrd2ofodfjtzets.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23957",
+        "sha1": "98e4633fb85b6a20f0790f897e273cfd8d29ced0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 29615,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/ki7uh3fx1ldpw27qtd1jtsv1blvvqp4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23958",
+        "sha1": "af8c7c1ab222a4597d3dca7e6b6904fcb4537be8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 29471,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/c08my0hwmhx4bahizn5spgum8huzq5g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23959",
+        "sha1": "66c976d6556785992031c756f38f675fd3df3124",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 28439,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/pwr8vy1c8v1igog8g3f2s23waoisglb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23960",
+        "sha1": "ddcf6d3c05b19149906d2bf2332927cfbaea94ff",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 28614,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/ctlb70njedke5wgz1bafm840fpm4z28.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23961",
+        "sha1": "6dc45408117cb5c7067afa77f2470a6067c75480",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1048247,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/50v87vmrw1231iytbm1i6g1qil3e91w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116455",
+        "sha1": "2b02aa5e0d1c3abe48e83cffa451bd19a7691c54",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1350464,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/1gcoqhpq3waha1ipyf6cj9wkgrlkqqc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116457",
+        "sha1": "0c730ebb908a9bf8d0fe0e719664e6dc085a4554",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-14-1.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 1,
+      "info": {
+        "size": 27043,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/36afpeweva4bpssaa5h7aycpbetfmbh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-14-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116451",
+        "sha1": "1b2d9fdf2890f9d5bfba1410b95d974edd8543bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-14-2.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 2,
+      "info": {
+        "size": 27407,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/flghnst2vvm1id7tj3u7c6c2fvouvm3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-14-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116452",
+        "sha1": "8583e021095906fa8b2eba4070e5af9ed2895f8b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-14-3.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 3,
+      "info": {
+        "size": 26952,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/ebq6ztkxsmx14wlw3e48dgymuditrln.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-14-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116453",
+        "sha1": "7aa3f181400535e77df532d9c760aa1cf8ec36fb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-14-4.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 4,
+      "info": {
+        "size": 27246,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/etykjkyiyh5tc7j8teqcuaqlc2m1hyz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-14-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=116454",
+        "sha1": "7ef9e4cf52096c65954b3a50e67250d1737c2f3b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-15-1.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 1,
+      "info": {
+        "size": 30828,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/99i1p2cw36w07e8yg1z7f0bstqfxz22.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-15-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118728",
+        "sha1": "4f4e8e00f8fc1b05ee1099a55a36dfdf1cbc16ba",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-15-2.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 2,
+      "info": {
+        "size": 33175,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/12wxczu2jli1hvut1ovlihdwdggf68h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-15-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118729",
+        "sha1": "09410163fbb5f0dad8d2be6621a28ff6a8dbed51",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-15-3.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 3,
+      "info": {
+        "size": 30697,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/qyeqpkgdi4mb13k3ytxerlwwjtjrb94.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-15-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118730",
+        "sha1": "e6c39b2459801aeb4b36b5db79d5de68ccb928b8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Asuka-Petit-15-4.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 4,
+      "info": {
+        "size": 34443,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/16grnc80f61x3tfe3l3opvzjapahuxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Asuka-Petit-15-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118731",
+        "sha1": "0a19304803422d0f7786bbf46f54e86a53eb64e6",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

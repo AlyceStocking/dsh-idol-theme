@@ -1,4 +1,4 @@
-import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER } from '../lib/characters.js';
+import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, matchesCharacter } from '../lib/characters.js';
 import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
@@ -229,8 +229,8 @@ for (const card of CARDS) {
 }
 function renderCharacterOptions() {
   const query = (element('character-search').value || '').trim().toLowerCase();
-  const options = CHARACTER_LIST.filter(character => character.id === preferences.characterId || (character.name + ' ' + character.search).toLowerCase().includes(query)).map(character => {
-    const option = document.createElement('option'); option.value = character.id; option.textContent = character.name; return option;
+  const options = CHARACTER_LIST.filter(character => character.id === preferences.characterId || matchesCharacter(character, query)).map(character => {
+    const option = document.createElement('option'); option.value = character.id; option.textContent = character.name + (character.available === false ? '（待收录）' : ''); option.disabled = character.available === false; return option;
   });
   element('character-select').replaceChildren(...options);
   element('character-select').value = preferences.characterId;

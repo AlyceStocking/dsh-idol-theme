@@ -1,0 +1,1359 @@
+{
+  "page": "砂冢明",
+  "group": "Cool",
+  "id": "akira",
+  "stem": "Akira",
+  "roman": "Akira Sunazuka",
+  "revision": 220893,
+  "checkedAt": "2026-10-14T02:05:47.039Z",
+  "files": [
+    {
+      "title": "CG-Akira-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101655,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/exysuos15hran4pnn9rn64fave4ow4h.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5982",
+        "sha1": "7fedcac129bf0471488e31a0f5baf46ca43da4a1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100684,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/b82fpdd4c52eeylqk3uolapx3ztfpbp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5983",
+        "sha1": "60166c1dec4ab778173503a0ef6feb7aa80b46f5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99892,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/fxju4ez088yat0gdz4bcq8466lsg39l.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5984",
+        "sha1": "88640ecac0fdb35fdf1ff1b867bd4b2019fc6489",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100709,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/2bcr994flstesaneil9tkko446qhth0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5985",
+        "sha1": "13d25cd0afa571894a26f902cca3bdbbd7242174",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101439,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/00/cmrxmsl7mzsribfsjhgvf4pld47y38b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5986",
+        "sha1": "6c2563b60e84fe977dd6254a7edd531ca5be4bdb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101510,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/dma83nsibnq8pw82xpo2to1dzb2ccs7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5987",
+        "sha1": "749703a66782b693df129c1147ccbc6a183a89b7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101287,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/s9d93t284totgofha6hku77m77c6oyb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5988",
+        "sha1": "f1ee4e723dd236f54eeb3a35f65164afaa68bbd3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101115,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/9erl24nkuk3otbay3cx7ckhqng21n2p.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5989",
+        "sha1": "508f11839919d649147b2ab551bc9add303c9d11",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100973,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/ehxlndxv5xwu0ovkr86ibqjtkm1g5bj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5990",
+        "sha1": "7c1dbb19a327e4f79c189dfe3968c7af0b34b7ef",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100807,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/ap9uo4i0xotnvrz0lfvl0qasr7grq8d.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5991",
+        "sha1": "5b9e4cbc3a4814e7be0b1de2b528f9cbc6cff98d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101741,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/3xx53yrngazusfixvhyazgead4beecg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5992",
+        "sha1": "21bfb2f5077807f51776f3d785221550b46f0b20",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Akira-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100027,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/3qyg8735scmvm17qchig4ulhwyw7zid.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Akira-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5993",
+        "sha1": "2017c5fd4c9d4f7de39133122cb848f7e334d785",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1359295,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/e5abv4jiqlr021scbzpqd12br9a3ij0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118832",
+        "sha1": "791bda8fed66c149a09d8e881bb0cdf7951bfe8c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1599006,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/3e633h8ixt1pi9fezozxk7rb8hz2vr2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118834",
+        "sha1": "1d0d48b33e928d3413a00f55d44eb5fcb0a4343e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 982707,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/3qphgyvy14s5o08l6rrs9k82yqf251k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5966",
+        "sha1": "20089cd14c9f093bc2cd5d1c2b107dee10bb3d08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1425730,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/65epxd7n9h7cgf4ipi90ezdqvwcae57.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5967",
+        "sha1": "34a6b4cebab48f4a3ad086f0d5be63578f5de21b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1164702,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/72zyq10f73nc0s2ya1l5z135xog7aoq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5968",
+        "sha1": "3ca39253eba14f58958fbaac4417446ebc6df1da",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1364887,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/gcjp11fsgh8oy6aj9w81b7c6n7g28ri.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5969",
+        "sha1": "8bf4f92ad99c94a322bd8b7f44d25ba0092e14de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1180488,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/is1de7i2jzj93sutcldgrmkryrom6az.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5970",
+        "sha1": "a0c329c3ae201e787078a63562c40eb3cc730d6b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1769793,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/6nacv7mx7dnix4nn36b5194sa4opia1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5971",
+        "sha1": "38e71d4dc2011de2758ed285709c21b7194170c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1209056,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/l8gis5zjplg8vmfm4qyesu4z2h1dc6c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22808",
+        "sha1": "b5c9f4d9dcebf1482268397a8675fc452fc4e3e4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1393886,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/9lrulb3u7aa7twoscntoy8fdmwjgqts.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22807",
+        "sha1": "5239a7b4c8ef92592ffb7e859b5e3777b60afed0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Akira-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 62925,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/8yxu97jt24vy1qlppar2dum4187kw40.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Akira-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=454",
+        "sha1": "4ccb9d62cddcfef9712dbcc76e8fa02499ed7690",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16369,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/hi5izu4zpjnle1m2ng9c88huce3ifwl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5972",
+        "sha1": "95d9d955243a8af592efc49ece2c35b746c03c05",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 16757,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/mo4evtl4h9qzwsnpk1o5fl5dlfd0k88.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5973",
+        "sha1": "c2131594b537043a91631652ff842bb520bbbf68",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16309,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/4xhuee8b11yfsa1in850th50rvhckgl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5974",
+        "sha1": "2a3566ed95a201e70cb7470a75ce2ab058162f95",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17700,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/66/a1ff016iw0azwi95m54oxlv039n5351.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5975",
+        "sha1": "55f2a98627bd4b1293224e5ec55e910e2de10a25",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17227,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/pxgztr8410q03q8xslqk7e5a5slncxf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5976",
+        "sha1": "ddfaf7c17f647252bc4265a4987cfc853b2b9633",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17046,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/eaxjzhixf2pz493synovgqrrdqwagp4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5977",
+        "sha1": "7a7383881a9ff68af516dcf5040140d69957cb08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17401,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/tjs0vzcy2nu0rfiod80a51vevdhtlhf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5978",
+        "sha1": "fcf7a0922a3e6a04266a4a229f8c273578c08703",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17479,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/rbnc5k3442zf9hkict05202m0lt83zu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5979",
+        "sha1": "e9e98ad863a6698fef36154f56d770cfc997f73a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16535,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/g1ncn8fgycw3ykfp8w24oyi3jcumcxg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5980",
+        "sha1": "895d8245ce921db786bf2adc331db4d851f368f4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16958,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/ds87irxk4rgq63b61j58emsz69ldfao.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22805",
+        "sha1": "7600ddeb4da1c201a603a76fe5b96370b384a7b0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 18446,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/ipktosce2b1apu16c6u4s5afa44v03y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118825",
+        "sha1": "a02d6d54bd0c3c277fc2a45456a6ffaa5e61864e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 27828,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/fgxyxy07vl04qr9l9b2gd78nk7q22f7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24398",
+        "sha1": "84710cc0a0ca4809e528af65d19faab8ea8f4ec3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 28375,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/rdmodnky0x2e54855hj7xp1ssm0qek8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24399",
+        "sha1": "ea622df70e3348caaad5f6415a8fc1bf2626a438",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 27498,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/n9wt19ue6k0prk5to6h97mi5jw0eaor.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24400",
+        "sha1": "c74183b7a3be8fa151ea459fa0140139333e1d9b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27816,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/o8q6qlc2xil2v3wrqnyioqo195ij8pc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24401",
+        "sha1": "cf8903fabc5b42c22020537ad7183cd5de3608d0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1165964,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/er9i0wtlbsc0919e4yakvlt55kmj961.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5954",
+        "sha1": "7e55beee3f9b679064ed3b4878f5ca0d53a9eb29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1472300,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/rzaobovkhkdu87gj96o0ibh49za3xta.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5955",
+        "sha1": "ef892da946c8bb5ce9d9e2cade2ac4f1915513ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 28219,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/f3d5vl3gbv7rclsc6rxle4ellzgd4hl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24402",
+        "sha1": "81367690c6a0e91221f18fba49ca05d675ed63f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 26875,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/0d3tx2lmj2fdad308a8l8ywhm1tpurs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24403",
+        "sha1": "031de1184d7cb92b00acde17a32d7b98ac69e908",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 26187,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/b49beagl2enrgzql1g93ai97h5xo7mt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24404",
+        "sha1": "5f2e8c9a254a263a916cd5762f6f8b8a9f5901a5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 26109,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/rep8cs9tserftcqucunpam6hk6mqjo6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24405",
+        "sha1": "eaa3607da6f17851e12ad4971620181aea141416",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 27715,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/1zzc7vd9f1zl7958n3s1xb56q2lt07d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24406",
+        "sha1": "111e06a4d412d1dcc5bdcd56d8748c0bb6224349",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 26570,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/g3ef9g7wtqgz9kvwjuh1jz579u5si84.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24407",
+        "sha1": "89c82aa23f7362e18ebc6228ac0b2d28781ff844",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 28182,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/bwnlloyf4zuar1bi3l63jsyx0oigoxs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24408",
+        "sha1": "65ef42352b0692c295cd7bd78b398fc7d280d440",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 27984,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/8drrklqtd8o1xdb93sbkn9qq5axa5oc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24409",
+        "sha1": "47c2ed04d04a2b41cb1b5c79d8fa49b385fb343c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1187774,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/5qkfnpnzwn5fi7vgp7nuaop1zz5msml.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5956",
+        "sha1": "311f371f20838b17f4a43b4de14111ab348b3b6d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1338900,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/65ipib4j0kiymck5lga53h49qvyefcm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5957",
+        "sha1": "34ad7363c90e90630035e79cf12ea5e1af3b6336",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 27088,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/k3cf0bivvt7osoz6bop7rap5dxkgyz3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24410",
+        "sha1": "ac030f02d915f9bdf5510636f5b477263c37dd0f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 27235,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/34/f94qudeywvy2enztu4joul3r6faeg6w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24411",
+        "sha1": "82957d9c7a5a2364382a1c83eff08291bd9c4f78",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 26928,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/dsqze8o7c165mbshpn9ufkys1x9xao4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24412",
+        "sha1": "76209d5c67939f152bf5e0c81469e346dfdd9144",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 26964,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/ggw1r8obrapk3ia0l3bsd46pbjft1k3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24413",
+        "sha1": "8cfd5f173c63171e13b23c04026a2f6e18df3823",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1214747,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/2symayhiafhx418g3wgeoeglxnqx8sr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5958",
+        "sha1": "18023dc56419ef1cc858eea1966f333ee47b10cb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1418144,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/j60o3w7rz987cy9phieof8sa3kzy80o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5959",
+        "sha1": "a41640cfe99801e89cb706faecb19fbb8dc5e018",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 29145,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/kdopy18uq6fwhp0djf8s62vx4tp6xn4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24414",
+        "sha1": "ae78a272087d9c5119e5d2774a5d12af4133bcd0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 29172,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/pbz5mv091t4hlr6lht1l5q8w09j6y5l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24415",
+        "sha1": "d8de62ab4a7a41ba3e61050136634dc0a363a969",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 28744,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/l65wgi0b6rtmms6c5p7p3dqo3oqv9sc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24416",
+        "sha1": "b53e3e5ae66e0d80bc67e71f261f01d065212d4c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 28855,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/hfjdb0e6qkwoa66noahsj740bisou0d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24417",
+        "sha1": "953aa007ee6a42389fce3e000bfb6d391c2481ed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1095141,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/ivy1pws17hrzw3uam24y2kbaqewbjv2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5960",
+        "sha1": "a1b10cb28ba9cfa468d7eacefcc001f97102714e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1283727,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/5esbivhselldfd0t1e1cyobhe5h4aro.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5961",
+        "sha1": "2e520686cae6f2a75fe50bc1ca3cd5d81c3c1484",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 29773,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/34/7u1usa7fjq9hb4i850ksh9x9984sz03.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24418",
+        "sha1": "43127284a2fc65d8fd88064c0ba988ffed8d1433",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 26977,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/6nltnujhi81jp0k91p6df32xshb78ql.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24419",
+        "sha1": "38fa81342069b68a0f69e7cf48361de8cb0df6fd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 28900,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/0axjkvuk8hi1nagjfvs82pwwn7se2ay.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24420",
+        "sha1": "02997e567e48697349216e7ae9e1131914c88b2a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 29383,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/avx2mb4onblgzc3st1et3gi3df5xsw7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24421",
+        "sha1": "5d32d4266eeca2f73f1e6623f1d41f33a1386187",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 29385,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/b94wit4y9w4d863rz39a1f171d6xl1f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24422",
+        "sha1": "605778aa821db8c94aa21cfd5d30e9fb0a4bd2c3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 27532,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/im3b567slsriwhli9fw4904pbnu4rma.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24423",
+        "sha1": "9f592d735e4a47a3f8c836210ac156b4d066eed2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 28990,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/q39ab95fv0b758p16s99z7mobxkpymv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24424",
+        "sha1": "df5b31adc4d3c7a305c687ed3b50140c530fe397",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 28818,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/d66wzqo2rkym4348m6ekostrzpb0t3y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24425",
+        "sha1": "70c36337f60ba5673b6659cd235ef4580891725e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1388835,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/9p58lqtbach2josu67tieu6wbrc7sds.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5962",
+        "sha1": "5306ed77cf224a07e848ca59f2b11bec5fa41370",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1195336,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/7lhhxnedjqqp6p2y9uyawcv2vux38zv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5963",
+        "sha1": "410901db131b3f9e14d8bcaa9ceebe267c5db94b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 28567,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/0k65lb7qnqioru4yefhyylgk0issiv4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24426",
+        "sha1": "04cbf2d55f37f18c93d1025a8be49dcaa2c27280",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 28386,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4f/nkmtcc3pepmout8xfdow5okb9ejry1q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24427",
+        "sha1": "c9ce43fa078c613d474bfc751776d77ec578201e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 28586,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/8uxvvxcyqzz0e1tpch3wa682v5dvzs8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24428",
+        "sha1": "4bd82ef7054a12c023691fc23de401f129c897e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 28822,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/cv6iqifckk06vd3ey3oh001d8h8roog.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24429",
+        "sha1": "6e251230c2cc97b4aa909f20fad7028b62e861b0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 868188,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/n0rjkduz2305635mmu7kau4xfzdxchs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5964",
+        "sha1": "c514b8c218824f03f4ef2dc91357298ca23d8680",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1272434,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/5ip0uk33u9rx51kwuiegq2fjr6ks30c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=5965",
+        "sha1": "2f3ff57a740c1bfdbd75d40e08fd72507e10da3c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 29140,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/l9et6v8j2ykadtu5lxin5nte8wb71rj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24430",
+        "sha1": "b603f0b710c35cc292920258a508f50d3e3c6faf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 29856,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/cm3z7ibzaz1sjh43caxifkwt8fpse9y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24431",
+        "sha1": "6bfce0fbbbbfdbddcb868eaf90d91d1ce62a4c46",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 30703,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/0whajzzx9fe5qbvq0md5ly7q6vh53ey.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24432",
+        "sha1": "07b94e8e86151c38c20242983495d10c429d0d8a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 30088,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/prhi0qa3kkfjnvf8nli0m2oub0ludkf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24433",
+        "sha1": "dc8e8f7c4462592f3cdb81051856f17b4931052f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 26561,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/m517yoi52mpy5ho9giowre4gxvoopns.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24434",
+        "sha1": "bd8905fd0c58be4f2ebd6e9baf0479bb6b639be8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 26470,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/fafev3k95kpj7dukslvfx3ilqo6st27.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24435",
+        "sha1": "82e467fe9cbaa5a8669e52776569b9a24a9e881f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 27030,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/65d9l1v4nt3bemxv41d0xocjxvmma3x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24436",
+        "sha1": "34a43f63b821ad19f2aa4c37d4ef35a754995ead",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 26334,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/77pgk924eess8kx5npsqfka7mkxok50.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24437",
+        "sha1": "3dc231759ee857e775a0365accead195c3bd2cf4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 28051,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/qqnwbe5bxill0wejq70qy7kcnfxbnky.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118828",
+        "sha1": "e4ec129dbe2b32195ebb321c3b88b7bc9bab1922",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 28485,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/r8pvo8oirpjkc79fxdttvxgum8ug945.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118829",
+        "sha1": "e93735d7cb6ac0f9e293a830ff6a369bc13c7025",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 27600,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/4jy7i74gdqzud1xt0om5cyr6m7wxv6s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118830",
+        "sha1": "26fccbda49a224e8362814ad9bcf47bc60ca9824",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Akira-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 28006,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/l26k4f3ny7unj5il14gzo4cuqxk1bv7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Akira-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=118831",
+        "sha1": "b44bd8e3333e11ecaf63f0327c5e8f19543fca53",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

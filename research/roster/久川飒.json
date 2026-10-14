@@ -1,0 +1,1487 @@
+{
+  "page": "久川飒",
+  "group": "Cool",
+  "id": "hayate",
+  "stem": "Hayate",
+  "roman": "Hayate Hisakawa",
+  "revision": 220932,
+  "checkedAt": "2026-10-14T02:05:48.269Z",
+  "files": [
+    {
+      "title": "CG-Hayate-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102293,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/sq88z1ugvx3hh6112uuocu4ieo8kofk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7832",
+        "sha1": "f5f0c0fcf59b9a80f358359af278dde18b6a80b0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101159,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/tp6qql7xwpgtn8yqnlfvzrqjr2loe02.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7833",
+        "sha1": "fe40e69b596c18666149e2bd3b4018d72c5c49e2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100323,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/bq4cn6z3leflllr02oorqj5y9rvjkfx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7834",
+        "sha1": "6461724643d6e6d1ad037af6a91dd2cdb004c93d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102305,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/qq3vao0c93yp1fai3ag65y17x51ux5a.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7835",
+        "sha1": "e4ca3449cb1db942d134a81b5b53707d74c2a84e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99705,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/2cwj7fh6ixjhwam2m2hafdcbql18ilo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7836",
+        "sha1": "1430ae93044ccf1d3afc0f83d594caf3f613852c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100585,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/dc3mhipyq2fes1kgi1j2c8wudgrfvsu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7837",
+        "sha1": "722b15394bce86d7193362f2c5de56f372a8d9be",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100961,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/fkggmkszf6kjr2dhqh6zyetyxku4key.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7838",
+        "sha1": "8546f32fe6ebf0ea120660e2c53ca69901737e5a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Hayate-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102060,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/9fj3qdsbmr3nr5csnqwsu78rl05ie7z.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Hayate-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7839",
+        "sha1": "50bd9a72ccdc949bf1a8d322c9f0acb67b8e4d7f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1144467,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1f/juvgk8drq2beql0cl2gkg90392qp44d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117083",
+        "sha1": "a9ff5e4493aeba3e9e573b4c84e4a03c7a77d31d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1172234,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/ltll28ddabayets4k0dhyg4doi3aai9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117085",
+        "sha1": "bad0ef7562af19656d71a74436cd4fa3f70a7eb1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1018003,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/04g5wz4oep5x9n754r13wo58hjw95wd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7848",
+        "sha1": "010ed79f72d45aee061344f895c2732c6dbbe21d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 990702,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/6fbxn64q9gkfrvy1jxgbxo677mmn5ua.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7849",
+        "sha1": "3702c3fa92621517a6fc81c79bd6c48ae0919b52",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1315750,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/ra84xh01i5hsysoon31mh6jdje8pgrk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7850",
+        "sha1": "e992f5ea3e87a05d167bc2fe0656beaaaf069120",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1319611,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/kwv8qwlp0oopt4jtjki022jnlty88u2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7851",
+        "sha1": "b308539f1dd5435b6f1490fb623da021bed0e4ba",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1298197,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/k8j45ap63rso8yi1j8rombzazcu0kzx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7852",
+        "sha1": "ad3ec542f9d3455b9a856626203ad5288edda84d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1507632,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/6k6ifadpj15z0ybd471u7mp0eofutey.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7853",
+        "sha1": "3829faff5a22f44509e0804b2cfaa1460ee99f6a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1231551,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e1/pbqpnme8g6zew925n6ygi6zc1rb4qqw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7854",
+        "sha1": "d8d01b4c3a67c6d8cc44c52279bcee6db471a768",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1326267,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/jo8okvjoispopvqv55n0nu3h5z9zymr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7855",
+        "sha1": "a86b96dcdc46526f6e7db39655cd6bd8f00d3f13",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1318363,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/4t853bvgy3ol8bij8iek4xbk27tcznm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9124",
+        "sha1": "29317c718123e545db31656e8c2a3b28a9b51882",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1427351,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/m58d5xs9z6nqk2nx2zg3oi3ddoj29qd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9125",
+        "sha1": "bd951adbfcfac2102ab1859caf183327caf000c5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Hayate-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 84408,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/6y1alzu3jk3qjd7d7w0l5nxf1n4y5y8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Hayate-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=492",
+        "sha1": "3b756fa459374f3f910583abfbcb9193ca5562a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-0.png",
+      "kind": "icon",
+      "info": {
+        "size": 16743,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/0azfh81uh3gmrthqy7eelsf8h76h7o7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-0.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7828",
+        "sha1": "029caed216d8bd46a880197dcc61db18cb119317",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16609,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/rtax3g5n9qyx7hxv51u5vajd5f0i3h0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7856",
+        "sha1": "ee1c54151bcc027dba6b5dd9a23a1042378c0e14",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 15632,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/3tjbb1a94hoe3nrg739jvy8gzglbnpq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7857",
+        "sha1": "20b4cecaf0af66afa1fc1dddfd39c760f44ff1ce",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17255,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/4kxb4ue9o0k5g70ko9qm9r1yq8nai0y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7858",
+        "sha1": "273827191c200dae1f280d74fb32e805f13330c2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16591,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/jy199y7case30saddkalmz5bv363uto.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7859",
+        "sha1": "aabfcd99f10512d35d5c3333f2a77ce931ed20cc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17339,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/crgmevbt70e58x9pvxvdlas78vg33mq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7860",
+        "sha1": "6d42a565e711169a179894fddcb14acc88766122",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16178,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/jopvr41bjfxugb1vtvf0kst3pb2mha3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7861",
+        "sha1": "a888ac78f8b0ed36f34ce1871c5ca89792b89efb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17450,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e7/81pl8smvbrnusj092257ayi2sioc54d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7862",
+        "sha1": "44e4b903dbe0a0e4688a58b181f16438b6ab84ed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 16865,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/52cmwvxvpvy0m9nf8an2q5ysj0j9khi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7863",
+        "sha1": "2b5cfaee97ede0ae3f04031f2a323d672ae0f2f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16975,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/01wdxt82p6dfecntio4mgtbcx0einn9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9126",
+        "sha1": "0073a5067aa29312041ba040bc4c395920df2635",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 17206,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/e9oc7we0h4mxtlgfx1qh0jtyu0hicna.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15455",
+        "sha1": "7a270d81642601f002c5968b381fa4e6cbf22186",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 15456,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/p4pptiftot7v4nothtaq6lke03aihwp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35619",
+        "sha1": "d72448cd62239bf056acc65e132c29c69fece129",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 15699,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/t7zz1qvs9qgyc95ooksu6vo2wk4ox0c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117076",
+        "sha1": "fa2a8b915334bd338e23d090f00f765c897f911c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26043,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/9bw0owuewokldx7bev7ql9myt2a8uqz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25397",
+        "sha1": "4fdfef963f8eb894b3638104dec18874760f2fab",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 25947,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/7tuog6yep8b1m032uu990v11mnt10xj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25398",
+        "sha1": "430650020ac5d50164d7bcb660035eb7aaf353f7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 25429,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/o0s1dx8dpwuquo4teq5hpe9ny29g3tp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25399",
+        "sha1": "cda5215c0a870a6a4b0a06049998265cec90485d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 25554,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/46vjjbzusdmatc0l0zkj0mone63dy3l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25400",
+        "sha1": "23e0e33669b2cad3ddc85bb935ae0e23aa5148e1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1176077,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/fj4vp367xr4cz8rdwmxy88cwagm41bw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7840",
+        "sha1": "84f67d0e9eadc8e77e8b9ae6ad61e3c75f4b95bc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1178929,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/086llhp3up3p7tjicalymb2kj3x0zmi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7841",
+        "sha1": "01f22d31345197b23791666289755aab1897915a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 27417,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/lbkvhyc3vdks1hjy5psc32u5kt78zrk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25401",
+        "sha1": "b687f2e750e425da9954f95ae95a08e37098e210",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 27582,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/onfqutwya0k9i0eshr3tvwstxyf98qf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25402",
+        "sha1": "d308839795ae1cd60a6ad54093d6bb80a1ab1b77",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 25357,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bc/5zw44nrkcpupp7sa4uvisfo0w9cuxme.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25403",
+        "sha1": "3356dbe50c88951728dec7ad9297ee927a0f55b6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 27637,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/5tonxyju7yrcgjw7wrotiuyehzqepn4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25404",
+        "sha1": "31dcffe1fc00806f037b9d2c516bbab41bdacf50",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 28812,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/05/7mlsdywh1n5n347eca2p6qpk1hqyb3x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25405",
+        "sha1": "414d23adadf0eae5477e895ef2c5a72012b4babd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 29466,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/8vn56zjiy3pphgcvo88oe39fe6shhx9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25406",
+        "sha1": "4c02e575ed1f152cca9420bf3cd4e0775d8788fd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 27905,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/crieo0nmfhj3j8d6ikmat0zwo5qq78t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25407",
+        "sha1": "6d45aa0f22ed2d051ae19923d1d2d4a58396b52d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 29464,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/dpe74b6gxqg3ugwtaphxjuwqk91n25h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25408",
+        "sha1": "75545cfacd3ea458a61a0b5d2f6519e507e18fa5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 929908,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/c5y4fqpougwtx136tg4nm3d08xoi5i5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7842",
+        "sha1": "6824f24dbb3b4f775a2f8188100f4325d034a85d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1327559,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/bezu2uh38gnalyz7x1zzz6k3hsgbiaf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7843",
+        "sha1": "61bc29d1f2ce4d299f26df93c29b5a578fb30157",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 29581,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/nu0fgyonqsvljjuvjz5ur2s7ubs82oe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25409",
+        "sha1": "cc092e63f4900d4d7fb88e0be15dbec42d84078e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 29866,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/dj8rzsnc64aybv7o5u7oyem2bpkm8to.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25410",
+        "sha1": "73ddef8766943639171395ff6882057b8dca9e2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 28896,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/oxkkh6uda9dgs5bd7o40k7d0zvh7yin.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25411",
+        "sha1": "d571707c627d08acfb2fdb40e006f8fc0a1b677f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 28958,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/gudyvd91n104zk4dew6ap8ig8vvkysm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25412",
+        "sha1": "903313427bdb1160b395fe9fd3baf112f181c826",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 26987,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/0dq2i3tqraba5h72m591xmyny07xf1w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25413",
+        "sha1": "03437c301d8054f1040c68af28e6903b482d1174",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 26660,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/qid8dqdu3h2bby461occf14pn5pueh0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25414",
+        "sha1": "e2f305b275204d69e600d1c01ed4111e219241c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 25888,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/iw4qejik4altvzwlyweq0i3fesea9m1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25415",
+        "sha1": "a1bc5af1fb07b8f142aa8b5c0fabe419609bad29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 26521,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/jwkkq1bd17l032ytwmaxda8far9enot.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25416",
+        "sha1": "aa66b7640a14a31cffff8e05c8c0610be63cc46d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 32939,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/0xpw1dr00nvg8jjubh1ms92p6dv3wc0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25417",
+        "sha1": "0804b89f4eae4dfce13d260285877011392c3970",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 31762,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9c/cbqq3pjenuy4eqwzr0k1xyrwn5gy6gz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25418",
+        "sha1": "6985b2a9d9d916d1438c4c792390d5e55f9d0943",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 31948,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/99wrx9oyrczcrrqw8zwp117x34k27nt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25419",
+        "sha1": "4f677609db1cc6d6b313fddec3a25d06398b2749",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 31949,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/agx6o25d1njw3c0ih3vw0t5kj0axzfh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25420",
+        "sha1": "59a1dd34ec7434077324af74a6a6d36017fcab9d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1273138,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/n2z1vt4k4v74vwihyw15rt8onctykz0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7844",
+        "sha1": "c59b2c5d296403ba9ebcf176342d3ba4af4bfbac",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1260661,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/jvupk3bmnt4puu4wz3ng4jc627hu217.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7845",
+        "sha1": "aa3afa0d5f54a41b5614dceb798d58196baf32cb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 25216,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/10qq8yjf0qt8kp65rk1u7u9ylxnpix0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25421",
+        "sha1": "08bcc56e7dc1d1b1e07ab7c91b19c9b18ef09704",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 24941,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/07t3pcukzeynf6b4hxminly9pjeuhtv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25422",
+        "sha1": "01db5a4ae9ea84f2a5921a456735f6b504f57fc3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 24569,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/cauo01qh48uip0vhrrlxc2viieaa3a8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25423",
+        "sha1": "694f7c7e6d5c459a7edcef782221d53085b31120",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 24442,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/kxwbbtoh091jktffy55yggomh88a2to.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25424",
+        "sha1": "b3470412207ef44a3291398767f730a6814ae4cc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 890380,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/cnoj463cibfnbn1ph5nln2ob7qj43mm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7846",
+        "sha1": "6c5c82f02fac38db3d203654c579b08b3674b65e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1278215,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/pdn41l6d1q0izq9tj877170d2moz17t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7847",
+        "sha1": "d943c5b8181f6291b4b67904e77d38aa065d80e9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 26733,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/abjqw2j355d5fm3gpym90xnr2ev96gy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25425",
+        "sha1": "585ac132fb54ace30a4870489faea089013fe002",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 27023,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/n3quztz3edswgmr4o79tux7l5nrx47e.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25426",
+        "sha1": "c5ca32d116e5275203eb46f19fd6190c1d31da8a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 24974,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/07d0orbea4c352bqcgzaji8k1kgvjwk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25427",
+        "sha1": "01c02791bfddaaa3df29af7d0c54a61d89216684",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 26882,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/8r8ehtfoswm278pj838hoo0q8b3u0iu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25428",
+        "sha1": "4af675b97e4458c0d4c9bbe2d42604730bb24d26",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 26495,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/4aua5c19bp6fgtnotfididpt5wc35e1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25429",
+        "sha1": "24d243712566fbfdc6146b10814f100c36ffda09",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 27497,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/tqpiyzv5zlfwgwfzf6xr59nzifjjm7s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25430",
+        "sha1": "fe9d8ae151a3e323e2bfd6e82a5a062184016638",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 26637,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/0bnky7yw6fij6imo8piz5ztpm77xufq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25431",
+        "sha1": "02c5864bd433a72a2d4f2a18acc74a86087e9b56",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 27854,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/kybbxw0eahvjamm9063zzdjxri8jlkt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25432",
+        "sha1": "b36068fc808916d1aebc637f4a538fbf6b1e73fd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 27722,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/hs2rz72g9wkvjzt91ow9q6z8usxgzzg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25433",
+        "sha1": "9835f7b88acc88ec01b05d59681b289f7434ab2c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 29139,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/nwk4nd6o2ftkm4a3avgjbyk00drtjwh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25434",
+        "sha1": "cca43f54a84def9b26b15cd687e21fc9e7ef5901",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 28614,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/0bpal8qvdf0qp76do0i31qct8s5kkml.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25435",
+        "sha1": "02c86b8426fce44db5affd7ac9d0b6a30d227a6d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 27392,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/2ydvufsghv8bi9id3z0txxcho33nlld.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25436",
+        "sha1": "194c70978d308704e68c4ce70261f00eced95c11",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1319735,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/17fdv1pwy4uf072091om9dvp2v3b3cm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15464",
+        "sha1": "0a53ba1c477c60d1ea0d04cacf486f5f820404b6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1295924,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/b31474gu6oqivuit04hcfu17gfhookp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15465",
+        "sha1": "5ee3ce4ccf55efa17766aed0682efc23e1429f69",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 25227,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/8igso6e5mabe8dwuofmbu9i8fiyy4k1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25437",
+        "sha1": "48e0c2d8e2f0cbf1fa7bd772b8e0da7e4cf92591",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 25200,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/i0gw939evkisdi41ntjyh17x1hifvd4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25438",
+        "sha1": "9a34dbd6400c33a07a13cbbfc2dd185818fdd288",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 24426,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/tsyjwx64yztroxumm18eroqcplo792z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25439",
+        "sha1": "ff268f5b3f6bc1072d8afc1d68ceaf6cac5945bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 25590,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/5uyltayzc0dj1o8es8rmfg1t7yyorw5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=25440",
+        "sha1": "322aafd0ff991e423c6efda3b38d698acf5a7d35",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1544150,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/32chdk4d591fasapwvvekhhdck4h7tm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35626",
+        "sha1": "1a3d93bbd63268ada40f58e3734b24f3993a95da",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1329107,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/mzxziweu6rgnrx91m587pea1oviogx3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35625",
+        "sha1": "c4e2bd92b8c00907d04bb12fcdaf9180253259a7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 27571,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/bot1ae4asmn7kpbax4hm9mjfdf6js7v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35620",
+        "sha1": "64116f47dce0f2777fe56e6715fece0e836c079b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 27083,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/b5mrqgbzm2vljb2srzyg8ie1gcsd1bi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35621",
+        "sha1": "5f822d50680edfcfaab5acee281691c6557bd3ee",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 26870,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/ml426qzw4ft4gr90tic0zje4a1je8au.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35622",
+        "sha1": "c15bdb612110f2077c4c22046142b9b72ae55886",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 27255,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0d/qkm2tlbdfqkms05vivg3ivqteqd35qw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35623",
+        "sha1": "e37bbbfd0287fe703f3db33310638e8ab47a34d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 29970,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/c5m387lez8grkubf9uyrl6x7s7ckleu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117079",
+        "sha1": "681098ed402bb8925d6cfcc0138ba1e5a2bf3166",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 32055,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/24x8mkgmugdjwm57nw6nb6dtu3ds0q9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117080",
+        "sha1": "124adc3087b29fbdb4460597489fd3d766572bb1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 29708,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/8a0kt9ol13hj5xzo0ks9fda21m4iz1o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117081",
+        "sha1": "46de51d498a8d10d2ef332523027787db6c7adec",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Hayate-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 31790,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/7amqmcc43tpkev7k1ddxv6jymjffmtb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Hayate-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117103",
+        "sha1": "3e743939b476d50cd104e27529c2e91366d09c3f",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

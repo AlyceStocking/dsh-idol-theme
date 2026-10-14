@@ -1,8 +1,38 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { CHARACTERS, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls } from '../lib/characters.js';
+import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls } from '../lib/characters.js';
+import { readFileSync } from 'node:fs';
 import { normalizePreferences, validateHostMessage } from '../desktop/logic.js';
 import { DesktopState } from '../lib/desktop-state.js';
+
+test('the catalog covers precisely the approved roster and marks unavailable entries explicitly', () => {
+  const { roster } = JSON.parse(readFileSync(new URL('../research/roster/index.json', import.meta.url), 'utf8'));
+  assert.equal(roster.length, 190);
+  assert.equal(CHARACTER_LIST.length, 190);
+  assert.deepEqual(new Set(CHARACTER_LIST.map(character => character.name)), new Set(roster.map(character => character.page)));
+  assert.equal(new Set(CHARACTER_LIST.map(character => character.id)).size, 190);
+  for (const character of CHARACTER_LIST) {
+    assert.equal(Object.hasOwn(CHARACTERS, character.id), character.available);
+    if (!character.available) assert.deepEqual(normalizeAppearance({ characterId: character.id }), DEFAULT_APPEARANCE);
+  }
+  assert.equal(matchesCharacter(CHARACTERS.arisu, 'Tachibana Arisu'), true);
+  assert.equal(matchesCharacter(CHARACTERS.arisu, 'Arisu Tachibana'), true);
+  assert.equal(matchesCharacter(CHARACTERS.arisu, '橘'), true);
+  assert.equal(matchesCharacter(CHARACTERS.arisu, 'yukimi'), false);
+});
+
+test('every available character switches and persists independently of the previous wardrobe', () => {
+  let previous = DEFAULT_APPEARANCE;
+  for (const character of Object.values(CHARACTERS)) {
+    const next = normalizeAppearance({ characterId: character.id }, previous);
+    assert.equal(next.bg, character.defaults.bg);
+    assert.ok(character.PETITS[next.cardIndex][next.petitIndex]);
+    assert.deepEqual(restoreAppearance(savedAppearance(next)), next);
+    const last = normalizeAppearance({ cardIndex: character.PETITS.length - 1, petitIndex: 3 }, next);
+    assert.deepEqual(restoreAppearance(savedAppearance(last)), last);
+    previous = last;
+  }
+});
 
 test('character changes atomically replace outfit and background, preserving toggles', () => {
   const next = normalizeAppearance({ characterId: 'arisu' }, { ...DEFAULT_APPEARANCE, showSign: false });

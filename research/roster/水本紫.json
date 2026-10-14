@@ -1,0 +1,1843 @@
+{
+  "page": "水本紫",
+  "group": "Cute",
+  "id": "yukari",
+  "stem": "Yukari",
+  "roman": "Yukari Mizumoto",
+  "revision": 220947,
+  "checkedAt": "2026-10-14T02:04:41.694Z",
+  "files": [
+    {
+      "title": "CG-Yukari-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102375,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/7xsu3qxqtz4mx64ohtxdrj55nb7gr84.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11887",
+        "sha1": "43f6b43ace8a78227ecc780b0c829affdbc710d4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102264,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/er30qg2jwqwayard5598t2xk6qh0zub.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11888",
+        "sha1": "7e4ac997253e15185e7a67c74306cd7472b96e73",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100632,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/ef5fkmnplmr2vyu02anoaj31h1ynxir.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11889",
+        "sha1": "7b7457ba1495da7d5f8226f49a5a7e031ab05f73",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101149,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/129qw1z3uj3m2ay9b26b87c7psz78xl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11890",
+        "sha1": "0919cecfe1dc425ab3bd43064d8abe3352746bf9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101892,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/82nvkeyuig15fu88l6crz78c5lw9l3k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11891",
+        "sha1": "451eb3d9991097f892560b82fea696fa1204b710",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102120,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/m70b81kxiyotcpapcly5lesstvkd3b1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11892",
+        "sha1": "be013d4e31aa5654273c8ab7352174a4fb5b91fd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101394,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bc/9h0mhjl0h7uxf21fag3pz9ntirtm17m.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11893",
+        "sha1": "51181bd516a9621055c254a8fd3280cb946d98a2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101498,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/i1y1oprxxedf34e17qupojmoojrxnpc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11894",
+        "sha1": "9a8ebd0aa119acf0934d74125bdce36ea3079d40",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101063,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/g2bt9swtjk2n84adasslcdvxw23ppif.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11895",
+        "sha1": "8986dfe2964b96aa683d3bf78c8f5fc989cfb867",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101600,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/na7lstzjmah31070mfn89k67bkfqwx8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11896",
+        "sha1": "c753c6a7d298ac573e877ae787351058edd7d82c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102080,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/l91tvlq128kcdupln6syb0vptcrfif1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11897",
+        "sha1": "b5edfd3d05fd741e9a3c92cba64c39ea0166c5fd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100685,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/t2hujhdtrqgxxnvrubb921gwyl5jbbz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11898",
+        "sha1": "f8db8291cebff647853cb18ff71f20ec1df9791f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101349,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/lecpxi3i5e0athiojo43l058b3j29d3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11899",
+        "sha1": "b730ca3f9a5112e72f95152005fdec8b20352ae7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102251,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/kvm2n7wmfrra1bjao5f5qgpb46dawgg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11900",
+        "sha1": "b2bbf19aa674375f45d54587ab96f4d176f6c7d0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100864,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/kym4djw1usl6vgx7qcm89l5ipilhd37.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11901",
+        "sha1": "b372a7f36b59ab3cd056afeecb19f54854182983",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100679,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/efqikanowwplfsraxumhu9pb8khydag.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11902",
+        "sha1": "7b97fea773a96b5ad55323a8cbe0bacbb72338c8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102374,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/jouihzs7lys8ajszyvetnmq4zw05d39.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11903",
+        "sha1": "a890819da5204fc453c8cbb95c703a2d59528185",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101215,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/c7dygotsuvgwuu4pluko1cnevr32ctz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11904",
+        "sha1": "687c996d2df9069ffdc23c67bf1cb587c77f4c77",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101709,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/01/6cm40bf0ntjsnh212bz1gbg4e3zmocc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11905",
+        "sha1": "365d5806737dff7b4862c29eba0ef7f15528f3bc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99524,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7d/3okgenzm7qjf6t7l2gy50ac4wns05x5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11906",
+        "sha1": "1f865a7db92c30dad0c4ded0522049fcf4c175f9",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99693,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9c/qc8nwwj2d7xbbc7s62losbdqaodtraa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11907",
+        "sha1": "e17e08e91596fa73de2dfa6e928358daa383dc62",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99899,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9c/bj2fhom211vt6zjjk5pv1wy67mo9yrv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11908",
+        "sha1": "62b40f24a9e64587a04b35ddb86394d23a19384b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99293,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/inc4yephlori54l4v75opfwc2458bka.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11909",
+        "sha1": "9fa4fbad2b13dd777fb8004984b9006f73a5c18a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100238,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/tla6vqru41d1lvz39hj665rmqnpv4tp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11910",
+        "sha1": "fd53396796370d01853cbcccfb6761135a6bbf2d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101871,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/6lth1qn81wbouc3fznsdetkh8oeslod.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11911",
+        "sha1": "388dafb98c611d3639accd96ada7142bf0fd4abd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101724,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/6i5071h1b94p30axfpq9p3bd02hwgz4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11912",
+        "sha1": "37adaddef510ed244a11345750f43146a25056f0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101633,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/gi5jpcweituyfu55ln9l1retbtztzzb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11913",
+        "sha1": "8d4a4f8c92bb048447054d5767c920c8a027e267",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99337,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8e/4w3jtv1zm255y4lrugpweme15xayapi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11914",
+        "sha1": "29e05aaafcc6c40b10e1fc7ff7a6625db62768b6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100848,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/bhk1ecuc8kteyae0tkabkshiz75w1os.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11915",
+        "sha1": "625814eafb7fcf7c793feb1e5d6b10e541d2218c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100308,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/959abstnxwe2eq00b8mekqzflw0k8qp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11916",
+        "sha1": "4e4c3ba3263958afb194a48d4b13a75e2d5ff941",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102168,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/2qsicc4hfii0dh5q0ph3s7nzgejr6ya.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11917",
+        "sha1": "177e27b23202ee42fa6e2b5ba1ba7ab1e91606f2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100490,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/a5z96hq04ncloalj4az34pdcvjjiwk8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11918",
+        "sha1": "5707b7a0326bf6d46a68fc397d877d76bfcd8458",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101866,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/1ho21egeu7oor3tvuj4rlfqgbj5rapv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11919",
+        "sha1": "0cc329250425bcc171dcbbaae5b68dffd6ed7003",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100159,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/h9bizhtxcadcdsgm53q51q558vbx0h8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11920",
+        "sha1": "93c01a0f354a416ff3431bd2bbcbd48d617807ac",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101559,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/jti2fbge166716p8ilfbt5vv9i8ybrb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11921",
+        "sha1": "a9abd806fd0a54af14e5f9824d35214fd7895007",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100747,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/b8tamv4pu0zds8e84usrl1yblfc2hzx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11922",
+        "sha1": "6043d789205a13e7ac6d0aacff879ff75653ff9d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102100,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/tmgom49dxps2cy8x0n4asaa2yq5w2hd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11923",
+        "sha1": "fd9b14915140de8770e7d2ebf75ad00b2f9a4191",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99871,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/af59h4wlzhes52vfyfd6qb1mmhcgu23.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11924",
+        "sha1": "5935c52d255973a467496ba1915c5aee75f64c2b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yukari-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101410,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/qm93hheavzneqah1546rozd7d8oq4fe.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yukari-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11925",
+        "sha1": "e3df893f21a5ef88783d8e7cf4e93ad3388f60ea",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1093662,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/rmsmeil2zgmw9vprban98g5dvtca2m7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9023",
+        "sha1": "ec9020329ec505e55ce6d34893825c61e7707bbf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1421392,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/fk4zwmkjf064t5latg3r7ugkso0gal6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9022",
+        "sha1": "8533902f27e8d8baa9be9035814ba780ea45b99a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 875018,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/r5m7vb6v3q8z68f6wakia4zpyvaqvvi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11938",
+        "sha1": "e87a635e212f966ebe1a08c2e53e09c27974a9de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1071462,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/exuscnb8e3j9atbhdhebqf01d5vzbdl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11939",
+        "sha1": "7fe7011dc7d34f962c1d0879047607f54a46e759",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1100279,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/d28ukesq7lpacuyk454kv9jsdjqiqux.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11940",
+        "sha1": "6fd325d1d1f466dca19d4ab9e22c1bc9042bae79",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1313974,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/m41tcdl3vs3bp9odtbfpnfauo2o00js.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11941",
+        "sha1": "bd4d2694eff123e235c94c7f315ee2b38ee762c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 978952,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f2/bfzmpneah26rw91atilbxxf2tkyjgz3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11942",
+        "sha1": "61f8b1beba0143b7ec66a83d26a42bfa6f2e5eaf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 954141,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/o1vcswl267o5897auoogubq8e8bxmkk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11943",
+        "sha1": "cde79ddb85b4e05a9027346025961711ee71db84",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1200236,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/f4z0lvjvjult8g4dvfuqpheyj3pielp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11944",
+        "sha1": "81984b925d745c7a0918bb257fa535cd44126f6d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1526696,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/60x22ybw0gybb742eqh8p6uhv496e01.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11945",
+        "sha1": "339554afa42b87aca0f6dcdfbe237d250840f561",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Yukari-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 52419,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/qfzaqp616939hhehy4rnak2bb9s0xny.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Yukari-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=627",
+        "sha1": "e261b46b44fe00a533cb91d23fc8a60bf4b27a6e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1051199,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/in8ncrl45r3rod02tu1a6gb8cnfkvwt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11930",
+        "sha1": "9f9f154fd21fa122ba75e3536616d753f045c98d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17552,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/ba/bddc1807taucupmsftflctvbgboghc1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11946",
+        "sha1": "61593c7380f27c63689ed73fc9da86c5c2889fc1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17069,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/s7j8ookab8un9zenyskpd3c614q81i7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11947",
+        "sha1": "f17eadcb8739ec50027bc47d648897d95887339f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 18204,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/lb5gqp60e822g8qit18tahad1eynmmx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11948",
+        "sha1": "b66de3e73d44aa0d6af20adb57a630bad4c37c59",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 16948,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/584bpff2u959gql3ufjhrv9pxy560e9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11949",
+        "sha1": "2cbc2ffde8734313d2ad9950ef647a9f26f88481",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16273,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/q8ge4z9j2fx9ualqvshorckf43r4mmd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11950",
+        "sha1": "e097988c11200f128f910ff5d694370a3dfd3285",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 15299,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/oaxxw2sfbe9cop3e9yt3ldaxzdse2na.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11951",
+        "sha1": "d00fe1d3b897875a9617ea8f4c5a9c7b8ae564e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 17334,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/ixywbc69o66puvic5kinfy90sawoloi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11952",
+        "sha1": "a22c3d9fe37cc7cfa70f61375ac9038871f6cbc2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 16739,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/0moqg0800ako23ssgll5gjz1frr2lyt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11953",
+        "sha1": "05651edc0883051fc781c781e615354365e452b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16217,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/r0e7weii0n5s8rlysv5uv16am70zq72.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11954",
+        "sha1": "e73c79f73278179aae31154e5b9ed5ebaa87cb5e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16774,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/70/btrpfsggvzguaft7iyttuydh36j3rp6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11955",
+        "sha1": "653f926c361c2b9ae2ef181f4ed1d2eb70bde9fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 15846,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/34/r84wvygdb0xglv1aqku3x575rxvux6h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11956",
+        "sha1": "e913c17b68075ce90dd12b654d647fb7dbe89679",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 17145,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/fb6en8erfxovpdjy1fqtj9rl77oiulp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31362",
+        "sha1": "83120dbfad56def8d7a65a949178f89169b2af6d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1132410,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/epryeme9hprnp1cpgqmw1gk76tnyiqi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11926",
+        "sha1": "7dfb33261a2d0e895d83b012c3b6f9ca0fdcbe5a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1161224,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/8c4h44o592v6w49t5s3vszt4oem4red.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11927",
+        "sha1": "475ea9fcb4e1c69781e6f6abd7a4240a52d7b1b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26598,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/fqcqrvkrmbt5t2bo8fuec666dztgbit.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29791",
+        "sha1": "86adeca5ba47da199918b7c28a5cf0feb99e9755",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26469,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/2i8a7b0zlj88wq0f203t2gj82tjs4l5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29792",
+        "sha1": "1574efafae1afc77937397ec4e824c305b62ad39",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 26948,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/sg6y9aa9rqtarnqt8pv0hoacev7wn75.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29793",
+        "sha1": "f38dca2463dbf40bfca2c39e174dea74ac5c6071",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 26909,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/clc6e35ttdvzdw63rbtsq5rmntgtn9f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29794",
+        "sha1": "6bcdde1269d0a7a871cab04e3534f361faa6af03",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 965357,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/tvht8lhkpmazgnx4s205y3y1ndq69tt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11928",
+        "sha1": "ffc0e1a815bcb4371cf0490b4278d25139efd541",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 987314,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1c/8yeus8onufr4wqyuw7vqsyk5dp63sva.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11929",
+        "sha1": "4cab8295f43d43ac6450ca8dd5cff2ad46dd8ee6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 26655,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/b64lo99vyq0niuwcwiz7u38ookctx9z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29795",
+        "sha1": "5fa054af2f45a2dd91efbbb50f0ea2cf083129b7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 25512,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/knn0yfru9tdrmfnn6iqpy0i47zvmcbe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29796",
+        "sha1": "b0d68a22c1937d707fc32202b77dafb2ddf342da",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 26447,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/a9fu9iu14tvmirmjv2ypmoa4x2fx1yh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29797",
+        "sha1": "57da65238d84a984650879de9720f279ff714f29",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 25810,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/2h6kic83n4gsvb182qxp5i4qclad5u2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29798",
+        "sha1": "1535294ed4df39ebc7821f4d75d7b33d005c5cca",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 25497,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/1yoso4ofgpznqt49ygri9bkgomwwpvk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29799",
+        "sha1": "10cf5208ca05a50090e00826631e221481130300",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 24794,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/sx9tlphychce4pqge0kw3257asmywtu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29800",
+        "sha1": "f79d8d8558b6bc0aeeed7cfefbc0689a567e00b2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 25062,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/68y29r3rnhbwdteqnrsfk7nqv2yebw3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29801",
+        "sha1": "357e0bedc568f3406e40fcb699767ef0092f4db3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26158,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/mydy9egtnoq2dbog5zpwhcw4gheu5nm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29802",
+        "sha1": "c483fbce6ffb48d6981a10650f49628e430b2a22",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 989743,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/t2nnyy90s94bqpewrk8a72izhc89hxm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11931",
+        "sha1": "f8e558faa0eef236abf3e393ada35dc7e4f04b0a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 32383,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/51xuc0mlz0zmi3cow7t1o59zc4ibi9s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29803",
+        "sha1": "2b43f69dc5a1e334623621c1626df09a01549340",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 32237,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/agtxedjugot66e575t69bagy6prorjm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29804",
+        "sha1": "599c5b0994efce61fca6fac9c44dd0d7fe468072",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 31675,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/pqoa253psm4s6phwge60poe3018nzks.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29805",
+        "sha1": "dc5d2591a0b1c790af07bf245952832252917fdc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 32455,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/0jn34odig02qj0b3mff0ks9e10121w8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29806",
+        "sha1": "04abb411d268399d7e590291489f5602737aa718",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1232545,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/q8fb12m370rzvtjz9mh6tn0r6rjcgzj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11932",
+        "sha1": "e095c24389d232c4f3dc72a55bf0eec2bab63fff",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 954488,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/2b5ohzxnr6c4dgekkqww0hadtbtrxme.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11933",
+        "sha1": "13c66556ff8ae0e544379665887abe72de7c3bf6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 23131,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/r9i1o7v9nq35eonxbggld5okw7mzj29.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29807",
+        "sha1": "e966d745359b7936fa0d61f11ba3085ceda29d41",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 21617,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/k639oklfd2z7m42xlxiyaf35oerlc6b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29808",
+        "sha1": "acaa385c2cc6f806fe7fc637a6622dfac177e3e3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 21491,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/rl9i9lc3m3byaxibh5socu2llzo4l7q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29809",
+        "sha1": "ec32ecc972d7af10cafd39376cb721caf8f05866",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 22013,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1b/7jqaivdjn50p9smx8trsuxux7kmtj8d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29810",
+        "sha1": "409e1fda8f5f95ec857efe5b2c1f05d4825f5c9d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 23428,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/dd5fh780scb61c18kv1fmm640pb9k06.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29811",
+        "sha1": "726b034191e7ec5cd869f2fc83ff62ee9571bc86",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 24400,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/ewrmu6u8rpor9hhxru4iyfygvp7lr4z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29812",
+        "sha1": "7fa4cb9ba0c62eeafd3f4f024989b9c45341d7a3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 23765,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/dud4jbw91y6n2mgs0aylo88v43igs59.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29813",
+        "sha1": "7682ef8fb4353505434611c35340de91ba77307d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 23948,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/6c2bgpz8fdruw2vmre006hbp5283u7r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29814",
+        "sha1": "363bdf9ebc9ca5b6229441f5926beccf0a039bb7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1236057,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/qaj8m2pb2zk86n3gpb0h1ets04m82yk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11934",
+        "sha1": "e11629d54e18cc7cdaa76a874e9444aada9826fc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1299315,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/ks5549bn15dhk263s26vadw43yi7gtk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11935",
+        "sha1": "b1e8ae780e93e6c746ad0f849b7de78672669ae8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 25170,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/amk56u9uzcevoc7sc9idbjvxprrrjhg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29815",
+        "sha1": "5af912be03f7f0fe225012c06a219ed0f7e0b264",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 24341,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/2uiyvg0igwu2myusyzb6fwfkxfxbbko.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29816",
+        "sha1": "1861877bf317a825e0b1e4ca2dfa051352227c58",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 25621,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/az3nx61yxgeq31qq0ip4vg9degj5nm1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29817",
+        "sha1": "5df49b3f7743a71964b8b92739a25b85ebca59c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 25033,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/5jvakmv14czbeb6hiqxs4k0emd3yu2d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29818",
+        "sha1": "2f8770575e46cfdb0dedbb69cf7f6d5ec8e2e3b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 28884,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/2422b6dd5oamou151vzxjxzqz2uam9b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29819",
+        "sha1": "1216243d91eec2d0c1c80292c24bc28efae6652f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 28265,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/apxy1qu4q6va0628bpo24h8gjh4s2dw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29820",
+        "sha1": "5bc70b08540c632b60c9904f652e8b03dafd9314",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 27741,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/5xpg6p4xh6baudhg7hu6ztjg9c5dnnm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29821",
+        "sha1": "32d1d589cc4b1029c97832e716ccddf99cfc1e02",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 28591,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/pywff8459hzx3ythr1z1brr27c6iqud.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29822",
+        "sha1": "de51f15b74dfcd993277c3b6e6b27b418573be65",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 25962,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/ryrwomveiz7pm7hdlpob16bdkxndgb0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29823",
+        "sha1": "ef697107453db9a5936630264347ad1555efaecc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 25218,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/tlmc03sho9qt4w3tyjx2opus0ncy3ji.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29824",
+        "sha1": "fd67c1d2ba34a4dbe24efd21f361cfa921a18e6e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 25131,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d7/el8sllfzicaq0cnfs0wn4zln8ya9ivb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29825",
+        "sha1": "7ce74a22db2df2c9c1aeacb4e133dc355fc219c7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 24935,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/cjjwxcjjoix43ijznjf1ztrsmjul6vo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29826",
+        "sha1": "6b613276321c35fbd98cc8a3b17fe27bb5a38014",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1284113,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/81/odxlrgel3xf94gct931vng9pcwtt29x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11936",
+        "sha1": "d0c5f1820614766bdccb28a1a774478191b26dc5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1298908,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/9z57mjbcsailvx9z2vb913316w7apv8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=11937",
+        "sha1": "5567a6cb02cd1871b5408e6b506f86cf6ae72874",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 22782,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/tw3izzatnaomfkcfla8sjrl2m7zqmbj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29827",
+        "sha1": "ffe59a64dbbf9ce833c1d902dd31be619f47527f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 23287,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/nbaob2zrohck5nc87wvpm79xnb9inyr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29828",
+        "sha1": "c795d804fa345d7d4285451d6f1fe7cd134eaed3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 22064,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/qwo02pfqdlgv75tys4cprf6jhymcxlv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29829",
+        "sha1": "e65982ddcad9c310bfb9adf3f620b5305a87a323",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 22571,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/h83v6ibvquznvcd5jlhp4gk7684lrio.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29830",
+        "sha1": "937644f876b6eab768954ddcbd1d87eb58ad4290",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 26780,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/is8cc4t24agmavuorpgaqv00wepku1f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29831",
+        "sha1": "a0cef35e09d5545b3a7cd9352fcc4eab9a628613",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 26708,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/ferkf83dnlwiz8y4apmoe8tbie3f237.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29832",
+        "sha1": "83ec77b68ce7460b6c6b6aa8aa099b9940257353",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 26930,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8a/24esp2i89o6az17cv8b65serd9swltb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29833",
+        "sha1": "122bac5e93456876a8b8cf9f365febcf2ec7266f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 26134,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/q8uek1br5fpeqywtcuwxv7z256ql00j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=29834",
+        "sha1": "e0af4a380c4e65f34fefa895fea6b737ffcff553",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1447001,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/hdcuvotjt0tf68ra0tegu7amp07687v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31369",
+        "sha1": "94b5dc06c33d635f2e73bf1d4e12d729d5dfe61b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1494368,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/tu251ifjk2wweu4parkwsuuoxr96dpi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31368",
+        "sha1": "ff6980a25b0f73f55ead27d7b1231c441a478fe6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 27413,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/i2mbyhabifkx1i2ixm6nishixn4hgzn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31363",
+        "sha1": "9ab7ce39ec77687bf87d1263f48d9335d4ba4043",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 27134,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/3gws5u2lcgw9mrrlclt2oz2x8chqsw8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31364",
+        "sha1": "1db42e9c26132b68adddf8aa24573e29cf1335c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 26386,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/lijl5dtie45o585oxoetviwfz32zwkf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31365",
+        "sha1": "b82fe91c66f26a680577dcebfc695f8f1819ad9f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yukari-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 26135,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/gy3jw0r1l7shds77sij0oq9mownizak.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yukari-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31366",
+        "sha1": "9114f81b08162712b456d714290d7d84b2237a2c",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

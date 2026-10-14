@@ -1,0 +1,1419 @@
+{
+  "page": "工藤忍",
+  "group": "Cute",
+  "id": "shinobu",
+  "stem": "Shinobu",
+  "roman": "Shinobu Kudo",
+  "revision": 220949,
+  "checkedAt": "2026-10-14T02:05:05.741Z",
+  "files": [
+    {
+      "title": "CG-Shinobu-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101071,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/tncgiy8ib0v6f6utdv1zsj65p5y0sow.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21989",
+        "sha1": "fdd0d0349ae9ab6cba6ece9648274b200e1ef740",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101642,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/sj3j9am0u1vukom5ptphip8bbh6wtao.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21990",
+        "sha1": "f43ea495e7a74c77bf75f9116415fe24c9a47650",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100850,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/tsez463akrpbj72pd28p4xmi7syv0b8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21991",
+        "sha1": "ff057417e6c260bc70b78437127d3b8ba9fb5554",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102364,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/jsszkj3j9bcwixk20g061djjjxgmpjy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21992",
+        "sha1": "a9816f1e230570afd5c7423be7f0b7d2df7d4ede",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101932,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/6pmn1lpox6b6ftgz9rbf1bpvoa323g0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21993",
+        "sha1": "3975a38aedbfd49ea1a057961a6e8ab246e108f0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102158,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/lv4y5flnj0sd54zbp1xu5neb4s9qlem.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21994",
+        "sha1": "bb2e8e8508aae7d05ccc64a15035440d6a0687de",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101878,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/qzpy2p3i91qm2h58akpnvesuaawhxps.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21995",
+        "sha1": "e7136e2510609d03e2a96eb53df1b0304b916cf0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101708,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/mc0ums5q657j0x9m0rilult7co00ics.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21996",
+        "sha1": "bf32893f7532da22f700867ac0adc05102f93cec",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100785,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/eeg0x16wmshlgeypzyr7syd6bw6jj3j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21997",
+        "sha1": "7b4960eb1ebb5f0a4e895946ef582ac2f9fc5d6f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101259,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/2mok19y02m41twhpqia7js7dlc1kg3b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21998",
+        "sha1": "1683f667c6090bdd155b670ff2cbf2578e046f77",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101243,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/r6o5zfye35f8se44jkys6vwh1cpgd40.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21999",
+        "sha1": "e8ba8f0330039d383d0d3c3ddaa2e8150b295f60",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101580,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/frw236o9fm9nlpfjfjixl7j5okzkucy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22000",
+        "sha1": "870b765dcfe3c70d647a15f6ce14e4e7384469b2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101717,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/mxmvfo2ex3y084kyj9ymgel3o69mbae.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22001",
+        "sha1": "c456317166cc4c190068f10ad864cf99dde7a3a6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100976,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/pnhsizx1jp1e1ru5te8mr3l08ztg8we.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22002",
+        "sha1": "db9b8bcdd0883bba0cae9f0d4c6031f02500ba0e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101608,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/57vlifauu8h7x4e60dyt9917vu443ta.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22003",
+        "sha1": "2cad6dc6b6bd4fb06626fd757609b0d40d14584e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97853,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/75gl9dp5orha2poxqmao63tcznnma7l.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22004",
+        "sha1": "3d3970cf30045650187eb6480f500adde4f54031",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99621,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/gcogl7jb8l9qsikavz8xbm7aybt845m.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22005",
+        "sha1": "8bfd0831a2b341b8a5bd9a02cd2ed77d546fb00a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100325,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/3r97aethomkmc92xnnvyqizp9h9jtwt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22006",
+        "sha1": "2029f46fc95121c09e5869161e541ad287307b2d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100272,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/kib9ubaioamc86plv957s84d2yi7pjg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22007",
+        "sha1": "af92479ad503e33bad7ffe971986f0caf9c7f70c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100761,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9c/gg4v98o6bydpbjfaipsbol2y5lvx2z9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22008",
+        "sha1": "8ccf688bd79ef794908c6fd1d282216069d75055",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100934,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/foyxk8mj8h0u3kmlub1wycq8f1w6uke.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22009",
+        "sha1": "8659b11efabb2541343d4cc1eb9045c81b61943e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101113,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/riqlbc985dszeeg9ed5fwke95hvp3xf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22010",
+        "sha1": "eb992f45840e6ae1281732dff3b382f4841ad323",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101755,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/t54enkauvs0h201fafg3or6ud6bvy8c.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22011",
+        "sha1": "f97b695161e4477e55f3cbe562964e01da21d20c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102024,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/4ns8r8th2368rdpxzp2pkl5i8k2vfa7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22012",
+        "sha1": "27e6378413f5f17cbb11e456682336c4e9b0711f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101728,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/0qg5epigryrwjb50x62fh5e769k9umt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22013",
+        "sha1": "064a1cb5a0684502a612cefc9368914b56177b55",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101418,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/gd5uocbmpig06u70tcoxl8nvn0zh8o6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22014",
+        "sha1": "8c1a70f15d68206213524cbedf07b7925d287926",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101343,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/06qajnxjvhniv179byez4e6djdl2exp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22015",
+        "sha1": "0199b95968e1574d4c6b10c0262fcf429bebb11d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100790,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/j5b59vya3rz07zqqdjiptaz1nfpnnlz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22016",
+        "sha1": "a3eb17c30c64dbaf7fa6c5b33c1892942204dc47",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99971,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/j9ma7v8alb93roc5j5fclv8eztb1qhi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22017",
+        "sha1": "a4f16f2e1447d58bc402750931f982effc9a6b56",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101190,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b3/cgd9f5z2aagmx4zq0j7iokrocsw3ikg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22018",
+        "sha1": "6a9f50de1442c31dd4bf3c84c333a763199650c0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102001,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/ha57vuocj94y7cqtakrn82byej8vxsj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22019",
+        "sha1": "93f24fa8326af85c8c61923a394766f844a850d3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100969,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/8bcbntnvzv4lmh36pgfitzicf2kku02.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22020",
+        "sha1": "472f0f21734091a6cbe51e776661a3ec12afa0e2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100307,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/3gzjrsk2nc5zxw4iwgemk9b4nniogtr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22021",
+        "sha1": "1db8dc6d883473e73b9ae37a83295562b335e92f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100446,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/0od61g2xbaa1kt7e2ml5oh0yhcn0q1x.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22022",
+        "sha1": "05cb5094177cb7fa37edbbdb79a4bbc261e63ae5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99577,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/t08mv5wxn5y8fe573vooeuyeo5gigwo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22023",
+        "sha1": "f8522d2066897eb2094810b42295d790f7776a18",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101350,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/h3j33w3s9kylubyh6ndbz4z06vrs99i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22024",
+        "sha1": "925f9f4ca38662a3a197788f1b7c12de5a5f54e6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100894,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/co4tefv1aa1bevngcjtyqib2b1yutjx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22025",
+        "sha1": "6c780d1179884464596f761f3d9d23b43d7d271d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102037,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/5sg8fxynkm8gqb3hqvfui5q4oekx7jm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22026",
+        "sha1": "3191ddc17c59597292b1b02cd46c440139ddb072",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Shinobu-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100640,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/le17ubumsl7d0n4o5vpv3o3axknn9cb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Shinobu-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22027",
+        "sha1": "b71d56cdc0960638bd8921953b35b3308bd5660b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1031449,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/08q8lovy50upf2skfbc6ma4i5iaj8mv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8987",
+        "sha1": "021362fe3e95a7c50a525ad189033c6cdb955477",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1301766,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/qrn84jqhauahuxlnw2idzvra0mkp1tf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8986",
+        "sha1": "e527d03c82bba48f152f62f1f7b2726c51b20173",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1487005,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/59/dbvpcbabpsa7ztvvgb9nuscq2uamwu3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16403",
+        "sha1": "721db055f777dc25d3ea230c206767256edc71bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1372578,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/lqpl663xq1p4hqnqcy4ynn661oh77hd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16404",
+        "sha1": "ba2112dc2b9398f0277cab19cdda2fad95dec2a1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Shinobu-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 43456,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/kg05kv2i1ei59hg6lev2mo4wed1irpu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Shinobu-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=601",
+        "sha1": "af05b965bad880cd3b7223b1269ba932f68031d2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17036,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/hpu9rxsbf25whxyei7thhdwpqyn0n2x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16752",
+        "sha1": "97add49a9116df2e57b34cf70b23c299863793d9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 19939,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/09/qstp9q8qsd22rewtw6rkfdlktgm250b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16753",
+        "sha1": "e56fa451ea4b298c0be67c89e550163e2afa6bdb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16179,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/34dtbkjmu61dhoxpkfuzztp8ahuh0i2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16754",
+        "sha1": "1ab9954a6f53e8b1306e54e0d5995658c5177eca",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17952,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/p1zwa0bdf90wtihcuytlvccqj55pl2o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16755",
+        "sha1": "d67eddf7b455596c40d3c745e94ea79a7c443ff0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16540,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/dpal6riqoopiqxg3am9aamm4h2xs8op.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16756",
+        "sha1": "754e4289da28852680f83c2a8399ae30ee8e33f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 17071,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/t6al6wtmld00jb8v3pha6u3lhr2007w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16757",
+        "sha1": "f9c2bddb99abd9e463c01339f7a111b24148df1c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 19468,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/97c3kesudgc269kka1e6sgom30ax6oj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16758",
+        "sha1": "4ecabe1065876f4c6be050822187c31f63069a13",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17161,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/48/7u39o4oabnhmy59b4ct8zi0t6yadhhk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35635",
+        "sha1": "4314d668f1948d3296539d08586f57352df34bc8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 872421,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/clnacq0ptudguhrksofqqncz9r7i5lb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16393",
+        "sha1": "6be0a7a643598ec69308a05dd23a9c9d9491efcf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1147512,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/2d9etx09m5jwsoatfcbo51308w0zb70.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16394",
+        "sha1": "144675b30b0825dd645ef23c205a2bc10a9d236c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 27258,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/0glrv1avyfqkzr8tvxbtpaubm8d4kwk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28849",
+        "sha1": "03f2da25069e67177c90ffca8c0b3e83abf3afd4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26658,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/s6vfln8ej3w2zp1d4wmn9qg93ul7vzr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28850",
+        "sha1": "f1566b48a7d57badf5abfdbc2a3040db0a547ab7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 28518,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/d6gtlolatkz5zyksj2l6llnt3oyvfut.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28851",
+        "sha1": "70d4237a51b47e1c5258a4163ad7b03942029405",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27651,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/hsc32cu156v84q6xyfaezlgky6tbfg8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28852",
+        "sha1": "9845b52df5291eee462bcbadf65eab07c80057f8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 877570,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/07rq1562288n5x13uelmlcw448q6z75.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16395",
+        "sha1": "01d904f9bc897d8d9749e693aa6dd6eb0c89b1b1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1486429,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/f6hmws1vw0sav7nfubsn6d8k5xb3yaf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16396",
+        "sha1": "81f4a8873dbcb29c3db6b26a6e7ef04655202f57",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 25297,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/nrm7k5gbi812lrvljabpeo89eb5iscq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28853",
+        "sha1": "cb7761986729f8ecfaf5650afa99e6ade9fdb10a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 25987,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/e79iuhgol0sr64di933zv8imsxf19rm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28854",
+        "sha1": "79943ea3453effd9ef0597cd976160643ed1bab2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 24631,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/cm32jhlrgef40ht6fn5fe9qc7kijl0t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28855",
+        "sha1": "6bfb58283c7e56edb50ab2187cd156082112832d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 25740,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/bp6ozirtexklw8wno87i3ni12twnjog.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28856",
+        "sha1": "642887fda34953c88698b59c0f5a3d5929a3d760",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 24311,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/ax7ymkpkkj1lq93m2d5a041u8i1a78f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28857",
+        "sha1": "5d821e94968bb4e366f1b9bb30339ebc30556c1f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 23324,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/7ozpx83bi23d59uvqk3lxs7av94uel2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28858",
+        "sha1": "41de73b1c294d9ad4221fea144e808f9efc45d56",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 24398,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/senfpdb8jzsjaab082lrtuqnaa9vu5p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28859",
+        "sha1": "f32fe95f4c9120707f842e7f67f6827cafd81b6d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 22745,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/goni0pqfzinkk4v7av019pfxg8bux69.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28860",
+        "sha1": "8ed5ee991873aa1d98a2776ed8b8b6c775bf4e71",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1271875,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/pkq4rcwdqe5v6ijmljl8676a1uyagv1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16397",
+        "sha1": "daf3049899a0a8e13a82592f36b2ff734edd9ddd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1444159,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/1sm7veru3lf15qk9klbsi7u54smr4jf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16398",
+        "sha1": "0f5db3150020e9638f142fd681e78626173e95bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 24233,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/2l6z7pryroxasqk7mtjatrk2yl47yfg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28861",
+        "sha1": "16295c2b7bdda2dd3002cf106501d327bd68420c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 23210,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/lrwyg46nmjx3h3s3f4v6l9fnyaugzjv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28862",
+        "sha1": "ba6a6956975fdaf7dfee14a3d75873dce6523dfb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23654,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/1g0hf854cym1yera9ocegycpb8eujxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28863",
+        "sha1": "0c5e6bf52f270e95bbaba385be94c68bff8f9e76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 24399,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/chhe1pn3gg9mc9q5ob941wqr2b2yrcl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28864",
+        "sha1": "6ae32c9e9ea8e5f7035da970e447ac70d509ecf5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1415827,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/i4vpnf7zoaqw488bby70fm8zykkaqkn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16399",
+        "sha1": "9b416c07394373cd89bbaa8ccb9501e2ffefe907",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1264659,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/dd110wlgtqemn2e3a1q2kayb5vhd6bg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16400",
+        "sha1": "726391d98d8db3619ee43e51d670516b5788fe3c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 21863,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/38bp9r5x8zpppy1vyy5hsz6jd6ot40c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28865",
+        "sha1": "1ba984cfdfb0570bc312f60499d73e838dc0398c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 21066,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/fhkz2capmo62s617tc4ok7ukh1ga4bz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28866",
+        "sha1": "8497f2fd93fb76da2b554820c498bc3a7922f86f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 22057,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/2xqhcgaisnthfibtuoqeipcovmirt3w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28867",
+        "sha1": "1924dd76ad1c286ccc2fd9b174243f827854261c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 23102,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/efbzpuomrc3p5zeqlxg3vzq7gmz1blp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28868",
+        "sha1": "7b7f6f6429cc8f4ee6bf90606743f27ff706cbfd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 29765,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/9qn3gzkc1bb1k1z1kgd204s8p9hy4ld.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28869",
+        "sha1": "5362008437a6ef63403aeeb6058d7f3b9e0250c1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 28195,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/my7cs2fjadm0y8fkpe9qkdg215bcks6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28870",
+        "sha1": "c478d41244620f091dc2d7607ae7ad0e9247a336",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 28323,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/ghe1xutg511h428vh733gm2qi92duur.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28871",
+        "sha1": "8d1bd18dff5605648d5da151ec4959aad5088373",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 27744,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/fngjiqrnigik5dxcxko2h6s0fzwk43j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28872",
+        "sha1": "85fdb781dc5e5281d39a2d53322f6a81941ccdbf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1133723,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/11/dvhco8bgdp05eoh7qkwlbd059g30nb7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16401",
+        "sha1": "76c6f585042bb1dca4c7360732494e2c4dca6903",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1460102,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/7w5m1lsmj4s51luyx8qj8ckt8ywdxdb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16402",
+        "sha1": "43928e090c7e05511b62ced3219aa31982f1922f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 25287,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/7f2jb9enlw9piwx6oarlzm0kheur5gk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28873",
+        "sha1": "3f8271d4b07fc877bc4f6cf1c6677a7ea11e3a64",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 24425,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/00/bjoaqztwfrp4461oc170re2t52hn295.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28874",
+        "sha1": "62d909fe979b7f195fcdbfb0f923cead370bf429",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 25170,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/k1tt687pkazxpg9be73zj1eqhf1x1jr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28875",
+        "sha1": "aba6b7ab7e99b47dd81c33c469c1e99197255317",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 24583,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/7pgveky89s4jh9didpdnfz6n8pc5cr6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=28876",
+        "sha1": "41fb74f808adc84c03fe4cda99d96ff0b7639fd2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1133238,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/otvdibej4u3rhzku44ryxb03rlatme4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35642",
+        "sha1": "d4903495e68bf6c0cb40b5d2a02b4f8d6ba2449c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1365559,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/j7ohqhct5gx4jppoyy355tasidbngae.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35641",
+        "sha1": "a47b6a5cc121d40f74bffdc23c143de6b4f11136",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 22031,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e9/36kzvf7dm02jyo3oa4sviz4v4kxkx2x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35636",
+        "sha1": "1b3f7b6919e79f5af70875351f7e2a4f51277579",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 20653,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/78or3c3qiqdl6nsr9em0vca0f1pvse0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35637",
+        "sha1": "3dfddfb0cf7b2a91eff7180811f609534d8dee78",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 22268,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/4fyyv6mqnjhz525qz0u8j0dvaa74wg8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35638",
+        "sha1": "260a92d56167b0bc8c5ebf61f69d83dbbd9eac48",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Shinobu-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 22784,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/obazx9wykby5h918zoqesbk5w7lz7ag.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Shinobu-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35639",
+        "sha1": "d025f6043cff820cbc5e629bbae2efde568700a8",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

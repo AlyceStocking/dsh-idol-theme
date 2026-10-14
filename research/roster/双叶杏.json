@@ -1,0 +1,2407 @@
+{
+  "page": "双叶杏",
+  "group": "Cute",
+  "id": "anzu",
+  "stem": "Anzu",
+  "roman": "Anzu Futaba",
+  "revision": 198644,
+  "checkedAt": "2026-10-14T02:04:56.414Z",
+  "files": [
+    {
+      "title": "CG-Anzu-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100808,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/37/5i51y23cd8rtgo0wfcysf0gq84aqetq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13135",
+        "sha1": "2f1e309cbdbbe1329ddbbab9e2324ebdfd08a78e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101010,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/2aeelid2n0eflq33ds4a5bwf93n9a0z.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13136",
+        "sha1": "139845e1728c84ad1fc69086714d0fea0c5d4e03",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101156,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/e4uyfyt8wcpa7j5tgbf4qav25a5frj9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13137",
+        "sha1": "7901dba095279394afaa8b8a974d1c654ef49625",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100512,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/e6ljof646a21pw68q9ui2mjddjywzqd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13138",
+        "sha1": "796bb2f70baae483fa6c681d07a124cc9f811ae5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100610,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/49bpvl0du27edtbuzwgon4gub4mhjmm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13139",
+        "sha1": "2475feeba1bcdf36eb621e0497250c8000fc139e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100992,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/175i77lvj20aztoekrd74y8qmn0b09v.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13140",
+        "sha1": "0a43053e5eee48ae08d20c02c44e27654dba7223",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99599,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/e1b4eirofvmpqyssna06z1djxwp1zbz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13141",
+        "sha1": "7829afb5793caf346b7b36d7c2b0a73b5817721f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98594,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/5ylmabsvw7xqpsr29v5gkh8i0h7tycg.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13142",
+        "sha1": "33083bcc3435e9271a0ceef864c21829255a1e20",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98897,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/re4ow0okuxe1owmoq4o75j0ry5q89y5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13143",
+        "sha1": "ea80a45a7b3d19da1ea2c17145075da72432525d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99156,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/pout53v01r6ufkrjk90rsnxvrk0thf6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13144",
+        "sha1": "dbee6f6fde02e2e6f82cc095cf77266634573d72",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98688,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/64g4txdqyiqd5iy0hnel6zjga72do8t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13145",
+        "sha1": "346c386de49917fc367ae58fcc738fdf7a3119fd",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98840,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/db2vmma5obsqeldl9c7q7ehdvrfcix1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13146",
+        "sha1": "71ecf1bdbdda513c5fc681140990e41db67dd5c5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99446,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/09/7vfynwrwncnrbbr5u1fz6zzhs7u2jse.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13147",
+        "sha1": "43672e4ef8f927ae8e130d3ea5448fc97fd42aae",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102397,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/egpro01mgohfk4s0dlaagraeztdgcb1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13148",
+        "sha1": "7bd39bb91a486a00d02b3db13997ac6827fa134d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98618,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/ofoorfe0m97494wbd9gta5cnahxjse2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13149",
+        "sha1": "d1309e76b63c740796441a1eac5a0e01bcaf1b7a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98415,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/1w35ucfpfaen9u9fqe6zvhjl52ni44d.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13150",
+        "sha1": "1030fb8d98a198a465376fbcc6ee68bb2d6d345d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101545,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/fxqyk1ljpo081qt8xl9r7wgs50cok1i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13151",
+        "sha1": "88701a6f1053b2079f38b3dddaabd0c2a80f5776",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102051,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/gceln9te5o9aecwuvu2t0te5u47pta7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13152",
+        "sha1": "8bec5bfa763ea7d46fd15679d5c7e87c37cd777f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102240,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/nrs8zwix8vxmjiwc1kd5nc7jkm6hju6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13153",
+        "sha1": "cb81984cd6725f26ab69f781ed2eafb64a835cae",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101119,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/or1s0e7s1ezz9utm0rq6w8e1dvc9csh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13154",
+        "sha1": "d3e466de259a4e7185491bc8ca0ddf7e22b42101",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101912,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/aq5mtl2jyr8ptm82gzaxokyt67vti62.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13155",
+        "sha1": "5bd40b414757748c76851446b51b1ac021439c3a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102261,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/5vtlhinxmbs1z6xvgnz3toab3h16fwr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13156",
+        "sha1": "325f17df76c4b96ed646d10a9d671867a2a70b0b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100446,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/jiumze7n7eb0pbadmrtxds20ucg9ct2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13157",
+        "sha1": "a723747a25fedf08e111967bd19de1203cc64916",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101602,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/8wrc4epi3z3f1uynew7h8rb6hwoyx73.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13158",
+        "sha1": "4c46dce53ef31bbe5adf4bf47a1f1b6c9111048f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100853,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/4melh6qteac46h1p0xhg3iwa9mk9pz3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13159",
+        "sha1": "27924354e9c6708183850e6ecd5fe820fe8fa7bf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100873,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/otfdmf8ql0jx7pycgzwctrk948uejka.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13160",
+        "sha1": "d47527825075f8505d0c1590779b4704465cd88a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101629,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/2uy1mi9gql2xad9z2qqp9fssfb23q96.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13161",
+        "sha1": "187b061e87af3e7a9904817714a281f5ba63e5aa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100716,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/kxz0nxzkzvwk8cv5q9yjbljj6sfrjcj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13162",
+        "sha1": "b34b968d61c878a408a0e59832a98037b1ae19b3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100582,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/mcnaz9z7mpe4ip61u4x0r239t3mgf66.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13163",
+        "sha1": "bf5881b0739d57161bce463614444a383b3f82ce",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100234,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/17elzpbhar8n6ppezb9boaxc4khfy1n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13164",
+        "sha1": "0a526af694bc781912dd1804bc9a1886f9441b1b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102137,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/83/399y9300zkzm1rtbgkzbaw2ocqsjbaf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13165",
+        "sha1": "1be36f841e490919895d96f4b75ff9487fbcc3e7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102377,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/nadogvauese8yrvjudct2mwqmbfh206.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13166",
+        "sha1": "c75e0c271975e740346a09d47aa504c032c77f66",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101576,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/4anjo4h0av1lytmyvwiwtdj9aoz9h85.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13167",
+        "sha1": "24c6df9f7e783ad2bbe68529a17589779ec50275",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-16.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101900,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4b/t0pltign58u3sabdqth2wko5m6vab75.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-16.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13168",
+        "sha1": "f86edfe6af23e49ead727f2542308cc3a1ec4e31",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-16+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101149,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/gd0flqnmbwjbqrjbx6d80eqzreli33y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-16%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13169",
+        "sha1": "8c11472eb193cb3086f50342f8e600cc67b77d3e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-17.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101658,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/rnes40lm311g6n8ik5m8szvrfic73ap.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-17.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13170",
+        "sha1": "ecb598b5185d6a08b19b8ce4547ffc45bc45d071",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-17+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101196,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a9/pqnlcrumvrkgsmmqokvzgf39nk14mej.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-17%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13171",
+        "sha1": "dc5bfc7e3df1e67e52e295c3a436374533cb6b6b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-18.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101396,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/cicsbkwd0yat46qvf6lhlnjve27apf2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-18.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13172",
+        "sha1": "6b184442b441a637c7b20f18f58f6e6982ebee2e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-18+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101143,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/mbblqdsliew3ti4a9f1wvrdebprf1b5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-18%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13173",
+        "sha1": "bf07d7a64a5fb03147cb0f17d82ac131573ee361",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-19.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100396,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/8p5gq7physmm56uxfo48glp30r8be0w.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-19.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13174",
+        "sha1": "4a77bcda6e4ab0f4ca96d71e6ed530f8a70c2fc0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-19+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102124,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/kljyo8deuzy33e40fhzl22vfted3732.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-19%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13175",
+        "sha1": "b0579af350efa137f4f03a044f89186bbcf5fb9e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-20.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101216,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/f4ljdagdxml6eozecnspgs0js5f2fg1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-20.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13176",
+        "sha1": "81818089c236845cca5fb152ad947362441bddb1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-20+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101464,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/3rsu75elfr1qk2tg3r9ozed1i33v648.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-20%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13177",
+        "sha1": "204b2914da1865a29b3bcf3af0eb454367f55fb8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-21.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100485,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/a0bg6hcok2ig5vwhrpjae65jxloazmd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-21.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13178",
+        "sha1": "55af13952d9018e4778694effb1673aa89bb2ed5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-21+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102400,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/526r1qqykl5jfmt3qc4gq8md9iavzwf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-21%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13179",
+        "sha1": "2b53073c78f2fce60fad0ad59b8e14626f4d697f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-22.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102308,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/jbhyvvzh4sqe22blys3yxmy5shj46yk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-22.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13180",
+        "sha1": "a563e44ecb04a4f0698c18d1919ea51cd4b5d33c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-22+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102175,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/6szrj12ewjsgw4nkliy2ufps8ldeags.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-22%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13181",
+        "sha1": "3a4276ba989607c935bd20e15b0e0f19c4234d7c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-23.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100380,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/96emrgkovxeitx7zeosnfio64146z98.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-23.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13182",
+        "sha1": "4e92263159b2cf7991109f4a586229599287dffc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Anzu-SR-23+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100978,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/snc7xw6nl56522k2ppgomdnml4xi8pf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Anzu-SR-23%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13183",
+        "sha1": "f540d6a9b0744529abe69a9622dea13998961d93",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-9.png",
+      "kind": "background",
+      "info": {
+        "size": 1282123,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/cos2gve3wamhzv8uf83xqkz5kcez7du.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121902",
+        "sha1": "6c9f5ee022bd39af20a771e146e4e5e12b970e22",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-9+.png",
+      "kind": "background",
+      "info": {
+        "size": 1318952,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/mxtyw4gyqwp0nti36zk1nzrq1nnamx9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-9%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121904",
+        "sha1": "c462315605c5f6f4fe47b28922bc1d632802558d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1000068,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/cke6wxo3php1k67m1jx2ebpyh16ir32.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8762",
+        "sha1": "6b9465aa3dc2f2093722e45842487b54e1bb539e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1258323,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/10/8rbtu287h7fyto5nh43ycu9wzxged75.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8761",
+        "sha1": "4afc40e65b1062550e9d7930d52e7f79413b9e51",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1205862,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/a0rldb1s8owrdgusrnj1bbj2h5jmkby.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13196",
+        "sha1": "55ca606fa5f8a42540c5da945cb28b5b3ab7c76e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1219745,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/fany9i49frw285a57tf0754h3ov3jcw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13197",
+        "sha1": "82f2d881bbfe45325cba7ea784fc9a3444c3d3c0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1212172,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/j1vdlrp2al7cu5qo7xniflp11yh9gf2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13198",
+        "sha1": "a319cbf51f2886ce605d54ae94b7dd64019e845e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1199720,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/h292012qrpaqoj6132aq3o97kiw1h14.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13199",
+        "sha1": "9211c87210e01353eafaeecbe03bab7b7b6eb478",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 863559,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/kwe0rucu9uex1pfoyvcy4ordt6ebffv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13200",
+        "sha1": "b2eb3461ff665c8b0c14627c4830fffd6af7d8eb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1127119,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/qkuqzp17boky9ku2fejfag27yd330s9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13201",
+        "sha1": "e38a65da66b31950dda4dc6d4cf5b416d6bf3db9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1362490,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/ld4a8qdqahqsrqwcot3leyh74zlsiex.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13202",
+        "sha1": "b6e5a5dd98eb038ca44d1af4529c76e1129bed39",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1188680,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/pcul1jnhu0g2eslvzgh1l1jo5ts6iro.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13203",
+        "sha1": "d91387f1a6795cc37204e6966514e8746d6f2484",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1368459,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/8jnvbl56jdal0ubxv5anvkg0pmum07z.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13204",
+        "sha1": "4929998beeccc42362f7a62a26b9389eff93309f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1440113,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/103ncigb1q1db1wlrydlyoxzhn37k7v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13205",
+        "sha1": "0895bdc61b6884033a64f55b683586d4006ad11b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1610060,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/81/jqgop3jk16hyxb08fxdl3b59yu0w57i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13206",
+        "sha1": "a8f2e083a9987e51da9cb440781ef79639a77a5e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1438104,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/oy8ubc8filcee14ed7qwx46soss40gp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13207",
+        "sha1": "d59a7c74762d6d0c8cd840d157e2414edb18e759",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1389047,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/dy58ggtden3gg1h4ocmtbpb0shlcclz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22813",
+        "sha1": "77691983ef46c73a947d617fed675f6c9f8ca3d7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SSR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1543475,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/cyl07zbexfb16ju86w9uks780d02dfs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SSR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22812",
+        "sha1": "6ef4329ebb0f9e95c5cd9145db26d64192450488",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Anzu-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 31559,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/cstw9n9j10ail35l95x4jn41yhn5ehh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Anzu-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=458",
+        "sha1": "6d95f826d575f6f10e6c439eeec1d2a327449395",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 19227,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/95/jqg36dfh939tnk6ukemzhy8tj27fv4k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13208",
+        "sha1": "a8f1ddbb92ee1acfaa1374e8e65510cbe3ef6a54",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17449,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cd/coabwrayhb0j6ddrcyqbbmif6omxk5q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13209",
+        "sha1": "6c8160274f86df8581cda58b985d915c80653a4e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 16437,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/97k8ztj2tzq4w17571p3e3ksh60rfwv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13210",
+        "sha1": "4ed8868f8a8400c537675bee99bf530ab2d2714f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 19551,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/ptjganywlpe5l8bjzhfj3dc8tahq11b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13211",
+        "sha1": "dd0b9d93c7e674340da98ff8c47484480e3770bf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 18354,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/79gt68ho03vq8z45fb2dbxft7l44jd3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13212",
+        "sha1": "3e2d51fe6c2f62ab0e8ffbbb7cdc7734c0e2e307",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16291,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/rwacnoz2il479fwkxy1har9j2cfnixq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13213",
+        "sha1": "eed1ffd803750e9a9fc0f2640de6d03f14c2be9e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16260,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/m883fs688uz2pc4vq1z4khu7t4knlku.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13214",
+        "sha1": "be4b476c22f5b937a1e7041532345d38a17680fe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 16674,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/mjq8cou63ssa0hi3mk915wmuhywj1o0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13215",
+        "sha1": "c107985cffd2c908999fe9a3caf055cb1a2d0730",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 16456,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/cqxtrfgr93iir8tgw6paoreqlc6rp5v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13216",
+        "sha1": "6d22dc9c8ecf5e0c6ccb6f478d0d3696ac85fe23",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 17120,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/kapinp51dgflb0sgua6avmky0wvkbza.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13217",
+        "sha1": "adc35a31ce2329618b951e09df68eef6c79df8a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 16669,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/bsfxxo8zudq2yhhzzxkf16p2vxtfgu1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13218",
+        "sha1": "64eecd408af0ddff4b05ed56536d06fc10c1d3f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 17197,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/5h1rxpz4mtb7bdx0rpe8y63r7twh2ty.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13219",
+        "sha1": "2edbc508094a63b9f395e597b329001e862a0c96",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-13.png",
+      "kind": "icon",
+      "info": {
+        "size": 16228,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/a7j4b4t5f58wd8iputthmnae55ohfld.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-13.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13220",
+        "sha1": "57662f9e9bf911023fe64560862313d02ec18531",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-14.png",
+      "kind": "icon",
+      "info": {
+        "size": 15258,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/frjb1vta4oc23uezmjawqmlsoumlal4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-14.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=22810",
+        "sha1": "86f5e66b0f514fbb49d77cd7c7e9afd2bba7b6d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-15.png",
+      "kind": "icon",
+      "info": {
+        "size": 16933,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/9i7w9ld5pav6mnviwjrp8obbamo74zd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-15.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35268",
+        "sha1": "51614841d690503c1f4716948a8144d09da4a4f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-icon-16.png",
+      "kind": "icon",
+      "info": {
+        "size": 17110,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/9j4u2v3hxcvs9dgdvgvd24ncccsvusi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-icon-16.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121895",
+        "sha1": "5198fbc2349afdaa989d261dc083cca1134ab9a2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 26905,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/8o08f1xfj42sh1i4c2wqnr16eidukgs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24522",
+        "sha1": "4a3203e6a645bedabce5eb8a287f1baa60e7d81c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 26068,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/66/qg1mwz8agrw88xrv8aejhumn54sxuxy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24523",
+        "sha1": "e265a89fa4b23c3d719ec6eadebc942690a156e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 26568,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/f69fij79iwnzwbbhfrxpkd5pg2qpftr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24524",
+        "sha1": "81e6c85eba60d552a0c815ed6e3ce0918f1ffe5f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27203,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/eeptq3zmwzx22k5mvtpuu2i2kiv8t6n.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24525",
+        "sha1": "7b59f375f452ccbeda4becd50bf1d773f9e40cbf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 28375,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/29el6wmluyq0xg72h3k67048wpvj5c4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24526",
+        "sha1": "135bb4ab69c7c62a0a282f7ccfaccfee2e0a24c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 29594,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/sgbnjxajfol85xasqy0w5t4qahspq1t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24527",
+        "sha1": "f395bdef61a9bfe0a5756b0fe3b8648ab395f021",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 27709,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/ehpd1jp3z0cexqf0x87j2hak2hdgk8s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24528",
+        "sha1": "7c0fcc614e70270e06e21d3f9de5d69e6b46fb7c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 28500,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/i54cm717k1evgq61kwbaiamtvsgp72k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24529",
+        "sha1": "9b50076b54cddfd19be4c77a4ac9b5cd5b84200c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1195094,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/5tjoqjxmxn24vf4h61385fhtv2jzcoq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13184",
+        "sha1": "31d494eb3e8c8b50bded45789c18b27ced4295fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1070950,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/f81o4dpmezit1o35k6ik4yid81aykr9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13185",
+        "sha1": "825369a9533d43478b1e4501c605279a208f4b95",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 28233,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3f/moztnn815o8qqglwfsliwullcc0ljxl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24530",
+        "sha1": "c24833382704a19ec6211623b2c1a222128c0829",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 27473,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/bjo4zj9jynvjnql4r6i8fb9vvqk6dn4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24531",
+        "sha1": "62d8c4b2523b3d9521e2672f7cfdf8faa08b7690",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 28516,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/6no60o8737afuhwfq476j1dp4ypi8xq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24532",
+        "sha1": "38fe77982eee250a139fd39e596a876ed3e8febe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 28543,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/55/97kjtey81ov02l1t92lc7tokrmrvigt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24533",
+        "sha1": "4ed908b279e3539f134df461c4041ff8d534323d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1097753,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/te1bcxlqtlqy9sa5r72h6uj6rkq4on5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13186",
+        "sha1": "fb9a138f4d5d88cb41cb88dc49ece6f375b9afc1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1283936,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/19/6chbzhda1gipp6awubf2ruomg7lv3zl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13187",
+        "sha1": "3655436e968eef5231e464433f0f766b92f556f1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 27052,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/ma34sbwzsysjd2p4brfye5vse2xtrig.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24534",
+        "sha1": "bebca4241ed1bf29f2baa5ec27b20ba38c4d1988",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 25968,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/gx7q6gi0ixsl596xyqwupobjhjo5vpl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24535",
+        "sha1": "90df26d895190dcd058749ba0e77634e404f43c9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 25725,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/dx74jcm0lkd1adhhgx4zw5q2rbzqnoq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24536",
+        "sha1": "772f6bacf2f2c5ec0aedcb0f7151c5d1732a396a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 27269,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/05icn44x8upqvhku612vgn85e2qku10.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24537",
+        "sha1": "014f6ad1b5f82aed57b472231662f376e5ac9704",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1028461,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/hszydezewlzdc6vct8a4xf714svuv2w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13188",
+        "sha1": "986e126bb696db223441e6ec059b79624be7e7d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1272482,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/7vpuhvmse0iugbuk1s26hk412ampmcx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13189",
+        "sha1": "4377e539393dbd3409a961833021f8a75e10db71",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 24196,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/5wsml6fb247udufp66s6z3jb5h150bj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24538",
+        "sha1": "329a54b9e12527f3451ef28f8cf32e9ac99925df",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 23523,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/kki832io88mnwjzwgri2sfcuvx7730u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24539",
+        "sha1": "b017c9d157eee8ca7c714be926ce342e183e060e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 24051,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/ng91g8kfivyx45enpcpc07hkyma7m6c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24540",
+        "sha1": "c8c376cddf5b5a61b07d6dedd63703c8e859ee04",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 25089,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/c3isrj8qlc8g53qs6559gzm1mcfwgmt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24541",
+        "sha1": "679147611a962eb4a3b3b6f85e0177ef47e2db35",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 28521,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/gy5fet1w6jdftm3y5nq0in53iyv1zzh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24542",
+        "sha1": "9118240fb43f974aeffb53cf6471bef92d50936d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 29510,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/5nucm1u0far5xstndq08h69z5w1es8s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24543",
+        "sha1": "307959fee20ac229583e92c06283426f78c7b77c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 28752,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/6zgz3fql8te7ykeelku0bs7ty5q8kk8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24544",
+        "sha1": "3bccd41fb55c87ee33a0669fea269313d39a0818",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 29373,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/6n10rqdhqkte0no44v3n7zt6k8v9bib.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24545",
+        "sha1": "38d753b69d548ce6216d782d60bcc79af0920183",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 22540,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/lleyuxahd1jxppelzocllwi6lhty8l4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24546",
+        "sha1": "b8debafaa4423065b83a9cd8ca51f3f532c850f8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 22792,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/62/elv8kzttjhsjzyupxlvhzts0m4v3j6x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24547",
+        "sha1": "7d0d3e340a06697bf84022910eb860b65292f2e9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 21893,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/4atd23qp5i9l8o0rcjor91nsrftskz9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24548",
+        "sha1": "24d0b5890100eec832b4ea7586a8c3fc52cbe235",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 22709,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/ky0u391i1b887ypxxjop9tq2iyhxh7o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24549",
+        "sha1": "b34ea94bb4e2fe087896bf30fd877a5a7cfeee64",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 32546,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/63o2330wosbazhue11lshc78022otgt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24550",
+        "sha1": "343cbe20d28848ea1309b0b43872c0efc0f3352d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 33174,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/ri97o92s4zrszfmvr2khsouo3aaak1x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24551",
+        "sha1": "eb7bcbe1cadc27c78a7fb43ec20042e538236605",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 32027,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/3obkkppbmltn6gqv2eh6qcxj9nib6yd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24552",
+        "sha1": "1f77547c00b04f5b7ff6f733310918d3462155f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 34706,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/681adbjl3wwodzuuhjqmp97ynpl6qdd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24553",
+        "sha1": "35469f858d3abc055bee2808226a51a7e102f401",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1051286,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/65/jqgtdld61irie3z2pj5nf8x53m2h5et.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13190",
+        "sha1": "a8f318cbf6ab26704668469622d46485004effa5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1153858,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/rckedxkx45o3gb9d8b63fy9qp5zqc9f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13191",
+        "sha1": "ea21737e0e63cbb7e4025373b97af02fe0950793",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 24123,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/pp29y5y3bbykqmuew69b7fzmd797vok.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24554",
+        "sha1": "dbfb0fdd9bc67ff53200c1094a3db79f28231124",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 23453,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/q2hrmyf70tnsbks120u21n6j9zjrxa5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24555",
+        "sha1": "df2ca8bac5cbe970d335e15564826b557fa7903d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 23328,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1a/t7x9fk8ciuntd7ri4stl5v7t5uu7p09.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24556",
+        "sha1": "fa25f5b963927a675a2009164cf7f06ea6c12059",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 23643,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/canktmpbi0kb06lxrboa1zp3cpwv99d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24557",
+        "sha1": "69437ff42eb0ddeddb48f5efbdd9830ab3c8e4a1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 31951,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/oayaberjxt97y3o6s16n32i3r9pib2u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24558",
+        "sha1": "d010773fe680402a5fdd738e342f68ec2088f596",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 33859,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/qgxau1hd68a9mb3p0ik2pr8urdndiai.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24559",
+        "sha1": "e29b343ce7981847869fd01c83980c2ebe4798da",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 31436,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/3zsdl2vnaye4id34zjk5h875kxuah38.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24560",
+        "sha1": "2231656063afc97b2655d6330e237db73c72f704",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 33896,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/0i35370xf6saadejbcvp94ul9mg3wtj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24561",
+        "sha1": "044d190e4f465fd082d606a16d171d95d3d7c0e7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1126853,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/ttudlazt5w2kfa0p8k9kakz0l81tc67.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13192",
+        "sha1": "ff5c6038eb8176b6805c724f9507938cc702f3df",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1207205,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/89hhc705nazvaiij0zes4cag274n1hh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13193",
+        "sha1": "46be06e5009c2e3d8e1c154ce8392f80be8d8745",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 25893,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/82/owjdj3rr57jwbsy7x8elhdv2mmndanp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24562",
+        "sha1": "d5328b89cb8cd65d7a72c2b8e500336b94cbe635",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 25694,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/15nqw395iqne5m9xsehnrhpn00xlkdy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24563",
+        "sha1": "09e81cfde7dec4ad1feb9d6bf7c7dacb4381db76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 24552,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e8/gvt8gfwht4hy3g5lfmixzzssqwipt0h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24564",
+        "sha1": "9089c49417d1b3207e666e8831802938b762d121",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 25851,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/8uqcnk6rty9p4x45sf6q4ij7mqqmkdw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24565",
+        "sha1": "4bcb715f6d7d14564d46ca2b549cff347df932b4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1219510,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/2x7b9sv5qbculcew80nopxoyijkmnlk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13194",
+        "sha1": "1904734535b491b38688e39b786ba5f736ca80f8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1500652,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/fdz8r0r2y20dyt4l6lqd4e165zmx1r3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=13195",
+        "sha1": "83bc921160ea5eb679fde84b1d09cd0b4519991f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 24204,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/lrbiy66uisberuen0ball5btso8pmnm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24566",
+        "sha1": "ba462c0135c1654e4c6f45b701cdaa7d8880a6f2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 24082,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/l38t7g709a95x0hqfttsqxczto20i4k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24567",
+        "sha1": "b48c8870a917468393274d9c01fd85ac9e0a8dc4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 24026,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/tg4upq09olevijdxu8eh53595qf3q3m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24568",
+        "sha1": "fc19d008d17e5077fbddf8a36fa646a1b7044de2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 24604,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/n9vzvlolxvvfexp1f2gdwvk71yo525q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24569",
+        "sha1": "c7402518783fd8479e32b6c7a179f56fe2774a2e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 22817,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/pllaaiu6uxwqcl6fx6iob31t7qkqe59.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24570",
+        "sha1": "db27b31dde95e0a61c5284b53b4134a6b58bb61d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 22589,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/n8stb3wvvn3bg6jdbwp8pp81zqo4b1b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24571",
+        "sha1": "c6fde2e1c9e9c8c41e0a86c777d90233843840df",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 22060,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/63qltieeizey9vdxhq8s1lxxm1mhmln.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24572",
+        "sha1": "34410d3cffa2372180c359ea415e1aa81a51a6ab",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 22614,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/nbgdzyd799tzjn6xeks8x2d9kys2w41.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24573",
+        "sha1": "c79f81782d06ac50b4067969e5eabdd3e7bbf311",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-14-1.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 1,
+      "info": {
+        "size": 28340,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d6/ltrqpy4effssscdf9q3x04onlbupfmy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-14-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24574",
+        "sha1": "badb58ec75f35601319f3402386ee71a2144156a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-14-2.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 2,
+      "info": {
+        "size": 28027,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/56pr1lkx3y1j5xunyt5udlnmw77nomq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-14-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24575",
+        "sha1": "2c66aa613c26a2a68972c40a2f0112cfb6153f72",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-14-3.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 3,
+      "info": {
+        "size": 27451,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/plpjjlql7cg7pbhigwtons72to0fmmc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-14-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24576",
+        "sha1": "db2ee5fcd81ee4a86d06e96a1f6112f5ad12d044",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-14-4.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 4,
+      "info": {
+        "size": 28293,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/93/p35lv9q9e8yd3b6dnxuxj736qzgr3g9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-14-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24577",
+        "sha1": "d6c566b8662a1188121d28e14e7517714c9de639",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1024060,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/08/lfda5b8ocyt7mfoftgknfue1oq70e4l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35275",
+        "sha1": "b76e9dde081fe7b63dbbd02ac4528c8172a61685",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1377682,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/r3t8k9s317av07v3zxeiykdy2ifthmp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35274",
+        "sha1": "e80c810264200e440917288c2d54196e5b349581",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-15-1.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 1,
+      "info": {
+        "size": 26936,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/5vzfcfd1n7ecxiimhzkhf5rp7dq7gu9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-15-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35269",
+        "sha1": "3268f370907cea6e0d46bd2994f0280ec126af01",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-15-2.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 2,
+      "info": {
+        "size": 27313,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/cil7mi9xcut812qgo4e8qzdesmnd274.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-15-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35270",
+        "sha1": "6b268382ccb9129acc68e5fa3262c323b0871b60",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-15-3.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 3,
+      "info": {
+        "size": 26108,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/qc83y927tb2kljeam2jh661678pdfpa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-15-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35271",
+        "sha1": "e17d18dbef46f28ab6364820293ed954368759be",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-15-4.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 4,
+      "info": {
+        "size": 26401,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/nriakin0ixck3uq0laiy0hp4nrycbvt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-15-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35272",
+        "sha1": "cb70c22e4cdd09e3ab55cd8c8cb81268039fe529",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-16-1.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 1,
+      "info": {
+        "size": 28832,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/4o186yoww5x4rv3s5zim0k54xyi3m0r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-16-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121898",
+        "sha1": "27f568de5679b70a401d2685fa800430e408bc3b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-16-2.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 2,
+      "info": {
+        "size": 28856,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/9hr9aqg0f0x785nebpmv04vo03qsmhf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-16-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121899",
+        "sha1": "5145259cf8263571fe0a93fb3349e29a6383a6d3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-16-3.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 3,
+      "info": {
+        "size": 29707,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/s00fgelwyws9ubcu7gir3g0xiu2mw64.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-16-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121900",
+        "sha1": "efb4ba7d1fc60683ca34573bab2d055acea8265c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Anzu-Petit-16-4.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 4,
+      "info": {
+        "size": 29316,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/138k99w5frebpw16in5edrutlkots1v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Anzu-Petit-16-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=121901",
+        "sha1": "0954aea8698b1c8382b2dbdd88c924d31124ab43",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

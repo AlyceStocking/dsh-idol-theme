@@ -1,0 +1,933 @@
+{
+  "page": "太田优",
+  "group": "Cute",
+  "id": "yuu",
+  "stem": "Yuu",
+  "roman": "Yuu Ohta",
+  "revision": 198053,
+  "checkedAt": "2026-10-14T02:04:49.580Z",
+  "files": [
+    {
+      "title": "CG-Yuu-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101963,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/a5p1xfw8ae23h9s5764cd4srkl2y6jo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21822",
+        "sha1": "56f6776594e1fbf24c0a6c871f4aa0246cd50ba4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101164,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/277n99kfnxb8bhi12hcz5jccq3dua0y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21823",
+        "sha1": "12d6362b6d35365bd1bc82ebb515cf53accd4742",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100483,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d2/gjnaiux1goib1jsbuqauwktl9cxx8kw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21824",
+        "sha1": "8da531ea48e0a80703711dc6da95a1059f44eab0",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101147,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/h3swo20vvcw07okzh3xtqjcv0r5qdsz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21825",
+        "sha1": "92703ae3b4194a2b96b5c2e609ee2ee17563f963",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100129,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/8oej3td3ia4ag8wx8zxzn66ur78ayvd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21826",
+        "sha1": "4a4a3110b872d75fef0485a06c004e4579cf8309",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101507,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/fqvqf9531t5ppxouiaiiyocfexr55do.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21827",
+        "sha1": "86ce0996903f98bb91f33b099b59c1dbb22b697c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101643,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/9w23588szmyoclfyt50d3lxm9jxct5y.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21828",
+        "sha1": "54abbcad3c757cc10bda3a310d6ff3d7aa671ba6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102036,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/dtfvwaavybcgd0cenk7jd2ss2rm6pkz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21829",
+        "sha1": "764ab9dd1a11dff6fbbb8f224bc56cc620490903",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100473,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/2obckdpifcoq9vv8gt3j15kecn51no4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21830",
+        "sha1": "16e761dd36d3e79a83c0df1ee1556fd86a1a4f14",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101545,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/rjwqpvy276btnc758wae4q045zalsrm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21831",
+        "sha1": "ebe0762ec7fd23204990f95fdc7799de4ed08ae2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100583,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/33/ti5p1dr3gr1w2d8xp0z06plwzp8ycat.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21832",
+        "sha1": "fc94fdb2e0b6190b56e420043d8aabf0461faec5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102078,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/jvdl8g7qmhnc8ttdbw68twqw1xpent8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21833",
+        "sha1": "aa1e06b63e9877536e6d27e60bff006f36eb5d0c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100922,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/lpretz1ssm2catvj2ci6mgow7gnysq5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21834",
+        "sha1": "b9e747eee26aeb96e2f221be07d162819349eced",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101165,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/nc171ge10amhr7h99n3jldu3bbh9gtb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21835",
+        "sha1": "c7c2b0c228fac5ef6e11354703e349c909b1ea5f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101648,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/th844j06o3k7duwksln1kmi0usazepa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21836",
+        "sha1": "fc5c346c5ccfc0ec083ab9c11e508b6894914f2e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100685,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/0ky8sorq6h9tebb33xnfxyep8iscfo0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21837",
+        "sha1": "04fb72a83b84cf061918b5520b293f83ed88be50",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101338,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/rjbv5us6tyrzpoqt9nvpn0m9dolyrwl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21838",
+        "sha1": "ebbd28a74783ba94eb23bfe8bed89901ac7c66c5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100022,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/a1oe4swkffc0smnt6vpux9rxthmb669.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21839",
+        "sha1": "5601d7382e4a63ce67e07899cd2dfb1f3a7abe01",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101055,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/6hcrgnoa9939ceytn8z7sksrncfuu75.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21840",
+        "sha1": "377deb92b0536318b9eb6ad99555b78164dd4361",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99783,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/0ei5zxwqe7qzzkiy5re8uvm2l7ueczq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21841",
+        "sha1": "0372ff815a171e463c67a4b304b9c37869806346",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99069,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/3xr9rdxbo7lj4bwjcz72spn97ktd1oc.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21842",
+        "sha1": "21b5c57674d18621442cc79e0b5efe0d81aa06bc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101967,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/liz3z66ovol08ohhvec27kt4ckrqiyo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21843",
+        "sha1": "b84a290ec95b38944f1340aef1352cf4f4666d80",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100690,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/q6llew78g8lyvcp0ixm54gq5ew2zcii.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21844",
+        "sha1": "e026a38854fcb54bfb253760712333e192c50c1a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100426,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/mi963ood831cmkd5hah4y38voejc9o4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21845",
+        "sha1": "c0addd720d3a09c52f9832e5110cbca1dacbe6f4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100773,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/octm7aarrjymd7bph7ais8eorftm4e4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21846",
+        "sha1": "d08252acd3b3f6efd26a78472145b0e3fff148bc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100587,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/t7390racicpibfjtvk1k4horx8224x3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21847",
+        "sha1": "f9f335b04fefc50c1afb288d59474af07fd7b767",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Yuu-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102191,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/rbh811x5ymtx7dt73fh1sp4dh5mmpbn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Yuu-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=21848",
+        "sha1": "e9df33d279eaa3e10b8325b340ee115bc1ca83b3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1095758,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/6cvrvw8hlueliseckxgibl5rba61fbo.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9033",
+        "sha1": "366daf4701a2ebb91e2af6da8d1d0cba11b4a1d4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1072550,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/hza91qs6ptboplqdae8gf3adkw8p6ob.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9032",
+        "sha1": "99ecbee11c2b161f3bac8c40510b1dad1c4ff60b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Yuu-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 72160,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/7s8xbrt2jcyxr85ahudq9euglyzriyj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Yuu-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=637",
+        "sha1": "42a4a661d45f03d977feb9c3988ddbcc6b54b3bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 18945,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/lfonx3g126hotjceo7t74qnzqtf4egi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16518",
+        "sha1": "b781dd68368514b19319de8bddbf95a395518532",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17947,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/qzuy4tpdkfte89v97g2upwh1qe7nxeu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16519",
+        "sha1": "e71be35ee449590e520bb106c7a2c6cb0f6047e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 15862,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/iad4tn2gozwxtaikr74bw0fkoeclf7s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16520",
+        "sha1": "9c8f446023ba2ffeadeb9138bfeb6c81fa8d4448",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17797,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/rmsy9lqamouq0oe8z1pab2o2y1iywy7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16521",
+        "sha1": "ec90aedb96c18ba013ab2893121f3b6e762d714f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 16516,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/cr8pmniuq6hpc972qu9vtvxu6qob7zc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16522",
+        "sha1": "6d3544d958b9d682262535e1d3a0bd7de0f69d28",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 961714,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/gpny5bxhwwbmvytxllw7az8ilsdtqm2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16509",
+        "sha1": "8f13910ccce6438bd7d3abcd4625f2d12eed18fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1257382,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/gu2o5eginip3d2h9zzi7o0wpr1c7r0p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16510",
+        "sha1": "901ff866f0f5b8f8c147564178c28003f30ea489",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 24142,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/o3d63qzcbjv0hxuf5fwpjrz74zv9z1h.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30151",
+        "sha1": "ce429e112e0e178ccb62eb73dd82338e1d7504a5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 22880,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/6ieog9f49xaa1sqhbumpgfynp6qizza.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30152",
+        "sha1": "37be09ae19fb1df5eaa31f462347cc93b8e608a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 23237,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2d/gwm3uzqywzzxay3qh0dlalcxtejp1sn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30153",
+        "sha1": "90ba978047ad59ed8459d134813450fb7f98d057",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 24733,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/70phqdxwk0i47m9ytlonjub9lwadmvw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30154",
+        "sha1": "3c181bf95d368524aef4fa65d7e8a073d0ce0f1c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 938394,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/6e7rr216tdb7i5cqd62i3562ke3q5au.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=16511",
+        "sha1": "36bed90179838bcbe890d01a86d7a7a6be683856",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1017199,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ef/hdnwf3se1oc013isb5qptcmjcz4v7kn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15925",
+        "sha1": "94c888785a1ba59b69370b4c8d5a27934c6aa817",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 25286,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/c8h3ws32b5s2kgtqonfu3mkgwflucqv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30155",
+        "sha1": "68bece24eb6e4b54946589e82f5ed68ef1e16d07",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 24514,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/tu02z6qi6qvnmciqloc2xq9gjfe9v5p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30156",
+        "sha1": "ff6606005d60f14a2c1f7bb6fe16bef401109ffd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 22516,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/13/7lru61pmiss332pkt48obb686scw7yt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30157",
+        "sha1": "411a7dfdf1493d0a2d2e762a0e5bfc675d62cc55",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 24177,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/rykdjuu967pcgdr2ucj1phaeqk5p3sh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30158",
+        "sha1": "ef5cb4a26d5e73f43820001fb3cca69cc1f3f471",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 24649,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/slbmme49m9i6okl9kcu4me6fnn39tez.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30159",
+        "sha1": "f4c61546e978376e3c8f31ca3519baf10c46cc2b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 23371,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/kvi7wpdfgb2ax5z43wlh6h20wng4m2s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30160",
+        "sha1": "b2b56d492a06766c68b5c15f6e82cdb5b7ea14c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 23506,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/djjm0vlnv33fqra6470llkdec91i9zp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30161",
+        "sha1": "73f041ac4a9274d7fd325c675444844de85fa815",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 22752,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/6x5pfgjp4bb1ov61e0j5cqs7a6hl1vc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30162",
+        "sha1": "3b4004f0473625e5a5e7a075e5cd828e10b0e5b8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1373047,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/323r96dbupsfg7rbfd1dex51rccl34c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15926",
+        "sha1": "1a2ed264cb0b621deeae99f45c118a1f8d902f0c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1393526,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/kudy43df50md7jgzeyy72rp04v5n1lq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15927",
+        "sha1": "b2715361e7bc9fe961110fc0e033e4d9af4ba8de",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 22683,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/nen3y0ze15qwpk1ju9s2ewau6dvxh02.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30163",
+        "sha1": "c861806bef12862740cd2304dd17bbacd2fc8752",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 22805,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/fao5aua2i1nde67clvpe3g5zulywlbc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30164",
+        "sha1": "82f32d21154f7f38279d9e1c9f91610d4a29a9e8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 24075,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/7lkd3j5uv47tdf7t12p7gv6o493g8ek.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30165",
+        "sha1": "410dda677d83801fb7f1449f74af5a45c53c758c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 23585,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0c/n4frb64qqgowu7zxuh1eitdh69vy99c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30166",
+        "sha1": "c5f44d143592a73b87de9825d7b174e95de04660",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1286698,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/pcvt2isw44qo65eglwuiqqj6nzucps1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15928",
+        "sha1": "d915995fafb2ac8ad939c7ebb2488d6b0c294781",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1440259,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/3amwr6fyd8pbnux8kd2n97rbag8ol23.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=15929",
+        "sha1": "1c3639c2176dc323f35a887e47b8896ffeb3289b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 26103,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/gs6sar8hdwlydgbrzqq6czg64lz34nb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30167",
+        "sha1": "8fad2ce2d681261a96c978cf2c0bc1ddfba07147",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 25048,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/79vudwmxvp1ocr29qt548tqb2dpo0sl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30168",
+        "sha1": "3e46be205ca97c6eaf05e161196f3fa354a50705",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 24217,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/9oufn1c0d1jm5vcfuypr88rox1xpfi6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30169",
+        "sha1": "52f4a8245d9e23064ed4bf941fca190354ac8fbe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Yuu-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 24321,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/g1csxuy1nz24fluq1ocs9tcbu9flwq6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Yuu-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30170",
+        "sha1": "894bac4a41fcc46558763439ccf574b1a2a06bee",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

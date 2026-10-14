@@ -1,0 +1,2887 @@
+{
+  "page": "本田未央",
+  "group": "Passion",
+  "id": "mio",
+  "stem": "Mio",
+  "roman": "Mio Honda",
+  "revision": 220919,
+  "checkedAt": "2026-10-14T02:05:49.393Z",
+  "files": [
+    {
+      "title": "CG-Mio-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101065,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/dodmaug1n5zfpfhy6w1tdj2cumj4454.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7258",
+        "sha1": "75168220979bfad66427f65d163475e9a440d8f8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101263,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/e7s0bspxsenzmbc5k6g8121i8fyxbgl.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7259",
+        "sha1": "79b38119f83383b2d246966d359c97f467c0b645",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102345,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/6e1tnejvfpeicppni4f55j57frdpnz6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7260",
+        "sha1": "36b4ca6af9b0b6acc08152dce024d04966756ea2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101451,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/c09vevsjo202olgcnvpb6uzpj81v4ui.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7261",
+        "sha1": "66cb8d9366d0438953e824728f318fe84a225b4a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101709,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/hgtds8vry4vnd8fq2ihokexfaa88w89.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7262",
+        "sha1": "95886f53b4b9d9ab6d061426470019f590f32529",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101412,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e6/conv7nqjo3249ll0o09up2qrrrw25ev.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7263",
+        "sha1": "6c984402b5d3e29db74427fbc81c397f530e63e7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100953,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/aylpuf0r87d3y202ffpkymg0p3gf6qr.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7264",
+        "sha1": "5dd6421ff9ac7185952a26183953389233655be3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101576,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/rlmb3049sr2lmhez73zu2r5o8gxpx35.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7265",
+        "sha1": "ec489226441b56f324aa548544938f97bb89f4c1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102313,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/90/ks2cnih0u3ksc93q8i8x8c712r2n5yd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7266",
+        "sha1": "b1e3f65df253a3b771f46f30f09e4213eb266be5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99832,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/m2lg2to8a6bht2zgprjrey97yv6od2t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7267",
+        "sha1": "bcf4981b9babee198bbe5bfe7c691c9b7a89da35",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98540,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/i8kz9lobxcozngm9eltsn5yi1079794.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7268",
+        "sha1": "9c22c7c37b52b947a4cd2cf42d309c683edf83f8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98645,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/qa1tbpfk3o2tj4tnuo7qib1g7rhl4p6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7269",
+        "sha1": "e0f8b2a46b6d7f3b2deeae23fb3fccf7799c780a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98268,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/96yj08ki36gdlvbbbjwzw052q3gtmg6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7270",
+        "sha1": "4eb3cb15b1f2f6187574fa19e29be2b2a4a832e6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98840,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/lpexx8socva4k17ukpw21no4sn3kg5f.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7271",
+        "sha1": "b9d231c357983935e111d44dbc3a3f888d82edc3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101494,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/t2e2ytnc3667kdvgfgf5hj15w7tc5by.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7272",
+        "sha1": "f8d524484c4c6cbfb474771a50948ef34fa09efe",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102159,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/b364448voqdana781krpbtb38kqn322.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7273",
+        "sha1": "5eec41cf9c17ced57b8a3349a42453c05521d93a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101252,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/8nbg03llrjnjrgx9yy9hpfihjkk22tx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7274",
+        "sha1": "4a08188803f7b327027acb42dc0f252bd5854ed5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101985,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bb/7a0o66vpc3ul56hgt06to8es96rh4t4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7275",
+        "sha1": "3e4ee7e9ee5d7b31449e3c24c4ebcecc9bd49598",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100962,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/3ge8k0857v0k36c80q9a9lztz8omld4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7276",
+        "sha1": "1d94d29667e3efe697098bef8ada2e64667fbda8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100306,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c3/jq5ultnp8g2cpk84sjnaeerbjessuff.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7277",
+        "sha1": "a8e08da348bc5101ffeb849789e92d9186450d0b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101548,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/o821u85fx6qm6gv3bmy6wqsb8wi68x7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7278",
+        "sha1": "cf6033653ad66af98ea35360bb9c2e2478ef84ab",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102146,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/79/icdb7x9h4yq108qo7axg6h98c84i63t.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7279",
+        "sha1": "9d0952506ecc8118c2f645c0794963a3e53c5369",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102141,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/54/3y638he8270z0bk09nvfpt5d32g1fto.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7280",
+        "sha1": "21ced48b06c35e7e39371135964976c4c3ffce5c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100874,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/nbw9tm2txuvqit0pan8ug3esnqmdt9u.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7281",
+        "sha1": "c7ba5db2fbe1600ef8d450d2f2cfa4e76de5c372",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100418,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/87g0muypueqkdhsvr278irodhyjnz7b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7282",
+        "sha1": "4641cc1c4f9cfa7f37e982058645aba4d87f1cf7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101358,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/n1z21sdui9siyrb7r69k28mjo9q7zdd.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7283",
+        "sha1": "c55e4dda46edafea647d4b53777a7682c04e0cd1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102218,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/gtcjlt72jxbl9ruzjxukqcebmryryqy.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7284",
+        "sha1": "8ff3ca478e3bec9a5443e83e1f944665fca0b6aa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100910,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0f/1d9zjyewa6tyc6hmzd90ysualsds4i3.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7285",
+        "sha1": "0bb7dc97310314135bf5e7a14210071dca53f2cb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101466,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1e/apvv1tenu4xztzpccn062gf1a2gevz0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7286",
+        "sha1": "5bc3852cd3442918c68af723be681a0c5bddd15c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101156,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/ezix2uz61iwq8kg4sqnj7hjct3cx6se.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7287",
+        "sha1": "804cb0274c413c3b8f1fe97766e672146791e89e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101368,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f5/qpfwzcg9ndwcohgbk0xt6zzfouwy9td.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7288",
+        "sha1": "e4a1b2e26d22d625bf598ddb31b9172336c9fe31",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101517,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/2xua0g70gskvn0sx1huawa5r8ywy42x.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7289",
+        "sha1": "192b48e40ac854e2618dca17e50fe2f1076c7129",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101411,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/8ug4pze02zysuzgrv4ewo7offgmg11r.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7290",
+        "sha1": "4bba28f37760275a703dfcf9be3eda7246b52f4f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100861,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c8/sehtaufsg72haxljplma44w1rral4nq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7291",
+        "sha1": "f32667742c2d5ee6797c6dedf197f54789d390d6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101576,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/29j9pw4x17i2gd8kw8ekepdif3jp6cp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7292",
+        "sha1": "13639f39c56b16dbf1a5fbbcb7fc59c4cb4c3b69",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-16.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101554,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/rmo3dszw1byin3o4rn60u241v0dt52j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-16.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7293",
+        "sha1": "ec8877df24aad3656829b655ee3c07f23f8f1beb",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-16+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100458,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/54/o51bijf9410culo6d6i6k8qrnv3fhx7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-16%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7294",
+        "sha1": "cea8555054a04ffb55ec4404831c458e5426f77b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-17.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100964,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0b/qldg285dnovoozl7177ak3v6xyjwr4q.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-17.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7295",
+        "sha1": "e3aa039476ae9d3888b5e8621d6d3ef5b6699c5a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-17+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101735,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/09g6qw0xrrhbfeo3odnic80ev3jcy1j.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-17%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7296",
+        "sha1": "023f4428638e93bd26d65ef77316f11e446a8657",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-18.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99767,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/tog6wtlifeuie9wvmwc7d1ahzbw26vn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-18.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7297",
+        "sha1": "fe1400b56a95b614aa4824412a0688377ffa2b53",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-18+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100622,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/ms2ys30il69fkmcrgz03jggnqxh00va.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-18%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7298",
+        "sha1": "c304250fe8af30350d435310c57ad1670d423966",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-19.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101503,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ca/csf3nc7lsspcrbn8l94vhpu2voi6qad.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-19.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7299",
+        "sha1": "6d7cf35b1cbab4cf41537eac0b4a75582a22ec95",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-19+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101111,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ae/2syr8ckoni02ysced8lv2x9l3woerbn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-19%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7300",
+        "sha1": "180279066d6265ba4411f5038a8fc968b70b89d3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-20.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101106,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/p8kbqpygtceyd2y9avb00gpjcv0v4s5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-20.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7301",
+        "sha1": "d80ead09b6fc0edc8d4bec4a70294629eddc85f5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-20+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102300,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/32/h78s91jrx1gedrm9upornklaxm4ogak.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-20%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7302",
+        "sha1": "9341b5bf8ae10e7177a15c05e4d3a4131266947c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-21.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101457,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/7fe1aquc78cl7d718v1rbi470tn29z9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-21.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7303",
+        "sha1": "3f95e40b12391923603a561d535c554175e36a05",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-21+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100578,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ea/1qsudr4j9xg61lnpwfz9tw4i86wr3fa.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-21%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7304",
+        "sha1": "0eef262978de308136153ab0f78bec3b62144216",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-22.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99671,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/in86f4qct05ps1avud9rzoe6k32ur99.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-22.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7305",
+        "sha1": "9f9e49ace795b769beae767c84f0e77fbb19d37d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-22+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100596,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/iskn0oufqek0auo873dzuuahriae3yx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-22%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7306",
+        "sha1": "a0e3bea83204b8456435b4f8f5763290f434cd99",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-23.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102030,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/4c69986slu77qmkv3rbupuf8s3bf6v7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-23.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7307",
+        "sha1": "2523640fe4559787ad155b9b04d7ebbf9fe36783",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-23+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102140,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/1ejmppk84gcd21sgjn93e6ntw2crmli.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-23%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7308",
+        "sha1": "0c050bb9ab4868fdb5d11aabf45182b25bdabf26",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-24.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101097,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/98/6hikna03iv94nz6pz9l45v33f8wekak.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-24.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7309",
+        "sha1": "3787bf06e0a73a73047e7f74926d20e4bb4f4e3c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-24+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101540,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c0/shnkb3r38e137dz3vvyj9u1y4622mff.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-24%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7310",
+        "sha1": "f3e6c2421cbb9fcf1b3dea2c87ca0918ce1eb80b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-25.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101132,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/89/8v8nzbg667bjc2wk35j6xhqzb31bey2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-25.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7311",
+        "sha1": "4bea69d48add476e9f5f1f052a0d527ec2181d6a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Mio-SR-25+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100259,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/p1sn1n38d4fgug0rz2f87n5vjf544gv.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Mio-SR-25%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7312",
+        "sha1": "d67298a032855c7123902fa9e98ff758879ba09f",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-9.png",
+      "kind": "background",
+      "info": {
+        "size": 1551659,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/be/etkmjllyn8fv401l0qidc150qghwqs9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123334",
+        "sha1": "7ee250394d307ec140bf4eb42f9baabd9a45e099",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-9+.png",
+      "kind": "background",
+      "info": {
+        "size": 1340099,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/c5bcapzgyxyvj8yrk5aqixyezhfjonn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-9%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123336",
+        "sha1": "67fe6c0edbb3ac312d9f402feeb2f4a790000693",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1244085,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/d91z1pztfzbcdgwws7f00fu4le2rggz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7244",
+        "sha1": "7171a8f0f1a0972f58472947623cde33849b1623",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1530348,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/jzpsgjs0cxkk0b4pbx86wa8h9p36tbl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7245",
+        "sha1": "ab262a7695d990c23e50927cdef5015ce7d590f1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1330113,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/a0uc6qeaop7lbjsabprx3mk0yove8h6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7246",
+        "sha1": "55cf04b93eaf7668bec1ff02fd598baf3fa0216a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1397582,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f3/l0byaj96vydoorc4sv3ai8oca4c3p9d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7247",
+        "sha1": "b3db36c783088d8353230b00b1a5ec37eb5a5ea1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1170148,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/78/eeut8rr0eh36mj3f2j8u9ln5r9rbf0d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7248",
+        "sha1": "7b62622f0adb3cb2ee954d9c2de124276084cfbd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1436642,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/ckhdqahzuklfcj7scz83sfpnmzr68xc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7249",
+        "sha1": "6b99ca549a0a536ad1aadaa5c101ac25e434f9b0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1238077,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c6/7jpbbkq58rlimshwdfji5fyor4cpiyg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7250",
+        "sha1": "409c7889ee29ead9ff55f7bcaec9fb5f743af838",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1182436,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/qa37ytk54vraozdjf8jjjpw55th9lfz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7251",
+        "sha1": "e0fb139e109de41566f3302b177354048be5a9cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 940041,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/qrcx0iho8apiy5wbtpxzs1jofomuhs9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7252",
+        "sha1": "e516619526c1e00d19c5aaaa2eda724cc447db89",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1458559,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/7z1wurdn3fp7q2ox8u5hhjaomfiho0b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7253",
+        "sha1": "4442edf0414dcb5325925dad44433cc4deb0e1cb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1427310,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/9opyo1b8h8nvwtq670vfe9qgt7fflyu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7254",
+        "sha1": "52ed186ff943fec61fc20a207b06147fb1ccd7f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1477207,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/br2imyjik4plu0mp2mi4jka3vprr7tr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7255",
+        "sha1": "649b390c9c741fb72b3fbed9b59678bdbe290f5f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 1412104,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/2nu7sg7elfeiyonmyhn1oitjvz6pghv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7256",
+        "sha1": "16ca6915352cd4b45fcf340e19f8224a391701c3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1238317,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/hnzomryj3gf1kkgkioqhvw61c79703m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7257",
+        "sha1": "973d3ac0f6945ee83c497b3c71a2ea2c4b2f2142",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1310058,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/5yn6k6n7ldcg9syj9cr10yicwa23nat.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30952",
+        "sha1": "330ae07eabbcbc06a1dbeeb2350c87f5612742b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SSR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1237060,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/ce8m31hwdcv4mzjje14wh8lk4mk72gu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SSR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30951",
+        "sha1": "6a1db39c89eff315f394c9d38e22fadced2df43e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Mio-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 45348,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/57/t0ra9kucinknwiws1ycy3df497zevx4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Mio-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=543",
+        "sha1": "f871b6c5d023a628938431fbea9deb9e2b49a818",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-0.png",
+      "kind": "icon",
+      "info": {
+        "size": 18012,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/iotdokon68el6s1si8op1b2qiqvnssm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-0.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7313",
+        "sha1": "9fff047a282d2cf98bdb8c344ee2feec373fb886",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 17441,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/hhrc3e6a9lf6f93qsjtufn2mfof920q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7210",
+        "sha1": "95c1d9b3e903be9c7c51698649a4b8bbba7fb17a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17500,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/jred3vrvgcqff58733wsvndr3oplsg7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7211",
+        "sha1": "a92bd3daacdf78ef5b80a9b4a9a1b023b8368c47",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 20054,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b6/7jc25rl4y8oagvx6p2q3t6k11q4d086.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7212",
+        "sha1": "40860ea220b656b6eefcc49a9b48d0daca3dbe66",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 19029,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/9egcemdj0mszercf7kqowuf0vac3e2b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7213",
+        "sha1": "507c0f872566c23fb113d6f59f9ea433246a4df3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17910,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/0b9frq70x2c5qgb12xrubkfsujq2ybb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7214",
+        "sha1": "02ad9b5c0623fb1a8eb6030393ca67334d988037",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 16887,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/94/hl2lzze2l6m51586rgkv9nnmscyjquz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7215",
+        "sha1": "968b8c45f15391e6ccca1fe5eea6861d9b1760bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16152,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/26/cgbdidi2uv3v9ftucwer1f56j61um5s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7216",
+        "sha1": "6a9c203bd6867f771ec994f21c651787e163f4b0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17401,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bd/4owz4l5ou5jn3856c5gqk3jnklg28w9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7217",
+        "sha1": "282b18bee0c999b4f7f84c5b4099b2937b2f1d89",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 17142,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/iwoz1db5s9pii7zp3de6xy07a99d3sj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7218",
+        "sha1": "a1de94d4d24f001375946ab422eb23ab2c422173",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 17216,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3d/lrvf27hgv5ggd36ucr8pr2441tydmm1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7219",
+        "sha1": "ba67cf50165b252ffa4bbe2048c328168569b9b9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 16962,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/84/p9ne9h9hn7ot0dr45c37qhxlcsw1n1m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7220",
+        "sha1": "d850be92568068508e9847518606b12096743aea",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 17284,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/l9serv0wamv21m80l1krltcgpg5rmp1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7221",
+        "sha1": "b61aeffe64e81103178cd6ae8d2be5a91efaa0a5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-13.png",
+      "kind": "icon",
+      "info": {
+        "size": 18042,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/japz001luyka0nkfjav371w60v3qpiu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-13.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7222",
+        "sha1": "a5348c65aa5e49037004e2b38a4b335ccfc342b6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-14.png",
+      "kind": "icon",
+      "info": {
+        "size": 18269,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/sbfzx97f83vlj46871ajql2xkkvplvp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-14.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7223",
+        "sha1": "f26cb3c21d8ca2e7dd5a8a194a27e7df03ab0a05",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-15.png",
+      "kind": "icon",
+      "info": {
+        "size": 16748,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/so0u2e0n00flp7za18w44x1xksu6y4l.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-15.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7224",
+        "sha1": "f56a76637eba0415b77f437b78884f6533a84045",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-16.png",
+      "kind": "icon",
+      "info": {
+        "size": 16992,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/t44b6a3oikgwr2z0kssaqrxgeg6jvvq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-16.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7225",
+        "sha1": "f93e5ef5fff7c043f729e464a755b4a820f60e26",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-17.png",
+      "kind": "icon",
+      "info": {
+        "size": 18239,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/mz9vqehgzowk4n9tp7tt0wi2tskuj8i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-17.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23741",
+        "sha1": "c4b9fa4e6b5149df08f014eade03a01fdcb390e2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-18.png",
+      "kind": "icon",
+      "info": {
+        "size": 17272,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/635rfitqxuwv539cfn4iy49jh782phh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-18.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30949",
+        "sha1": "341dcdc0c37ad4d48ec3917a92ca21543cb14185",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-icon-19.png",
+      "kind": "icon",
+      "info": {
+        "size": 15876,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/i5evccl05aktgs8843uopiv9pvzqrcz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-icon-19.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123327",
+        "sha1": "9b61d1a31fda3510391729e11335473774bdbc03",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 25804,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/epuykc59v4g88bvnbaosjf9yofditii.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27297",
+        "sha1": "7e0047c4579546b48da3ded3227d7055b46d2eea",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 24436,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/75/fuef3vfhwmhrgb2t3pbhho9gzlicfxc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27298",
+        "sha1": "87a44431939d23a66f2287ed7b70fbecd881d1a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 25709,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/hp1cb2u8yz35472khe5t6b0mkf9euvs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27299",
+        "sha1": "977ce8dc25db270ccc3410e9ff5d6e10323398d8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 24702,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2a/7yze8fjyk70njq3ecceryzrxfcfqlhv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27300",
+        "sha1": "443eac38fb032accd64865fdc09907f084523e53",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 26942,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2d/bstk3wa5figxw3iw9oj33qsbqy6hgjl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27301",
+        "sha1": "6505d39f3320ebac8d31dd7437304481cdd85c01",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 26344,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/lhncg1gvnkfhroak3d0jljblt2vu1os.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27302",
+        "sha1": "b7f9638c656eeff8018b1c518b5e0e906fcc3b0c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 26862,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/000y55dzg5zwnes9c268zvq9oqo8vn1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27303",
+        "sha1": "00019a92afdfcdc28216fa291db71b9b0901d22d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 27053,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/5gvv1xp9xyw0f6ehooq9mh4o3erxhhe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27304",
+        "sha1": "2ed1c518aafc388b2b0bd14118a95781ad5bf9c2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1126626,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ec/j2e9ok02pnkmbbir0f3fbmw6nnwnl0d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7226",
+        "sha1": "a339bdf1f69500f638073d729eac83f7a131961d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1037469,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/22/f0685clccbvedzf20jqxux9w1k2ffc8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7227",
+        "sha1": "80741a07c1cfea6a3962c8b24ee7322124e71d68",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 25251,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b1/elxz71g5seakmkt146p7uf0wsc4wpx4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27305",
+        "sha1": "7d11e00672996e3385114d7a5eddec1572273f38",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 24916,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a1/i7c441iwtnn66p8pl0qryvicar59haa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27306",
+        "sha1": "9bd6e9656d0537a105c190128ac943668e85d0c2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 25356,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/6r235yuwbfjtxgyzgiu7q2enxgfej3b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27307",
+        "sha1": "39cca374b6c05a2a541ac278a2e997958803d727",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 25107,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/jqif488hzfmzn7k8d9oh6td1c23cv2j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27308",
+        "sha1": "a8f5cf1f9d5f5a63852eca576def1f258b5f534b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 29593,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5e/8gvirbk5cis63bqk11zgx7dv88yrj0v.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27309",
+        "sha1": "487fe82cacb1602f54a5b400d2a457ae538b5b0f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 28746,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/ejx2qiu962t0c7ec9nuzumi2nndqx96.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27310",
+        "sha1": "7c9698b0302862e22952753a0fa454cac27603da",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 29020,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/s4cctgneyqbiuu7p3kg23fs57gx905q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27311",
+        "sha1": "f0bc67a531f948d9275e55e36991130123771a0e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 29244,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c5/hpf5szdfcghfn3vufzob8leyj2onfyu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27312",
+        "sha1": "9794474e94a5ef071c1cbf43c88ad1027721c096",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 996499,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/eqhzaj5o3ykzzfkahdrwugqqj5e1uae.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7228",
+        "sha1": "7e27354941915484bff4b6f596a7f8805ce80196",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1189525,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/91/k7xgsyhfjp5hmg3n1saosaob4rbiptu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7229",
+        "sha1": "ad1a299983f81715c68a817e4fb930bb5c3f8a42",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 25806,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0a/syc6nth86bu611e5tylhgpzl7ycqshn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27313",
+        "sha1": "f7de6cddd6a597774f361b2760bb240fa6ec16bb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 25274,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/eiv2h5pdlrosu1k1zt3nxwdwwzz0m0w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27314",
+        "sha1": "7c56533ed86930038ad125141d8d992939ecde80",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 25498,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/cbmzdj3pxo5kr2wxg4x9t4xgr5u7e99.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27315",
+        "sha1": "697f5e8ec937bedd8564f397318db509861705ed",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 26568,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/09/bidzgsuiwao5ehotiotonho5cxrvt9y.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27316",
+        "sha1": "628ab8c65735b8ef516d6f995f0b38ca01f1c4f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1125202,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/f0k3qsetv777m4rne0ivylcn2pnv8mq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7230",
+        "sha1": "808b91b56119967562acdab503e75a2590d39872",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1173183,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/bvk0ayduelpdithluuof9gjm7rf37rp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7231",
+        "sha1": "65ac4ee0604cfebe2f1e8472a14e41c1f187f515",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 23723,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c1/hkmd104fcof2542xqye7v1n3q8fmq3b.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27317",
+        "sha1": "967011f0a5eb83261211b56748c2aa652f131c97",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 23172,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/de/kgeos9vbhjbkc040uoiwq2a9xqv03fv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27318",
+        "sha1": "af1e4cfde2272f49e72b1933deb191bee8b2886b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 22108,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7f/nead1sf75h0y4wjl91tm9ipt65ls2lf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27319",
+        "sha1": "c84bf22a33e65e296d5b184d07801c991bcc0523",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 22367,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/49g55y6cyu394o2klu5r5yxthu4jsdn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27320",
+        "sha1": "247d7a5f0837530d37a213a3f98ca91f4aaa226b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 24658,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/18/g3xhcd074q8yz5ght73t72ehonn048j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27321",
+        "sha1": "89e864d04255ff152bd5b16fedb666f4ef640873",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 24896,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/rvmij34cm1q426nnckla0q4xkrvaszv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27322",
+        "sha1": "eea9b0c87556922df98a05720058b6e60830fc4b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 24455,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/950zuctacb92i48q6i68gux553wdkep.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27323",
+        "sha1": "4e3e3655d463206276b4c27f4e49b00d1bb94491",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 23280,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/8opn6syxt7i22u5bxr802d03yg5e0hv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27324",
+        "sha1": "4a5cfc18e63b08d721ffe8bb311e1f014b233f03",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1047317,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9b/sg0bmp4jmn0w4zfgxyoqop71jiseedk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7232",
+        "sha1": "f38294a091abf99e1904df8e5a3dc0f9b30ed448",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1261081,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/03/tq7hf98kg3eq1st9tdnw2u71330d5fh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7233",
+        "sha1": "fe7f0801d44e5faf028c5420867e0e37a113b8bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 24048,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4d/8xfiihxtvhx8mhz4degniwegykjlwzg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27325",
+        "sha1": "4c6fbf6cbdfa2f4d2330000a8db4161c483d7d3c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 23772,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/8gvimqb0qgludivhctahqr5bc6mfl7m.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27326",
+        "sha1": "487fe6a424c59255405a271844bd997bf3514722",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 23809,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a5/jiu2uhlmw9pnr8rei2mz7kpidpwq6vl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27327",
+        "sha1": "a722825635cb9e4a988596caf6460cc4f40e1951",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 24130,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/31/0e34j08zpwycuvgepfgn829sznxtne6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27328",
+        "sha1": "0359904735f7f7221d650ab6ae57729e2386c8ae",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 28385,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/af/7mzbmxof45p5ca1rngaqr603inukyrd.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27329",
+        "sha1": "416406e39f272929704a5cf21173fa84320666f9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 30141,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/50/6h7nhtb9m63fwhlgoq4n8piqaq3d8y9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27330",
+        "sha1": "377547580c33f35e5c96ea4990dc7024b96a1991",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 27266,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/hte0h4hsadq7yo9zl07dcq9ise5z3of.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27331",
+        "sha1": "9885d85a183f424b046fc5831f0791569b855a5f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 28372,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/s0bgmhooodptyxky55rdajqm1l0mayu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27332",
+        "sha1": "efc7627ad10f15506c239b3c35ba82787dbde506",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1170502,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/ljqngclhjhpeahgndbr5vqn7lhdjptm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7234",
+        "sha1": "b878bba75d926369376ff098e7b628dbd70f2a7a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1249931,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/64/jirvq3cmujvlrnjb9441g054acr3fl2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7235",
+        "sha1": "a71ecae3054cf6e931872312052178a56a6abca6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 24952,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/o1j0sz4784bohtudhxpwf4uutc8xc4g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27333",
+        "sha1": "cdd2c2be6a151bd53b0b26307eb20f0097f2c3a0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 24139,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/53/1s22dn0nzkf7lv06iot3hdq7mdz7nyz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27334",
+        "sha1": "0f3b9ef5d3dc2d866bd0dbb53a7e49a34a1dec1b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 24359,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/iufez2myk0ave5yg3kurpfkbxjxryau.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27335",
+        "sha1": "a154aa6b161891b06027f9a71abce17cac89a366",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 24548,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/aj4olb7klofbb4w6sx00s8dagqr4wsp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27336",
+        "sha1": "5a284c14164be29e1e490ba5c98d11fbaa38a209",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 993019,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/exxd1tzp6fi2fi2jaz2yrqfwy1c1eyl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7236",
+        "sha1": "7feb5bd636614eeade4093f45ccdd8e0a59e51fd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1346501,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/02/ckcl5fsa6owdolwebpgnhhoi44q46b4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7237",
+        "sha1": "6b91af0cec3a6f96178bbfade327966366f0a2f0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 24761,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1d/lvo8ggcrt2xt3u7uj6s2tf817c5z7v7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27337",
+        "sha1": "bb4f2b9bef42f50f0b749fadcbae94ebe5649793",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 24789,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/6hchv8zkipbrjzlqu9uyei06ccnisus.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27338",
+        "sha1": "377d783243c0408329168022946eb5300dacc994",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 24595,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ac/8b7t8n0e55q4hk9c6iiiiywlrb3qv7i.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27339",
+        "sha1": "47276dfeb2c4b4adb2b2d9828dcffa6843eeff7e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 24488,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/2wkbhvy0n5cex3x8uz08eotjq6umfwb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27340",
+        "sha1": "18dd9133a96b65b55f82d0fe34d299ad6b340ffb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-7.png",
+      "kind": "background",
+      "info": {
+        "size": 907922,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/g506xi2gtw4d9hvmbp5seh6y43dxcwa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7238",
+        "sha1": "8a29dad11a95b8fee6862e58799fe248767f988a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-7+.png",
+      "kind": "background",
+      "info": {
+        "size": 1191740,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6d/kq9dn9pf6hc0kw8ttmtx60ks2icrxa6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-7%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7239",
+        "sha1": "b176179d5d12d386edf9ffec26e18651c0a8153e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 21471,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/sg9wtjny8ykv6ah49oahk9a3lo7p8fn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27341",
+        "sha1": "f392cb9193f13d19a8adcb0aa9c22b0928d9cdf3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 22675,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b2/hsftca9jbcd64gllpk5wedu796zjxsb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27342",
+        "sha1": "984c03db7203a6943b0a364c93d84152094c5ccb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 22422,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/03akke4ly5ybi0mf5nc4w1kv0nlhip6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27343",
+        "sha1": "00c881de84db11dd7653d54069efef219b2d29ea",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 21727,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/06k3cyezrr0ps32z5m67cyrzw91nhd1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27344",
+        "sha1": "018f3d83bfe7f1d15e3490eba4c8d9ef1a01dca5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-13-1.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 1,
+      "info": {
+        "size": 25340,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cc/qpofew3m4104713ov85awv6xwlkj4vq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-13-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27345",
+        "sha1": "e4b017c0bc4fc099faba15cf08319652e0a7e776",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-13-2.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 2,
+      "info": {
+        "size": 24345,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/tr6c5ro21hpg9zmbp2j24r1ktxsbkbs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-13-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27346",
+        "sha1": "feb9f851673904399becb5a7070102847393cba8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-13-3.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 3,
+      "info": {
+        "size": 24479,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/db/r4vt6qywo3bq54earrt5s5v7v0fr0qx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-13-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27347",
+        "sha1": "e84dbb5571d7091f5e5caff3dd2ca51e305d5b89",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-13-4.png",
+      "kind": "petit",
+      "outfit": 13,
+      "pose": 4,
+      "info": {
+        "size": 24839,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a8/0mrmmo6qr9ld5zd9veaoblxc4zd4rlz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-13-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27348",
+        "sha1": "056a03b1dbcde9a266d0718013a455345fe13dc7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-14-1.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 1,
+      "info": {
+        "size": 26927,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/96/4voc4ll00levw4i0bifn9o7nu1zth8s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-14-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27349",
+        "sha1": "29c6a0822a64c87907a3c35536b18203b803438c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-14-2.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 2,
+      "info": {
+        "size": 28195,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/a352qsc9trbmslwfoj1kzfikh945ct4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-14-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27350",
+        "sha1": "565aee1f28958c0647ba9da97509e384eec52818",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-14-3.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 3,
+      "info": {
+        "size": 26868,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6c/r2srktrm45x5cr27qfq7pj1iwdudlm1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-14-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27351",
+        "sha1": "e7ced442827a0d04fd0108a678531988e2a460a9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-14-4.png",
+      "kind": "petit",
+      "outfit": 14,
+      "pose": 4,
+      "info": {
+        "size": 29124,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9f/6fulghd888cmook0166vgemppyplote.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-14-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27352",
+        "sha1": "37225299e3dc2935d6f26495f5291ac814c4c1e2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-8.png",
+      "kind": "background",
+      "info": {
+        "size": 1496627,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/3l4xyge17t2hf1j858imtrf17g4srem.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7240",
+        "sha1": "1eb57d8dbdca1d701e79408eb117785faf27edbe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-8+.png",
+      "kind": "background",
+      "info": {
+        "size": 1580915,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/iuui99vdzgcljl4vf14mtiq62a7o9fh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-8%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7241",
+        "sha1": "a16e2f723b34e70427f88e084240a7aeb2f4b4bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-15-1.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 1,
+      "info": {
+        "size": 26432,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/apyjji610gto91n1wsjljs7qti1zbu2.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-15-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27353",
+        "sha1": "5bc80d7dcbe1ed145fb278bba83046afeb709faa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-15-2.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 2,
+      "info": {
+        "size": 26339,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/irxoqkf81qfbrvnsa3onupdg7ix6xm7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-15-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27354",
+        "sha1": "a0bcee8e75b96ffe4e970a83a9d3164250c0a8af",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-15-3.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 3,
+      "info": {
+        "size": 25843,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/6xao1d2vxy6tl6f9lh04tj9qko589mk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-15-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27355",
+        "sha1": "3b4868b85156d191f4fb7216df8355e7134a27bc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-15-4.png",
+      "kind": "petit",
+      "outfit": 15,
+      "pose": 4,
+      "info": {
+        "size": 25765,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/6bophs70mgh3ab394r12hke0bxiifn5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-15-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27356",
+        "sha1": "3624dbaf01375276b81e4549df7442b33bed45b1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-9.png",
+      "kind": "background",
+      "info": {
+        "size": 939410,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8d/4npy3f3cdryhrjr3zncfo6fl7m9v9f5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7242",
+        "sha1": "27e255802448bcc48a803faa10c2e7a02fa2b271",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-9+.png",
+      "kind": "background",
+      "info": {
+        "size": 1237368,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a6/2scv70r07865o5snrlnz8p7brq583o7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-9%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=7243",
+        "sha1": "17dd74d0baf35b93bb9e0a06b6fb1c7922790197",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-16-1.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 1,
+      "info": {
+        "size": 20545,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/qvzkjox6it3xpjw33emxk8gjpejs3j8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-16-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27357",
+        "sha1": "e6303277655f0718b1a8f50c7add5e66a9473be4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-16-2.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 2,
+      "info": {
+        "size": 22672,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d0/4i8o3ev7th28aygrv63hfqgxh1p1h54.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-16-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27358",
+        "sha1": "2694bb5a8148d47335392ce3f7b717eba55aba08",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-16-3.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 3,
+      "info": {
+        "size": 21710,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/f6cri0ps4r04igiigx2sblw5aqzy4ja.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-16-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27359",
+        "sha1": "81ec6b356459c623becb06e0e5deb41c49dfd676",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-16-4.png",
+      "kind": "petit",
+      "outfit": 16,
+      "pose": 4,
+      "info": {
+        "size": 22310,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/44/iuniu4ofmz4hx4dkve1wrm6a1so5xju.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-16-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27360",
+        "sha1": "a162601770055433b1691207eb4c27127010d11a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-17-1.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 1,
+      "info": {
+        "size": 29045,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/80/2ck9xm17v6dxzyq844wvjxwv10gf3ys.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-17-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27361",
+        "sha1": "141bf43b9ddbb570c635e746f4e8d1866001a1d4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-17-2.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 2,
+      "info": {
+        "size": 28526,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/gsoewhvny66traca5uzi1ryng6q3nm7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-17-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27362",
+        "sha1": "8fcafc0d11590969e90fa7557c5308a5b0238c4f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-17-3.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 3,
+      "info": {
+        "size": 28356,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c2/7cov90eiuf2jc7okvv76ivr1dhlvstv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-17-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27363",
+        "sha1": "3ef193b88b37b9050b308d5c458b088043deccb3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-17-4.png",
+      "kind": "petit",
+      "outfit": 17,
+      "pose": 4,
+      "info": {
+        "size": 30671,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/pd1febjjej76izabz4ivvf5fft2c4hz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-17-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27364",
+        "sha1": "d91f1a61b6d7ff7a1008ebbec753d3b8700927c7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-10.png",
+      "kind": "background",
+      "info": {
+        "size": 1456950,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/qu36ml2t4q5ev86uw22g5ppf0nv6ycj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23744",
+        "sha1": "e5bc8dad34470f2885f6dfbe2ce063695636ee63",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-SR-10+.png",
+      "kind": "background",
+      "info": {
+        "size": 1488197,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d9/gfw9dwouhmqt1wkq09l5f1tdqfkf2fe.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-SR-10%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23743",
+        "sha1": "8cc0da544b165db977f6709b3f66b18eee7cca0a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-18-1.png",
+      "kind": "petit",
+      "outfit": 18,
+      "pose": 1,
+      "info": {
+        "size": 23298,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ed/t01t5klnxh025lumi3618dlbjm3mtiy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-18-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27365",
+        "sha1": "f846a26eba7da21c622a5bae3ef18a10704b29fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-18-2.png",
+      "kind": "petit",
+      "outfit": 18,
+      "pose": 2,
+      "info": {
+        "size": 22063,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/oz7i8553gyo8blqelvzwuvj1bspzyc1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-18-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27366",
+        "sha1": "d5d51ab10ad05acdeb0567f11131f62879a73191",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-18-3.png",
+      "kind": "petit",
+      "outfit": 18,
+      "pose": 3,
+      "info": {
+        "size": 22012,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/dni821okjiaevuydp1ke83i9pp85wka.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-18-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27367",
+        "sha1": "74e16ad7f1aeffc7558418f125df2abe5662101a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-18-4.png",
+      "kind": "petit",
+      "outfit": 18,
+      "pose": 4,
+      "info": {
+        "size": 21917,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/00/bow1zgd48lcfj81gptnzsum3cydazxi.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-18-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27368",
+        "sha1": "64168a5c810466a2d5b11ebc6538342a5abc4966",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-19-1.png",
+      "kind": "petit",
+      "outfit": 19,
+      "pose": 1,
+      "info": {
+        "size": 24373,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/klwxt3ngkra9n45asw9hsr91keucgaj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-19-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30961",
+        "sha1": "b06d8c4a79c84653ccc81649120dd411c45f337b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-19-2.png",
+      "kind": "petit",
+      "outfit": 19,
+      "pose": 2,
+      "info": {
+        "size": 22361,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/16/f8p3eghhfgr9kqbq4cfe1z1kmdogxcf.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-19-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30962",
+        "sha1": "827b062c4f22609eec7e935c2e3cc2953bd2d8cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-19-3.png",
+      "kind": "petit",
+      "outfit": 19,
+      "pose": 3,
+      "info": {
+        "size": 23448,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/rittfqabsr0274zlaauhl8cta7ymeh0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-19-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30963",
+        "sha1": "eb9ea3a5c7092592e78db88d6b0b2e68cc11b0c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-19-4.png",
+      "kind": "petit",
+      "outfit": 19,
+      "pose": 4,
+      "info": {
+        "size": 22630,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/jyxv76pkutook3tw66vepynghgalvbq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-19-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30964",
+        "sha1": "aaf6f220637002e9de400af279bd5ba92cfd2bd6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-20-1.png",
+      "kind": "petit",
+      "outfit": 20,
+      "pose": 1,
+      "info": {
+        "size": 26593,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/1085ef2t5to3ahwrwdta9wocjgs50ta.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-20-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123330",
+        "sha1": "089d5a796354a54c5143329f83ca0410f3bc9f5e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-20-2.png",
+      "kind": "petit",
+      "outfit": 20,
+      "pose": 2,
+      "info": {
+        "size": 26532,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/jaf7dpmo4eb7iv8pc247rqwz1b6pjvw.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-20-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123331",
+        "sha1": "a522573e91ec7e6917e3091ffeb0a9ddacaad2ec",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-20-3.png",
+      "kind": "petit",
+      "outfit": 20,
+      "pose": 3,
+      "info": {
+        "size": 26210,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3b/0eq1yvg9pza7659gy0exhw1bkuyzymr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-20-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123332",
+        "sha1": "03805645b190027a729cf7fd1f217e2e482b3413",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Mio-Petit-20-4.png",
+      "kind": "petit",
+      "outfit": 20,
+      "pose": 4,
+      "info": {
+        "size": 27622,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/a5okr7xekig80jgod0xv427w4wghd85.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Mio-Petit-20-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=123333",
+        "sha1": "56f5a8e46bf22aadac75968d2ee08ec53bce2d35",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

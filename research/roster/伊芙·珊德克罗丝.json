@@ -1,0 +1,1787 @@
+{
+  "page": "伊芙·珊德克罗丝",
+  "group": "Passion",
+  "id": "eve",
+  "stem": "Eve",
+  "roman": "Eve Santaclaus",
+  "revision": 220944,
+  "checkedAt": "2026-10-14T02:06:22.376Z",
+  "files": [
+    {
+      "title": "CG-Eve-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100336,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/89eyoddz5kx7i0hadbxo0vx7264v13r.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9835",
+        "sha1": "46b9c4adf486e5708c4e7a08301627cfe36b5357",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101069,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/elt6cj76pcrsqwjhg6t0oygusl8t1qf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9836",
+        "sha1": "7d09c185428bfede3ee83342249150d36cda6a07",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100894,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/43/d6lo95she0heo6gt0r8bqn83lhc39wx.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9837",
+        "sha1": "70dc57af46343b4fae54a713f75ca17a3465d4f1",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101858,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/g8xqx0lpdd60bhne7djzub1bvwzi0qu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9838",
+        "sha1": "8b193a7b4cb652b83afee93af09b2e3131ff0746",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100741,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/20/0gwhen0p60i54gds2npszoeu8bdu2fp.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9839",
+        "sha1": "0404f65996e32ec42c853fb3689b96f6a729a0d5",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 97446,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/evwo7ncmzpfgh78bkpei56wl1qb20e1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9840",
+        "sha1": "7f70702296989463913909d79a9eb596ef925179",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99009,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/ayhpf6i1qfgoij2m6svflmeby98uve8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9841",
+        "sha1": "5dcf796c5fe95ab64959d2d2fc8676b961f5a670",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98836,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/j7a28qg7ytrpeq12rcv241iuxgmr65b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9842",
+        "sha1": "a463036a6aba725a4ebc6bdedb36f9ebcb13fddf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98929,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/i1j2mo7koiivt1ija153gqpjmjot63l.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9843",
+        "sha1": "9a756ad6ba5a81508b8b32d35fd30b432fa12821",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99546,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/bvkk1cetg29k599k6t1xxu3qy554x4n.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9844",
+        "sha1": "65ad3c2b01bc22bb07233871dfd1ae3ccec679b7",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99221,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8f/eyjtzt9bjd17qaxt95ssriz6j0kqd0i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9845",
+        "sha1": "80115b7465b478defb2d60968c2b73053a920862",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99202,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dc/b2snxedqhik9lur2z3acpao2i7gqayq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9846",
+        "sha1": "5ed5836d1f464599485090e5caa091f65d22e602",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99097,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/sbiyxsq0gq9kcj2ad0i6kbig6gwg4m5.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9847",
+        "sha1": "f271ba9f915a393bf19d9e4153e0428e0d263b5d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100642,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1b/29f46duyg3t3kqzv24pczecyin99dg4.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9848",
+        "sha1": "135c98f8d7243209cf8b6fb66ecedf23acf9b154",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100416,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/42/0ig4ujhdsozca2h9zg1qhifhj3eilc0.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9849",
+        "sha1": "046311e787b1cfc7a8b6dc5b4b7cde0ed11b6680",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-6.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101444,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d1/eot6usd8re5v0swbqobfo193n9pp03o.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-6.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9850",
+        "sha1": "7dc06924d34c3087d8c35be2dd0899e9807479c4",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101487,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/lovh1n6n0ohb6hfrr7xlfrjdvuvufvj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9851",
+        "sha1": "b9b145a621cf75ff0298545dc288f607e38a92df",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102032,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/nci23xddpkdmm2whn8o6ylvgpbagec7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9852",
+        "sha1": "c7df34cf5698ee7102e539fb52048a2820b09297",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101701,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/kllbpensor1prf4mfis3haaa05a93eo.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9853",
+        "sha1": "b059e8926a6f43679f6834e27dbe929e947c7780",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100109,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6f/5i0aahcnknu0638trpltbdygz4zsjk7.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9854",
+        "sha1": "2f162072a32b8a10dc0aaa38fe6a6ceae8691507",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99754,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/6cwp9fvlropvxf6eskae9e3zajr4rze.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9855",
+        "sha1": "366f40a138fe795a29996391c834dd52f1d5edaa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-9.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101526,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/q2ah7mcmlkljzuxogmib7urmah9w5s9.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-9.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9856",
+        "sha1": "df205509015648c85bf2a7202a9f60a7c3159249",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102255,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3e/4py9gu444tla4jvt9vr9s0kddf0gt18.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9857",
+        "sha1": "286a267fdf1373e1061326a9dde96cebac2ca2fc",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-10.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100110,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/pvxqysjbu6tkefm7ji2duynw38ix7rh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-10.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9858",
+        "sha1": "dd9d8b8beb03374061c57042b4ec4377407e478d",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-10+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102113,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/45/jds2gihhjw30px41t6y72rdij5h34hn.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-10%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9859",
+        "sha1": "a5eeb951d78a0ee0dae73b15fd909b4ec182ce7b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-11.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100549,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f4/gohwnvqca1fhn8rtiljc5hpdsts5157.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-11.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9860",
+        "sha1": "8ecc7944fa6423859bfc6c24a29c8504d991c50b",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-11+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101865,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/47/esuxvbmrflvb35i0z047q3n0vvfo8jt.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-11%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9861",
+        "sha1": "7eb6e0efe7b6edf3d9f48dea92a27561f9117c49",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-12.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100011,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/40/gqocv4f97mwzfw93raqvtd59uowa2a6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-12.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9862",
+        "sha1": "8f5122865dd19baf9aabf5e1d59226efe597ca0e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-12+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101382,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/kyj1wd7pkw9h0yni23aq70tnbbm7ygq.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-12%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9863",
+        "sha1": "b36d777380deef8325c737aa5f85b727cd58fc3a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-13.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101112,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6b/0ghsfl5s7dxrofgz4he7ud6ixhy0p1i.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-13.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9864",
+        "sha1": "03ec1d65bdde212495e9ee051b094f8f01e854c6",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-13+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101845,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/1kkgzertvip71uenilkarsfqisd9gkw.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-13%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9865",
+        "sha1": "0d73bac4f4f71cc35ffa9e324b7a87c9c02e7930",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-14.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99999,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/1j6tq6svwy55ua6uprgrndbphjde9xb.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-14.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9866",
+        "sha1": "0d1fc6dd4c02759df7253f5f0f5eaf807f04d2bf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-14+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100844,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8c/bs0ymbowcm6qq0sea96mi62wt3lbjv2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-14%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9867",
+        "sha1": "64d577f0ece1d77cf1a13e252d5f8a359f592a4e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-15.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100558,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/8lb1f6famrtl86z0p4bxsca1zyqztrk.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-15.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9868",
+        "sha1": "498da82cb1c1ba6e1ec41fda5f589e4ef6751370",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Eve-SR-15+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101429,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7e/gmhyh347cex6qqbvh6q4dw9lntx7ny2.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Eve-SR-15%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9869",
+        "sha1": "8e52ce086570c5c5dd34755945a1348f72d679fa",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1325628,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/g4nsm8x8lwbjkygfb9d86lvy9b7keri.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8798",
+        "sha1": "8a14e3dec9ae76c67de4dda942113290f7d60abe",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1256288,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b8/bh4gomxe5jv6uo1ommw0cyd23simzst.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8797",
+        "sha1": "623dbe479faab09866c86fdea36c75a9cb9650bd",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1226261,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/b2wni4bmddp8c2yg5vzanm2ra5eysgy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9883",
+        "sha1": "5edc41ef3de9daed7418ac173044778a33f626a2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1305099,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/ptw7wt33sgcmzgkjpmy72ubxi9qmzx7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9884",
+        "sha1": "dd21347ca2a0dbd6033319e96fd4ec939f12dd5b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1144700,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/ce/fvfhu8pl37d1uoy6s4ijgb6y0wcsrai.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9885",
+        "sha1": "87e2f676a2159a44f32db4f66314c1e07bf3052a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1524557,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2e/2adesgo796tgt86decd2loviqp8vry3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9886",
+        "sha1": "1396974cd74b9e6f25ce698b4eaf0b8ff814cb3b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1338220,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/12/skt4gl2xh1vfrzvk079lvid22wr6vyq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9887",
+        "sha1": "f4a6caa1b2d6fa3af74a3c4437608b43134d0252",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1426594,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/bf/oagwzxvopj44e6ppt5bzo7aq3nbllbv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9888",
+        "sha1": "cff317bdc2c3ca5656d86539ea7cee0aaba3b63b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1300332,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/3w1a4pnbxbvdxym5pj1o2g7yrrfu8ht.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30716",
+        "sha1": "214cf1ed49d5bd2960bd0e0f47832e2c85b77181",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1419113,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/17/9u8mr18fg3cwqjtqf52nhu3db2hzmli.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30715",
+        "sha1": "543d0cd67f12cfd5dcbf44d7cc0089eaad4c4626",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1387260,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a4/qunfhvxmzqs9k946m5kc587s5xqa61f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35618",
+        "sha1": "e5deca64aa93150ac10dd29fe710f34b7ed20b13",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SSR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1316830,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/25/00kjxdwykfi4qd8nq5t63wrsb94zm4k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SSR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35617",
+        "sha1": "0022c1b06351c2f8fca5b2bc241d04904e7f52c4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Eve-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 34042,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/o99q65tzrwvywg8m0ikv2q23f10w9wx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Eve-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=483",
+        "sha1": "cfaa0ed0601a3cb55e8f006aac189225de884e31",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 19230,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ab/6114xq6k9tr98ezmxcskke137cqf4jz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9870",
+        "sha1": "339c3aa0ae5cf53bdb830d294e3c65cbe431fecf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17879,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/6zn1j73l0268e6mns55afdm5ywe6658.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9871",
+        "sha1": "3bd716db4005c161174ba81a91f14e151c51129c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 17390,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/41/e7khtix2vq54n208qzicawcs4lc86ks.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9872",
+        "sha1": "79a6cc39afca9cbe2d23d61b0d9c49da5360134c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 17799,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/85/sz7zws27k7fjivl0tcc95kisr9kqfxk.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9873",
+        "sha1": "f8143894a1c29c98944cb0f0c78f90101ceadb28",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 15989,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3c/bvyk2dtjvum40xjpv35jfizrcd44u2r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9874",
+        "sha1": "65c4e928462ea8dec78489e03a18dc9affc4c943",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-6.png",
+      "kind": "icon",
+      "info": {
+        "size": 18743,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/39/b7vyshzms8mrietuf24vhkf9pqr0mr9.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9875",
+        "sha1": "600b7b513f8ac21a94ae4541291c7e6c8d50e635",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-7.png",
+      "kind": "icon",
+      "info": {
+        "size": 16955,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5b/6yic27ov7hw5l2sp1ky2iry5lbe64ht.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-7.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9876",
+        "sha1": "3b92406f89f20e2dca8514806b5ad1a0fb21c641",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-8.png",
+      "kind": "icon",
+      "info": {
+        "size": 17819,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/o78uzcprzttg2d4uyvjh2eqz3lifvdr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-8.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23583",
+        "sha1": "cf2ed6beb168e2686e8855b7bd8d2a591b1a029f",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-9.png",
+      "kind": "icon",
+      "info": {
+        "size": 17064,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/l58egvn8e58stmo1lqxtqa30w4bcba0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-9.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30709",
+        "sha1": "b505983b07896a8c13f77a19d0da2a0f3a7a3f18",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-10.png",
+      "kind": "icon",
+      "info": {
+        "size": 16100,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fb/e8lfqx3thnpghgketz47e9s54qnp257.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-10.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31967",
+        "sha1": "79e544b75f4d2d95db318b06dd32571b2567761b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-11.png",
+      "kind": "icon",
+      "info": {
+        "size": 16335,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/2trjxlckhqsora16vlgyddbtnr70dul.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-11.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35611",
+        "sha1": "18332b71addcc06d9b566b104d4985571a49a91d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-icon-12.png",
+      "kind": "icon",
+      "info": {
+        "size": 16668,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/h7le70p7wyhdybwmh51gnzg4ro23y8a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-icon-12.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117042",
+        "sha1": "93570875d6c1c566fded5bc8070642f092c1220a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1044152,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b9/6a96782v720uefb4hs25gxcs31qfr5t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9877",
+        "sha1": "35cdb5a053cb78a39c5b6e930a2eb28edebc6541",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1436269,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/f0u6dhbjpwoc0teuddnpybwnzclq5g5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9878",
+        "sha1": "809c9a5e5dce40c7f989aaedb6a275237c8f7315",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 27267,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9a/iy8nyxz0m2xydso8mth0stqejtbdo8w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24644",
+        "sha1": "a23cc2505d191d39981b533baa8a37874f6beb00",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 27027,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7c/2y3jw3jqo4pqvunzmik0ei36wumqaq0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24645",
+        "sha1": "193af7d0b7e99003c4a33ed96791f049dca846c8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 26382,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/92/a8yf32hfualp3bf37iqrcln9lfef8uz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24646",
+        "sha1": "57bcef4166951dfbd3132354cb055e88fc48d49b",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 27155,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/rmbz4qexzepjluqtux2b7qktbicmkp5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24647",
+        "sha1": "ec73f9e7a7c03fe970829da08985e5f225721649",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1091135,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f8/mfid3rlsaluhhljpf4gpimhppw7a7r3.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9879",
+        "sha1": "c006c83fedab9968fd269703bc87e760ef34fcbf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1384651,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/50/j6mh5qb2xu49j91g2kqjaugsk04f9g4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9880",
+        "sha1": "a43b211dbc7031bb78b76ac72565ba0d0d55a194",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 27392,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/eb/891tua0gwlqptwick17ixbkrjdczw12.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24648",
+        "sha1": "46a38ec9aa35ec523cab545f132c7c0192f65ce6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 27092,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/lhz9fi1otwxlwazt03qzaazu17g5m1u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24649",
+        "sha1": "b80d8a2110074705a56736bad1f206fa374e1ae2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 26816,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e5/1njh5ckqdhkmzgx7clgz5guorafsv7x.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24650",
+        "sha1": "0e28ad60369bf1cf3cee249fbd822224c18a140d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 27226,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/8b/7fd2sa86s4w4ld2blwhgjy8l54p9mgq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24651",
+        "sha1": "3f944506108ac0029e736cfb88f7719d4be8b2fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 25733,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/27/tidgmbsszeqvxkmz1x64h6em46adl0g.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24652",
+        "sha1": "fca21fb1919d17fae23f67e18665c14f86358da0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 25047,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c9/o7zu084qflcahkrirunrzsue99at1au.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24653",
+        "sha1": "cf5c736489abf730effb9c760a81e3437fe1c9d6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 24962,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/68/00yeek1g3kqcive1nbtvu8fqinov8jm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24654",
+        "sha1": "003a2bea83b4307f07845d24e27f5d0547f2b102",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 26313,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/30/kidjl342wrla64phd97q92x9z7l3ezu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24655",
+        "sha1": "af961e945b99c0db79665dfa4b6f8a3876ff8faa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 1229811,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/14/ia96xjvdb9q0fbf6okpor6v3pu0ta7p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9881",
+        "sha1": "9c889a1ebf480a50e33f33e46db6c2b367de60f5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 1100740,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/87/svfmakmu83dzqsxekcha8hatfq46xus.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9882",
+        "sha1": "f72d9a06dc5605970b9ccbad245114367f6d4ce4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 23347,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/71/8e7akfytfs8gaxbzsj62ti45l10c4mg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24656",
+        "sha1": "47dd2efcad615759a388177326fb6a3e1182d668",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 21397,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/k0e7kldyyi2cvoxhljhxyl04tbvzz5q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24657",
+        "sha1": "ab4f75dce80cc602cbf90cbb22b6d600944af7be",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23217,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e3/8kefbdikkssa48in0v6a775w0ylvjvc.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24658",
+        "sha1": "49568174b70162d325e56bdb89e7544ca0b37358",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 23315,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/3a/ker865m33b1sgq7rolih8402mpcw7yg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24659",
+        "sha1": "aeb9bfec9fa4f2011ff79032c443aba6ccdc6048",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 24526,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/07/9gvhmtcbtvhdj8p2pam48olx49pcm8c.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24660",
+        "sha1": "510f6cf3dc295c656dc61886efa0013c17d0f88c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 24407,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/72/ocrg9tgwd676w1viit4ohzi46oir0ji.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24661",
+        "sha1": "d07ea99083603a79ccd8223e6e0ef4008ce14d7e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 24305,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/drqeb484ckb8ds034eqyn7lxblzn7w0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24662",
+        "sha1": "75e2bf4843a86cbebacfc20c29b3a5d2d05deeb0",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 25136,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fa/79hlhwfbb0q2rvifw05y0t8846zaa6o.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24663",
+        "sha1": "3e2ea697b4535290d76be2f9d51817579fb26d10",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-6-1.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 1,
+      "info": {
+        "size": 29173,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c4/isjrc2ef6ojw6tgjbjo583tz8j9xn3q.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-6-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24664",
+        "sha1": "a0e241a78928a23cd1ebec8b842419fcb95d0836",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-6-2.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 2,
+      "info": {
+        "size": 29255,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2c/i6yuj3box9f0rqisoykn2uxwzkvb9lq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-6-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24665",
+        "sha1": "9bc07a6eecd8c28757ac28d471f513cf9b97845e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-6-3.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 3,
+      "info": {
+        "size": 25720,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/76/3cf460f51f589z8q8ywm4vzacd11hpy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-6-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24666",
+        "sha1": "1ca2ccae6b9204a2b22a76dfc73eed2edb9744f6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-6-4.png",
+      "kind": "petit",
+      "outfit": 6,
+      "pose": 4,
+      "info": {
+        "size": 30121,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4a/frwlct7yhk574qfdl0vbtktttwx6imn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-6-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24667",
+        "sha1": "870c5e0efb49fb830cea94d093dd45e61c35f4cf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-7-1.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 1,
+      "info": {
+        "size": 26206,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/77/ehpmzi6b2s8ik48mo1meozbvbs89pjt.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-7-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24668",
+        "sha1": "7c1043f2e1a906bd5e75c3b9bd2a79e3f4945199",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-7-2.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 2,
+      "info": {
+        "size": 27039,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cb/1huf555knxuxblnst1aodvlqzo6e62t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-7-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24669",
+        "sha1": "0ccdec237b179ea08da32ebd268eb0aab855ec45",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-7-3.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 3,
+      "info": {
+        "size": 26187,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b5/b7wyqubqyysmubkkt14u646ctjrdpbp.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-7-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24670",
+        "sha1": "600d2baab33d9d5f0dd73bd93bd044a0163db875",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-7-4.png",
+      "kind": "petit",
+      "outfit": 7,
+      "pose": 4,
+      "info": {
+        "size": 27741,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/mwacijzmdw6rrnlhk6n8w9eo08yhmxz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-7-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24671",
+        "sha1": "c4042295fcb6cbace0664a7951b5e1041bf11067",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1232016,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/1n3xlo4k0ha2fh8zfio78dsdb3q96j4.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23586",
+        "sha1": "0e0e64c7d3ff8522769959b5240bec0f241fbf50",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1547486,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d4/143l2pfbrvbb232atpkdwhd4uuvs0z8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=23585",
+        "sha1": "0989247b7aaf1c85247ca0397b673661801b8af4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-8-1.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 1,
+      "info": {
+        "size": 25650,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/8jgu45eo13qtjv2gz9ga1do4heoqbaa.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-8-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24672",
+        "sha1": "491db4b75895ca8d0b4659eafd2d79d57a93dba2",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-8-2.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 2,
+      "info": {
+        "size": 25378,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e0/gxpymt59iroj3256f56qvwssdagk9lq.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-8-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24673",
+        "sha1": "90fdfcc346824d8dc4933ecf66a4624bc1c1b59e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-8-3.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 3,
+      "info": {
+        "size": 24480,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d8/8xwziz1olxcxccu24pi007rt2exj2cx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-8-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24674",
+        "sha1": "4c8d4b5c773415379ab6bd687646b0da8652abb1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-8-4.png",
+      "kind": "petit",
+      "outfit": 8,
+      "pose": 4,
+      "info": {
+        "size": 25373,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/29/0okgirzdpzw0or49ovohxlwj6s6z242.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-8-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=24675",
+        "sha1": "05d7a4f07ab5a17af6806a3b675b14cfa7f9cb72",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-9-1.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 1,
+      "info": {
+        "size": 25709,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/56t8729xlyo5qjivg23br7wumjefzqx.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-9-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30710",
+        "sha1": "2c6c8b572136c576e2f50b2f893afc090aef3cb9",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-9-2.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 2,
+      "info": {
+        "size": 25825,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/jvsprncuq0j8wb9yug0lf0yqgmq1056.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-9-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30711",
+        "sha1": "aa379ac532941118433c13894979afbf623aa8fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-9-3.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 3,
+      "info": {
+        "size": 25714,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/61/iqh6ar49430mo8qdc4kpwdsghkco3ue.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-9-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30712",
+        "sha1": "a06421dda53b82da63b278bc38eb047bc51d9576",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-9-4.png",
+      "kind": "petit",
+      "outfit": 9,
+      "pose": 4,
+      "info": {
+        "size": 26471,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f1/7kl52f6wdyzrcvll5izgk5yb7wcvty1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-9-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=30713",
+        "sha1": "40d24a3a27752534d241349b7577511f58fae559",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-5.png",
+      "kind": "background",
+      "info": {
+        "size": 1501564,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/36/5z2dylmvflyzi8hcykkj7uh44kevzuy.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31974",
+        "sha1": "33249707f8fc96f02bc22f6ee8e949cabbc0a54a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-5+.png",
+      "kind": "background",
+      "info": {
+        "size": 1413386,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/gxwzlsjrjn4p1x224styd0j7v2bcobh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-5%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31973",
+        "sha1": "9109dec4f87ec2af213cc105f154b9e8d7b1e91d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-10-1.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 1,
+      "info": {
+        "size": 23340,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/o2gpeic50mv17f43ilcqdwxgicmhv0k.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-10-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31968",
+        "sha1": "ce0bb8569b31b3eb7b28f762ad52855987045d44",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-10-2.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 2,
+      "info": {
+        "size": 21270,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/7ca5rdmq6ue4toctnx8tp65e97sea88.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-10-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31969",
+        "sha1": "3ed8b48fcf330175d1d071d9ff51b08a92de5348",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-10-3.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 3,
+      "info": {
+        "size": 21858,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/ba/531axxabyf7ki2glmsbf8c39xnktu4s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-10-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31970",
+        "sha1": "2b86b18d8b82c38e699430786d520191691eddcc",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-10-4.png",
+      "kind": "petit",
+      "outfit": 10,
+      "pose": 4,
+      "info": {
+        "size": 21901,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/0bnpk73dhd4sc2x0g4npp7o712s8af8.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-10-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=31971",
+        "sha1": "02c5bdbcb14b58fdf405e40acc106d96cbbf9ac4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-11-1.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 1,
+      "info": {
+        "size": 29126,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/h1vflallbwuo2d1295squ1przppq14p.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-11-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35612",
+        "sha1": "91fabf3b8106244ec48abf7a378d3f16381a3539",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-11-2.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 2,
+      "info": {
+        "size": 28585,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9d/iqe215k5r2fuocg3un3iov5wmeubhfr.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-11-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35613",
+        "sha1": "a05edbd9a172750c09299da695362e0094526307",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-11-3.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 3,
+      "info": {
+        "size": 28957,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a2/n5mdh8ipjfgwo1z4qmun6tea2rtl179.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-11-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35614",
+        "sha1": "c63c5d9572ab7b6632a569c3e9cf5fc073342255",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-11-4.png",
+      "kind": "petit",
+      "outfit": 11,
+      "pose": 4,
+      "info": {
+        "size": 29605,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fe/os9edmhp0kpl4jjsj13z3f1um218rn7.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-11-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=35615",
+        "sha1": "d42e2aab1fca3d15c0ccd42eb8e7fe87ed1906f3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-6.png",
+      "kind": "background",
+      "info": {
+        "size": 1375760,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5a/gak9afcsky1wer9pj41d0u7hiq8drm5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-6.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117048",
+        "sha1": "8b7c2bc98e6f5973432d587e88a0bce2d9fbdd0d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-SR-6+.png",
+      "kind": "background",
+      "info": {
+        "size": 1287799,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/bwm4o7fk47l2278svd1tk898tkkvm5r.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-SR-6%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117050",
+        "sha1": "65ecc5b7bdd791b24364fe4bab6188a9fdabb5ef",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-12-1.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 1,
+      "info": {
+        "size": 24152,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/6ihu5vmu9cw0yz6mvltvtrl4d4pulk6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-12-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117044",
+        "sha1": "37c3611248b82a4d4951dde281b2667bafdee1a6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-12-2.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 2,
+      "info": {
+        "size": 23200,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/0e/gr5s8r1xthuthujxeyg5te9ltigxpq1.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-12-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117045",
+        "sha1": "8f6e9ace04b324ca1cf6bfb3e25e445384c2a879",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-12-3.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 3,
+      "info": {
+        "size": 24548,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d5/af62ipbsbdogd9fzi3v5jk65ctw796d.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-12-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117046",
+        "sha1": "5937226d6327c20639efad6e72a97baa13cfde35",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Eve-Petit-12-4.png",
+      "kind": "petit",
+      "outfit": 12,
+      "pose": 4,
+      "info": {
+        "size": 24119,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/c7/g45inmrca1cb8461pbf7dmfheydi07a.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Eve-Petit-12-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=117047",
+        "sha1": "89f5fbd3dab2432f13fa08cba253af6eeb8fe686",
+        "mime": "image/png"
+      }
+    }
+  ]
+}

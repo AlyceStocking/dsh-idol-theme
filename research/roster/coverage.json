@@ -1,0 +1,56 @@
+{
+  "scope": 190,
+  "available": 188,
+  "issues": [
+    {
+      "name": "岛村卯月",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 18
+    },
+    {
+      "name": "五十岚响子",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 10
+    },
+    {
+      "name": "黑埼千岁",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 13
+    },
+    {
+      "name": "白雪千夜",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 11
+    },
+    {
+      "name": "涩谷凛",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 18
+    },
+    {
+      "name": "久川飒",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 13
+    },
+    {
+      "name": "本田未央",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 20
+    },
+    {
+      "name": "向井拓海",
+      "issue": "HTTP 567",
+      "unavailable": true
+    },
+    {
+      "name": "村上巴",
+      "issue": "HTTP 567",
+      "unavailable": true
+    },
+    {
+      "name": "久川凪",
+      "issue": "Outfit icon not listed on character page; excluded",
+      "outfit": 14
+    }
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "page": "间中美里",
+  "group": "Cute",
+  "id": "misato",
+  "stem": "Misato",
+  "roman": "Misato Manaka",
+  "revision": 198043,
+  "checkedAt": "2026-10-14T02:04:44.450Z",
+  "files": [
+    {
+      "title": "CG-Misato-N-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100888,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/jbxm7vayjngggpg3a3crgg8nr3lhnch.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-N-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9489",
+        "sha1": "a57e5a6e96dba83e622bbc4e49abfd09801d2171",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-N-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101151,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6e/0mtdu25kbp3spfkz6viiw6jpdslm78h.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-N-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9490",
+        "sha1": "056cfbbe2b1989dba3062e84e51345121aa70321",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101983,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/e4/7t5purrzgnq3safr4oy3mhx6bolzsde.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9491",
+        "sha1": "42dc1a53c9011b51cc5048b2a7a4776af8033f62",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101815,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a7/7hw6h5n2bovl6orbfaws10uwkzzm3fj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9492",
+        "sha1": "402e5394e12695c35784dea9caf119445a1869df",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100449,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/df/ikbvw3likb8m0kwzfhe9arg7sp33reh.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9493",
+        "sha1": "9eeded27624d2637808322ee35431f63571f1479",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102092,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/99/kkw0u3q89dwn2lowcwd9fvsxfveajg8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9494",
+        "sha1": "b02f1f4a11f013d88268bd3baf28411ccda85af8",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101421,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/5nglrc4nx251i3ybawyabg2ev6d2gl1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9495",
+        "sha1": "30621b5848514d4e31eeac3afe192840322b3575",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100616,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4c/3c3hezhwiiayuupul6rmi35q0xu5zgj.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9496",
+        "sha1": "1c8f212b3f48ff010c760a18362ac2c7cfd7c4c3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101448,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/69/7f9jxys0dkdbwbd7pspkowbgshjckk1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9497",
+        "sha1": "3f8e4fbc6a55173822803a0d0535901351c98a11",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101604,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5f/3hfzk9i3hrqw3tvb71th0g8dvg1rh58.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9498",
+        "sha1": "1dd4a8c32f0d1ad61afbaaa7eebd37fce8cba08c",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-5.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101733,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/oylgighokwj3vtv6d283hm2gqsae4h6.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-5.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9499",
+        "sha1": "d5afd2387dc16b08ce1af2c3150d781b1da9e82a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-5+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101422,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/51/rhrvajagk8xvdo03j6kh4bhxe8h48fi.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-5%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9500",
+        "sha1": "eb5e77a5e82a6bd1d7554ec7524328264001f4ae",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-6+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102247,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/ad/kmor6l8356zce1i60ecc70qe8jehoq1.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-6%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9501",
+        "sha1": "b09c95e7bc4ff6ae3650a8539511c53eff179169",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-7.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99765,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5d/7byyo4bzoybe6ok4fxq7vtjijw5w9ig.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-7.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9502",
+        "sha1": "3ec5c55d588123bb106df67ba8c9f36dd2514d28",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-7+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101331,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7b/8ot9ogqj5pvnvb0g83u8t6797an5ygz.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-7%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9503",
+        "sha1": "4a631d41d6da4d974ca9e09db0872c975cd4ccc3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-8.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100865,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/9iptzhgngafynccpvq7teh4crgesbtf.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-8.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9504",
+        "sha1": "517f9d15b41b81847fd083f75f8a6cb1a43ee8d3",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-8+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100920,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f9/rotjycryhkpb05oc9p292fqsu5v9vnm.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-8%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9505",
+        "sha1": "ed0b74ab5932e5697972ec76e1ff91a713ef9b82",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-R-9+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101595,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2b/jy6godpnw7u79f07q34zihp37s685ll.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-R-9%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9506",
+        "sha1": "aac89b1cc11c324395d776cba95446fdf8fab459",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-1.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 99831,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/c/cf/79foqsulq9mf9ot43nyaib1k20gzwc8.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-1.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9507",
+        "sha1": "3e2b6bd5bcd2eb72a31f39fa7660bb7bcdfbbe78",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-1+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 98195,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a0/tu2t51ms679pjgo70ozhi5bh99hjo82.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-1%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9508",
+        "sha1": "ff6aa26a9d45091298c6f61bede16352c88a4662",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-2.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 102307,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/9e/ssbtgawiziy5xm7is3r5ncvd1s6w8zu.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-2.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9509",
+        "sha1": "f6708afa80785e6df27ad98b4b9888450de1fb8a",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-2+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100951,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/35/4kkfuou95i9l3k0m8vw88hisfeqtd5b.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-2%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9510",
+        "sha1": "27226417aaac4055c3ae51c031ce3159601b29cf",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-3.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101543,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/52/nypskk6265b2pzkudmkwoxjkmweqg6m.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-3.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9511",
+        "sha1": "cd27948711a5fae4d89ed9586086c286858d826e",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-3+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100601,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/1b/sy6kjcsg9uchxl2qvlet1xvbzpzxi42.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-3%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9512",
+        "sha1": "f7d4ee4f0518ac549cc0ac6719a440506931d0f2",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-4.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 100003,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/67/hg2hrz7mbbe667pn8izy7iqk2vkl6ac.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-4.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9513",
+        "sha1": "955af6f4c6915badb3628d3ee885e84386b6a314",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CG-Misato-SR-4+.jpg",
+      "kind": "mobamas",
+      "info": {
+        "size": 101675,
+        "width": 640,
+        "height": 800,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/88/djmcm0vf8f5bklg6u3kq8znal5dmd8k.jpg",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CG-Misato-SR-4%2B.jpg",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9514",
+        "sha1": "73f4e331dbfe1a1cc866ffca246c370842801d84",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SSR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1181546,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/5c/bg1o70g25ws2sgty3gs11bsxg7n3b1j.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SSR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8896",
+        "sha1": "61fc25602fe0b919c9e0ce666ffa181421198da7",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SSR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1448349,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/da/0u1ixi3k9rxv007v8j0irydl5kp04cb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SSR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=8895",
+        "sha1": "0724e3cd681426760983a2943d7d951f79d12efb",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "Misato-sign.png",
+      "kind": "signature",
+      "info": {
+        "size": 33793,
+        "width": 630,
+        "height": 504,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/6a/9ph5mlzq1ucra9x3o045evx87578rp5.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:Misato-sign.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=547",
+        "sha1": "531b1484aabc4a98d8424cfe66ba55f6b6c74939",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-icon-1.png",
+      "kind": "icon",
+      "info": {
+        "size": 16743,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b0/ptkzvmnjl06p47s1xgerym891kwyhad.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-icon-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9515",
+        "sha1": "dd0e39f594c85a2ae0ef0f3072dac7bcc8f0cc05",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-icon-2.png",
+      "kind": "icon",
+      "info": {
+        "size": 17560,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/elt0mf6gdbspakfowrafeoqe6g6nl5w.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-icon-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9516",
+        "sha1": "7d097cac4c7cface59996d599ae497ef9f90b0e4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-icon-3.png",
+      "kind": "icon",
+      "info": {
+        "size": 18172,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/9/97/95wh0ylq3pc55jx81n0zhtkbwse40fg.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-icon-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9517",
+        "sha1": "4e7370f627ab0097c230d0ec344b5ae9e8ba592c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-icon-4.png",
+      "kind": "icon",
+      "info": {
+        "size": 15629,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/46/f1oygy8ryyoxdxbgvqqeevupxpk4nli.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-icon-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9518",
+        "sha1": "80d0a7520f5d9f94281f054ed7dd7f88bacd3876",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-icon-5.png",
+      "kind": "icon",
+      "info": {
+        "size": 17246,
+        "width": 124,
+        "height": 124,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b7/nvnog6s71duh973ls7pblooviaby9it.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-icon-5.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9519",
+        "sha1": "cc6d5fa29f0326a787cd850f8abcb173731d97b5",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-1.png",
+      "kind": "background",
+      "info": {
+        "size": 1236620,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/8/86/dek8rx3xbmihz9gzxqkfk6hz7yrljkl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9521",
+        "sha1": "72c0f0b6ff638632147f272b165fa1ef6b124955",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-1+.png",
+      "kind": "background",
+      "info": {
+        "size": 1073072,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fc/g2fc0olcdjq91y8hxf4ezph1x6rwtqh.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-1%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9522",
+        "sha1": "898cd4063f24a03f24d56a474a64f2bc316f8189",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-1-1.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 1,
+      "info": {
+        "size": 22636,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/60/13m9d6x1wnzki5et20ewpivkk5ojqmu.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-1-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27452",
+        "sha1": "096bd8552a369247486cabda02c9c4ef96bb9996",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-1-2.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 2,
+      "info": {
+        "size": 21559,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/7a/klh0i0sfrnziee3d7qezpk0kwgoz96f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-1-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27453",
+        "sha1": "b0529e378fc20637c105e5ba146c69ad57897137",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-1-3.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 3,
+      "info": {
+        "size": 21043,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/b/b4/8yq5pb6qyq9mbhj054kqa1246llfy03.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-1-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27454",
+        "sha1": "4cbe9fd0e41703bf65fb88ddb54e4700988e62e3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-1-4.png",
+      "kind": "petit",
+      "outfit": 1,
+      "pose": 4,
+      "info": {
+        "size": 22372,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/fd/pm7713l7us8obfq07d6w37se7y0hzkn.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-1-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27455",
+        "sha1": "db4cbfc28fe75f9fd872bfbc824303d0e33f8657",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-2.png",
+      "kind": "background",
+      "info": {
+        "size": 1255794,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/3/38/imtmoiamdoew0827cst30036wmbbx4t.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9523",
+        "sha1": "9f85afa9e3ac61f34fb4c63d9ff27f9c8706ff7d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-2+.png",
+      "kind": "background",
+      "info": {
+        "size": 1457962,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/phok1p9ts9smvetus9nk2aqxke8jqvl.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-2%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9524",
+        "sha1": "da39b918823f4dfc0b2dc14ffd111bc42b058ed1",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-2-1.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 1,
+      "info": {
+        "size": 23211,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/dd/ks3bex8yzngmlvdh4ahcq3ou2ip4a8f.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-2-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27456",
+        "sha1": "b1e5986030c08d0eb1ecd636665958439210edcf",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-2-2.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 2,
+      "info": {
+        "size": 21902,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/49/j2k6qkw4flqi93n79gb72ocymuas301.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-2-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27457",
+        "sha1": "a343bff6de70b37d50158e8a6bb8881c586f6031",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-2-3.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 3,
+      "info": {
+        "size": 21983,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/4/4e/9gbxofh0unmtlmq78xgaa03lgso2dek.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-2-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27458",
+        "sha1": "50ee5bd53dd6d51097bb34707ec69c581e61f85c",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-2-4.png",
+      "kind": "petit",
+      "outfit": 2,
+      "pose": 4,
+      "info": {
+        "size": 23328,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/7/74/f6tvp1ksm4crr4lgt7rjzk9ucqp4xk6.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-2-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27459",
+        "sha1": "82095d01a154eb024bc784d637e4f1b4964223e6",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-3.png",
+      "kind": "background",
+      "info": {
+        "size": 933434,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/ff/g8m485e225xv1q9rht50o02gp8cjzqs.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9525",
+        "sha1": "8b058fb0b7122151f7e1371384daba1388a577b4",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-3+.png",
+      "kind": "background",
+      "info": {
+        "size": 960140,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/06/ms815vdlsick88q8rblytx0jiqjfzqb.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-3%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9526",
+        "sha1": "c30cb63ba30473b7710e1503d8d9112f0f88dda3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-3-1.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 1,
+      "info": {
+        "size": 23759,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/28/m13t5oguased685jr8flgimpqxmpxoj.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-3-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27460",
+        "sha1": "bc99e49ff8249095349aa8697bef7d43f9af50c3",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-3-2.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 2,
+      "info": {
+        "size": 23806,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f6/fhd7nx7l0mcny1bwvhbyggt7ceb96dz.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-3-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27461",
+        "sha1": "848ad32cfeab7e988be570cfaae6a2dc99baeb97",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-3-3.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 3,
+      "info": {
+        "size": 22937,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/6/63/7xm1gvs1wl88efezmvmu67og7iofu7s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-3-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27462",
+        "sha1": "43eb3678b4c06edbf3629e8178420737336356b8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-3-4.png",
+      "kind": "petit",
+      "outfit": 3,
+      "pose": 4,
+      "info": {
+        "size": 22751,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/a3/kd08g93aly5eorlpc9b80spd38wzqlv.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-3-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27463",
+        "sha1": "ae4f3a682a5b64e5057d34f4a8aecd8c0cf22173",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-4-1.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 1,
+      "info": {
+        "size": 25041,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/56/f0n2jb4qwvmigi6qsukwujvv7ii5kco.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-4-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27464",
+        "sha1": "809095e4d89f60c1bf8f96e98ff51cf4223f0048",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-4-2.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 2,
+      "info": {
+        "size": 24677,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/d/d3/6gv4daaproowbfovzf2nm4di6mg344u.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-4-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27465",
+        "sha1": "37601684c2ff849991e29eb624ea397d8efe3fae",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-4-3.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 3,
+      "info": {
+        "size": 23838,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/f/f7/ebmtcs32fyp73kofhw2gaxh5ubj8hdm.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-4-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27466",
+        "sha1": "7a9e3ac5ee797f5218e777858d052cb97de228fa",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-4-4.png",
+      "kind": "petit",
+      "outfit": 4,
+      "pose": 4,
+      "info": {
+        "size": 25336,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/2f/fzk77k77xb1pdyk6w5lr36wps37f93s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-4-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27467",
+        "sha1": "88de6d2f9233fa4e7bb43f9143d7fa02e4102ed8",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-4.png",
+      "kind": "background",
+      "info": {
+        "size": 1371495,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/1/15/td9q64p33od1asl6rqp49b1ev0zj1ve.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9527",
+        "sha1": "fb6b6c6112c824e31b86b0849cf9a8166536033a",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-SR-4+.png",
+      "kind": "background",
+      "info": {
+        "size": 1503645,
+        "width": 1280,
+        "height": 824,
+        "url": "https://patchwiki.biligame.com/images/imascg/2/23/nsj2dlnfle7avl6vmn1e9v3ti85f246.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-SR-4%2B.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=9528",
+        "sha1": "cbaef114dd5e66effee4308351496182d72b5d76",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-5-1.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 1,
+      "info": {
+        "size": 26693,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/a/aa/nlupc24e6m681xvi41lb8o3t6xblpct.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-5-1.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27468",
+        "sha1": "ca187b84344e73c28bcf76cda964ffdf8923229d",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-5-2.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 2,
+      "info": {
+        "size": 24598,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/0/04/64zbxjtb9gdo4a5b7apciunk3rwis4s.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-5-2.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27469",
+        "sha1": "348caef8ee33da17e2dc8c88b9ce37df2359faec",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-5-3.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 3,
+      "info": {
+        "size": 26033,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/5/58/h24d2pt1sy42x33ettsgc1lrja4oa72.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-5-3.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27470",
+        "sha1": "9209d91a9bd4b0452135224639d51be8e55a259e",
+        "mime": "image/png"
+      }
+    },
+    {
+      "title": "CGSS-Misato-Petit-5-4.png",
+      "kind": "petit",
+      "outfit": 5,
+      "pose": 4,
+      "info": {
+        "size": 24843,
+        "width": 256,
+        "height": 256,
+        "url": "https://patchwiki.biligame.com/images/imascg/e/ee/4ylub8ug5lgxfwtmxdxbb19h4cg2ai0.png",
+        "descriptionurl": "https://wiki.biligame.com/imascg/%E6%96%87%E4%BB%B6:CGSS-Misato-Petit-5-4.png",
+        "descriptionshorturl": "https://wiki.biligame.com/imascg/index.php?curid=27471",
+        "sha1": "2a7909ff238a7da7d708689adaf4fb975476e1a8",
+        "mime": "image/png"
+      }
+    }
+  ]
+}
