@@ -1,4 +1,4 @@
-import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, matchesCharacter } from '../lib/characters.js';
+import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, createLinePicker, matchesCharacter } from '../lib/characters.js';
 import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
@@ -8,6 +8,7 @@ const pet = element('pet'), desktop = element('desktop'), notices = element('not
 const settings = element('settings'), dialogue = element('dialogue');
 const petWrap = element('pet-wrap');
 const sprites = createSpriteCache();
+const nextLine = createLinePicker();
 let preferences = { ...DEFAULT_APPEARANCE };
 let { IMG, ICONS, PETITS, CARDS } = getCharacter(preferences.characterId);
 let renderedCharacter = null, warmedOutfit = null;
@@ -175,7 +176,8 @@ async function performFlip(changeOutfit = false) {
 function interact() {
   flipPending++; performFlip();
   if (!notices.hidden) return;
-  dialogue.textContent = PLACEHOLDER; dialogue.hidden = false;
+  const speaker = getCharacter(preferences.characterId);
+  dialogue.textContent = nextLine(speaker, speaker.outfitIds[preferences.cardIndex]); dialogue.hidden = false;
   layoutPanels();
   clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; layoutPanels(); }, 3200);
 }

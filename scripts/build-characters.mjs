@@ -3,7 +3,13 @@ import { readFile, writeFile } from 'node:fs/promises';
 const directory = new URL('../research/roster/', import.meta.url);
 const { roster } = JSON.parse(await readFile(new URL('index.json', directory), 'utf8'));
 const root = 'https://patchwiki.biligame.com/images/imascg/';
-const characters = {}, issues = [], unavailable = [];
+const characters = {}, characterLines = {}, characterSerifu = {}, issues = [], unavailable = [];
+// Optional dialogue metadata collected by scripts/audit-dialogue.mjs and scripts/audit-serifu.mjs; the build stays offline.
+let dialogue = {}, serifu = {};
+try { dialogue = JSON.parse(await readFile(new URL('lines.json', directory), 'utf8')).lines ?? {}; } catch { /* no common dialogue collected yet */ }
+try { serifu = JSON.parse(await readFile(new URL('serifu.json', directory), 'utf8')).blocks ?? {}; } catch { /* no per-outfit dialogue collected yet */ }
+const linesOf = person => (dialogue[person.page] ?? []).map(entry => entry?.text).filter(text => typeof text === 'string' && text.length > 1 && text.length <= 80);
+const serifuOf = person => Object.fromEntries((serifu[person.page] ?? []).filter(entry => Array.isArray(entry?.lines) && entry.lines.length).map(entry => [String(entry.outfit), entry.lines.filter(text => typeof text === 'string' && text.length > 1 && text.length <= 80)]));
 const defer = (person, issue) => { issues.push({ name: person.page, issue, unavailable: true }); unavailable.push({ id: 'unavailable:' + person.page, name: person.page, search: '', available: false }); };
 const aliases = { arisu: 'tachibana arisu 橘ありす' };
 const trusted = file => file?.info?.url?.startsWith(root) && /^image\//.test(file.info.mime);
@@ -37,13 +43,19 @@ for (const person of roster) {
     MOBAMAS: available.filter(file => file.kind === 'mobamas' && file.title.includes('+')).map(file => ({ label: file.title.replace(`CG-${stem}-`, '').replace(/\.jpe?g$/i, ''), url: file.info.url })),
     defaults: { cardIndex: 0, petitIndex: 0, bg: cards[0].info.url },
   };
+  const lines = linesOf(person);
+  if (lines.length) characterLines[id] = lines;
+  // Only keep dialogue for outfits that survived the catalog checks above.
+  const availableOutfits = new Set(outfits.map(item => item.id));
+  const outfitLines = Object.fromEntries(Object.entries(serifuOf(person)).filter(([outfit]) => availableOutfits.has(outfit)));
+  if (Object.keys(outfitLines).length) characterSerifu[id] = outfitLines;
   // Preserve Yukimi's established ordering/defaults and legacy preferences.
   if (id !== 'yukimi') characters[id] = character;
 }
 if (roster.length !== 190) throw Error('Expected the approved 190-idol scope');
 const modulePath = new URL('../lib/characters.js', import.meta.url);
 const source = (await readFile(modulePath, 'utf8')).replaceAll('\r\n', '\n');
-const result = source.replace(/\/\/ BEGIN CHARACTER_DATA[\s\S]*?\/\/ END CHARACTER_DATA/, `// BEGIN CHARACTER_DATA\nconst ADDITIONAL_CHARACTERS = {\n${Object.entries(characters).map(([id, data]) => JSON.stringify(id) + ': ' + JSON.stringify(data)).join(',\n')}\n};\nconst UNAVAILABLE_CHARACTERS = ${JSON.stringify(unavailable)};\n// END CHARACTER_DATA`);
+const result = source.replace(/\/\/ BEGIN CHARACTER_DATA[\s\S]*?\/\/ END CHARACTER_DATA/, `// BEGIN CHARACTER_DATA\nconst ADDITIONAL_CHARACTERS = {\n${Object.entries(characters).map(([id, data]) => JSON.stringify(id) + ': ' + JSON.stringify(data)).join(',\n')}\n};\nconst UNAVAILABLE_CHARACTERS = ${JSON.stringify(unavailable)};\nconst CHARACTER_LINES = ${JSON.stringify(characterLines)};\nconst CHARACTER_SERIFU = ${JSON.stringify(characterSerifu)};\n// END CHARACTER_DATA`);
 const reportPath = new URL('coverage.json', directory);
 const report = JSON.stringify({ scope: 190, available: Object.keys(characters).length + 1, issues }, null, 2) + '\n';
 if (process.argv.includes('--check')) {

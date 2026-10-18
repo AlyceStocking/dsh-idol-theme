@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls } from '../lib/characters.js';
+import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls, PLACEHOLDER, clickLine, clickLines, createLinePicker } from '../lib/characters.js';
 import { readFileSync } from 'node:fs';
 import { normalizePreferences, validateHostMessage } from '../desktop/logic.js';
 import { DesktopState } from '../lib/desktop-state.js';
@@ -62,6 +62,49 @@ test('each catalog is complete and cross-character or arbitrary URLs are rejecte
   assert.equal(arisu.cardIndex, 13); assert.equal(arisu.petitIndex, 3);
   assert.equal(arisu.bg, CHARACTERS.arisu.defaults.bg);
   assert.equal(normalizeAppearance({ bg: 'https://example.com/a' }, arisu).bg, arisu.bg);
+});
+
+test('tap lines follow the current outfit, then the character, then the placeholder', () => {
+  assert.ok(clickLines('yukimi').length >= 10, 'Yukimi common dialogue should be collected');
+  for (const character of Object.values(CHARACTERS)) {
+    const outfit = character.outfitIds[0];
+    const line = clickLine(character, outfit, () => 0);
+    assert.equal(typeof line, 'string');
+    assert.ok(line.length > 1);
+    assert.doesNotMatch(line, /\{\{|\[\[|<[a-z/]/i, line);
+    assert.ok(!line.includes('(家具名)'));
+    for (const collected of [...clickLines(character.id), ...clickLines(character.id, outfit)]) assert.ok(collected.length <= 80, collected);
+  }
+  assert.deepEqual(clickLines('unknown'), []);
+  assert.deepEqual(clickLines('unknown', '1'), []);
+  assert.equal(clickLine({ id: 'unknown' }, '1'), PLACEHOLDER);
+});
+
+test('the click picker draws a shuffled bag without repeating a line twice in a cycle', () => {
+  let seed = 20261018;
+  const random = () => { seed = (seed * 1664525 + 1013904223) % 4294967296; return seed / 4294967296; };
+  const picker = createLinePicker(random);
+  const character = CHARACTERS.yukimi, outfit = character.outfitIds[0];
+  const pool = clickLines(character.id, outfit);
+  assert.ok(pool.length >= 3);
+  const order = () => Array.from({ length: pool.length }, () => picker(character, outfit));
+  const first = order(), second = order(), third = order();
+  for (const cycle of [first, second, third]) {
+    assert.equal(new Set(cycle).size, pool.length, 'every line appears once per cycle');
+    assert.deepEqual([...cycle].sort(), [...pool].sort(), 'a cycle covers the whole pool');
+  }
+  assert.notEqual(second[0], first.at(-1), 'a refill never opens with the previous line');
+  assert.notEqual(third[0], second.at(-1), 'a refill never opens with the previous line');
+  assert.ok(new Set([first.join(), second.join(), third.join()]).size > 1, 'cycles are not the same order');
+});
+
+test('the click picker keeps pools apart and falls back to the placeholder', () => {
+  const picker = createLinePicker(() => 0.5);
+  const character = CHARACTERS.yukimi;
+  const first = character.outfitIds[0], last = character.outfitIds.at(-1);
+  assert.ok(clickLines(character.id, first).includes(picker(character, first)));
+  assert.ok(clickLines(character.id, last).includes(picker(character, last)));
+  assert.equal(picker({ id: 'unknown' }, '1'), PLACEHOLDER);
 });
 
 test('saved stable identities round-trip and missing identities fall back safely', () => {
