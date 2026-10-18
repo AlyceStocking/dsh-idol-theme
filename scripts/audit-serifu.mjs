@@ -27,7 +27,7 @@ function plain(text) {
 
 // Each card block is "<div class=serifu id=cardserifuN><ul id=cardserifulistN><li>中文</li>...</ul>".
 // The block number is the CGSS outfit number. Japanese originals are HTML comments and are dropped.
-export function parseCardDialogue(source, { perOutfit = 5, maxLength = 42 } = {}) {
+export function parseCardDialogue(source, { perOutfit = Infinity, maxLength = 400 } = {}) {
   const clean = source.replace(/<!--[\s\S]*?-->/g, '');
   const parts = clean.split(/id="cardserifu(\d+)"/);
   const blocks = {};
@@ -36,7 +36,7 @@ export function parseCardDialogue(source, { perOutfit = 5, maxLength = 42 } = {}
     const outfit = parts[index];
     const body = parts[index + 1] ?? '';
     const items = [...body.matchAll(/<li[^>]*>([\s\S]*?)<\/li>/gi)].map(match => plain(match[1]));
-    const lines = [...new Set(items)].filter(text => text.length > 1 && text.length <= maxLength && !/[{}<>]/.test(text)).slice(0, perOutfit);
+    const lines = [...new Set(items)].filter(text => text.length > 0 && text.length <= maxLength && !/[{}<>]/.test(text)).slice(0, perOutfit);
     if (!lines.length) continue;
     blocks[outfit] = lines;
     for (const line of lines) seen.add(line);

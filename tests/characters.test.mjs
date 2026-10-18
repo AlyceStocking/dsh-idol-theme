@@ -73,7 +73,7 @@ test('tap lines follow the current outfit, then the character, then the placehol
     assert.ok(line.length > 1);
     assert.doesNotMatch(line, /\{\{|\[\[|<[a-z/]/i, line);
     assert.ok(!line.includes('(家具名)'));
-    for (const collected of [...clickLines(character.id), ...clickLines(character.id, outfit)]) assert.ok(collected.length <= 80, collected);
+    for (const collected of [...clickLines(character.id), ...clickLines(character.id, outfit)]) assert.ok(collected.length <= 400, collected);
   }
   assert.deepEqual(clickLines('unknown'), []);
   assert.deepEqual(clickLines('unknown', '1'), []);

@@ -45,7 +45,7 @@ test('per-outfit dialogue is split by card block and keeps only the Chinese line
 
 test('per-outfit dialogue caps the list per card and drops markup or oversized lines', () => {
   const items = Array.from({ length: 9 }, (_, index) => '<li>台词' + index + '号</li>').join('') + '<li>{{模板}}</li><li>' + '长'.repeat(60) + '</li>';
-  const blocks = parseCardDialogue('<div class="serifu" id="cardserifu2"><ul id="cardserifulist2">' + items + '</ul></div>');
+  const blocks = parseCardDialogue('<div class="serifu" id="cardserifu2"><ul id="cardserifulist2">' + items + '</ul></div>', { perOutfit: 5, maxLength: 42 });
   assert.equal(blocks['2'].length, 5);
   assert.equal(blocks['2'][0], '台词0号');
 });

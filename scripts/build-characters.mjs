@@ -18,7 +18,7 @@ const visualOf = person => {
   return { accent: entry.colour.toLowerCase(), accentDark: lighten(entry.colour, .45), ...(stamp?.url ? { stamp: stamp.url } : {}), ...(anim?.url ? { anim: anim.url } : {}) };
 };
 const linesOf = person => (dialogue[person.page] ?? []).map(entry => entry?.text).filter(text => typeof text === 'string' && text.length > 1 && text.length <= 80);
-const serifuOf = person => Object.fromEntries((serifu[person.page] ?? []).filter(entry => Array.isArray(entry?.lines) && entry.lines.length).map(entry => [String(entry.outfit), entry.lines.filter(text => typeof text === 'string' && text.length > 1 && text.length <= 80)]));
+const serifuOf = person => Object.fromEntries((serifu[person.page] ?? []).filter(entry => Array.isArray(entry?.lines) && entry.lines.length).map(entry => [String(entry.outfit), entry.lines.filter(text => typeof text === 'string' && text.length > 0 && text.length <= 400)]));
 const defer = (person, issue) => { issues.push({ name: person.page, issue, unavailable: true }); unavailable.push({ id: 'unavailable:' + person.page, name: person.page, search: '', available: false }); };
 const aliases = { arisu: 'tachibana arisu 橘ありす' };
 const trusted = file => file?.info?.url?.startsWith(root) && /^image\//.test(file.info.mime);
