@@ -6,33 +6,42 @@ import { parseCardDialogue } from '../scripts/audit-serifu.mjs';
 const line = (japanese, chinese) => '|' + japanese + '<br>{{font|color=#4D6BFE|size=12px|<u>' + chinese + '</u>}}';
 const page = (...parameters) => '<includeonly>{{台词语音表格/Common|AITranslated=1|idol=Yukimi|Audio=1\n' + parameters.join('\n') + '\n}}</includeonly>';
 
-test('the common voice table yields the Chinese translation of each tap line', () => {
+test('the common voice table yields the Chinese translation of each scene', () => {
   const lines = parseCommonDialogue(page(
     line('……ふあ……朝……', '……呼啊……早上……有点……困……'),
     line('お昼……ランチ……', '午饭……午餐……是什么呢……好期待……'),
   ));
-  assert.deepEqual(lines, ['……呼啊……早上……有点……困……', '午饭……午餐……是什么呢……好期待……']);
+  assert.deepEqual(lines, [
+    { scene: 'morning', text: '……呼啊……早上……有点……困……' },
+    { scene: 'noon', text: '午饭……午餐……是什么呢……好期待……' },
+  ]);
 });
 
-test('the player name placeholder becomes the producer and furniture text is dropped', () => {
+test('the player name placeholder becomes the producer and furniture placeholders are kept', () => {
   const lines = parseCommonDialogue(page(
     line('……もう……眠い……{{UserName}}……おんぶ……', '……已经……困了……{{UserName}}……背我……'),
     line('(家具名)の使い心地', '(家具名)的使用感…变好了…'),
     line('……約束……だからね', '……因为……约好了呢'),
   ));
-  assert.deepEqual(lines, ['……已经……困了……制作人……背我……', '……因为……约好了呢']);
+  assert.deepEqual(lines.map(entry => [entry.scene, entry.text]), [
+    ['morning', '……已经……困了……制作人……背我……'],
+    ['noon', '(家具名)的使用感…变好了…'],
+    ['night', '……因为……约好了呢'],
+  ]);
 });
 
-test('item and business parameters after the room dialogue are not collected', () => {
-  const room = Array.from({ length: 20 }, (_, index) => line('セリフ' + index, '台词' + index + '号'));
+test('only the nineteen labelled scenes are collected', () => {
+  const room = Array.from({ length: 25 }, (_, index) => line('セリフ' + index, '台词' + index + '号'));
   const lines = parseCommonDialogue(page(...room));
-  assert.equal(lines.length, 15);
-  assert.equal(lines.at(-1), '台词14号');
+  assert.equal(lines.length, 19);
+  assert.equal(lines.at(-1).scene, 'pushBusiness');
+  assert.equal(lines.at(-1).text, '台词18号');
 });
 
-test('pages without the common voice table and duplicate lines stay harmless', () => {
+test('pages without the common voice table are harmless and repeated text keeps its scene', () => {
   assert.deepEqual(parseCommonDialogue('{{Other|a}}'), []);
-  assert.deepEqual(parseCommonDialogue(page(line('あ', '同一句'), line('い', '同一句'))), ['同一句']);
+  const lines = parseCommonDialogue(page(line('あ', '同一句'), line('い', '同一句')));
+  assert.deepEqual(lines.map(entry => entry.scene), ['morning', 'noon']);
 });
 
 test('nested templates stay inside one parameter', () => {

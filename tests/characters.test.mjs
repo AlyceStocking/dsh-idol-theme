@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls, PLACEHOLDER, clickLine, clickLines, createLinePicker, visualOf } from '../lib/characters.js';
+import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls, PLACEHOLDER, clickLine, clickLines, createLinePicker, visualOf, scenesOf, sceneText } from '../lib/characters.js';
 import { readFileSync } from 'node:fs';
 import { normalizePreferences, validateHostMessage } from '../desktop/logic.js';
 import { DesktopState } from '../lib/desktop-state.js';
@@ -93,6 +93,17 @@ test('each character exposes the wiki impression colour plus its own stickers', 
   assert.ok(coloured >= 180, 'impression colours are collected for ' + coloured + ' characters');
   assert.equal(visualOf('yukimi').accent, '#171c8f');
   assert.deepEqual(visualOf('unknown'), {});
+});
+
+test('every character carries the nineteen wiki scenes used by notices', () => {
+  const required = ['morning', 'noon', 'night', 'stamina', 'story', 'colleague', 'event', 'idle', 'treadmill', 'pushBusiness'];
+  for (const character of Object.values(CHARACTERS)) {
+    const scenes = scenesOf(character.id);
+    for (const key of required) assert.ok(scenes[key], character.name + ' ' + key);
+    assert.equal(sceneText(character.id, 'pushBusiness'), scenes.pushBusiness);
+  }
+  assert.deepEqual(scenesOf('unknown'), {});
+  assert.equal(sceneText('unknown', 'idle'), '');
 });
 
 test('the click picker draws a shuffled bag without repeating a line twice in a cycle', () => {

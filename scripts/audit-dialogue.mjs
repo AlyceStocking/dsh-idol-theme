@@ -53,23 +53,29 @@ function plain(text) {
     .trim();
 }
 
+// Scene order of Template:台词语音表格/Common. Position N maps to SCENE_KEYS[N-1].
+export const SCENE_KEYS = [
+  'morning', 'noon', 'night', 'stamina', 'story', 'colleague', 'event', 'gift', 'idle',
+  'bed', 'aroma', 'doll', 'dresser', 'treadmill', 'stand',
+  'pushStamina', 'pushFurniture', 'pushHarvest', 'pushBusiness',
+];
+
 // Common voice table: positional params hold "Japanese<br>{{font|...|<u>Chinese</u>}}".
-// The early params are room/home dialogue; later ones are item and business text.
+// Position 1-19 are the labelled scenes; later params are furniture descriptions.
 export function parseCommonDialogue(source) {
   const body = templateBody(source, '台词语音表格/Common');
   if (!body) return [];
   const lines = [];
-  // Later positional params are furniture, business and plush descriptions, not tap dialogue.
-  const positional = splitTopLevel(body, '|').slice(1).map(parameter => parameter.trim()).filter(raw => raw && !/^[A-Za-z][\w-]*\s*=/.test(raw)).slice(0, 15);
-  for (const raw of positional) {
+  const positional = splitTopLevel(body, '|').slice(1).map(parameter => parameter.trim()).filter(raw => raw && !/^[A-Za-z][\w-]*\s*=/.test(raw)).slice(0, SCENE_KEYS.length);
+  positional.forEach((raw, index) => {
     const segments = splitTopLevel(raw.replace(/<br\s*\/?>/gi, '|'), '|').map(part => part.trim()).filter(Boolean);
     const chinese = segments.find(part => /<u>[\s\S]*<\/u>/.test(part))?.match(/<u>([\s\S]*?)<\/u>/)?.[1] ?? segments.at(-1) ?? '';
     const text = plain(chinese);
-    if (!text || text.length < 2 || text.length > 80) continue;
-    if (/[（(](家具名|营业名|イベント名|店名|場所名)/u.test(text)) continue;
-    lines.push(text);
-  }
-  return [...new Set(lines)].slice(0, 15);
+    if (!text || text.length < 2 || text.length > 120) return;
+    // (营业名) and (家具名) are filled in at runtime, so keep those lines.
+    lines.push({ scene: SCENE_KEYS[index], text });
+  });
+  return lines;
 }
 
 async function collect({ ids = null, batchSize = 50, gap = 1500 } = {}) {
@@ -114,7 +120,7 @@ async function collect({ ids = null, batchSize = 50, gap = 1500 } = {}) {
         const content = revision?.slots?.main?.content ?? revision?.slots?.main?.['*'];
         if (!page || page.missing || !content) { saved.lines[person.page] = saved.lines[person.page] ?? []; failures.push(person.page + ': missing page'); continue; }
         const lines = parseCommonDialogue(content);
-        saved.lines[person.page] = lines.map(text => ({ text, revision: revision.revid }));
+        saved.lines[person.page] = lines.map(line => ({ scene: line.scene, text: line.text, revision: revision.revid }));
         if (!lines.length) failures.push(person.page + ': no recognizable dialogue');
       }
       console.log('batch ' + (start / batchSize + 1) + ': ' + pages.length + ' pages, failures ' + failures.length);
