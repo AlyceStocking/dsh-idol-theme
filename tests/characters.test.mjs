@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls, PLACEHOLDER, clickLine, clickLines, createLinePicker } from '../lib/characters.js';
+import { CHARACTERS, CHARACTER_LIST, matchesCharacter, DEFAULT_APPEARANCE, normalizeAppearance, appearancePatch, savedAppearance, restoreAppearance, spriteUrl, allowedImageUrls, PLACEHOLDER, clickLine, clickLines, createLinePicker, visualOf } from '../lib/characters.js';
 import { readFileSync } from 'node:fs';
 import { normalizePreferences, validateHostMessage } from '../desktop/logic.js';
 import { DesktopState } from '../lib/desktop-state.js';
@@ -78,6 +78,21 @@ test('tap lines follow the current outfit, then the character, then the placehol
   assert.deepEqual(clickLines('unknown'), []);
   assert.deepEqual(clickLines('unknown', '1'), []);
   assert.equal(clickLine({ id: 'unknown' }, '1'), PLACEHOLDER);
+});
+
+test('each character exposes the wiki impression colour plus its own stickers', () => {
+  let coloured = 0;
+  for (const character of Object.values(CHARACTERS)) {
+    const visual = visualOf(character.id);
+    if (!visual.accent) continue;
+    coloured += 1;
+    assert.match(visual.accent, /^#[0-9a-f]{6}$/);
+    assert.match(visual.accentDark, /^#[0-9a-f]{6}$/);
+    for (const key of ['stamp', 'anim']) if (visual[key]) assert.match(visual[key], /^https:\/\/patchwiki\.biligame\.com\/images\/imascg\//);
+  }
+  assert.ok(coloured >= 180, 'impression colours are collected for ' + coloured + ' characters');
+  assert.equal(visualOf('yukimi').accent, '#171c8f');
+  assert.deepEqual(visualOf('unknown'), {});
 });
 
 test('the click picker draws a shuffled bag without repeating a line twice in a cycle', () => {

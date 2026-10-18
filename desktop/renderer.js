@@ -1,4 +1,4 @@
-import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, createLinePicker, matchesCharacter } from '../lib/characters.js';
+import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, createLinePicker, visualOf, matchesCharacter } from '../lib/characters.js';
 import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
@@ -139,6 +139,7 @@ function acceptState(packet) {
   const next = normalizeAppearance(packet.preferences, preferences);
   if (next.characterId !== preferences.characterId) sprites.focus?.(spriteUrl(next));
   preferences = next; currentNotices = packet.notices;
+  syncAccent();
   refreshPreferences(); renderNotices();
   const warmKey = preferences.characterId + ':' + preferences.cardIndex;
   if (!settingsOnly && warmedOutfit !== warmKey) {
@@ -173,6 +174,13 @@ async function performFlip(changeOutfit = false) {
   }, 250);
   setTimeout(() => { flipping = false; pet.classList.remove('flipping'); performFlip(); }, 540);
 }
+function syncAccent() {
+  const style = document.documentElement && document.documentElement.style;
+  if (!style) return;
+  const visual = visualOf(preferences.characterId);
+  style.setProperty('--yukimi-accent', visual.accent ?? '#171c8f');
+}
+
 function interact() {
   flipPending++; performFlip();
   if (!notices.hidden) return;
