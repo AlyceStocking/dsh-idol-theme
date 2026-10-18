@@ -257,3 +257,14 @@
 - 修正：不再排除 `[data-chat-flow-kind]`，整个对话卡片（卡片底、正文、行间留白）都算背景；用「按下到松开位移 < 6px、< 700ms」区分点击与拖动，并在松开时检查 `window.getSelection()`，有文字选中就不切换——因此拖选文字不会误触，单击空白或文字才切换。链接、按钮、输入框、菜单、侧栏、会话标题、输入卡片仍排除；去重窗口放宽到 400ms，避免双击触发两次。
 - 状态：已安装 `1.3.0-desktop.5`（`7643ff1e…0c792e`），待用户重启桌面版验证。
 - 已知取舍：单击消息正文也会切换视图（只读消息没有单击语义）；双击选词的第一次点击会切换一次，400ms 内的第二次被忽略。
+
+### 修正五：Windows 根节点标记误判与标题动画（2026-10-19）
+
+- 根因已由本机 DSH 安装包确认：`app.asar/lib/preload-app.cjs` 的 `syncWindowsAppearance()` 将 `data-windows-titlebar` 写在 `document.documentElement` 上。旧版 `target.closest('[data-windows-titlebar]')` 对所有聊天点击都返回 `html`，因此事件在按下阶段被排除；无需假设宿主吞掉了事件，也无需在多个传播阶段重复注册监听。
+- 排除项只匹配非 `html/body` 的实际标题栏元素，继续排除会话标题、输入卡片、链接、按钮、菜单、侧栏和小人。补齐空值及 plaintext-only 的 contenteditable 排除。
+- 同一个根节点关系也导致旧的 `body.yukimi-immersive [data-windows-titlebar] ...` 永远匹配不到会话标题。平台条件移入 `:where([data-windows-titlebar] *)` 后，沉浸状态与深色模式的 body 前缀均可正确匹配。合并被后续规则覆盖的输入框 transform/opacity 过渡，消息按整行淡出，减少动态效果设置下关闭过渡。
+- Pointer Events 与鼠标兼容事件只选择一种，取消 400ms 去重死区，连续两次独立单击可立即进入/恢复。记录本次选区文字和端点，残留选区不再阻止点击，新拖选仍保留；移动超过阈值后即取消，移回起点也不会触发。取消、失焦、滚动、释放到控件均不会完成点击；上滚采用捕获监听，Alt+I 忽略按住重复。
+- 新增 `tests/browser/immersive.cjs`，使用真实 Electron/Chromium DOM、Selection、CSS 和 `sendInputEvent`，独立运行：`<未打包的 electron.exe> tests/browser/immersive.cjs`。**33 项检查通过**，包括根节点平台标记、原生鼠标单击仅切换一次、原生拖选文字、残留选区、控件排除、取消/移动、Esc、Alt+I、上滚、标题/输入框/消息隐藏、减少动态效果、卸载与鼠标兼容分支。
+- `node scripts/build-client.mjs`、`npm run check`、`npm test`（**118/118**）通过。未增加依赖，未更改独立桌宠；打包复用已有桌宠运行时。
+- 浏览器验证使用按宿主结构构造的独立窗口，未操作用户正在使用的 DSH 主窗口。已安装后仍需彻底退出并重启 DSH，以重新加载 Host 缓存的客户端模块。
+- 安装归档：`C:\Users\administered\.dsh\idol-desktop\packages\dsh-idol-theme-1.3.0-desktop.5-25ea561e8232519d50fabcbae2b0c41fa6127e031fe3d07e6e2e2ef486760c2e.tgz`。pnpm 11.7.0 的 add/install 即使指定 offline，重新解析时仍会 HEAD 其他 GitHub 插件；备份 profile 后只替换本主题的 manifest/lockfile 归档引用，并从归档计算 SHA-512 integrity，使用 `install --offline --frozen-lockfile` 成功安装。其他依赖保持不变，旧归档保留；已核对安装文件与源码 SHA-256 相同、归档存在、bundle 启用。
