@@ -269,6 +269,14 @@
 - 浏览器验证使用按宿主结构构造的独立窗口，未操作用户正在使用的 DSH 主窗口。已安装后仍需彻底退出并重启 DSH，以重新加载 Host 缓存的客户端模块。
 - 安装归档：`C:\Users\administered\.dsh\idol-desktop\packages\dsh-idol-theme-1.3.0-desktop.5-25ea561e8232519d50fabcbae2b0c41fa6127e031fe3d07e6e2e2ef486760c2e.tgz`。pnpm 11.7.0 的 add/install 即使指定 offline，重新解析时仍会 HEAD 其他 GitHub 插件；备份 profile 后只替换本主题的 manifest/lockfile 归档引用，并从归档计算 SHA-512 integrity，使用 `install --offline --frozen-lockfile` 成功安装。其他依赖保持不变，旧归档保留；已核对安装文件与源码 SHA-256 相同、归档存在、bundle 启用。
 
+## 桌宠通知正文仍显示占位符（2026-10-19）
+
+- 现象：桌面桌宠的提醒卡片标题是会话名，正文与提示仍是 `。。。。。`。
+- 根因：`lib/desktop-state.js` 早已按场景生成 `notice.text`（含「会话标题」替换），但 `desktop/renderer.js` 的 `renderNotices()` 把 `notice-text`、`notice-tip`、`notice-heading` 全部写死为 `PLACEHOLDER`，从未读取 `notice.text`；宿主侧数据正确，纯粹是渲染层丢字段。
+- 修正：正文改为 `notice.text || PLACEHOLDER`；提示行改用类型标签（需要你回答 / 需要审批 / 本轮完成 / 本轮失败 / 本轮中止）；标题改为固定「会话提醒」。
+- 验证：`npm run check` 通过、`npm test` 118/118 通过；重新打包安装 `1.3.0-desktop.5`（归档 `0e2db928…4a25c535`），安装副本已含 `notice.text` 与类型标签，依赖指向该归档且文件存在。
+- 需彻底重启 DSH 桌面版以加载新的桌宠资源与 Host 模块。
+
 ### 修正六：历史对话不再触发沉浸视图（2026-10-19）
 
 - 用户确认历史对话属于非背景区域，覆盖此前“消息卡片也算背景”的设定。现在排除整个 `[data-chat-flow-kind]`，包括正文、用户消息、过程卡片及卡片内空白；拖选与复制保持正常。

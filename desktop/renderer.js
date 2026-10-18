@@ -16,6 +16,7 @@ let currentNotices = { persistent: [], transient: null, queuedCount: 0 };
 let flipSequence = 0, flipPending = 0, outfitPending = 0, flipping = false, lastNoticeSignature = '';
 let dialogueTimer, longPressTimer, clickTimer, pointer, regionFrame = 0;
 let runningCount = 0, greeted = false;
+const NOTICE_KIND_LABEL = { question: '需要你回答', approval: '需要审批', completed: '本轮完成', error: '本轮失败', aborted: '本轮中止' };
 let spriteRequest = 0, appearanceRequest = 0, requestedSpriteUrl = '';
 
 function layoutPanels() {
@@ -129,7 +130,7 @@ function renderNotices() {
   const visible = currentNotices.persistent.length ? currentNotices.persistent : currentNotices.transient ? [currentNotices.transient] : [];
   notices.hidden = visible.length === 0;
   if (visible.length) { dialogue.hidden = true; clearTimeout(dialogueTimer); }
-  element('notice-heading').textContent = PLACEHOLDER;
+  element('notice-heading').textContent = '会话提醒';
   const signature = JSON.stringify(visible);
   if (signature !== lastNoticeSignature) {
     const oldScroll = noticeList.scrollTop;
@@ -137,8 +138,9 @@ function renderNotices() {
     for (const notice of visible) {
       const button = document.createElement('button'); button.className = `notice notice-${notice.kind}`;
       const title = document.createElement('span'); title.className = 'notice-title'; title.textContent = notice.title;
-      const text = document.createElement('span'); text.className = 'notice-text'; text.textContent = PLACEHOLDER;
-      const tip = document.createElement('span'); tip.className = 'notice-tip'; tip.textContent = PLACEHOLDER;
+      // The host resolves the idol's scene line ((营业名) already carries the session title).
+      const text = document.createElement('span'); text.className = 'notice-text'; text.textContent = notice.text || PLACEHOLDER;
+      const tip = document.createElement('span'); tip.className = 'notice-tip'; tip.textContent = NOTICE_KIND_LABEL[notice.kind] ?? '';
       button.append(title, text, tip); button.addEventListener('click', () => api.openSession(notice.sessionId));
       noticeList.append(button);
     }
