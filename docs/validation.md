@@ -268,3 +268,11 @@
 - `node scripts/build-client.mjs`、`npm run check`、`npm test`（**118/118**）通过。未增加依赖，未更改独立桌宠；打包复用已有桌宠运行时。
 - 浏览器验证使用按宿主结构构造的独立窗口，未操作用户正在使用的 DSH 主窗口。已安装后仍需彻底退出并重启 DSH，以重新加载 Host 缓存的客户端模块。
 - 安装归档：`C:\Users\administered\.dsh\idol-desktop\packages\dsh-idol-theme-1.3.0-desktop.5-25ea561e8232519d50fabcbae2b0c41fa6127e031fe3d07e6e2e2ef486760c2e.tgz`。pnpm 11.7.0 的 add/install 即使指定 offline，重新解析时仍会 HEAD 其他 GitHub 插件；备份 profile 后只替换本主题的 manifest/lockfile 归档引用，并从归档计算 SHA-512 integrity，使用 `install --offline --frozen-lockfile` 成功安装。其他依赖保持不变，旧归档保留；已核对安装文件与源码 SHA-256 相同、归档存在、bundle 启用。
+
+### 修正六：历史对话不再触发沉浸视图（2026-10-19）
+
+- 用户确认历史对话属于非背景区域，覆盖此前“消息卡片也算背景”的设定。现在排除整个 `[data-chat-flow-kind]`，包括正文、用户消息、过程卡片及卡片内空白；拖选与复制保持正常。
+- 点击入口改为只允许宿主的 `[data-conversation-content][data-conversation-region="chat"]` 内的背景，不再把页面任意非控件区域当成背景。输入区外层、消息、图片、代码块、宽度拖柄、侧栏/右栏及嵌入聊天均排除；额外通过文字坐标排除聊天区提示文字。
+- 沉浸时消息不接收指针，原消息所在位置可命中聊天背景恢复；恢复的点击仍受到聊天范围限制。
+- `npm run check`、`npm test`（118/118）通过；独立 Chromium 检查 45 项通过，新增原生鼠标点击正文和卡片空白不切换、点击真正背景进入、原消息位置恢复，以及设置/外壳空白、输入区外层、图片/代码/拖柄与嵌入聊天排除。动画断言改为等待计算样式达到目标，避免后台窗口首帧延迟影响测试。
+- 已通过离线冻结锁文件安装归档 `C:\Users\administered\.dsh\idol-desktop\packages\dsh-idol-theme-1.3.0-desktop.5-18cda0f800230ea3d77b1cfaf1ffddca6d6890de452b80a692b621287e07c839.tgz`，核对安装源码 SHA-256 一致。需彻底重启 DSH；未操作当前主窗口做现场验收。

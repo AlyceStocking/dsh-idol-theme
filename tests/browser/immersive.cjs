@@ -14,14 +14,24 @@ app.whenReady().then(async () => {
   win = new BrowserWindow({ show: false, width: 900, height: 700, webPreferences: { backgroundThrottling: false } });
   await win.loadURL('about:blank');
   const evaluate = code => win.webContents.executeJavaScript(code);
+  const waitFor = async code => {
+    const deadline = Date.now() + 2500;
+    while (!(await evaluate(code))) {
+      if (Date.now() >= deadline) throw new Error('Timed out waiting for: ' + code);
+      await new Promise(resolve => setTimeout(resolve, 30));
+    }
+  };
   await evaluate(`
     document.documentElement.dataset.windowsTitlebar = '';
     document.body.innerHTML = '<div data-slot="conversation.header"><header data-window-drag><div data-conversation-tabs>Tabs</div></header></div>' +
-      '<main id="background" style="height:300px;padding:20px"><article data-chat-flow-kind="assistant-step" id="card">' +
-      '<span id="text">Select this message text</span><button id="button">Copy</button><a id="link" href="#">Link</a></article></main>' +
-      '<div data-composer-card id="composer"><textarea id="input"></textarea></div>' +
+      '<main id="background" data-conversation-content data-conversation-region="chat" style="height:300px;padding:20px"><article data-chat-flow-kind="assistant-step" id="card">' +
+      '<span id="text">Select this message text</span><button id="button">Copy</button><a id="link" href="#">Link</a></article>' +
+      '<div data-composer-seat id="composer-seat"><div data-composer-card id="composer"><textarea id="input"></textarea></div></div>' +
+      '<pre id="code-block"><code>code</code></pre><img id="image" alt="attachment"><div data-width-handle id="resize"></div></main>' +
       '<aside class="host_sidebarCol" id="sidebar">Sidebar</aside><div class="yukimi-pet" id="pet">Pet</div>' +
-      '<div role="dialog" id="dialog">Dialog</div><div contenteditable id="editable">Editable</div>';
+      '<div role="dialog" id="dialog">Dialog</div><div contenteditable id="editable">Editable</div>' +
+      '<div id="settings">Settings panel whitespace</div><div id="shell">Shell whitespace</div>' +
+      '<aside data-rightbar-col><div data-conversation-content data-conversation-region="chat" id="embedded">Embedded chat</div></aside>';
     window.disposers = [];
     window.__ModuleLoader__ = { load: entry => window.plugin = entry.factory(() => ({})) };
     void 0;
@@ -33,27 +43,27 @@ app.whenReady().then(async () => {
       effect: fn => { const dispose = fn(); if (typeof dispose === 'function') disposers.push(dispose); }
     });
     mount();
-    window.fire = (type, id = 'card', extra = {}) => document.getElementById(id).dispatchEvent(new PointerEvent(type, {
-      bubbles: true, button: 0, pointerId: 1, isPrimary: true, clientX: 100, clientY: 150, ...extra
+    window.fire = (type, id = 'background', extra = {}) => document.getElementById(id).dispatchEvent(new PointerEvent(type, {
+      bubbles: true, button: 0, pointerId: 1, isPrimary: true, clientX: 100, clientY: 310, ...extra
     }));
-    window.tap = (id = 'card') => { fire('pointerdown', id); fire('pointerup', id); };
+    window.tap = (id = 'background') => { fire('pointerdown', id); fire('pointerup', id); };
     window.active = () => document.body.classList.contains('yukimi-immersive');
     window.key = (key, extra = {}) => document.dispatchEvent(new KeyboardEvent('keydown', { key, bubbles: true, ...extra }));
     void 0;
   `);
   let count = 0;
   const check = async (code, expected, label) => { assert.deepEqual(await evaluate(code), expected, label); count++; };
-  await check(`tap(); active()`, true, 'html platform marker must not exclude a message card');
+  await check(`tap(); active()`, true, 'html platform marker must not exclude chat background');
   await check(`tap('background'); active()`, false, 'a second immediate click restores without a debounce dead zone');
-  for (const id of ['button', 'link', 'input', 'composer', 'sidebar', 'pet', 'dialog', 'editable']) {
+  for (const id of ['card', 'text', 'button', 'link', 'input', 'composer', 'composer-seat', 'sidebar', 'pet', 'dialog', 'editable', 'code-block', 'image', 'resize', 'settings', 'shell', 'embedded']) {
     await check(`tap('${id}'); active()`, false, `${id} keeps the view`);
   }
-  await check(`fire('pointerdown'); fire('pointermove', 'card', {clientX:130}); fire('pointermove'); fire('pointerup'); active()`, false, 'dragging out and back is not a click');
+  await check(`fire('pointerdown'); fire('pointermove', 'background', {clientX:130}); fire('pointermove'); fire('pointerup'); active()`, false, 'dragging out and back is not a click');
   await check(`fire('pointerdown'); fire('pointercancel'); fire('pointerup'); active()`, false, 'canceled pointer does not toggle');
   await check(`fire('pointerdown'); window.dispatchEvent(new Event('blur')); fire('pointerup'); active()`, false, 'focus loss cancels gesture');
   await check(`fire('pointerdown'); fire('pointerup', 'button'); active()`, false, 'release on a control is excluded');
-  await check(`fire('pointerdown'); fire('pointerup', 'card', {pointerId:2}); active()`, false, 'unrelated pointer cannot complete a press');
-  await check(`fire('pointercancel'); fire('pointerdown', 'card', {button:2}); fire('pointerup', 'card', {button:2}); active()`, false, 'right click is excluded');
+  await check(`fire('pointerdown'); fire('pointerup', 'background', {pointerId:2}); active()`, false, 'unrelated pointer cannot complete a press');
+  await check(`fire('pointercancel'); fire('pointerdown', 'background', {button:2}); fire('pointerup', 'background', {button:2}); active()`, false, 'right click is excluded');
   await check(`
     fire('pointerdown');
     var range = document.createRange(); range.selectNodeContents(document.getElementById('text'));
@@ -69,19 +79,33 @@ app.whenReady().then(async () => {
   await check(`getComputedStyle(document.getElementById('composer')).transitionProperty.includes('transform')`, true, 'composer motion survives later CSS rules');
   await check(`getComputedStyle(document.getElementById('card')).transitionProperty`, 'opacity', 'messages fade');
   await evaluate(`key('i', {altKey:true})`);
-  await new Promise(resolve => setTimeout(resolve, 350));
+  await waitFor(`['card','composer'].every(id => getComputedStyle(document.getElementById(id)).opacity === '0')`);
   await check(`['card','composer'].map(id => getComputedStyle(document.getElementById(id)).opacity)`, ['0','0'], 'content actually fades out');
   await check(`getComputedStyle(document.querySelector('header')).opacity`, '0', 'session header hides');
   await check(`disposers.reverse().splice(0).forEach(fn => fn()); active()`, false, 'unloading restores full view');
   await check(`tap(); active()`, false, 'unloading removes event listeners');
   await evaluate(`mount(); getSelection().removeAllRanges()`);
   await new Promise(resolve => setTimeout(resolve, 350));
+  const textPoint = await evaluate(`(() => { const r = document.getElementById('text').getBoundingClientRect(); return { x: Math.round(r.left + 4), y: Math.round(r.top + r.height / 2) }; })()`);
+  win.webContents.sendInputEvent({ type: 'mouseDown', button: 'left', clickCount: 1, ...textPoint });
+  win.webContents.sendInputEvent({ type: 'mouseUp', button: 'left', clickCount: 1, ...textPoint });
+  await new Promise(resolve => setTimeout(resolve, 50));
+  await check(`active()`, false, 'native click on message text does not hide the view');
+  const cardPoint = await evaluate(`(() => { const r = document.getElementById('card').getBoundingClientRect(); return { x: Math.round(r.right - 20), y: Math.round(r.bottom - 10) }; })()`);
+  win.webContents.sendInputEvent({ type: 'mouseDown', button: 'left', clickCount: 1, ...cardPoint });
+  win.webContents.sendInputEvent({ type: 'mouseUp', button: 'left', clickCount: 1, ...cardPoint });
+  await new Promise(resolve => setTimeout(resolve, 50));
+  await check(`active()`, false, 'native click on message card whitespace does not hide the view');
   // Chromium dispatches both pointer and compatibility mouse events here.
-  const point = await evaluate(`(() => { const r = document.getElementById('card').getBoundingClientRect(); return { x: Math.round(r.right - 20), y: Math.round(r.bottom - 10) }; })()`);
+  const point = await evaluate(`(() => { const r = document.getElementById('background').getBoundingClientRect(); return { x: Math.round(r.right - 20), y: Math.round(r.bottom - 10) }; })()`);
   win.webContents.sendInputEvent({ type: 'mouseDown', button: 'left', clickCount: 1, ...point });
   win.webContents.sendInputEvent({ type: 'mouseUp', button: 'left', clickCount: 1, ...point });
   await new Promise(resolve => setTimeout(resolve, 50));
   await check(`active()`, true, 'native mouse click toggles once despite compatibility events');
+  win.webContents.sendInputEvent({ type: 'mouseDown', button: 'left', clickCount: 1, ...cardPoint });
+  win.webContents.sendInputEvent({ type: 'mouseUp', button: 'left', clickCount: 1, ...cardPoint });
+  await new Promise(resolve => setTimeout(resolve, 50));
+  await check(`active()`, false, 'native second click restores through the hidden message card');
   await evaluate(`key('Escape')`);
   await new Promise(resolve => setTimeout(resolve, 350));
   const textBox = await evaluate(`(() => { const r = document.getElementById('text').getBoundingClientRect(); return { x: Math.ceil(r.left + 2), end: Math.floor(r.right - 2), y: Math.round(r.top + r.height / 2) }; })()`);
@@ -95,7 +119,7 @@ app.whenReady().then(async () => {
   await check(`['card','composer'].map(id => getComputedStyle(document.getElementById(id)).transitionDuration)`, ['0s','0s'], 'reduced motion disables transitions');
   win.webContents.debugger.detach();
   await evaluate(`disposers.reverse().splice(0).forEach(fn => fn()); window.PointerEvent = undefined; mount();`);
-  await check(`['mousedown','mouseup'].forEach(type => document.getElementById('card').dispatchEvent(new MouseEvent(type, {bubbles:true, button:0, clientX:100, clientY:150}))); active()`, true, 'mouse-only fallback');
+  await check(`['mousedown','mouseup'].forEach(type => document.getElementById('background').dispatchEvent(new MouseEvent(type, {bubbles:true, button:0, clientX:100, clientY:310}))); active()`, true, 'mouse-only fallback');
   console.log(`PASS: ${count} Chromium immersive checks`);
   win.destroy();
   app.exit(0);
