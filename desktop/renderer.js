@@ -1,4 +1,4 @@
-import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, createLinePicker, visualOf, matchesCharacter } from '../lib/characters.js';
+import { CHARACTER_LIST, DEFAULT_APPEARANCE, getCharacter, normalizeAppearance, spriteUrl, PLACEHOLDER, createLinePicker, visualOf, sceneText, matchesCharacter } from '../lib/characters.js';
 import { createSpriteCache } from './sprite-cache.js';
 
 const api = window.yukimiDesktop;
@@ -15,6 +15,7 @@ let renderedCharacter = null, warmedOutfit = null;
 let currentNotices = { persistent: [], transient: null, queuedCount: 0 };
 let flipSequence = 0, flipPending = 0, outfitPending = 0, flipping = false, lastNoticeSignature = '';
 let dialogueTimer, longPressTimer, clickTimer, pointer, regionFrame = 0;
+let runningCount = 0, greeted = false;
 let spriteRequest = 0, appearanceRequest = 0, requestedSpriteUrl = '';
 
 function layoutPanels() {
@@ -151,9 +152,13 @@ function acceptState(packet) {
   if (packet.preferences.characterId && packet.preferences.characterId !== preferences.characterId) { appearanceRequest++; flipPending = 0; outfitPending = 0; }
   const next = normalizeAppearance(packet.preferences, preferences);
   if (next.characterId !== preferences.characterId) sprites.focus?.(spriteUrl(next));
+  const switched = next.characterId !== preferences.characterId;
   preferences = next; currentNotices = packet.notices;
+  if (Number.isInteger(packet.runningCount)) runningCount = packet.runningCount;
   syncAccent();
   refreshPreferences(); renderNotices();
+  if (!settingsOnly && switched) say(sceneLine('stamina'));
+  if (!settingsOnly && !greeted) { greeted = true; say(greetingLine()); }
   const warmKey = preferences.characterId + ':' + preferences.cardIndex;
   if (!settingsOnly && warmedOutfit !== warmKey) {
     warmedOutfit = warmKey;
@@ -162,7 +167,7 @@ function acceptState(packet) {
     sprites.retainWarm?.(urls);
     sprites.warm(urls);
   }
-  const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = PLACEHOLDER;
+  const running = element('running'); running.hidden = packet.runningCount === 0; running.textContent = sceneLine('event') || PLACEHOLDER;
   if (!settingsOnly && packet.layout) acceptLayout(packet.layout); else layoutPanels();
   if (Number.isInteger(packet.flipSequence) && packet.flipSequence > flipSequence) {
     flipPending += packet.flipSequence - flipSequence; flipSequence = packet.flipSequence; performFlip();
@@ -194,13 +199,24 @@ function syncAccent() {
   style.setProperty('--yukimi-accent', visual.accent ?? '#171c8f');
 }
 
+function say(text) {
+  if (!text) return;
+  dialogue.textContent = text; dialogue.hidden = false;
+  layoutPanels();
+  clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; layoutPanels(); }, 3200);
+}
+function sceneLine(key) {
+  return sceneText(preferences.characterId, key);
+}
+function greetingLine() {
+  const hour = new Date().getHours();
+  return sceneLine(hour < 11 ? 'morning' : hour < 17 ? 'noon' : 'night');
+}
 function interact() {
   flipPending++; performFlip();
   if (!notices.hidden) return;
   const speaker = getCharacter(preferences.characterId);
-  dialogue.textContent = nextLine(speaker, speaker.outfitIds[preferences.cardIndex]); dialogue.hidden = false;
-  layoutPanels();
-  clearTimeout(dialogueTimer); dialogueTimer = setTimeout(() => { dialogue.hidden = true; layoutPanels(); }, 3200);
+  say(nextLine(speaker, speaker.outfitIds[preferences.cardIndex]));
 }
 function setPanel(open) { api.panel(open); }
 let panelDragging = false;
@@ -278,6 +294,14 @@ if (settingsOnly) {
 }
 api.onState(acceptState);
 api.onLayout(acceptLayout);
+// Every ten minutes the pet says something on its own; a task-dependent scene takes 30% of those.
+if (!settingsOnly) setInterval(() => {
+  if (flipping) return;
+  const speaker = getCharacter(preferences.characterId);
+  const scene = runningCount > 0 ? 'treadmill' : 'stamina';
+  const picked = sceneText(speaker.id, scene);
+  say(Math.random() < 0.3 && picked ? picked : nextLine(speaker, speaker.outfitIds[preferences.cardIndex]));
+}, 600_000);
 window.addEventListener('resize', layoutPanels);
 refreshPreferences(); reportRegions();
 const initial = await api.ready(); acceptState(initial);
