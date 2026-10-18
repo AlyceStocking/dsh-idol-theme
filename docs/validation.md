@@ -243,3 +243,10 @@
 - 用户反馈：`Alt+I` 有效、点击无效。说明状态切换与样式都正常，问题仍在判定。桌面版聊天列几乎铺满窗口，用户所点的“背景”大多落在消息列表容器 `[data-chat-flow]` 内（消息之间的留白），而该容器被整体排除。
 - 修正：排除项从 `[data-chat-flow]`（容器）改为 `[data-chat-flow-kind]`（单条消息行），消息行内的点击仍不切换，行间留白与列外区域都会切换；监听同时注册到 `window` 的捕获阶段（`pointerdown`/`mousedown`/`click`），避免下游 `stopPropagation` 吞掉事件。
 - 状态：已安装 `1.3.0-desktop.5`（`792e85aa…0a53c1`），待用户重启桌面版验证。
+
+### 修正三：可拖动行被排除（2026-10-19）
+
+- 用户提示：桌面版里可以拖动窗口的区域就是点击目标。该区域带 `data-window-drag`，而它此前在排除列表里，因此点在那里永远不会切换。
+- 修正：把 `[data-window-drag]` 从排除列表移除（会话标题仍由 `sessionHeaderSelector` 单独排除）；判定从 `pointerdown` 改为「按下记录坐标 → 松开时位移 < 6px、间隔 < 700ms 才算点击」，这样在可拖动行上单击能切换、拖动窗口不会被误判。监听仍在 window 捕获阶段，`pointerdown/up` 与 `mousedown/up` 双通道。
+- 安装插曲：本次 `pnpm add` 因 GitHub 依赖 HEAD 超时失败，而旧归档已被清理，导致 profile 短暂指向不存在的文件；已手工把依赖改为新归档后用 `pnpm install --offline` 修复，当前依赖与归档一致。
+- 状态：已安装 `1.3.0-desktop.5`（`ce614b1b…28022`），待用户重启桌面版验证。
