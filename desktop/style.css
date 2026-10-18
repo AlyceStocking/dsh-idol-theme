@@ -25,6 +25,8 @@ button:focus-visible, #pet:focus-visible { outline: 2px solid #70e4ec; outline-o
 #settings { position: absolute; left: 20px; top: 12px; width: 320px; height: 285px; border-radius: 14px; background: rgba(239, 245, 255, .98); color: #293860; border: 1px solid #c5d7ed; box-shadow: 0 7px 20px #07112645; overflow: hidden; }
 #settings header { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; font-weight: 600; color: #eff8ff; background: #233767; }
 #close-settings { border: 0; background: transparent; color: #fff; font-size: 20px; line-height: 22px; }
+#character-stamp { height: 20px; margin-left: auto; margin-right: 10px; opacity: .9; }
+#character-anim { display: block; width: 34px; height: 34px; object-fit: contain; border-radius: 8px; background: #e6ecf7; margin: 2px 0 6px; }
 .settings-body { padding: 8px 11px 12px; height: calc(100% - 38px); overflow-y: auto; scrollbar-width: thin; }
 .settings-body p { font-size: 11px; color: #65799e; margin: 0 0 8px; }
 .settings-body h2 { font-size: 12px; margin: 12px 0 5px; }

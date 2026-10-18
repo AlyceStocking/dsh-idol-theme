@@ -61,14 +61,21 @@ function setPreferences(patch) {
   const original = { characterId: preferences.characterId, cardIndex: preferences.cardIndex, petitIndex: preferences.petitIndex };
   const next = normalizeAppearance(patch, preferences);
   element('character-status').textContent = '加载中…';
+  const anim = element('character-anim');
+  if (anim) {
+    const source = visualOf(next.characterId).anim;
+    if (source) { anim.src = source; anim.hidden = false; } else anim.hidden = true;
+  }
   const load = sprites.focus?.bind(sprites) ?? sprites.load.bind(sprites);
   load(spriteUrl(next)).then(image => {
     if (request !== appearanceRequest) return;
     if (image && preferences.characterId === original.characterId && preferences.cardIndex === original.cardIndex && preferences.petitIndex === original.petitIndex) {
       element('character-status').textContent = '';
+      if (anim) anim.hidden = true;
       api.setPreferences(normalizeAppearance(patch, preferences));
     } else {
       element('character-status').textContent = '加载失败，已保留当前角色';
+      if (anim) anim.hidden = true;
       element('character-select').value = preferences.characterId;
     }
   });
@@ -77,6 +84,12 @@ function refreshPreferences() {
   const character = getCharacter(preferences.characterId);
   ({ IMG, ICONS, PETITS, CARDS } = character);
   pet.alt = character.name + " 纸片小人";
+  const stamp = element('character-stamp');
+  if (stamp) {
+    const source = visualOf(character.id).stamp;
+    stamp.hidden = !source;
+    if (source) stamp.src = source; else stamp.removeAttribute('src');
+  }
   pet.setAttribute?.("aria-label", "与" + character.name + "互动；双击换装，长按设置");
   if (renderedCharacter !== character.id) { renderedCharacter = character.id; renderChoices(); renderCharacterOptions(); }
   const url = spriteUrl(preferences);
